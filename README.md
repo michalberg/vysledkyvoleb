@@ -24,6 +24,14 @@ Záložně se workflow spouští i vestavěným cronem GitHubu každých 5 minut
 | `data/history/<kod>.jsonl` | jeden řádek na každou změnu (hlasy stran v čase) |
 | `data/raw/<kod>.xml` | poslední stažené XML |
 
+## Strany a barvy
+
+- `strany.json` – číselník volebních stran (kód VSTRANA → název, zkratka,
+  typ, složení koalice) pro sledovaná zastupitelstva. Generuje
+  `python3 scripts/ciselnik.py` z číselníků volby.gov.cz.
+- `barvy.json` – barevné skupiny. Barva kandidátky se určí podle výjimky
+  `"KODZASTUP:číslo kandidátky"`, jinak podle kódu VSTRANA, jinak `vychozi`.
+
 ## Mock data z voleb 2022
 
 Pro vývoj frontendu před ostrými daty jsou v `mock/` výsledky stejných

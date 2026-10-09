@@ -1,0 +1,134 @@
+{
+ "_popis": "Barva kandidátky: nejdřív výjimka podle 'KODZASTUP:číslo kandidátky', jinak podle kódu VSTRANA, jinak 'ostatni'.",
+ "skupiny": {
+  "zeleni": {
+   "nazev": "Zelení a koalice se Zelenými (naše)",
+   "barva": "#2E9B47"
+  },
+  "ano": {
+   "nazev": "ANO 2011",
+   "barva": "#1C9BD8"
+  },
+  "ods_top": {
+   "nazev": "ODS / TOP 09",
+   "barva": "#1F3F8F"
+  },
+  "pirati": {
+   "nazev": "Piráti + Fakt Brno",
+   "barva": "#111111"
+  },
+  "kdu": {
+   "nazev": "KDU-ČSL",
+   "barva": "#F2B300"
+  },
+  "kdu_stan": {
+   "nazev": "KDU-ČSL + STAN",
+   "barva": "#EC6FA0"
+  },
+  "stan": {
+   "nazev": "STAN",
+   "barva": "#A2387E"
+  },
+  "restart": {
+   "nazev": "Restart pro Brno (KSČM, SOCDEM, Směr…)",
+   "barva": "#7A1F3D"
+  },
+  "spd": {
+   "nazev": "SPD",
+   "barva": "#6B4226"
+  },
+  "luzanky": {
+   "nazev": "Za Lužánky",
+   "barva": "#D32F2F"
+  },
+  "klid": {
+   "nazev": "Brnoklidem",
+   "barva": "#1FB5AD"
+  },
+  "naplno": {
+   "nazev": "NAPLNO (Svobodní, Trikolora, PRO)",
+   "barva": "#8C8A1E"
+  },
+  "motoriste": {
+   "nazev": "Motoristé sobě",
+   "barva": "#3A6EA5"
+  },
+  "b3": {
+   "nazev": "B3! (LANO, VRBa)",
+   "barva": "#8E6CC4"
+  },
+  "smisene": {
+   "nazev": "Smíšené koalice (ODS/TOP 09 + Piráti)",
+   "barva": "#C4A574"
+  },
+  "ostatni": {
+   "nazev": "Místní a ostatní",
+   "barva": "#C8C8C8"
+  }
+ },
+ "vstrana": {
+  "5": "zeleni",
+  "53": "ods_top",
+  "90": "ostatni",
+  "166": "stan",
+  "340": "kdu_stan",
+  "355": "kdu",
+  "364": "zeleni",
+  "371": "ostatni",
+  "389": "ods_top",
+  "449": "ostatni",
+  "470": "stan",
+  "482": "ostatni",
+  "523": "ods_top",
+  "687": "ods_top",
+  "721": "ods_top",
+  "738": "ostatni",
+  "768": "ano",
+  "1031": "ostatni",
+  "1066": "zeleni",
+  "1178": "motoriste",
+  "1216": "ostatni",
+  "1245": "ostatni",
+  "1277": "ostatni",
+  "1305": "spd",
+  "1327": "ods_top",
+  "1404": "kdu_stan",
+  "1491": "spd",
+  "1500": "ostatni",
+  "1683": "ostatni",
+  "1684": "ostatni",
+  "1688": "ostatni",
+  "1693": "naplno",
+  "1710": "luzanky",
+  "1711": "klid",
+  "1730": "ostatni",
+  "1749": "ostatni",
+  "1831": "smisene",
+  "1832": "restart",
+  "1835": "pirati",
+  "1845": "zeleni",
+  "1868": "spd",
+  "1869": "zeleni",
+  "1870": "pirati",
+  "1882": "pirati",
+  "1883": "klid",
+  "1884": "klid",
+  "1885": "pirati",
+  "1900": "zeleni",
+  "1901": "b3",
+  "1902": "luzanky",
+  "1903": "zeleni",
+  "1913": "pirati",
+  "1914": "ostatni",
+  "1956": "smisene"
+ },
+ "vyjimky": {
+  "551058:6": "zeleni",
+  "551252:7": "zeleni"
+ },
+ "_vyjimky_popis": {
+  "551058:6": "Židenice – PETR KUNC – HLAS PRO ŽIDENICE (VSTRANA 1500 = SEN 21 + NK)",
+  "551252:7": "Maloměřice a Obřany – PRO Maloměřice a Obřany (VSTRANA 1500 = SEN 21 + NK)"
+ },
+ "vychozi": "ostatni"
+}
