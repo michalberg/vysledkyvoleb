@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T01:11:38+02:00",
+ "aktualizovano": "2026-10-10T01:30:49+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -109,6 +109,15 @@
    "je_spocteno": false,
    "okrsky_zprac": 0,
    "okrsky_celkem": 12,
+   "generovano": "2026-10-08T16:40:23"
+  },
+  {
+   "kod": "551244",
+   "nazev": "Brno-Řečkovice a Mokrá Hora",
+   "voleno": 23,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 14,
    "generovano": "2026-10-08T16:40:23"
   },
   {
