@@ -1,0 +1,104 @@
+{
+ "kod": "551058",
+ "nazev": "Brno-Židenice",
+ "typ": "MCMO",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:28",
+ "ucast": {
+  "okrsky_celkem": 19,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1693,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 22,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Židenice NAPLNO"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Židenice-dobrá-adresa.cz (ODS, TOP 09 a nestraníci)"
+  },
+  {
+   "por": 4,
+   "vstrana": 1832,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Restart pro Brno"
+  },
+  {
+   "por": 5,
+   "vstrana": 1404,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a Starostové Blíž lidem (KDU-ČSL s podporou Starostů a nezávislých)"
+  },
+  {
+   "por": 6,
+   "vstrana": 1500,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PETR KUNC – HLAS PRO ŽIDENICE"
+  },
+  {
+   "por": 7,
+   "vstrana": 1913,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Fakt Brno TU! pro Židenice"
+  },
+  {
+   "por": 8,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí kandidáti za zelenou pro Židenice"
+  }
+ ],
+ "stazeno": "2026-10-10T01:11:38+02:00"
+}

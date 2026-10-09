@@ -1,0 +1,124 @@
+{
+ "kod": "551279",
+ "nazev": "Brno-Vinohrady",
+ "typ": "MCMO",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:20",
+ "ucast": {
+  "okrsky_celkem": 10,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1216,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Vinohrady společně"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 1884,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Plus pro Vinohrady s podporou Brnoklidem"
+  },
+  {
+   "por": 4,
+   "vstrana": 90,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Přívětivé Vinohrady"
+  },
+  {
+   "por": 5,
+   "vstrana": 1900,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Máme rádi Vinohrady + Piráti, Zelení, Starostové a osobnosti"
+  },
+  {
+   "por": 6,
+   "vstrana": 1327,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU PRO VINOHRADY (ODS, KDU-ČSL, TOP 09)"
+  },
+  {
+   "por": 7,
+   "vstrana": 1500,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RÉVA"
+  },
+  {
+   "por": 8,
+   "vstrana": 1868,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Pro Vinohrady - SPD, Přísaha a nezávislí"
+  },
+  {
+   "por": 9,
+   "vstrana": 470,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ŠANCE PRO VINOHRADY s podporou Starostů"
+  },
+  {
+   "por": 10,
+   "vstrana": 1832,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 2,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Restart pro Brno"
+  }
+ ],
+ "stazeno": "2026-10-10T01:11:38+02:00"
+}

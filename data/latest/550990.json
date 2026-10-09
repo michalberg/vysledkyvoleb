@@ -1,0 +1,114 @@
+{
+ "kod": "550990",
+ "nazev": "Brno-Žabovřesky",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:23",
+ "ucast": {
+  "okrsky_celkem": 25,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS a TOP 09"
+  },
+  {
+   "por": 2,
+   "vstrana": 1832,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Restart pro Brno"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 1491,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí kandidáti s podporou Trikolory"
+  },
+  {
+   "por": 5,
+   "vstrana": 1277,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí pro Žabiny"
+  },
+  {
+   "por": 6,
+   "vstrana": 1913,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Fakt Brno TU! pro Žabiny"
+  },
+  {
+   "por": 7,
+   "vstrana": 1710,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Za Lužánky"
+  },
+  {
+   "por": 8,
+   "vstrana": 340,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a Starostové"
+  },
+  {
+   "por": 9,
+   "vstrana": 5,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelení a osobnosti pro Žabovřesky"
+  }
+ ],
+ "stazeno": "2026-10-10T01:11:38+02:00"
+}

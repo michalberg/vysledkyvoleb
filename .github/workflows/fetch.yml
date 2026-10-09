@@ -1,0 +1,46 @@
+name: Stahování výsledků
+
+on:
+  # Spouští cron-job.org každou minutu přes GitHub API
+  workflow_dispatch:
+  # Záloha pro případ výpadku cron-job.org (GitHub cron bývá zpožděný)
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+# Vždy běží jen jedno stahování; čekající běh nahradí novější
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Stažení výsledků
+        run: python scripts/fetch.py
+
+      - name: Uložení změn
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "Beze změn"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Data $(TZ=Europe/Prague date '+%Y-%m-%d %H:%M:%S')"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 3
+          done
+          exit 1

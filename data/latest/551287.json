@@ -1,0 +1,114 @@
+{
+ "kod": "551287",
+ "nazev": "Brno-Líšeň",
+ "typ": "MCMO",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:34",
+ "ucast": {
+  "okrsky_celkem": 19,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí"
+  },
+  {
+   "por": 2,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 3,
+   "vstrana": 1914,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Váš starosta a občané pro Líšeň"
+  },
+  {
+   "por": 4,
+   "vstrana": 355,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Noví lidovci - srdcem v Líšni"
+  },
+  {
+   "por": 5,
+   "vstrana": 1882,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Fakt Brno TU! pro Líšeň"
+  },
+  {
+   "por": 6,
+   "vstrana": 449,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sousedé z Líšně"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 8,
+   "vstrana": 1832,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Restart pro Brno"
+  },
+  {
+   "por": 9,
+   "vstrana": 523,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS, TOP 09 a nezávislí kandidáti"
+  }
+ ],
+ "stazeno": "2026-10-10T01:11:38+02:00"
+}

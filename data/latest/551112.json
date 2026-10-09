@@ -1,0 +1,74 @@
+{
+ "kod": "551112",
+ "nazev": "Brno-Nový Lískovec",
+ "typ": "MCMO",
+ "voleno": 19,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:23",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 523,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS, TOP 09 a nezávislí"
+  },
+  {
+   "por": 2,
+   "vstrana": 90,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Tři oříšky pro Lískovec"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 355,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Noví lidovci pro Lískovec"
+  },
+  {
+   "por": 5,
+   "vstrana": 1884,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NOVOLÍSKOVEČTÍ PATRIOTI"
+  }
+ ],
+ "stazeno": "2026-10-10T01:11:38+02:00"
+}

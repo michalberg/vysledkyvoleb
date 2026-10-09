@@ -1,0 +1,134 @@
+{
+ "kod": "550973",
+ "nazev": "Brno-střed",
+ "typ": "MCMO",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:31",
+ "ucast": {
+  "okrsky_celkem": 70,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1711,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Brnoklidem"
+  },
+  {
+   "por": 2,
+   "vstrana": 1901,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Brno Brňankám a Brňanům! (B3!)"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí"
+  },
+  {
+   "por": 5,
+   "vstrana": 340,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a Starostové"
+  },
+  {
+   "por": 6,
+   "vstrana": 1903,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Žít Zelené Brno (Zelení a Žít Brno)"
+  },
+  {
+   "por": 7,
+   "vstrana": 1832,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Restart pro Brno"
+  },
+  {
+   "por": 8,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS a TOP 09"
+  },
+  {
+   "por": 9,
+   "vstrana": 1835,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Fakt Brno TU! pro Střed"
+  },
+  {
+   "por": 10,
+   "vstrana": 1693,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Brno-střed NAPLNO"
+  },
+  {
+   "por": 11,
+   "vstrana": 1710,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Za Lužánky"
+  }
+ ],
+ "stazeno": "2026-10-10T01:11:38+02:00"
+}

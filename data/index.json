@@ -1,0 +1,142 @@
+{
+ "volby": "kv2026",
+ "datum": "20261009",
+ "aktualizovano": "2026-10-10T01:11:38+02:00",
+ "obce": [
+  {
+   "kod": "582786",
+   "nazev": "Brno",
+   "voleno": 55,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 353,
+   "generovano": "2026-10-08T16:40:34"
+  },
+  {
+   "kod": "551198",
+   "nazev": "Brno-Bystrc",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 24,
+   "generovano": "2026-10-08T16:40:34"
+  },
+  {
+   "kod": "551171",
+   "nazev": "Brno-Jundrov",
+   "voleno": 15,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 4,
+   "generovano": "2026-10-08T16:40:39"
+  },
+  {
+   "kod": "551228",
+   "nazev": "Brno-Komín",
+   "voleno": 17,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 6,
+   "generovano": "2026-10-08T16:40:31"
+  },
+  {
+   "kod": "551007",
+   "nazev": "Brno-Královo Pole",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 19,
+   "generovano": "2026-10-08T16:40:34"
+  },
+  {
+   "kod": "551287",
+   "nazev": "Brno-Líšeň",
+   "voleno": 29,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 19,
+   "generovano": "2026-10-08T16:40:34"
+  },
+  {
+   "kod": "551252",
+   "nazev": "Brno-Maloměřice a Obřany",
+   "voleno": 15,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 4,
+   "generovano": "2026-10-08T16:40:23"
+  },
+  {
+   "kod": "551236",
+   "nazev": "Brno-Medlánky",
+   "voleno": 15,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 5,
+   "generovano": "2026-10-08T16:40:28"
+  },
+  {
+   "kod": "551112",
+   "nazev": "Brno-Nový Lískovec",
+   "voleno": 19,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 9,
+   "generovano": "2026-10-08T16:40:23"
+  },
+  {
+   "kod": "551031",
+   "nazev": "Brno-sever",
+   "voleno": 35,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 45,
+   "generovano": "2026-10-08T16:40:25"
+  },
+  {
+   "kod": "550973",
+   "nazev": "Brno-střed",
+   "voleno": 45,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 70,
+   "generovano": "2026-10-08T16:40:31"
+  },
+  {
+   "kod": "551091",
+   "nazev": "Brno-Starý Lískovec",
+   "voleno": 21,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 12,
+   "generovano": "2026-10-08T16:40:23"
+  },
+  {
+   "kod": "551279",
+   "nazev": "Brno-Vinohrady",
+   "voleno": 21,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 10,
+   "generovano": "2026-10-08T16:40:20"
+  },
+  {
+   "kod": "550990",
+   "nazev": "Brno-Žabovřesky",
+   "voleno": 25,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 25,
+   "generovano": "2026-10-08T16:40:23"
+  },
+  {
+   "kod": "551058",
+   "nazev": "Brno-Židenice",
+   "voleno": 29,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 19,
+   "generovano": "2026-10-08T16:40:28"
+  }
+ ]
+}
