@@ -24,6 +24,20 @@ Záložně se workflow spouští i vestavěným cronem GitHubu každých 5 minut
 | `data/history/<kod>.jsonl` | jeden řádek na každou změnu (hlasy stran v čase) |
 | `data/raw/<kod>.xml` | poslední stažené XML |
 
+## Mock data z voleb 2022
+
+Pro vývoj frontendu před ostrými daty jsou v `mock/` výsledky stejných
+zastupitelstev z roku 2022 ve stejném formátu jako `data/`:
+
+| Adresář | Stav |
+|---|---|
+| `mock/2022/` | konečný stav, všechno sečteno, oficiální mandáty a zvolení |
+| `mock/2022-prubeh/` | uprostřed sčítání (Brno 178/352 okrsků), bez mandátů |
+
+Historie (`history/*.jsonl`) je zrekonstruovaná z okrskových dávek 2022,
+takže odpovídá skutečnému průběhu sčítání. Generuje se skriptem
+`python3 scripts/mock2022.py`.
+
 ## Nastavení cron-job.org
 
 1. **GitHub token:** Settings → Developer settings → Personal access tokens →

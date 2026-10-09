@@ -1,0 +1,84 @@
+{
+ "kod": "551252",
+ "nazev": "Brno-Maloměřice a Obřany",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 4,
+  "okrsky_zprac": 1,
+  "okrsky_zprac_proc": 25.0,
+  "zapsani_volici": 1068,
+  "vydane_obalky": 468,
+  "ucast_proc": 43.82,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 462,
+  "platne_listky": null,
+  "platne_hlasy": 6000
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 687,
+   "hlasy": 969,
+   "hlasy_proc": 16.15,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09"
+  },
+  {
+   "por": 2,
+   "vstrana": 1,
+   "hlasy": 1272,
+   "hlasy_proc": 21.2,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 3,
+   "vstrana": 1500,
+   "hlasy": 2433,
+   "hlasy_proc": 40.55,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO Maloměřice a Obřany"
+  },
+  {
+   "por": 4,
+   "vstrana": 1504,
+   "hlasy": 436,
+   "hlasy_proc": 7.27,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 524,
+   "hlasy_proc": 8.73,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD a nezávislí kandidáti pro Maloměřice a Obřany"
+  },
+  {
+   "por": 6,
+   "vstrana": 166,
+   "hlasy": 366,
+   "hlasy_proc": 6.1,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

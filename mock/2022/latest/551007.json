@@ -1,0 +1,359 @@
+{
+ "kod": "551007",
+ "nazev": "Brno-Královo Pole",
+ "typ": "MCMO",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T00:20:00",
+ "ucast": {
+  "okrsky_celkem": 19,
+  "okrsky_zprac": 19,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 19417,
+  "vydane_obalky": 8635,
+  "ucast_proc": 44.47,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 8623,
+  "platne_listky": null,
+  "platne_hlasy": 215948
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 739,
+   "hlasy": 14460,
+   "hlasy_proc": 6.7,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "Královopolští patrioti",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 673,
+     "hlasy_proc": 4.65,
+     "titul_pred": "",
+     "jmeno": "René",
+     "prijmeni": "Pelán",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 591,
+     "hlasy_proc": 4.08,
+     "titul_pred": "MUDr.",
+     "jmeno": "Filip",
+     "prijmeni": "Otevřel",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 687,
+   "hlasy": 60146,
+   "hlasy_proc": 27.85,
+   "kandidatu": 27,
+   "zastupitele": 8,
+   "zastupitele_proc": 29.63,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2397,
+     "hlasy_proc": 3.98,
+     "titul_pred": "Ing.",
+     "jmeno": "Andrea",
+     "prijmeni": "Pazderová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2292,
+     "hlasy_proc": 3.81,
+     "titul_pred": "Mgr.",
+     "jmeno": "Matyáš",
+     "prijmeni": "Svoboda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2305,
+     "hlasy_proc": 3.83,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Dubová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2300,
+     "hlasy_proc": 3.82,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Folprecht",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2276,
+     "hlasy_proc": 3.78,
+     "titul_pred": "Ing.",
+     "jmeno": "Edita",
+     "prijmeni": "Smělíková",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2248,
+     "hlasy_proc": 3.73,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Svoboda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2294,
+     "hlasy_proc": 3.81,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Šolc",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2315,
+     "hlasy_proc": 3.84,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Petra",
+     "prijmeni": "Matoušková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 52665,
+   "hlasy_proc": 24.39,
+   "kandidatu": 27,
+   "zastupitele": 7,
+   "zastupitele_proc": 25.93,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2204,
+     "hlasy_proc": 4.18,
+     "titul_pred": "Ing.",
+     "jmeno": "Karin",
+     "prijmeni": "Karasová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2027,
+     "hlasy_proc": 3.84,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Souček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1987,
+     "hlasy_proc": 3.77,
+     "titul_pred": "Ing.",
+     "jmeno": "Aleš",
+     "prijmeni": "Kvíčala",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2007,
+     "hlasy_proc": 3.81,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Zuzana Olga",
+     "prijmeni": "Artimová",
+     "titul_za": "MBA, LL.M."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1984,
+     "hlasy_proc": 3.76,
+     "titul_pred": "Bc.",
+     "jmeno": "Renata",
+     "prijmeni": "Polášková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1975,
+     "hlasy_proc": 3.75,
+     "titul_pred": "",
+     "jmeno": "Jitka",
+     "prijmeni": "Vítková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2010,
+     "hlasy_proc": 3.81,
+     "titul_pred": "MUDr.",
+     "jmeno": "Alena",
+     "prijmeni": "Gruberová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1504,
+   "hlasy": 4019,
+   "hlasy_proc": 1.86,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 5,
+   "vstrana": 1305,
+   "hlasy": 16283,
+   "hlasy_proc": 7.54,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "SPD a nezávislí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 673,
+     "hlasy_proc": 4.13,
+     "titul_pred": "JUDr.",
+     "jmeno": "Jana",
+     "prijmeni": "Přikrylová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 18,
+     "hlasy": 881,
+     "hlasy_proc": 5.41,
+     "titul_pred": "",
+     "jmeno": "Lucie",
+     "prijmeni": "Chalupová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 340,
+   "hlasy": 23825,
+   "hlasy_proc": 11.03,
+   "kandidatu": 27,
+   "zastupitele": 3,
+   "zastupitele_proc": 11.11,
+   "nazev": "Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 981,
+     "hlasy_proc": 4.11,
+     "titul_pred": "Ing. Bc.",
+     "jmeno": "Marian",
+     "prijmeni": "Charvát",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 968,
+     "hlasy_proc": 4.06,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Tereza",
+     "prijmeni": "Chladilová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 945,
+     "hlasy_proc": 3.96,
+     "titul_pred": "",
+     "jmeno": "Marie",
+     "prijmeni": "Tulková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 371,
+   "hlasy": 7491,
+   "hlasy_proc": 3.47,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KRÁLOVO POLE S DOBROU ADRESOU A SOCIÁLNÍ DEMOKRACIÍ"
+  },
+  {
+   "por": 8,
+   "vstrana": 1576,
+   "hlasy": 37059,
+   "hlasy_proc": 17.16,
+   "kandidatu": 27,
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "Piráti a Zelení pro Královo Pole",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1494,
+     "hlasy_proc": 4.03,
+     "titul_pred": "Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Fišer",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1505,
+     "hlasy_proc": 4.06,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Helena",
+     "prijmeni": "Vařejková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1488,
+     "hlasy_proc": 4.01,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Škerle",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1385,
+     "hlasy_proc": 3.73,
+     "titul_pred": "",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Vašák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1401,
+     "hlasy_proc": 3.78,
+     "titul_pred": "Bc.",
+     "jmeno": "Štěpán",
+     "prijmeni": "Balážik",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T00:20:00"
+}

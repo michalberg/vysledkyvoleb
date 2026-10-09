@@ -1,0 +1,205 @@
+{
+ "kod": "551171",
+ "nazev": "Brno-Jundrov",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T23:05:00",
+ "ucast": {
+  "okrsky_celkem": 4,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 3398,
+  "vydane_obalky": 1856,
+  "ucast_proc": 54.62,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 1852,
+  "platne_listky": null,
+  "platne_hlasy": 24655
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1504,
+   "hlasy": 220,
+   "hlasy_proc": 0.89,
+   "kandidatu": 5,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 2,
+   "vstrana": 738,
+   "hlasy": 7742,
+   "hlasy_proc": 31.4,
+   "kandidatu": 15,
+   "zastupitele": 5,
+   "zastupitele_proc": 33.33,
+   "nazev": "Jundrováci",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 557,
+     "hlasy_proc": 7.19,
+     "titul_pred": "Mgr.",
+     "jmeno": "Richard",
+     "prijmeni": "Hubl",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 539,
+     "hlasy_proc": 6.96,
+     "titul_pred": "Ing.",
+     "jmeno": "Lenka",
+     "prijmeni": "Konopáčová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 529,
+     "hlasy_proc": 6.83,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Šťastník",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 526,
+     "hlasy_proc": 6.79,
+     "titul_pred": "Ing.",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Lenomar",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 530,
+     "hlasy_proc": 6.84,
+     "titul_pred": "PhDr.",
+     "jmeno": "Jan",
+     "prijmeni": "Soukup",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 364,
+   "hlasy": 10744,
+   "hlasy_proc": 43.58,
+   "kandidatu": 15,
+   "zastupitele": 7,
+   "zastupitele_proc": 46.67,
+   "nazev": "Zelená pro Náš Jundrov",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 781,
+     "hlasy_proc": 7.26,
+     "titul_pred": "",
+     "jmeno": "Ivana",
+     "prijmeni": "Fajnorová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 818,
+     "hlasy_proc": 7.61,
+     "titul_pred": "",
+     "jmeno": "Irena",
+     "prijmeni": "Koláčná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 740,
+     "hlasy_proc": 6.88,
+     "titul_pred": "MVDr.",
+     "jmeno": "Lubomír",
+     "prijmeni": "Hošek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 750,
+     "hlasy_proc": 6.98,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Beránek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 725,
+     "hlasy_proc": 6.74,
+     "titul_pred": "Ing.",
+     "jmeno": "Alena",
+     "prijmeni": "Krestová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 710,
+     "hlasy_proc": 6.6,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martina",
+     "prijmeni": "Žídková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 721,
+     "hlasy_proc": 6.71,
+     "titul_pred": "Ing.",
+     "jmeno": "Radoslav",
+     "prijmeni": "Hanák",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 687,
+   "hlasy": 5949,
+   "hlasy_proc": 24.13,
+   "kandidatu": 15,
+   "zastupitele": 3,
+   "zastupitele_proc": 20.0,
+   "nazev": "Společně pro Jundrov - ODS + TOP + nestraníci",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 394,
+     "hlasy_proc": 6.62,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Chládek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 458,
+     "hlasy_proc": 7.69,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Vitula",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 391,
+     "hlasy_proc": 6.57,
+     "titul_pred": "",
+     "jmeno": "Richard",
+     "prijmeni": "Jílek",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T23:05:00"
+}

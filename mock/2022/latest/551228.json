@@ -1,0 +1,257 @@
+{
+ "kod": "551228",
+ "nazev": "Brno-Komín",
+ "typ": "MCMO",
+ "voleno": 17,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T21:20:00",
+ "ucast": {
+  "okrsky_celkem": 6,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 5787,
+  "vydane_obalky": 3116,
+  "ucast_proc": 53.84,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3112,
+  "platne_listky": null,
+  "platne_hlasy": 49042
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 721,
+   "hlasy": 1858,
+   "hlasy_proc": 3.79,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09"
+  },
+  {
+   "por": 2,
+   "vstrana": 340,
+   "hlasy": 4550,
+   "hlasy_proc": 9.28,
+   "kandidatu": 17,
+   "zastupitele": 1,
+   "zastupitele_proc": 5.88,
+   "nazev": "KDU-ČSL s podporou Starostů a nezávislých",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 395,
+     "hlasy_proc": 8.68,
+     "titul_pred": "",
+     "jmeno": "David",
+     "prijmeni": "Řepa",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 10821,
+   "hlasy_proc": 22.06,
+   "kandidatu": 17,
+   "zastupitele": 4,
+   "zastupitele_proc": 23.53,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 705,
+     "hlasy_proc": 6.51,
+     "titul_pred": "Bc.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Jarošová",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 646,
+     "hlasy_proc": 5.96,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Machalický",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 639,
+     "hlasy_proc": 5.9,
+     "titul_pred": "",
+     "jmeno": "Adam",
+     "prijmeni": "Stanislav",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 641,
+     "hlasy_proc": 5.92,
+     "titul_pred": "Bc.",
+     "jmeno": "David",
+     "prijmeni": "Chadima",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 463,
+   "hlasy": 3374,
+   "hlasy_proc": 6.88,
+   "kandidatu": 17,
+   "zastupitele": 1,
+   "zastupitele_proc": 5.88,
+   "nazev": "Komín pro děti a sportovce",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 231,
+     "hlasy_proc": 6.84,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Hunkes",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 6523,
+   "hlasy_proc": 13.3,
+   "kandidatu": 17,
+   "zastupitele": 2,
+   "zastupitele_proc": 11.76,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 435,
+     "hlasy_proc": 6.66,
+     "titul_pred": "Ing.",
+     "jmeno": "Eliška",
+     "prijmeni": "Krejčí Reková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 430,
+     "hlasy_proc": 6.59,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Libor",
+     "prijmeni": "Vlček",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 1504,
+   "hlasy": 925,
+   "hlasy_proc": 1.89,
+   "kandidatu": 16,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 7,
+   "vstrana": 364,
+   "hlasy": 20991,
+   "hlasy_proc": 42.8,
+   "kandidatu": 17,
+   "zastupitele": 9,
+   "zastupitele_proc": 52.94,
+   "nazev": "Zelená pro Komín",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1378,
+     "hlasy_proc": 6.56,
+     "titul_pred": "Mgr.",
+     "jmeno": "Milada",
+     "prijmeni": "Blatná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1277,
+     "hlasy_proc": 6.08,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Němec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1313,
+     "hlasy_proc": 6.25,
+     "titul_pred": "",
+     "jmeno": "Eva",
+     "prijmeni": "Beranová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1247,
+     "hlasy_proc": 5.94,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Pospíšil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1265,
+     "hlasy_proc": 6.02,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Magdalena",
+     "prijmeni": "Maceková",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1260,
+     "hlasy_proc": 6.0,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Juřička",
+     "titul_za": "BBA"
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1212,
+     "hlasy_proc": 5.77,
+     "titul_pred": "Mgr.",
+     "jmeno": "Andrea",
+     "prijmeni": "Slavíčková",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1228,
+     "hlasy_proc": 5.85,
+     "titul_pred": "",
+     "jmeno": "Viktor",
+     "prijmeni": "Grim",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1232,
+     "hlasy_proc": 5.86,
+     "titul_pred": "PhDr.",
+     "jmeno": "Olga",
+     "prijmeni": "Chalupová",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T21:20:00"
+}

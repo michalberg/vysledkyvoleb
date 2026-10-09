@@ -120,7 +120,7 @@ def parse(xml_bytes):
         "typ": obec.get("OZNAC_TYPU"),
         "voleno": num(obec.get("VOLENO_ZASTUP")),
         "pocet_obvodu": num(obec.get("POCET_OBVODU")),
-        "je_spocteno": obec.get("JE_SPOCTENO") == "1",
+        "je_spocteno": obec.get("JE_SPOCTENO") in ("1", "true"),
         "generovano": root.get("DATUM_CAS_GENEROVANI"),
         **parse_vysledek(vysledek),
     }
@@ -184,6 +184,30 @@ def history_row(data, fetched):
     }
 
 
+def append_history(data_dir, data, fetched):
+    hist_path = data_dir / "history" / f"{data['kod']}.jsonl"
+    hist_path.parent.mkdir(parents=True, exist_ok=True)
+    with hist_path.open("a", encoding="utf-8") as f:
+        f.write(json.dumps(history_row(data, fetched), ensure_ascii=False) + "\n")
+
+
+def write_index(data_dir, config, updated):
+    index = {"volby": config["volby"], "datum": config["datum"], "aktualizovano": updated, "obce": []}
+    for obec in config["obce"]:
+        d = load_json(data_dir / "latest" / f"{obec['kod']}.json")
+        item = {"kod": obec["kod"], "nazev": obec["nazev"]}
+        if d:
+            item.update(
+                voleno=d["voleno"],
+                je_spocteno=d["je_spocteno"],
+                okrsky_zprac=d["ucast"]["okrsky_zprac"],
+                okrsky_celkem=d["ucast"]["okrsky_celkem"],
+                generovano=d["generovano"],
+            )
+        index["obce"].append(item)
+    write_json(data_dir / "index.json", index)
+
+
 def main():
     config = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
     fetched = datetime.now(TZ).isoformat(timespec="seconds")
@@ -211,29 +235,13 @@ def main():
         write_json(latest_path, data)
         (DATA / "raw").mkdir(parents=True, exist_ok=True)
         (DATA / "raw" / f"{kod}.xml").write_bytes(raw)
-        hist_path = DATA / "history" / f"{kod}.jsonl"
-        hist_path.parent.mkdir(parents=True, exist_ok=True)
-        with hist_path.open("a", encoding="utf-8") as f:
-            f.write(json.dumps(history_row(data, fetched), ensure_ascii=False) + "\n")
+        append_history(DATA, data, fetched)
         u = data["ucast"]
         print(f"ZMĚNA {kod} {data['nazev']}: okrsky {u['okrsky_zprac']}/{u['okrsky_celkem']}")
         changed.append(kod)
 
     if changed or not (DATA / "index.json").exists():
-        index = {"volby": config["volby"], "datum": config["datum"], "aktualizovano": fetched, "obce": []}
-        for obec in config["obce"]:
-            d = load_json(DATA / "latest" / f"{obec['kod']}.json")
-            item = {"kod": obec["kod"], "nazev": obec["nazev"]}
-            if d:
-                item.update(
-                    voleno=d["voleno"],
-                    je_spocteno=d["je_spocteno"],
-                    okrsky_zprac=d["ucast"]["okrsky_zprac"],
-                    okrsky_celkem=d["ucast"]["okrsky_celkem"],
-                    generovano=d["generovano"],
-                )
-            index["obce"].append(item)
-        write_json(DATA / "index.json", index)
+        write_index(DATA, config, fetched)
 
     print(f"Hotovo: změněno {len(changed)}, chyb {len(failed)}, celkem {len(config['obce'])}")
     if failed and len(failed) == len(config["obce"]):

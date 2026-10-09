@@ -1,0 +1,114 @@
+{
+ "kod": "551031",
+ "nazev": "Brno-sever",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 45,
+  "okrsky_zprac": 28,
+  "okrsky_zprac_proc": 62.22,
+  "zapsani_volici": 20089,
+  "vydane_obalky": 8148,
+  "ucast_proc": 40.56,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 8143,
+  "platne_listky": null,
+  "platne_hlasy": 261620
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1031,
+   "hlasy": 103528,
+   "hlasy_proc": 39.57,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí SOL"
+  },
+  {
+   "por": 2,
+   "vstrana": 1223,
+   "hlasy": 43,
+   "hlasy_proc": 0.02,
+   "kandidatu": 2,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "JSI PRO? Jistota Solidarita Investice pro budoucnost"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 44436,
+   "hlasy_proc": 16.98,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 1492,
+   "hlasy": 21633,
+   "hlasy_proc": 8.27,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí"
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 8031,
+   "hlasy_proc": 3.07,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD VAŠI STAROSTOVÉ"
+  },
+  {
+   "por": 6,
+   "vstrana": 1,
+   "hlasy": 23173,
+   "hlasy_proc": 8.86,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 7,
+   "vstrana": 1066,
+   "hlasy": 25656,
+   "hlasy_proc": 9.81,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Zelení"
+  },
+  {
+   "por": 8,
+   "vstrana": 1504,
+   "hlasy": 5117,
+   "hlasy_proc": 1.96,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 9,
+   "vstrana": 53,
+   "hlasy": 30003,
+   "hlasy_proc": 11.47,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

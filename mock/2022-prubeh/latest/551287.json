@@ -1,0 +1,104 @@
+{
+ "kod": "551287",
+ "nazev": "Brno-Líšeň",
+ "typ": "MCMO",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 19,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 47.37,
+  "zapsani_volici": 8635,
+  "vydane_obalky": 3745,
+  "ucast_proc": 43.37,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3727,
+  "platne_listky": null,
+  "platne_hlasy": 95505
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 166,
+   "hlasy": 4135,
+   "hlasy_proc": 4.33,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 2,
+   "vstrana": 1504,
+   "hlasy": 1643,
+   "hlasy_proc": 1.72,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 3,
+   "vstrana": 1492,
+   "hlasy": 7484,
+   "hlasy_proc": 7.84,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí"
+  },
+  {
+   "por": 4,
+   "vstrana": 449,
+   "hlasy": 8601,
+   "hlasy_proc": 9.01,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sousedé z Líšně"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 13667,
+   "hlasy_proc": 14.31,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 371,
+   "hlasy": 39937,
+   "hlasy_proc": 41.82,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Váš starosta a občané pro Líšeň"
+  },
+  {
+   "por": 7,
+   "vstrana": 355,
+   "hlasy": 5873,
+   "hlasy_proc": 6.15,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a nestraníci (KDU-ČSL)"
+  },
+  {
+   "por": 8,
+   "vstrana": 687,
+   "hlasy": 14165,
+   "hlasy_proc": 14.83,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

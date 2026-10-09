@@ -1,0 +1,229 @@
+{
+ "kod": "551252",
+ "nazev": "Brno-Maloměřice a Obřany",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T20:45:00",
+ "ucast": {
+  "okrsky_celkem": 4,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 4432,
+  "vydane_obalky": 2159,
+  "ucast_proc": 48.71,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2134,
+  "platne_listky": null,
+  "platne_hlasy": 29096
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 687,
+   "hlasy": 5077,
+   "hlasy_proc": 17.45,
+   "kandidatu": 15,
+   "zastupitele": 3,
+   "zastupitele_proc": 20.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 372,
+     "hlasy_proc": 7.32,
+     "titul_pred": "JUDr.",
+     "jmeno": "Michaela",
+     "prijmeni": "Chalupová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 348,
+     "hlasy_proc": 6.85,
+     "titul_pred": "",
+     "jmeno": "Jarmila",
+     "prijmeni": "Kocmanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 13,
+     "hlasy": 389,
+     "hlasy_proc": 7.66,
+     "titul_pred": "Ing.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Rožcová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1,
+   "hlasy": 5500,
+   "hlasy_proc": 18.9,
+   "kandidatu": 15,
+   "zastupitele": 3,
+   "zastupitele_proc": 20.0,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 446,
+     "hlasy_proc": 8.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Klára",
+     "prijmeni": "Liptáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 381,
+     "hlasy_proc": 6.92,
+     "titul_pred": "",
+     "jmeno": "Vít",
+     "prijmeni": "Pleva",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 396,
+     "hlasy_proc": 7.2,
+     "titul_pred": "JUDr.",
+     "jmeno": "Martin",
+     "prijmeni": "Knoz",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 1500,
+   "hlasy": 13060,
+   "hlasy_proc": 44.89,
+   "kandidatu": 15,
+   "zastupitele": 7,
+   "zastupitele_proc": 46.67,
+   "nazev": "PRO Maloměřice a Obřany",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 940,
+     "hlasy_proc": 7.19,
+     "titul_pred": "MgA.",
+     "jmeno": "Dan",
+     "prijmeni": "Kalousek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 941,
+     "hlasy_proc": 7.2,
+     "titul_pred": "Ing.",
+     "jmeno": "Ludmila",
+     "prijmeni": "Kutálková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 910,
+     "hlasy_proc": 6.96,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Kučera",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 893,
+     "hlasy_proc": 6.83,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marcela",
+     "prijmeni": "Poučová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 897,
+     "hlasy_proc": 6.86,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Kopiště",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 893,
+     "hlasy_proc": 6.83,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Herec",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 893,
+     "hlasy_proc": 6.83,
+     "titul_pred": "Ing.",
+     "jmeno": "František",
+     "prijmeni": "Kutálek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1504,
+   "hlasy": 1457,
+   "hlasy_proc": 5.01,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 2147,
+   "hlasy_proc": 7.38,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "ČSSD a nezávislí kandidáti pro Maloměřice a Obřany",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 207,
+     "hlasy_proc": 9.64,
+     "titul_pred": "Ing.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Dvořák",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 166,
+   "hlasy": 1855,
+   "hlasy_proc": 6.38,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 171,
+     "hlasy_proc": 9.21,
+     "titul_pred": "JUDr.",
+     "jmeno": "Irena",
+     "prijmeni": "Matonohová",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T20:45:00"
+}

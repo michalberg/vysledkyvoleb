@@ -1,0 +1,397 @@
+{
+ "kod": "551058",
+ "nazev": "Brno-Židenice",
+ "typ": "MCMO",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T21:20:00",
+ "ucast": {
+  "okrsky_celkem": 19,
+  "okrsky_zprac": 19,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 15189,
+  "vydane_obalky": 6543,
+  "ucast_proc": 43.08,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 6478,
+  "platne_listky": null,
+  "platne_hlasy": 172897
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 53,
+   "hlasy": 20154,
+   "hlasy_proc": 11.66,
+   "kandidatu": 29,
+   "zastupitele": 4,
+   "zastupitele_proc": 13.79,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 844,
+     "hlasy_proc": 4.18,
+     "titul_pred": "Ing.",
+     "jmeno": "Roman",
+     "prijmeni": "Vašina",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 734,
+     "hlasy_proc": 3.64,
+     "titul_pred": "Ing.",
+     "jmeno": "Yvette",
+     "prijmeni": "Krpálková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 736,
+     "hlasy_proc": 3.65,
+     "titul_pred": "Bc.",
+     "jmeno": "Milan",
+     "prijmeni": "Slezák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 726,
+     "hlasy_proc": 3.6,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Rygl",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 33007,
+   "hlasy_proc": 19.09,
+   "kandidatu": 29,
+   "zastupitele": 6,
+   "zastupitele_proc": 20.69,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1212,
+     "hlasy_proc": 3.67,
+     "titul_pred": "Mgr.",
+     "jmeno": "René",
+     "prijmeni": "Novotný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1210,
+     "hlasy_proc": 3.66,
+     "titul_pred": "MVDr. Ing.",
+     "jmeno": "Václav",
+     "prijmeni": "Trojan",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1158,
+     "hlasy_proc": 3.5,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Procházka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1153,
+     "hlasy_proc": 3.49,
+     "titul_pred": "Bc.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Pavlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1171,
+     "hlasy_proc": 3.54,
+     "titul_pred": "",
+     "jmeno": "Bořivoj",
+     "prijmeni": "Nakládal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1203,
+     "hlasy_proc": 3.64,
+     "titul_pred": "",
+     "jmeno": "Šimon",
+     "prijmeni": "Ryšavý",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 371,
+   "hlasy": 5325,
+   "hlasy_proc": 3.08,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD + PATRIOTI PRO ŽIDENICE A JULIÁNOV"
+  },
+  {
+   "por": 4,
+   "vstrana": 1500,
+   "hlasy": 44573,
+   "hlasy_proc": 25.78,
+   "kandidatu": 29,
+   "zastupitele": 9,
+   "zastupitele_proc": 31.03,
+   "nazev": "PETR KUNC - HLAS PRO ŽIDENICE",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1868,
+     "hlasy_proc": 4.19,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Kunc",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1654,
+     "hlasy_proc": 3.71,
+     "titul_pred": "",
+     "jmeno": "Jana",
+     "prijmeni": "Šťastná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1649,
+     "hlasy_proc": 3.69,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Skála",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1604,
+     "hlasy_proc": 3.59,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Ando",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1580,
+     "hlasy_proc": 3.54,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Jedlička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1560,
+     "hlasy_proc": 3.49,
+     "titul_pred": "",
+     "jmeno": "Magdaléna",
+     "prijmeni": "Kratochvílová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1582,
+     "hlasy_proc": 3.54,
+     "titul_pred": "Bc.",
+     "jmeno": "Marek",
+     "prijmeni": "Sláma",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1574,
+     "hlasy_proc": 3.53,
+     "titul_pred": "Mgr.",
+     "jmeno": "Hana",
+     "prijmeni": "Fasurová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1567,
+     "hlasy_proc": 3.51,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kamila",
+     "prijmeni": "Réblová",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1492,
+   "hlasy": 17344,
+   "hlasy_proc": 10.03,
+   "kandidatu": 29,
+   "zastupitele": 3,
+   "zastupitele_proc": 10.34,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí za zelenou pro Židenice",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 656,
+     "hlasy_proc": 3.78,
+     "titul_pred": "",
+     "jmeno": "Marek",
+     "prijmeni": "Svitavský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 634,
+     "hlasy_proc": 3.65,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Anderle",
+     "titul_za": "MBA, LL.M."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 609,
+     "hlasy_proc": 3.51,
+     "titul_pred": "",
+     "jmeno": "Roman",
+     "prijmeni": "Vlach",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 355,
+   "hlasy": 28764,
+   "hlasy_proc": 16.64,
+   "kandidatu": 29,
+   "zastupitele": 6,
+   "zastupitele_proc": 20.69,
+   "nazev": "KDU-ČSL s podporou Starostů a nezávislých",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1234,
+     "hlasy_proc": 4.29,
+     "titul_pred": "Bc.",
+     "jmeno": "Štěpán",
+     "prijmeni": "Juránek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1121,
+     "hlasy_proc": 3.89,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Grůzová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1069,
+     "hlasy_proc": 3.71,
+     "titul_pred": "Ing.",
+     "jmeno": "Josef",
+     "prijmeni": "Veselý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1012,
+     "hlasy_proc": 3.51,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Přikryl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1044,
+     "hlasy_proc": 3.62,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Klumpar",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1031,
+     "hlasy_proc": 3.58,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Katrňáková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 480,
+   "hlasy": 6650,
+   "hlasy_proc": 3.85,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Nezávislí s podporou TOP 09"
+  },
+  {
+   "por": 8,
+   "vstrana": 720,
+   "hlasy": 9049,
+   "hlasy_proc": 5.23,
+   "kandidatu": 29,
+   "zastupitele": 1,
+   "zastupitele_proc": 3.45,
+   "nazev": "Česká pirátská strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 407,
+     "hlasy_proc": 4.49,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Koláčný",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 1357,
+   "hlasy": 6104,
+   "hlasy_proc": 3.53,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Spojené ruce pro Julec a Šimice"
+  },
+  {
+   "por": 10,
+   "vstrana": 1504,
+   "hlasy": 1927,
+   "hlasy_proc": 1.11,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  }
+ ],
+ "stazeno": "2022-09-24T21:20:00"
+}

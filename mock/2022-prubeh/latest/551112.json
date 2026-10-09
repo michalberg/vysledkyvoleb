@@ -1,0 +1,74 @@
+{
+ "kod": "551112",
+ "nazev": "Brno-Nový Lískovec",
+ "typ": "MCMO",
+ "voleno": 19,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 55.56,
+  "zapsani_volici": 4181,
+  "vydane_obalky": 1702,
+  "ucast_proc": 40.71,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 1702,
+  "platne_listky": null,
+  "platne_hlasy": 28622
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1504,
+   "hlasy": 2514,
+   "hlasy_proc": 8.78,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 2,
+   "vstrana": 1327,
+   "hlasy": 8111,
+   "hlasy_proc": 28.34,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU pro Nový Lískovec (ODS, KDU-ČSL, TOP 09)"
+  },
+  {
+   "por": 3,
+   "vstrana": 497,
+   "hlasy": 3456,
+   "hlasy_proc": 12.07,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NOVOLÍSKOVEČTÍ PATRIOTI A SOUKROMNÍCI"
+  },
+  {
+   "por": 4,
+   "vstrana": 90,
+   "hlasy": 11514,
+   "hlasy_proc": 40.23,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Tři oříšky pro Lískovec"
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 3027,
+   "hlasy_proc": 10.58,
+   "kandidatu": 19,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LÍSKOVECKÝ KONIKLEC - Společně pro lepší Nový Lískovec"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

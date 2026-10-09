@@ -1,0 +1,164 @@
+{
+ "kod": "582786",
+ "nazev": "Brno",
+ "typ": "OBEC",
+ "voleno": 55,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 352,
+  "okrsky_zprac": 178,
+  "okrsky_zprac_proc": 50.57,
+  "zapsani_volici": 141989,
+  "vydane_obalky": 55226,
+  "ucast_proc": 38.89,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 55102,
+  "platne_listky": null,
+  "platne_hlasy": 2711866
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 371,
+   "hlasy": 176376,
+   "hlasy_proc": 6.5,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD VAŠI STAROSTOVÉ"
+  },
+  {
+   "por": 2,
+   "vstrana": 393,
+   "hlasy": 26984,
+   "hlasy_proc": 1.0,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Brno Brňankám a Brňanům! (B3!)"
+  },
+  {
+   "por": 3,
+   "vstrana": 720,
+   "hlasy": 194607,
+   "hlasy_proc": 7.18,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 1554,
+   "hlasy": 162029,
+   "hlasy_proc": 5.97,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelení a Žít Brno s podporou Idealistů"
+  },
+  {
+   "por": 5,
+   "vstrana": 340,
+   "hlasy": 443216,
+   "hlasy_proc": 16.34,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí)"
+  },
+  {
+   "por": 6,
+   "vstrana": 1503,
+   "hlasy": 45808,
+   "hlasy_proc": 1.69,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Brno Plus a Svobodní"
+  },
+  {
+   "por": 7,
+   "vstrana": 1492,
+   "hlasy": 281914,
+   "hlasy_proc": 10.4,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, TRIKOLORA, MORAVANÉ a nezávislí"
+  },
+  {
+   "por": 8,
+   "vstrana": 768,
+   "hlasy": 566421,
+   "hlasy_proc": 20.89,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 9,
+   "vstrana": 1245,
+   "hlasy": 54456,
+   "hlasy_proc": 2.01,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 10,
+   "vstrana": 482,
+   "hlasy": 500,
+   "hlasy_proc": 0.02,
+   "kandidatu": 2,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT – sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 11,
+   "vstrana": 687,
+   "hlasy": 647475,
+   "hlasy_proc": 23.88,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09"
+  },
+  {
+   "por": 12,
+   "vstrana": 1504,
+   "hlasy": 41425,
+   "hlasy_proc": 1.53,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 13,
+   "vstrana": 1223,
+   "hlasy": 277,
+   "hlasy_proc": 0.01,
+   "kandidatu": 6,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "JSI PRO? Jistota Solidarita Investice pro budoucnost"
+  },
+  {
+   "por": 14,
+   "vstrana": 1246,
+   "hlasy": 70378,
+   "hlasy_proc": 2.6,
+   "kandidatu": 55,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Fakt Brno"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

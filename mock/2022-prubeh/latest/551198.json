@@ -1,0 +1,94 @@
+{
+ "kod": "551198",
+ "nazev": "Brno-Bystrc",
+ "typ": "MCMO",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 24,
+  "okrsky_zprac": 11,
+  "okrsky_zprac_proc": 45.83,
+  "zapsani_volici": 7866,
+  "vydane_obalky": 3301,
+  "ucast_proc": 41.97,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3296,
+  "platne_listky": null,
+  "platne_hlasy": 80314
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 340,
+   "hlasy": 12890,
+   "hlasy_proc": 16.05,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LIDOVCI A STAROSTOVÉ"
+  },
+  {
+   "por": 2,
+   "vstrana": 1504,
+   "hlasy": 2466,
+   "hlasy_proc": 3.07,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 3,
+   "vstrana": 529,
+   "hlasy": 13004,
+   "hlasy_proc": 16.19,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelená pro Bystrc, Piráti a Bystrčáci"
+  },
+  {
+   "por": 4,
+   "vstrana": 1492,
+   "hlasy": 8126,
+   "hlasy_proc": 10.12,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 11786,
+   "hlasy_proc": 14.67,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 15576,
+   "hlasy_proc": 19.39,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 7,
+   "vstrana": 371,
+   "hlasy": 16466,
+   "hlasy_proc": 20.5,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD VAŠI STAROSTOVÉ"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

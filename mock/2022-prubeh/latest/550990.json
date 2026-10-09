@@ -1,0 +1,124 @@
+{
+ "kod": "550990",
+ "nazev": "Brno-Žabovřesky",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 25,
+  "okrsky_zprac": 15,
+  "okrsky_zprac_proc": 60.0,
+  "zapsani_volici": 9535,
+  "vydane_obalky": 4527,
+  "ucast_proc": 47.48,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 4527,
+  "platne_listky": null,
+  "platne_hlasy": 103439
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 340,
+   "hlasy": 22371,
+   "hlasy_proc": 21.63,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí)"
+  },
+  {
+   "por": 2,
+   "vstrana": 720,
+   "hlasy": 10316,
+   "hlasy_proc": 9.97,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 3,
+   "vstrana": 371,
+   "hlasy": 8994,
+   "hlasy_proc": 8.69,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Vaše starostka a ČSSD"
+  },
+  {
+   "por": 4,
+   "vstrana": 1277,
+   "hlasy": 8653,
+   "hlasy_proc": 8.37,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí pro Žabiny"
+  },
+  {
+   "por": 5,
+   "vstrana": 1504,
+   "hlasy": 1304,
+   "hlasy_proc": 1.26,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 6,
+   "vstrana": 1492,
+   "hlasy": 6629,
+   "hlasy_proc": 6.41,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 18034,
+   "hlasy_proc": 17.43,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 8,
+   "vstrana": 1245,
+   "hlasy": 2094,
+   "hlasy_proc": 2.02,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 9,
+   "vstrana": 1312,
+   "hlasy": 4296,
+   "hlasy_proc": 4.15,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelená pro Žabovřesky - Strana zelených s podporou Moravského zemského hnutí a nezávislých kandidátů"
+  },
+  {
+   "por": 10,
+   "vstrana": 687,
+   "hlasy": 20748,
+   "hlasy_proc": 20.06,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

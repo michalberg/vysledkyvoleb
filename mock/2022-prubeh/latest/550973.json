@@ -1,0 +1,104 @@
+{
+ "kod": "550973",
+ "nazev": "Brno-střed",
+ "typ": "MCMO",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 70,
+  "okrsky_zprac": 43,
+  "okrsky_zprac_proc": 61.43,
+  "zapsani_volici": 39126,
+  "vydane_obalky": 10048,
+  "ucast_proc": 25.68,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 10032,
+  "platne_listky": null,
+  "platne_hlasy": 414845
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1578,
+   "hlasy": 88470,
+   "hlasy_proc": 21.33,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti, Zelení a Žít Brno"
+  },
+  {
+   "por": 2,
+   "vstrana": 371,
+   "hlasy": 8564,
+   "hlasy_proc": 2.06,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zdravý střed s podporou Sociální demokracie"
+  },
+  {
+   "por": 3,
+   "vstrana": 1492,
+   "hlasy": 41593,
+   "hlasy_proc": 10.03,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí"
+  },
+  {
+   "por": 4,
+   "vstrana": 340,
+   "hlasy": 59534,
+   "hlasy_proc": 14.35,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí)"
+  },
+  {
+   "por": 5,
+   "vstrana": 1504,
+   "hlasy": 7963,
+   "hlasy_proc": 1.92,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 6,
+   "vstrana": 1246,
+   "hlasy": 21565,
+   "hlasy_proc": 5.2,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Fakt Brno"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 78978,
+   "hlasy_proc": 19.04,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 8,
+   "vstrana": 687,
+   "hlasy": 108178,
+   "hlasy_proc": 26.08,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

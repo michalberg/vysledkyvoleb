@@ -1,0 +1,104 @@
+{
+ "kod": "551279",
+ "nazev": "Brno-Vinohrady",
+ "typ": "MCMO",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 10,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 50.0,
+  "zapsani_volici": 5025,
+  "vydane_obalky": 2236,
+  "ucast_proc": 44.5,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2226,
+  "platne_listky": null,
+  "platne_hlasy": 42588
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1327,
+   "hlasy": 8275,
+   "hlasy_proc": 19.43,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU pro Vinohrady (ODS, KDU-ČSL, TOP 09)"
+  },
+  {
+   "por": 2,
+   "vstrana": 1504,
+   "hlasy": 272,
+   "hlasy_proc": 0.64,
+   "kandidatu": 9,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 3,
+   "vstrana": 1216,
+   "hlasy": 6680,
+   "hlasy_proc": 15.69,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Vinohrady společně"
+  },
+  {
+   "por": 4,
+   "vstrana": 1305,
+   "hlasy": 3284,
+   "hlasy_proc": 7.71,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí"
+  },
+  {
+   "por": 5,
+   "vstrana": 463,
+   "hlasy": 4415,
+   "hlasy_proc": 10.37,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Ano pro Vinohrady"
+  },
+  {
+   "por": 6,
+   "vstrana": 371,
+   "hlasy": 949,
+   "hlasy_proc": 2.23,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD a nezávislí kandidáti"
+  },
+  {
+   "por": 7,
+   "vstrana": 470,
+   "hlasy": 10875,
+   "hlasy_proc": 25.54,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Jiří Čejka s občany pro Vinohrady"
+  },
+  {
+   "por": 8,
+   "vstrana": 1357,
+   "hlasy": 7838,
+   "hlasy_proc": 18.4,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PLUS pro Vinohrady"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

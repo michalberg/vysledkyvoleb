@@ -1,0 +1,349 @@
+{
+ "kod": "551198",
+ "nazev": "Brno-Bystrc",
+ "typ": "MCMO",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:45:00",
+ "ucast": {
+  "okrsky_celkem": 24,
+  "okrsky_zprac": 24,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 18500,
+  "vydane_obalky": 8165,
+  "ucast_proc": 44.14,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 8131,
+  "platne_listky": null,
+  "platne_hlasy": 197642
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 340,
+   "hlasy": 33717,
+   "hlasy_proc": 17.06,
+   "kandidatu": 27,
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "LIDOVCI A STAROSTOVÉ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1476,
+     "hlasy_proc": 4.37,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Ilja",
+     "prijmeni": "Kašík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1339,
+     "hlasy_proc": 3.97,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Cajzl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1317,
+     "hlasy_proc": 3.9,
+     "titul_pred": "Mgr.",
+     "jmeno": "Monika",
+     "prijmeni": "Křížová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1276,
+     "hlasy_proc": 3.78,
+     "titul_pred": "Ing.",
+     "jmeno": "Josef",
+     "prijmeni": "Vyškovský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1354,
+     "hlasy_proc": 4.01,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Suchý",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1504,
+   "hlasy": 6954,
+   "hlasy_proc": 3.52,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 3,
+   "vstrana": 529,
+   "hlasy": 32985,
+   "hlasy_proc": 16.69,
+   "kandidatu": 27,
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "Zelená pro Bystrc, Piráti a Bystrčáci",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1354,
+     "hlasy_proc": 4.1,
+     "titul_pred": "Mgr.",
+     "jmeno": "Monika",
+     "prijmeni": "Šimková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1287,
+     "hlasy_proc": 3.9,
+     "titul_pred": "Ing.",
+     "jmeno": "Antonino",
+     "prijmeni": "Milicia",
+     "titul_za": "Ph.D., MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1339,
+     "hlasy_proc": 4.05,
+     "titul_pred": "Ing.",
+     "jmeno": "Luboš",
+     "prijmeni": "Raus",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1298,
+     "hlasy_proc": 3.93,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Škarvada",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1254,
+     "hlasy_proc": 3.8,
+     "titul_pred": "Mgr.",
+     "jmeno": "Matouš",
+     "prijmeni": "Vencálek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1492,
+   "hlasy": 18684,
+   "hlasy_proc": 9.45,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 740,
+     "hlasy_proc": 3.96,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Kment",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 728,
+     "hlasy_proc": 3.89,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Klein",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 30801,
+   "hlasy_proc": 15.58,
+   "kandidatu": 27,
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1295,
+     "hlasy_proc": 4.2,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Jára",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1271,
+     "hlasy_proc": 4.12,
+     "titul_pred": "Ing.",
+     "jmeno": "Eva",
+     "prijmeni": "Harangiová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1207,
+     "hlasy_proc": 3.91,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Kaláb",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1177,
+     "hlasy_proc": 3.82,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Maurer",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 36046,
+   "hlasy_proc": 18.24,
+   "kandidatu": 27,
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1438,
+     "hlasy_proc": 3.98,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Kříž",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1400,
+     "hlasy_proc": 3.88,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Hejl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1405,
+     "hlasy_proc": 3.89,
+     "titul_pred": "Ing.",
+     "jmeno": "Denisa",
+     "prijmeni": "Kocmánková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1374,
+     "hlasy_proc": 3.81,
+     "titul_pred": "",
+     "jmeno": "Bohumil",
+     "prijmeni": "Nečas",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1373,
+     "hlasy_proc": 3.8,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Doupovec",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 371,
+   "hlasy": 38455,
+   "hlasy_proc": 19.46,
+   "kandidatu": 27,
+   "zastupitele": 6,
+   "zastupitele_proc": 22.22,
+   "nazev": "ČSSD VAŠI STAROSTOVÉ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1898,
+     "hlasy_proc": 4.93,
+     "titul_pred": "JUDr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Kratochvíl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1570,
+     "hlasy_proc": 4.08,
+     "titul_pred": "RNDr.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Vetchý",
+     "titul_za": "CSc."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1462,
+     "hlasy_proc": 3.8,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Bertschinger",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1448,
+     "hlasy_proc": 3.76,
+     "titul_pred": "",
+     "jmeno": "David",
+     "prijmeni": "Špičák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1464,
+     "hlasy_proc": 3.8,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Okáč",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1445,
+     "hlasy_proc": 3.75,
+     "titul_pred": "",
+     "jmeno": "Monika",
+     "prijmeni": "Dederová",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T22:45:00"
+}

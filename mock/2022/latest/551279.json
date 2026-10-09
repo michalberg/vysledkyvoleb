@@ -1,0 +1,305 @@
+{
+ "kod": "551279",
+ "nazev": "Brno-Vinohrady",
+ "typ": "MCMO",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:05:00",
+ "ucast": {
+  "okrsky_celkem": 10,
+  "okrsky_zprac": 10,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 9595,
+  "vydane_obalky": 4550,
+  "ucast_proc": 47.42,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 4535,
+  "platne_listky": null,
+  "platne_hlasy": 87736
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1327,
+   "hlasy": 18350,
+   "hlasy_proc": 20.92,
+   "kandidatu": 21,
+   "zastupitele": 5,
+   "zastupitele_proc": 23.81,
+   "nazev": "SPOLU pro Vinohrady (ODS, KDU-ČSL, TOP 09)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1016,
+     "hlasy_proc": 5.53,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jitka",
+     "prijmeni": "Ivičičová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 921,
+     "hlasy_proc": 5.01,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Pustina",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 899,
+     "hlasy_proc": 4.89,
+     "titul_pred": "MgA.",
+     "jmeno": "Petr",
+     "prijmeni": "Pleva",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 900,
+     "hlasy_proc": 4.9,
+     "titul_pred": "Mgr.",
+     "jmeno": "Patrik",
+     "prijmeni": "Cibere",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 880,
+     "hlasy_proc": 4.79,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Helena",
+     "prijmeni": "Rampachová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1504,
+   "hlasy": 450,
+   "hlasy_proc": 0.51,
+   "kandidatu": 9,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 3,
+   "vstrana": 1216,
+   "hlasy": 13766,
+   "hlasy_proc": 15.69,
+   "kandidatu": 21,
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "Vinohrady společně",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 793,
+     "hlasy_proc": 5.76,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Tlamka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 703,
+     "hlasy_proc": 5.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Wertheimová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 693,
+     "hlasy_proc": 5.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Čermák",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1305,
+   "hlasy": 7652,
+   "hlasy_proc": 8.72,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "SPD a nezávislí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 401,
+     "hlasy_proc": 5.24,
+     "titul_pred": "Ing.",
+     "jmeno": "Ivan",
+     "prijmeni": "Fencl",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 381,
+     "hlasy_proc": 4.97,
+     "titul_pred": "",
+     "jmeno": "Radek",
+     "prijmeni": "Sedláček",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 463,
+   "hlasy": 9208,
+   "hlasy_proc": 10.5,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "Ano pro Vinohrady",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 484,
+     "hlasy_proc": 5.25,
+     "titul_pred": "Mgr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Pokorný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 485,
+     "hlasy_proc": 5.26,
+     "titul_pred": "Ing. Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Hynšt",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 371,
+   "hlasy": 2124,
+   "hlasy_proc": 2.42,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD a nezávislí kandidáti"
+  },
+  {
+   "por": 7,
+   "vstrana": 470,
+   "hlasy": 17132,
+   "hlasy_proc": 19.53,
+   "kandidatu": 21,
+   "zastupitele": 4,
+   "zastupitele_proc": 19.05,
+   "nazev": "Jiří Čejka s občany pro Vinohrady",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 905,
+     "hlasy_proc": 5.28,
+     "titul_pred": "PhDr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Čejka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 845,
+     "hlasy_proc": 4.93,
+     "titul_pred": "Bc.",
+     "jmeno": "Michal",
+     "prijmeni": "Krejsa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 839,
+     "hlasy_proc": 4.89,
+     "titul_pred": "PhDr.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Karnet",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 823,
+     "hlasy_proc": 4.8,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Soldán",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 1357,
+   "hlasy": 19054,
+   "hlasy_proc": 21.72,
+   "kandidatu": 21,
+   "zastupitele": 5,
+   "zastupitele_proc": 23.81,
+   "nazev": "PLUS pro Vinohrady",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 996,
+     "hlasy_proc": 5.22,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Karásek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 993,
+     "hlasy_proc": 5.21,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Vöröšová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 974,
+     "hlasy_proc": 5.11,
+     "titul_pred": "Mgr.",
+     "jmeno": "David",
+     "prijmeni": "Čížek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 944,
+     "hlasy_proc": 4.95,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Šlof",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 934,
+     "hlasy_proc": 4.9,
+     "titul_pred": "",
+     "jmeno": "Robert",
+     "prijmeni": "Kurucz",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T22:05:00"
+}

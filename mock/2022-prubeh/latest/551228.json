@@ -1,0 +1,94 @@
+{
+ "kod": "551228",
+ "nazev": "Brno-Komín",
+ "typ": "MCMO",
+ "voleno": 17,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T18:40:00",
+ "ucast": {
+  "okrsky_celkem": 6,
+  "okrsky_zprac": 1,
+  "okrsky_zprac_proc": 16.67,
+  "zapsani_volici": 919,
+  "vydane_obalky": 453,
+  "ucast_proc": 49.29,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 453,
+  "platne_listky": null,
+  "platne_hlasy": 7163
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 721,
+   "hlasy": 131,
+   "hlasy_proc": 1.83,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09"
+  },
+  {
+   "por": 2,
+   "vstrana": 340,
+   "hlasy": 563,
+   "hlasy_proc": 7.86,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL s podporou Starostů a nezávislých"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 1796,
+   "hlasy_proc": 25.07,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 463,
+   "hlasy": 479,
+   "hlasy_proc": 6.69,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komín pro děti a sportovce"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 518,
+   "hlasy_proc": 7.23,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 1504,
+   "hlasy": 146,
+   "hlasy_proc": 2.04,
+   "kandidatu": 16,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 7,
+   "vstrana": 364,
+   "hlasy": 3530,
+   "hlasy_proc": 49.28,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelená pro Komín"
+  }
+ ],
+ "stazeno": "2022-09-24T18:40:00"
+}

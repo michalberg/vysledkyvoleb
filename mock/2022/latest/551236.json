@@ -1,0 +1,227 @@
+{
+ "kod": "551236",
+ "nazev": "Brno-Medlánky",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:30:00",
+ "ucast": {
+  "okrsky_celkem": 4,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 3947,
+  "vydane_obalky": 2032,
+  "ucast_proc": 51.48,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2032,
+  "platne_listky": null,
+  "platne_hlasy": 28323
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1,
+   "hlasy": 1879,
+   "hlasy_proc": 6.63,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 229,
+     "hlasy_proc": 12.18,
+     "titul_pred": "",
+     "jmeno": "Augustin",
+     "prijmeni": "Dobeš",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 371,
+   "hlasy": 1227,
+   "hlasy_proc": 4.33,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD VAŠI STAROSTOVÉ"
+  },
+  {
+   "por": 3,
+   "vstrana": 687,
+   "hlasy": 2851,
+   "hlasy_proc": 10.07,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 4,
+     "hlasy": 219,
+     "hlasy_proc": 7.68,
+     "titul_pred": "",
+     "jmeno": "Denisa",
+     "prijmeni": "Horváthová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1504,
+   "hlasy": 768,
+   "hlasy_proc": 2.71,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 5,
+   "vstrana": 364,
+   "hlasy": 2550,
+   "hlasy_proc": 9.0,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Zelené Medlánky",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 219,
+     "hlasy_proc": 8.58,
+     "titul_pred": "Ing. et Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Menšík",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 90,
+   "hlasy": 19048,
+   "hlasy_proc": 67.25,
+   "kandidatu": 15,
+   "zastupitele": 12,
+   "zastupitele_proc": 80.0,
+   "nazev": "Občané pro Medlánky",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1365,
+     "hlasy_proc": 7.16,
+     "titul_pred": "JUDr.",
+     "jmeno": "Michal",
+     "prijmeni": "Marek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1314,
+     "hlasy_proc": 6.89,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Žůrková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1319,
+     "hlasy_proc": 6.92,
+     "titul_pred": "Dipl. fyz.",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Brabcová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1287,
+     "hlasy_proc": 6.75,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Lhotský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1297,
+     "hlasy_proc": 6.8,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladimíra",
+     "prijmeni": "Vespalcová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1293,
+     "hlasy_proc": 6.78,
+     "titul_pred": "Ing.",
+     "jmeno": "Klára",
+     "prijmeni": "Drápalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1293,
+     "hlasy_proc": 6.78,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Mohapl",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1289,
+     "hlasy_proc": 6.76,
+     "titul_pred": "Ing.",
+     "jmeno": "Blanka",
+     "prijmeni": "Teplanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1261,
+     "hlasy_proc": 6.62,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Bukovjanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1251,
+     "hlasy_proc": 6.56,
+     "titul_pred": "",
+     "jmeno": "Elena",
+     "prijmeni": "Stávková",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 11,
+     "hlasy": 1253,
+     "hlasy_proc": 6.57,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Horký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 1232,
+     "hlasy_proc": 6.46,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Hušková",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T22:30:00"
+}

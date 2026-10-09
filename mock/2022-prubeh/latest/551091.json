@@ -1,0 +1,74 @@
+{
+ "kod": "551091",
+ "nazev": "Brno-Starý Lískovec",
+ "typ": "MCMO",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:25:00",
+ "ucast": {
+  "okrsky_celkem": 12,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 75.0,
+  "zapsani_volici": 7247,
+  "vydane_obalky": 2854,
+  "ucast_proc": 39.38,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2853,
+  "platne_listky": null,
+  "platne_hlasy": 50761
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 53,
+   "hlasy": 21778,
+   "hlasy_proc": 42.9,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 1504,
+   "hlasy": 8801,
+   "hlasy_proc": 17.34,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 3,
+   "vstrana": 166,
+   "hlasy": 5873,
+   "hlasy_proc": 11.57,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 4,
+   "vstrana": 1058,
+   "hlasy": 9175,
+   "hlasy_proc": 18.07,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a Topka"
+  },
+  {
+   "por": 5,
+   "vstrana": 720,
+   "hlasy": 5134,
+   "hlasy_proc": 10.11,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  }
+ ],
+ "stazeno": "2022-09-24T19:25:00"
+}

@@ -1,0 +1,84 @@
+{
+ "kod": "551244",
+ "nazev": "Brno-Řečkovice a Mokrá Hora",
+ "typ": "MCMO",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 14,
+  "okrsky_zprac": 11,
+  "okrsky_zprac_proc": 78.57,
+  "zapsani_volici": 8717,
+  "vydane_obalky": 4280,
+  "ucast_proc": 49.1,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 4279,
+  "platne_listky": null,
+  "platne_hlasy": 88715
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 371,
+   "hlasy": 28185,
+   "hlasy_proc": 31.77,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD VAŠI STAROSTOVÉ"
+  },
+  {
+   "por": 2,
+   "vstrana": 463,
+   "hlasy": 19467,
+   "hlasy_proc": 21.94,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Spolek Za zdravé Řečkovice a Sdružení nestraníků"
+  },
+  {
+   "por": 3,
+   "vstrana": 687,
+   "hlasy": 14368,
+   "hlasy_proc": 16.2,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09"
+  },
+  {
+   "por": 4,
+   "vstrana": 1,
+   "hlasy": 11542,
+   "hlasy_proc": 13.01,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 14572,
+   "hlasy_proc": 16.43,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 1504,
+   "hlasy": 581,
+   "hlasy_proc": 0.65,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

@@ -1,0 +1,301 @@
+{
+ "kod": "551244",
+ "nazev": "Brno-Řečkovice a Mokrá Hora",
+ "typ": "MCMO",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T20:20:01",
+ "ucast": {
+  "okrsky_celkem": 14,
+  "okrsky_zprac": 14,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 11224,
+  "vydane_obalky": 5540,
+  "ucast_proc": 49.36,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 5539,
+  "platne_listky": null,
+  "platne_hlasy": 114945
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 371,
+   "hlasy": 35756,
+   "hlasy_proc": 31.11,
+   "kandidatu": 23,
+   "zastupitele": 7,
+   "zastupitele_proc": 30.43,
+   "nazev": "ČSSD VAŠI STAROSTOVÉ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2238,
+     "hlasy_proc": 6.25,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marek",
+     "prijmeni": "Viskot",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1725,
+     "hlasy_proc": 4.82,
+     "titul_pred": "Ing.",
+     "jmeno": "Filip",
+     "prijmeni": "Hrůza",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1616,
+     "hlasy_proc": 4.51,
+     "titul_pred": "Ing.",
+     "jmeno": "Vlasta",
+     "prijmeni": "Zelinková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1590,
+     "hlasy_proc": 4.44,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Otčenášek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1577,
+     "hlasy_proc": 4.41,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Vaculín",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1563,
+     "hlasy_proc": 4.37,
+     "titul_pred": "",
+     "jmeno": "Josef",
+     "prijmeni": "Kugler",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1578,
+     "hlasy_proc": 4.41,
+     "titul_pred": "",
+     "jmeno": "Miloš",
+     "prijmeni": "Toman",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 463,
+   "hlasy": 25413,
+   "hlasy_proc": 22.11,
+   "kandidatu": 23,
+   "zastupitele": 5,
+   "zastupitele_proc": 21.74,
+   "nazev": "Spolek Za zdravé Řečkovice a Sdružení nestraníků",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1262,
+     "hlasy_proc": 4.96,
+     "titul_pred": "PhDr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Štaud",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1272,
+     "hlasy_proc": 5.0,
+     "titul_pred": "",
+     "jmeno": "Česlav",
+     "prijmeni": "Ulrich",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1254,
+     "hlasy_proc": 4.93,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Růžička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1181,
+     "hlasy_proc": 4.64,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Prchal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1181,
+     "hlasy_proc": 4.64,
+     "titul_pred": "Ing.",
+     "jmeno": "Petra",
+     "prijmeni": "Skalická",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 687,
+   "hlasy": 19126,
+   "hlasy_proc": 16.64,
+   "kandidatu": 23,
+   "zastupitele": 4,
+   "zastupitele_proc": 17.39,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 987,
+     "hlasy_proc": 5.16,
+     "titul_pred": "",
+     "jmeno": "Dana",
+     "prijmeni": "Filipi",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 935,
+     "hlasy_proc": 4.88,
+     "titul_pred": "",
+     "jmeno": "Richard",
+     "prijmeni": "Foltýn",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 939,
+     "hlasy_proc": 4.9,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Vít",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 860,
+     "hlasy_proc": 4.49,
+     "titul_pred": "Ing.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Michalík",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1,
+   "hlasy": 15216,
+   "hlasy_proc": 13.24,
+   "kandidatu": 23,
+   "zastupitele": 3,
+   "zastupitele_proc": 13.04,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 913,
+     "hlasy_proc": 6.0,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Bořecký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 765,
+     "hlasy_proc": 5.02,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Libus",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 818,
+     "hlasy_proc": 5.37,
+     "titul_pred": "",
+     "jmeno": "Eva",
+     "prijmeni": "Janovská",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 18728,
+   "hlasy_proc": 16.29,
+   "kandidatu": 23,
+   "zastupitele": 4,
+   "zastupitele_proc": 17.39,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 950,
+     "hlasy_proc": 5.07,
+     "titul_pred": "Mgr.",
+     "jmeno": "René",
+     "prijmeni": "Černý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 859,
+     "hlasy_proc": 4.58,
+     "titul_pred": "Prof. Ing.",
+     "jmeno": "Vladislav",
+     "prijmeni": "Musil",
+     "titul_za": "CSc."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 827,
+     "hlasy_proc": 4.41,
+     "titul_pred": "",
+     "jmeno": "Lenka",
+     "prijmeni": "Vystrčilová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 831,
+     "hlasy_proc": 4.43,
+     "titul_pred": "Ing.",
+     "jmeno": "Daniel",
+     "prijmeni": "Struž",
+     "titul_za": "MBA"
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 1504,
+   "hlasy": 706,
+   "hlasy_proc": 0.61,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  }
+ ],
+ "stazeno": "2022-09-24T20:20:01"
+}

@@ -1,0 +1,104 @@
+{
+ "kod": "551007",
+ "nazev": "Brno-Královo Pole",
+ "typ": "MCMO",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:10:00",
+ "ucast": {
+  "okrsky_celkem": 19,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 10.53,
+  "zapsani_volici": 1776,
+  "vydane_obalky": 659,
+  "ucast_proc": 37.11,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 659,
+  "platne_listky": null,
+  "platne_hlasy": 16320
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 739,
+   "hlasy": 1038,
+   "hlasy_proc": 6.36,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Královopolští patrioti"
+  },
+  {
+   "por": 2,
+   "vstrana": 687,
+   "hlasy": 3577,
+   "hlasy_proc": 21.92,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 5650,
+   "hlasy_proc": 34.62,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 1504,
+   "hlasy": 739,
+   "hlasy_proc": 4.53,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 5,
+   "vstrana": 1305,
+   "hlasy": 1648,
+   "hlasy_proc": 10.1,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí"
+  },
+  {
+   "por": 6,
+   "vstrana": 340,
+   "hlasy": 1422,
+   "hlasy_proc": 8.71,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí)"
+  },
+  {
+   "por": 7,
+   "vstrana": 371,
+   "hlasy": 752,
+   "hlasy_proc": 4.61,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KRÁLOVO POLE S DOBROU ADRESOU A SOCIÁLNÍ DEMOKRACIÍ"
+  },
+  {
+   "por": 8,
+   "vstrana": 1576,
+   "hlasy": 1494,
+   "hlasy_proc": 9.15,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Zelení pro Královo Pole"
+  }
+ ],
+ "stazeno": "2022-09-24T19:10:00"
+}

@@ -1,0 +1,363 @@
+{
+ "kod": "550990",
+ "nazev": "Brno-Žabovřesky",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:55:00",
+ "ucast": {
+  "okrsky_celkem": 25,
+  "okrsky_zprac": 25,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 15838,
+  "vydane_obalky": 7703,
+  "ucast_proc": 48.64,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 7700,
+  "platne_listky": null,
+  "platne_hlasy": 177213
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 340,
+   "hlasy": 37784,
+   "hlasy_proc": 21.32,
+   "kandidatu": 25,
+   "zastupitele": 6,
+   "zastupitele_proc": 24.0,
+   "nazev": "Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1884,
+     "hlasy_proc": 4.98,
+     "titul_pred": "Mgr.",
+     "jmeno": "Filip",
+     "prijmeni": "Leder",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1587,
+     "hlasy_proc": 4.2,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Crhan",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1608,
+     "hlasy_proc": 4.25,
+     "titul_pred": "",
+     "jmeno": "Josef",
+     "prijmeni": "Červenka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1604,
+     "hlasy_proc": 4.24,
+     "titul_pred": "Ing.",
+     "jmeno": "Denisa",
+     "prijmeni": "Janková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1549,
+     "hlasy_proc": 4.09,
+     "titul_pred": "",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Maslo",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1564,
+     "hlasy_proc": 4.13,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Jedlička",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 720,
+   "hlasy": 17322,
+   "hlasy_proc": 9.77,
+   "kandidatu": 25,
+   "zastupitele": 3,
+   "zastupitele_proc": 12.0,
+   "nazev": "Česká pirátská strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 819,
+     "hlasy_proc": 4.72,
+     "titul_pred": "Mgr.",
+     "jmeno": "Silvie",
+     "prijmeni": "Mrkvanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 795,
+     "hlasy_proc": 4.58,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Grmela",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 758,
+     "hlasy_proc": 4.37,
+     "titul_pred": "Ing.",
+     "jmeno": "Zbyšek",
+     "prijmeni": "Martoch",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 371,
+   "hlasy": 15324,
+   "hlasy_proc": 8.65,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Vaše starostka a ČSSD",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1103,
+     "hlasy_proc": 7.19,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Pokorná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 738,
+     "hlasy_proc": 4.81,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marek",
+     "prijmeni": "Šlapal",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1277,
+   "hlasy": 16737,
+   "hlasy_proc": 9.44,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Hnutí pro Žabiny",
+   "zvoleni": [
+    {
+     "poradi": 3,
+     "hlasy": 782,
+     "hlasy_proc": 4.67,
+     "titul_pred": "Ing.",
+     "jmeno": "Jindřich",
+     "prijmeni": "Zuziak",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 790,
+     "hlasy_proc": 4.72,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marek",
+     "prijmeni": "Havlíček",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1504,
+   "hlasy": 2332,
+   "hlasy_proc": 1.32,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 6,
+   "vstrana": 1492,
+   "hlasy": 10472,
+   "hlasy_proc": 5.91,
+   "kandidatu": 24,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.0,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 470,
+     "hlasy_proc": 4.48,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Mládek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 31207,
+   "hlasy_proc": 17.61,
+   "kandidatu": 25,
+   "zastupitele": 5,
+   "zastupitele_proc": 20.0,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1461,
+     "hlasy_proc": 4.68,
+     "titul_pred": "Ing. Bc.",
+     "jmeno": "Pavel",
+     "prijmeni": "Tyralík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1308,
+     "hlasy_proc": 4.19,
+     "titul_pred": "",
+     "jmeno": "Libor",
+     "prijmeni": "Tupa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1336,
+     "hlasy_proc": 4.28,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "David",
+     "prijmeni": "Hoffmann",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1274,
+     "hlasy_proc": 4.08,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Kvarda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1276,
+     "hlasy_proc": 4.08,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Hemerka",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 1245,
+   "hlasy": 3026,
+   "hlasy_proc": 1.71,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 9,
+   "vstrana": 1312,
+   "hlasy": 7759,
+   "hlasy_proc": 4.38,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelená pro Žabovřesky - Strana zelených s podporou Moravského zemského hnutí a nezávislých kandidátů"
+  },
+  {
+   "por": 10,
+   "vstrana": 687,
+   "hlasy": 35250,
+   "hlasy_proc": 19.89,
+   "kandidatu": 25,
+   "zastupitele": 6,
+   "zastupitele_proc": 24.0,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1535,
+     "hlasy_proc": 4.35,
+     "titul_pred": "Bc.",
+     "jmeno": "Igor",
+     "prijmeni": "Fučík",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1509,
+     "hlasy_proc": 4.28,
+     "titul_pred": "",
+     "jmeno": "Ivo",
+     "prijmeni": "Borovec",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1494,
+     "hlasy_proc": 4.23,
+     "titul_pred": "Ing.",
+     "jmeno": "Dana",
+     "prijmeni": "Šlezingerová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1531,
+     "hlasy_proc": 4.34,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Bobrovský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1470,
+     "hlasy_proc": 4.17,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Hlava",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1461,
+     "hlasy_proc": 4.14,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Gašo",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T22:55:00"
+}

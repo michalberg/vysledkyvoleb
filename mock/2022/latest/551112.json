@@ -1,0 +1,255 @@
+{
+ "kod": "551112",
+ "nazev": "Brno-Nový Lískovec",
+ "typ": "MCMO",
+ "voleno": 19,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T00:10:00",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 7841,
+  "vydane_obalky": 3396,
+  "ucast_proc": 43.31,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3395,
+  "platne_listky": null,
+  "platne_hlasy": 57602
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1504,
+   "hlasy": 4849,
+   "hlasy_proc": 8.42,
+   "kandidatu": 19,
+   "zastupitele": 1,
+   "zastupitele_proc": 5.26,
+   "nazev": "RESTART PRO BRNO",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 334,
+     "hlasy_proc": 6.88,
+     "titul_pred": "JUDr.",
+     "jmeno": "Petr",
+     "prijmeni": "Všetečka",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1327,
+   "hlasy": 16511,
+   "hlasy_proc": 28.66,
+   "kandidatu": 19,
+   "zastupitele": 6,
+   "zastupitele_proc": 31.58,
+   "nazev": "SPOLU pro Nový Lískovec (ODS, KDU-ČSL, TOP 09)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 962,
+     "hlasy_proc": 5.82,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Michael",
+     "prijmeni": "Brázda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 988,
+     "hlasy_proc": 5.98,
+     "titul_pred": "Mgr.",
+     "jmeno": "Hana",
+     "prijmeni": "Pospíšilová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 874,
+     "hlasy_proc": 5.29,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Proch",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 865,
+     "hlasy_proc": 5.23,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Ulrich",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 858,
+     "hlasy_proc": 5.19,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Brunclík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 967,
+     "hlasy_proc": 5.85,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Punčochář",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 497,
+   "hlasy": 7509,
+   "hlasy_proc": 13.04,
+   "kandidatu": 19,
+   "zastupitele": 2,
+   "zastupitele_proc": 10.53,
+   "nazev": "NOVOLÍSKOVEČTÍ PATRIOTI A SOUKROMNÍCI",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 442,
+     "hlasy_proc": 5.88,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Oupor",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 456,
+     "hlasy_proc": 6.07,
+     "titul_pred": "MUDr.",
+     "jmeno": "Marie",
+     "prijmeni": "Malachová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 90,
+   "hlasy": 23435,
+   "hlasy_proc": 40.68,
+   "kandidatu": 19,
+   "zastupitele": 8,
+   "zastupitele_proc": 42.11,
+   "nazev": "Tři oříšky pro Lískovec",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1355,
+     "hlasy_proc": 5.78,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Drápalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1339,
+     "hlasy_proc": 5.71,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Privarčák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1284,
+     "hlasy_proc": 5.47,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Lenka",
+     "prijmeni": "Brabcová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1275,
+     "hlasy_proc": 5.44,
+     "titul_pred": "",
+     "jmeno": "Alois",
+     "prijmeni": "Jaša",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1238,
+     "hlasy_proc": 5.28,
+     "titul_pred": "",
+     "jmeno": "Bohuslava",
+     "prijmeni": "Musilová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1282,
+     "hlasy_proc": 5.47,
+     "titul_pred": "Ing.",
+     "jmeno": "Dalibor",
+     "prijmeni": "Hladík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1252,
+     "hlasy_proc": 5.34,
+     "titul_pred": "",
+     "jmeno": "Ludmila",
+     "prijmeni": "Adlerová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1269,
+     "hlasy_proc": 5.41,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Hradílek",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 5298,
+   "hlasy_proc": 9.2,
+   "kandidatu": 19,
+   "zastupitele": 2,
+   "zastupitele_proc": 10.53,
+   "nazev": "LÍSKOVECKÝ KONIKLEC - Společně pro lepší Nový Lískovec",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 351,
+     "hlasy_proc": 6.62,
+     "titul_pred": "Bc.",
+     "jmeno": "Josef",
+     "prijmeni": "Schmied",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 318,
+     "hlasy_proc": 6.0,
+     "titul_pred": "Ing.",
+     "jmeno": "Vladimíra",
+     "prijmeni": "Stuchlíková",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T00:10:00"
+}

@@ -1,0 +1,124 @@
+{
+ "kod": "551058",
+ "nazev": "Brno-Židenice",
+ "typ": "MCMO",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:25:00",
+ "ucast": {
+  "okrsky_celkem": 19,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 47.37,
+  "zapsani_volici": 6864,
+  "vydane_obalky": 2892,
+  "ucast_proc": 42.13,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2854,
+  "platne_listky": null,
+  "platne_hlasy": 75871
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 53,
+   "hlasy": 8399,
+   "hlasy_proc": 11.07,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 14941,
+   "hlasy_proc": 19.69,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 371,
+   "hlasy": 2366,
+   "hlasy_proc": 3.12,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD + PATRIOTI PRO ŽIDENICE A JULIÁNOV"
+  },
+  {
+   "por": 4,
+   "vstrana": 1500,
+   "hlasy": 19719,
+   "hlasy_proc": 25.99,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PETR KUNC - HLAS PRO ŽIDENICE"
+  },
+  {
+   "por": 5,
+   "vstrana": 1492,
+   "hlasy": 8096,
+   "hlasy_proc": 10.67,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí za zelenou pro Židenice"
+  },
+  {
+   "por": 6,
+   "vstrana": 355,
+   "hlasy": 11686,
+   "hlasy_proc": 15.4,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL s podporou Starostů a nezávislých"
+  },
+  {
+   "por": 7,
+   "vstrana": 480,
+   "hlasy": 2669,
+   "hlasy_proc": 3.52,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Nezávislí s podporou TOP 09"
+  },
+  {
+   "por": 8,
+   "vstrana": 720,
+   "hlasy": 4176,
+   "hlasy_proc": 5.5,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 9,
+   "vstrana": 1357,
+   "hlasy": 2645,
+   "hlasy_proc": 3.49,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Spojené ruce pro Julec a Šimice"
+  },
+  {
+   "por": 10,
+   "vstrana": 1504,
+   "hlasy": 1174,
+   "hlasy_proc": 1.55,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  }
+ ],
+ "stazeno": "2022-09-24T19:25:00"
+}

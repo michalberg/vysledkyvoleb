@@ -1,0 +1,377 @@
+{
+ "kod": "551287",
+ "nazev": "Brno-Líšeň",
+ "typ": "MCMO",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T21:55:00",
+ "ucast": {
+  "okrsky_celkem": 19,
+  "okrsky_zprac": 19,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 19760,
+  "vydane_obalky": 9069,
+  "ucast_proc": 45.9,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 9040,
+  "platne_listky": null,
+  "platne_hlasy": 230771
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 166,
+   "hlasy": 10257,
+   "hlasy_proc": 4.44,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 2,
+   "vstrana": 1504,
+   "hlasy": 3722,
+   "hlasy_proc": 1.61,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "RESTART PRO BRNO"
+  },
+  {
+   "por": 3,
+   "vstrana": 1492,
+   "hlasy": 18029,
+   "hlasy_proc": 7.81,
+   "kandidatu": 29,
+   "zastupitele": 2,
+   "zastupitele_proc": 6.9,
+   "nazev": "SPD, Trikolora, Moravané a nezávislí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 680,
+     "hlasy_proc": 3.77,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Bláha",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 669,
+     "hlasy_proc": 3.71,
+     "titul_pred": "",
+     "jmeno": "Monika",
+     "prijmeni": "Hrachovinová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 449,
+   "hlasy": 26982,
+   "hlasy_proc": 11.69,
+   "kandidatu": 29,
+   "zastupitele": 4,
+   "zastupitele_proc": 13.79,
+   "nazev": "Sousedé z Líšně",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1084,
+     "hlasy_proc": 4.01,
+     "titul_pred": "Ing.",
+     "jmeno": "Andrea",
+     "prijmeni": "Ondrůjová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1147,
+     "hlasy_proc": 4.25,
+     "titul_pred": "doc. PharmDr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Zendulka",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1006,
+     "hlasy_proc": 3.72,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Sadílek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1039,
+     "hlasy_proc": 3.85,
+     "titul_pred": "",
+     "jmeno": "Jozef",
+     "prijmeni": "Sedláček",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 30976,
+   "hlasy_proc": 13.42,
+   "kandidatu": 29,
+   "zastupitele": 4,
+   "zastupitele_proc": 13.79,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1108,
+     "hlasy_proc": 3.57,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Skotal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1210,
+     "hlasy_proc": 3.9,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Iva",
+     "prijmeni": "Kremitovská",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1126,
+     "hlasy_proc": 3.63,
+     "titul_pred": "Ing.",
+     "jmeno": "Bronislav",
+     "prijmeni": "Horák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1143,
+     "hlasy_proc": 3.68,
+     "titul_pred": "Ing.",
+     "jmeno": "Šárka",
+     "prijmeni": "Zemanová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 371,
+   "hlasy": 83520,
+   "hlasy_proc": 36.19,
+   "kandidatu": 29,
+   "zastupitele": 12,
+   "zastupitele_proc": 41.38,
+   "nazev": "Váš starosta a občané pro Líšeň",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3790,
+     "hlasy_proc": 4.53,
+     "titul_pred": "Mgr.",
+     "jmeno": "Břetislav",
+     "prijmeni": "Štefan",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3291,
+     "hlasy_proc": 3.94,
+     "titul_pred": "PhDr.",
+     "jmeno": "Ludvík",
+     "prijmeni": "Belcredi",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3135,
+     "hlasy_proc": 3.75,
+     "titul_pred": "Mgr.",
+     "jmeno": "Alena",
+     "prijmeni": "Stejskalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2911,
+     "hlasy_proc": 3.48,
+     "titul_pred": "",
+     "jmeno": "Oldřich",
+     "prijmeni": "Lupečka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2879,
+     "hlasy_proc": 3.44,
+     "titul_pred": "",
+     "jmeno": "Naděžda",
+     "prijmeni": "Jurčová",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2889,
+     "hlasy_proc": 3.45,
+     "titul_pred": "",
+     "jmeno": "Hana",
+     "prijmeni": "Sosíková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2894,
+     "hlasy_proc": 3.46,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Čech",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2916,
+     "hlasy_proc": 3.49,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Mokrý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2893,
+     "hlasy_proc": 3.46,
+     "titul_pred": "",
+     "jmeno": "Jana",
+     "prijmeni": "Zlonická",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 2867,
+     "hlasy_proc": 3.43,
+     "titul_pred": "",
+     "jmeno": "Vlasta",
+     "prijmeni": "Marková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 2905,
+     "hlasy_proc": 3.47,
+     "titul_pred": "Bc.",
+     "jmeno": "Jaroslava",
+     "prijmeni": "Lánová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 2872,
+     "hlasy_proc": 3.43,
+     "titul_pred": "Ing.",
+     "jmeno": "Vlastislav",
+     "prijmeni": "Kolečkář",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 355,
+   "hlasy": 18122,
+   "hlasy_proc": 7.85,
+   "kandidatu": 29,
+   "zastupitele": 2,
+   "zastupitele_proc": 6.9,
+   "nazev": "Lidovci a nestraníci (KDU-ČSL)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 910,
+     "hlasy_proc": 5.02,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Eliška",
+     "prijmeni": "Vondráčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 859,
+     "hlasy_proc": 4.74,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Chaloupka",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 687,
+   "hlasy": 39163,
+   "hlasy_proc": 16.97,
+   "kandidatu": 29,
+   "zastupitele": 5,
+   "zastupitele_proc": 17.24,
+   "nazev": "SPOLEČNĚ - ODS a TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1691,
+     "hlasy_proc": 4.31,
+     "titul_pred": "JUDr. PhDr.",
+     "jmeno": "Martin",
+     "prijmeni": "Příborský",
+     "titul_za": "EMLE"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1494,
+     "hlasy_proc": 3.81,
+     "titul_pred": "JUDr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Svoboda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1436,
+     "hlasy_proc": 3.66,
+     "titul_pred": "Ing.",
+     "jmeno": "Eva",
+     "prijmeni": "Svobodová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1481,
+     "hlasy_proc": 3.78,
+     "titul_pred": "Ing. Mgr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Hložánek",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1546,
+     "hlasy_proc": 3.94,
+     "titul_pred": "MUDr.",
+     "jmeno": "Josef",
+     "prijmeni": "Drbal",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T21:55:00"
+}
