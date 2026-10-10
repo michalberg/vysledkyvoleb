@@ -5,25 +5,25 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:40:02",
+ "generovano": "2026-10-10T16:51:02",
  "ucast": {
   "okrsky_celkem": 37,
-  "okrsky_zprac": 7,
-  "okrsky_zprac_proc": 18.92,
-  "zapsani_volici": 7275,
-  "vydane_obalky": 2017,
-  "ucast_proc": 27.73,
+  "okrsky_zprac": 11,
+  "okrsky_zprac_proc": 29.73,
+  "zapsani_volici": 11492,
+  "vydane_obalky": 3342,
+  "ucast_proc": 29.08,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2014,
-  "platne_listky": 1998,
-  "platne_hlasy": 49595
+  "odevzdane_obalky": 3335,
+  "platne_listky": 3310,
+  "platne_hlasy": 81801
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 13930,
-   "hlasy_proc": 28.09,
+   "hlasy": 23795,
+   "hlasy_proc": 29.09,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1491,
-   "hlasy": 2991,
-   "hlasy_proc": 6.03,
+   "hlasy": 5447,
+   "hlasy_proc": 6.66,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1500,
-   "hlasy": 1579,
-   "hlasy_proc": 3.18,
+   "hlasy": 2648,
+   "hlasy_proc": 3.24,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 53,
-   "hlasy": 14030,
-   "hlasy_proc": 28.29,
+   "hlasy": 23104,
+   "hlasy_proc": 28.24,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1895,
-   "hlasy": 2299,
-   "hlasy_proc": 4.64,
+   "hlasy": 3375,
+   "hlasy_proc": 4.13,
    "kandidatu": 26,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1837,
-   "hlasy": 1348,
-   "hlasy_proc": 2.72,
+   "hlasy": 2104,
+   "hlasy_proc": 2.57,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1931,
-   "hlasy": 1817,
-   "hlasy_proc": 3.66,
+   "hlasy": 2833,
+   "hlasy_proc": 3.46,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 482,
-   "hlasy": 53,
-   "hlasy_proc": 0.11,
+   "hlasy": 98,
+   "hlasy_proc": 0.12,
    "kandidatu": 1,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,13 +102,13 @@
   {
    "por": 9,
    "vstrana": 1370,
-   "hlasy": 11548,
-   "hlasy_proc": 23.28,
+   "hlasy": 18397,
+   "hlasy_proc": 22.49,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Volba pro Teplice"
   }
  ],
- "stazeno": "2026-10-10T16:39:48+02:00"
+ "stazeno": "2026-10-10T16:48:25+02:00"
 }
