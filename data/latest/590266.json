@@ -4,26 +4,26 @@
  "typ": "OBEC",
  "voleno": 27,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T19:50:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T21:57:01",
  "ucast": {
   "okrsky_celkem": 39,
-  "okrsky_zprac": 38,
-  "okrsky_zprac_proc": 97.44,
-  "zapsani_volici": 25933,
-  "vydane_obalky": 11855,
-  "ucast_proc": 45.71,
+  "okrsky_zprac": 39,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 27476,
+  "vydane_obalky": 12544,
+  "ucast_proc": 45.65,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 11853,
-  "platne_listky": 11759,
-  "platne_hlasy": 295365
+  "odevzdane_obalky": 12542,
+  "platne_listky": 12445,
+  "platne_hlasy": 312528
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 47,
-   "hlasy": 5096,
-   "hlasy_proc": 1.73,
+   "hlasy": 5363,
+   "hlasy_proc": 1.72,
    "kandidatu": 24,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,38 +32,179 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 48513,
-   "hlasy_proc": 16.42,
+   "hlasy": 51242,
+   "hlasy_proc": 16.4,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2292,
+     "hlasy_proc": 4.47,
+     "titul_pred": "",
+     "jmeno": "Miloš",
+     "prijmeni": "Hrůza",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2204,
+     "hlasy_proc": 4.3,
+     "titul_pred": "Ing.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Kratochvílová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2099,
+     "hlasy_proc": 4.09,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Řehoř",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2036,
+     "hlasy_proc": 3.97,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Navrkal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2104,
+     "hlasy_proc": 4.1,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Franěk",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 470,
-   "hlasy": 62417,
-   "hlasy_proc": 21.13,
+   "hlasy": 67023,
+   "hlasy_proc": 21.45,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "PRO TŘEBÍČ"
+   "zastupitele": 6,
+   "zastupitele_proc": 22.22,
+   "nazev": "PRO TŘEBÍČ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2969,
+     "hlasy_proc": 4.42,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Pacal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2665,
+     "hlasy_proc": 3.97,
+     "titul_pred": "Mgr.",
+     "jmeno": "Eva",
+     "prijmeni": "Vaňková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2706,
+     "hlasy_proc": 4.03,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Urbánek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2711,
+     "hlasy_proc": 4.04,
+     "titul_pred": "",
+     "jmeno": "Naděžda",
+     "prijmeni": "Dobešová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2542,
+     "hlasy_proc": 3.79,
+     "titul_pred": "Mgr.",
+     "jmeno": "Karel",
+     "prijmeni": "Dolák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2734,
+     "hlasy_proc": 4.07,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Drobílek",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 1688,
-   "hlasy": 37356,
-   "hlasy_proc": 12.65,
+   "hlasy": 39364,
+   "hlasy_proc": 12.6,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "MOSTy Třebíč"
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "MOSTy Třebíč",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2084,
+     "hlasy_proc": 5.29,
+     "titul_pred": "Bc.",
+     "jmeno": "Blanka",
+     "prijmeni": "Kutinová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1956,
+     "hlasy_proc": 4.96,
+     "titul_pred": "Bc.",
+     "jmeno": "Anna",
+     "prijmeni": "Velebová Kolaříková",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1892,
+     "hlasy_proc": 4.8,
+     "titul_pred": "",
+     "jmeno": "Stanislav",
+     "prijmeni": "Neuman",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1684,
+     "hlasy_proc": 4.27,
+     "titul_pred": "Ing.",
+     "jmeno": "Iveta",
+     "prijmeni": "Ondráčková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 371,
-   "hlasy": 5768,
-   "hlasy_proc": 1.95,
+   "hlasy": 6182,
+   "hlasy_proc": 1.98,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,53 +213,169 @@
   {
    "por": 6,
    "vstrana": 1874,
-   "hlasy": 23198,
-   "hlasy_proc": 7.85,
+   "hlasy": 24293,
+   "hlasy_proc": 7.77,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Živé Město"
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "Živé Město",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1330,
+     "hlasy_proc": 5.47,
+     "titul_pred": "Bc.",
+     "jmeno": "Jan",
+     "prijmeni": "Burda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1136,
+     "hlasy_proc": 4.67,
+     "titul_pred": "RNDr.",
+     "jmeno": "Rostislav",
+     "prijmeni": "Štork",
+     "titul_za": "Ph.D."
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 529,
-   "hlasy": 42019,
-   "hlasy_proc": 14.23,
+   "hlasy": 44013,
+   "hlasy_proc": 14.08,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Piráti - Břehy - Zelení"
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "Piráti - Břehy - Zelení",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2167,
+     "hlasy_proc": 4.92,
+     "titul_pred": "Ing.",
+     "jmeno": "Aleš",
+     "prijmeni": "Novák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2240,
+     "hlasy_proc": 5.08,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Zeibert",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1795,
+     "hlasy_proc": 4.07,
+     "titul_pred": "RNDr.",
+     "jmeno": "Jarmila",
+     "prijmeni": "Krásová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1850,
+     "hlasy_proc": 4.2,
+     "titul_pred": "",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Kratochvíl",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 1699,
-   "hlasy": 37744,
-   "hlasy_proc": 12.78,
+   "hlasy": 40384,
+   "hlasy_proc": 12.92,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Třebíč Občanům!"
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "Třebíč Občanům!",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1946,
+     "hlasy_proc": 4.81,
+     "titul_pred": "Ing. Bc.",
+     "jmeno": "Jaromír",
+     "prijmeni": "Barák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1733,
+     "hlasy_proc": 4.29,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiřina",
+     "prijmeni": "Tichá",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1696,
+     "hlasy_proc": 4.19,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marius",
+     "prijmeni": "Svoboda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1607,
+     "hlasy_proc": 3.97,
+     "titul_pred": "",
+     "jmeno": "Jitka",
+     "prijmeni": "Hajná",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 9,
    "vstrana": 355,
-   "hlasy": 22625,
-   "hlasy_proc": 7.66,
+   "hlasy": 23380,
+   "hlasy_proc": 7.48,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "LIDOVCI"
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "LIDOVCI",
+   "zvoleni": [
+    {
+     "poradi": 3,
+     "hlasy": 1414,
+     "hlasy_proc": 6.04,
+     "titul_pred": "MUDr.",
+     "jmeno": "Karel",
+     "prijmeni": "Janíček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1066,
+     "hlasy_proc": 4.55,
+     "titul_pred": "MUDr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Križan",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 10,
    "vstrana": 1487,
-   "hlasy": 10629,
-   "hlasy_proc": 3.6,
+   "hlasy": 11284,
+   "hlasy_proc": 3.61,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPD a Trikolora"
   }
  ],
- "stazeno": "2026-10-10T19:49:51+02:00"
+ "stazeno": "2026-10-10T21:57:16+02:00"
 }
