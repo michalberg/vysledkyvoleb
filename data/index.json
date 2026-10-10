@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T21:59:16+02:00",
+ "aktualizovano": "2026-10-10T22:01:07+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 283,
+   "okrsky_zprac": 284,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T21:59:01"
+   "generovano": "2026-10-10T22:01:00"
   },
   {
    "kod": "551198",
@@ -143,9 +143,9 @@
    "nazev": "Brno-Židenice",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 15,
+   "okrsky_zprac": 16,
    "okrsky_celkem": 19,
-   "generovano": "2026-10-10T21:39:00"
+   "generovano": "2026-10-10T22:00:00"
   },
   {
    "kod": "563510",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 706,
+   "okrsky_zprac": 716,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T21:59:01"
+   "generovano": "2026-10-10T22:01:00"
   },
   {
    "kod": "500054",
@@ -224,9 +224,9 @@
    "nazev": "Praha 3",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 25,
+   "okrsky_zprac": 26,
    "okrsky_celkem": 52,
-   "generovano": "2026-10-10T21:35:01"
+   "generovano": "2026-10-10T22:00:00"
   },
   {
    "kod": "589250",
@@ -287,27 +287,27 @@
    "nazev": "Praha 4",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 98,
+   "okrsky_zprac": 99,
    "okrsky_celkem": 132,
-   "generovano": "2026-10-10T21:59:01"
+   "generovano": "2026-10-10T22:00:00"
   },
   {
    "kod": "500143",
    "nazev": "Praha 5",
    "voleno": 41,
    "je_spocteno": false,
-   "okrsky_zprac": 41,
+   "okrsky_zprac": 42,
    "okrsky_celkem": 81,
-   "generovano": "2026-10-10T21:59:01"
+   "generovano": "2026-10-10T22:00:00"
   },
   {
    "kod": "500178",
    "nazev": "Praha 6",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 57,
+   "okrsky_zprac": 59,
    "okrsky_celkem": 104,
-   "generovano": "2026-10-10T21:59:01"
+   "generovano": "2026-10-10T22:01:00"
   },
   {
    "kod": "500186",
@@ -323,9 +323,9 @@
    "nazev": "Praha 8",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 79,
+   "okrsky_zprac": 80,
    "okrsky_celkem": 106,
-   "generovano": "2026-10-10T21:57:01"
+   "generovano": "2026-10-10T22:00:00"
   },
   {
    "kod": "500216",
@@ -341,18 +341,18 @@
    "nazev": "Praha 10",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 85,
+   "okrsky_zprac": 86,
    "okrsky_celkem": 109,
-   "generovano": "2026-10-10T21:58:01"
+   "generovano": "2026-10-10T22:01:00"
   },
   {
    "kod": "547034",
    "nazev": "Praha 11",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 42,
+   "okrsky_zprac": 43,
    "okrsky_celkem": 62,
-   "generovano": "2026-10-10T21:59:01"
+   "generovano": "2026-10-10T22:00:00"
   },
   {
    "kod": "547107",
@@ -377,9 +377,9 @@
    "nazev": "Praha 14",
    "voleno": 31,
    "je_spocteno": false,
-   "okrsky_zprac": 12,
+   "okrsky_zprac": 13,
    "okrsky_celkem": 32,
-   "generovano": "2026-10-10T21:44:01"
+   "generovano": "2026-10-10T22:01:00"
   },
   {
    "kod": "547387",
@@ -440,9 +440,9 @@
    "nazev": "Praha 21",
    "voleno": 17,
    "je_spocteno": false,
-   "okrsky_zprac": 5,
+   "okrsky_zprac": 6,
    "okrsky_celkem": 8,
-   "generovano": "2026-10-10T21:54:01"
+   "generovano": "2026-10-10T22:01:00"
   },
   {
    "kod": "538931",
