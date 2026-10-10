@@ -4,10 +4,6 @@
   "interval_s": 12,
   "nadpis": "Městská část",
   "hlavni": true,
-  "dalsi_stranka": {
-    "text": "Další města →",
-    "href": "mesta.html"
-  },
   "obce": [
     {
       "kod": "554782",

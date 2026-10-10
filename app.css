@@ -194,3 +194,9 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 /* ikona mandátu */
 .seat{width:.78em;height:.78em;margin-left:.18em;vertical-align:-.06em;fill:currentColor;opacity:.75;flex:none}
 .foot .seat,.m-note .seat{width:1.1em;height:1.1em;vertical-align:-.2em;margin:0 .15em 0 0}
+
+/* odkazy mezi stránkami */
+.pages{display:flex;gap:6px;align-items:center}
+.pages .on{background:var(--accent);color:var(--on-accent);border-color:var(--accent)}
+.m-note .pages{margin-top:12px;flex-wrap:wrap}
+.m-note .pages > *{min-height:44px;display:flex;align-items:center;padding:0 14px}

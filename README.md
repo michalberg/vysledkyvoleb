@@ -69,7 +69,7 @@ Stahovací skript čte všechny tři konfigurace a ukládá všechno do `data/`.
 
 | Soubor | Obsah |
 |---|---|
-| `config.json`, `config-mesta.json` | volby, datum, interval rotace, `nadpis` levého sloupce, `dalsi_stranka` (odkaz v patičce) a seznam celků: `kod` (KODZASTUP), `zobrazit`, `kratky` (levý sloupec), `nase` (číslo naší kandidátky pro 2026 a 2022), `odkaz` |
+| `config.json`, `config-mesta.json` | volby, datum, interval rotace, `nadpis` levého sloupce a seznam celků: `kod` (KODZASTUP), `zobrazit`, `kratky` (levý sloupec), `nase` (číslo naší kandidátky pro 2026 a 2022), `odkaz` |
 | `barvy.json` | barevné skupiny stran; barva kandidátky podle výjimky `"KODZASTUP:číslo"`, jinak podle kódu VSTRANA, jinak `vychozi`; volitelně `barva_tmava` pro tmavý režim |
 | `zkratky.json` | krátké názvy kandidátek do grafu (klíč = přesný oficiální název), plný název je v tooltipu |
 | `strany.json` | číselník stran (VSTRANA → název, zkratka, typ, složení koalice), generuje `scripts/ciselnik.py` |

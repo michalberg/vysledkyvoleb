@@ -46,6 +46,15 @@ const isMain = i => !!S.cfg.hlavni && i === 0;
 const isMainKod = kod => !!S.cfg.hlavni && kod === S.units[0].kod;
 // Hlavní celek ukazuje všechny strany (Brno); u Prahy s 24 kandidátkami jen nad 3 % jako ostatní.
 const allForMain = () => S.cfg.hlavni_vsechny_strany !== false;
+// Odkazy mezi stránkami – stejné na všech třech, aktuální zvýrazněná.
+const PAGES = [
+  { text: "Praha", href: "praha.html", config: "config-praha.json" },
+  { text: "Brno", href: "./", config: "config.json" },
+  { text: "Vybraná města", href: "mesta.html", config: "config-mesta.json" },
+];
+const pagesHtml = () => `<nav class="pages">${PAGES.map(pg => (document.body.dataset.config || "config.json") === pg.config
+  ? `<span class="pill-small on" aria-current="page">${pg.text}</span>`
+  : `<a class="pill-small" href="${pg.href}">${pg.text}</a>`).join("")}</nav>`;
 const short = n => S.zkratky[n] || n;
 const plMand = n => n === 1 ? "mandát" : n >= 2 && n <= 4 ? "mandáty" : "mandátů";
 
@@ -401,7 +410,7 @@ function renderStage() {
   $("footLeft").innerHTML = S.view === "coal" ? `<b>Automatické přepínání pozastaveno</b>`
     : isMain(S.active) ? `<button type="button" class="pill-small fg" id="toDistricts">Městské části →</button>`
     : `Linka pod názvem = podíl sečtených okrsků`;
-  if (S.cfg.dalsi_stranka) $("footLeft").insertAdjacentHTML("beforeend", ` <a class="pill-small" href="${esc(S.cfg.dalsi_stranka.href)}">${esc(S.cfg.dalsi_stranka.text)}</a>`);
+  $("footLeft").insertAdjacentHTML("beforeend", pagesHtml());
   $("seatNote").innerHTML = `${SEAT} = mandát · ` + (v.isRef ? "rok 2022, oficiální" : v.official ? "oficiální výsledek" : v.hasLive ? "přibližný výpočet dle současných výsledků" : "");
   $("themeBtn").textContent = S.theme === "dark" ? "Světlý režim" : "Tmavý režim";
   tick(0);
@@ -436,7 +445,7 @@ function renderMobile() {
       </div>`;
   }, "m");
   $("mSeatNote").innerHTML = SEAT + " = mandát. Do sečtení všech okrsků jde o přibližný výpočet dle současných výsledků. Celky bez sečteného okrsku ukazují šedě výsledky 2022.";
-  if (S.cfg.dalsi_stranka) $("mSeatNote").insertAdjacentHTML("beforeend", `<p><a class="pill-small" href="${esc(S.cfg.dalsi_stranka.href)}">${esc(S.cfg.dalsi_stranka.text)}</a></p>`);
+  $("mSeatNote").insertAdjacentHTML("beforeend", pagesHtml());
   if (!$("mCoal").hidden) renderCoal($("mCoalBody"), view(S.units.find(u => u.kod === S.mCoalKod)));
 }
 

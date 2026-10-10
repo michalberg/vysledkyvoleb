@@ -170,9 +170,5 @@
       "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
     }
   ],
-  "hlavni": false,
-  "dalsi_stranka": {
-    "text": "Brno →",
-    "href": "./"
-  }
+  "hlavni": false
 }

@@ -181,9 +181,5 @@
     }
   ],
   "hlavni": true,
-  "nadpis": "Městská část",
-  "dalsi_stranka": {
-    "text": "Praha →",
-    "href": "praha.html"
-  }
+  "nadpis": "Městská část"
 }
