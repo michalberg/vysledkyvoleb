@@ -24,20 +24,20 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 .stage{position:fixed;left:0;top:0;width:1024px;height:768px;transform-origin:0 0;padding:20px 28px 12px;display:flex;flex-direction:column;gap:18px;overflow:hidden}
 .mobile,.m-coal{display:none}
 
-.brno-row{display:flex;gap:20px;align-items:stretch;background:var(--soft);border-radius:8px;padding:14px 16px}
+.brno-row{display:flex;gap:14px;align-items:stretch;background:var(--soft);border-radius:8px;padding:14px 16px}
 .brno-row[hidden]{display:none}
-.brno-meta{display:flex;flex-direction:column;justify-content:space-between;gap:8px;min-width:170px}
+.brno-meta{display:flex;flex-direction:column;justify-content:space-between;gap:8px;min-width:150px}
 .brno-meta a{font-size:30px;font-weight:900;line-height:1}
 .brno-meta .rows{display:flex;flex-direction:column;gap:3px;font-size:14px;font-weight:600;color:var(--muted)}
 .brno-meta b{color:var(--fg);font-weight:800}
-.cells{flex:1;min-width:0;display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);gap:6px}
-.cell{min-width:0;container-type:inline-size;display:flex;flex-direction:column;justify-content:space-between;gap:4px;padding:8px 6px;border-radius:6px;background:var(--bg);border-top:4px solid}
+.cells{flex:1;min-width:0;display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);gap:5px}
+.cell{min-width:0;container-type:inline-size;display:flex;flex-direction:column;justify-content:space-between;gap:4px;padding:8px 5px;border-radius:6px;background:var(--bg);border-top:4px solid}
 .cell.ours{background:var(--accent);color:var(--on-accent)}
-.cell .n{font-size:clamp(10px,15cqw,13px);font-weight:700;line-height:1.15;height:2.3em}
+.cell .n{font-size:clamp(12px,20cqw,14px);font-weight:700;line-height:1.15;height:2.3em}
 .cell .n span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;overflow-wrap:normal;word-break:normal}
-.cell .p{font-size:clamp(12px,22cqw,19px);font-weight:900;line-height:1;white-space:nowrap;letter-spacing:-.02em}
+.cell .p{font-size:clamp(15px,30cqw,20px);font-weight:900;line-height:1;white-space:nowrap;letter-spacing:-.02em}
 .cell .p small,.col .pct small{font-size:.63em;font-weight:700;margin-left:1px}
-.cell .s{font-size:clamp(11px,16cqw,13px);font-weight:700;min-height:1.2em}
+.cell .s{font-size:14px;font-weight:700;min-height:1.2em}
 .cells-note{grid-column:1/-1;align-self:center;color:var(--muted);font-size:14px;font-weight:600}
 
 .countdown{height:4px;margin-top:-10px;background:var(--line);border-radius:2px;overflow:hidden}
