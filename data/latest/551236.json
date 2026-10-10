@@ -5,25 +5,25 @@
  "voleno": 15,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:50:01",
+ "generovano": "2026-10-10T21:17:01",
  "ucast": {
   "okrsky_celkem": 5,
-  "okrsky_zprac": 2,
-  "okrsky_zprac_proc": 40.0,
-  "zapsani_volici": 1707,
-  "vydane_obalky": 837,
-  "ucast_proc": 49.03,
+  "okrsky_zprac": 3,
+  "okrsky_zprac_proc": 60.0,
+  "zapsani_volici": 2532,
+  "vydane_obalky": 1355,
+  "ucast_proc": 53.52,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 834,
-  "platne_listky": 806,
-  "platne_hlasy": 11198
+  "odevzdane_obalky": 1352,
+  "platne_listky": 1319,
+  "platne_hlasy": 18484
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 6907,
-   "hlasy_proc": 61.68,
+   "hlasy": 10222,
+   "hlasy_proc": 55.3,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 364,
-   "hlasy": 1846,
-   "hlasy_proc": 16.49,
+   "hlasy": 3933,
+   "hlasy_proc": 21.28,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1305,
-   "hlasy": 1037,
-   "hlasy_proc": 9.26,
+   "hlasy": 1461,
+   "hlasy_proc": 7.9,
    "kandidatu": 14,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 389,
-   "hlasy": 640,
-   "hlasy_proc": 5.72,
+   "hlasy": 1369,
+   "hlasy_proc": 7.41,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 355,
-   "hlasy": 659,
-   "hlasy_proc": 5.88,
+   "hlasy": 1386,
+   "hlasy_proc": 7.5,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1832,
-   "hlasy": 109,
-   "hlasy_proc": 0.97,
+   "hlasy": 113,
+   "hlasy_proc": 0.61,
    "kandidatu": 8,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Koalice politických stran a hnutí Restart pro Brno"
   }
  ],
- "stazeno": "2026-10-10T20:50:35+02:00"
+ "stazeno": "2026-10-10T21:17:19+02:00"
 }
