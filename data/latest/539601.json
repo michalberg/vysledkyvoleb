@@ -4,46 +4,176 @@
  "typ": "MCMO",
  "voleno": 15,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T21:14:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T21:30:01",
  "ucast": {
   "okrsky_celkem": 8,
-  "okrsky_zprac": 7,
-  "okrsky_zprac_proc": 87.5,
-  "zapsani_volici": 5404,
-  "vydane_obalky": 2950,
-  "ucast_proc": 54.59,
+  "okrsky_zprac": 8,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 6234,
+  "vydane_obalky": 3490,
+  "ucast_proc": 55.98,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2950,
-  "platne_listky": 2877,
-  "platne_hlasy": 41384
+  "odevzdane_obalky": 3490,
+  "platne_listky": 3406,
+  "platne_hlasy": 49010
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1822,
-   "hlasy": 10233,
-   "hlasy_proc": 24.73,
+   "hlasy": 11658,
+   "hlasy_proc": 23.79,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Společně pro Radotín"
+   "zastupitele": 4,
+   "zastupitele_proc": 26.67,
+   "nazev": "Společně pro Radotín",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 915,
+     "hlasy_proc": 7.84,
+     "titul_pred": "Ing.",
+     "jmeno": "Lucie",
+     "prijmeni": "Malátová",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 963,
+     "hlasy_proc": 8.26,
+     "titul_pred": "",
+     "jmeno": "Jan-Matěj",
+     "prijmeni": "Rak",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 818,
+     "hlasy_proc": 7.01,
+     "titul_pred": "Mgr.",
+     "jmeno": "Matěj",
+     "prijmeni": "Pomahač",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 827,
+     "hlasy_proc": 7.09,
+     "titul_pred": "Mgr.",
+     "jmeno": "Samantha",
+     "prijmeni": "Chvojková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 389,
-   "hlasy": 24430,
-   "hlasy_proc": 59.03,
+   "hlasy": 29542,
+   "hlasy_proc": 60.28,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Občanská demokratická strana Radotín"
+   "zastupitele": 10,
+   "zastupitele_proc": 66.67,
+   "nazev": "Občanská demokratická strana Radotín",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2049,
+     "hlasy_proc": 6.93,
+     "titul_pred": "Mgr.",
+     "jmeno": "Karel",
+     "prijmeni": "Hanzlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1972,
+     "hlasy_proc": 6.67,
+     "titul_pred": "Mgr.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Knotek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2086,
+     "hlasy_proc": 7.06,
+     "titul_pred": "doc. Ing. arch.",
+     "jmeno": "Jana",
+     "prijmeni": "Zdráhalová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2053,
+     "hlasy_proc": 6.94,
+     "titul_pred": "Bc.",
+     "jmeno": "Simona",
+     "prijmeni": "Baráková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2002,
+     "hlasy_proc": 6.77,
+     "titul_pred": "Ing.",
+     "jmeno": "Viktor",
+     "prijmeni": "Krištof",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2073,
+     "hlasy_proc": 7.01,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jakub",
+     "prijmeni": "Mareš",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1934,
+     "hlasy_proc": 6.54,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Fleischner",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2039,
+     "hlasy_proc": 6.9,
+     "titul_pred": "Mgr.",
+     "jmeno": "Aneta",
+     "prijmeni": "Lédrová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2010,
+     "hlasy_proc": 6.8,
+     "titul_pred": "Bc.",
+     "jmeno": "Jan",
+     "prijmeni": "Lukavský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1938,
+     "hlasy_proc": 6.56,
+     "titul_pred": "Ing.",
+     "jmeno": "Irena",
+     "prijmeni": "Farníková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1806,
-   "hlasy": 1033,
-   "hlasy_proc": 2.5,
+   "hlasy": 1313,
+   "hlasy_proc": 2.68,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,23 +182,34 @@
   {
    "por": 4,
    "vstrana": 541,
-   "hlasy": 3402,
-   "hlasy_proc": 8.22,
+   "hlasy": 3731,
+   "hlasy_proc": 7.61,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Piráti a nezávislí kandidáti"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Piráti a nezávislí kandidáti",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 407,
+     "hlasy_proc": 10.9,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Zelený",
+     "titul_za": "Ph.D."
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 768,
-   "hlasy": 2286,
-   "hlasy_proc": 5.52,
+   "hlasy": 2766,
+   "hlasy_proc": 5.64,
    "kandidatu": 14,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "ANO 2011"
   }
  ],
- "stazeno": "2026-10-10T21:14:21+02:00"
+ "stazeno": "2026-10-10T21:30:56+02:00"
 }
