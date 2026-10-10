@@ -5,25 +5,25 @@
  "voleno": 55,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:26:01",
+ "generovano": "2026-10-10T21:27:01",
  "ucast": {
   "okrsky_celkem": 353,
-  "okrsky_zprac": 242,
-  "okrsky_zprac_proc": 68.56,
-  "zapsani_volici": 208963,
-  "vydane_obalky": 83825,
-  "ucast_proc": 40.11,
+  "okrsky_zprac": 243,
+  "okrsky_zprac_proc": 68.84,
+  "zapsani_volici": 209806,
+  "vydane_obalky": 84287,
+  "ucast_proc": 40.17,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 83752,
-  "platne_listky": 80099,
-  "platne_hlasy": 4153106
+  "odevzdane_obalky": 84214,
+  "platne_listky": 80556,
+  "platne_hlasy": 4175204
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 371,
-   "hlasy": 35377,
-   "hlasy_proc": 0.85,
+   "hlasy": 36488,
+   "hlasy_proc": 0.87,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 340,
-   "hlasy": 1101080,
-   "hlasy_proc": 26.51,
+   "hlasy": 1108793,
+   "hlasy_proc": 26.56,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1869,
-   "hlasy": 378583,
-   "hlasy_proc": 9.12,
+   "hlasy": 379373,
+   "hlasy_proc": 9.09,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 750812,
-   "hlasy_proc": 18.08,
+   "hlasy": 754409,
+   "hlasy_proc": 18.07,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1710,
-   "hlasy": 220543,
-   "hlasy_proc": 5.31,
+   "hlasy": 221382,
+   "hlasy_proc": 5.3,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 523,
-   "hlasy": 756083,
-   "hlasy_proc": 18.21,
+   "hlasy": 759721,
+   "hlasy_proc": 18.2,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1832,
-   "hlasy": 66681,
-   "hlasy_proc": 1.61,
+   "hlasy": 66869,
+   "hlasy_proc": 1.6,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,7 +92,7 @@
   {
    "por": 8,
    "vstrana": 1711,
-   "hlasy": 78665,
+   "hlasy": 78747,
    "hlasy_proc": 1.89,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -102,7 +102,7 @@
   {
    "por": 9,
    "vstrana": 1178,
-   "hlasy": 118739,
+   "hlasy": 119364,
    "hlasy_proc": 2.86,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 482,
-   "hlasy": 1207,
+   "hlasy": 1216,
    "hlasy_proc": 0.03,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -122,7 +122,7 @@
   {
    "por": 11,
    "vstrana": 1901,
-   "hlasy": 12832,
+   "hlasy": 12892,
    "hlasy_proc": 0.31,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -132,8 +132,8 @@
   {
    "por": 12,
    "vstrana": 1245,
-   "hlasy": 44952,
-   "hlasy_proc": 1.08,
+   "hlasy": 45407,
+   "hlasy_proc": 1.09,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -142,8 +142,8 @@
   {
    "por": 13,
    "vstrana": 1693,
-   "hlasy": 50515,
-   "hlasy_proc": 1.22,
+   "hlasy": 50727,
+   "hlasy_proc": 1.21,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -152,8 +152,8 @@
   {
    "por": 14,
    "vstrana": 1730,
-   "hlasy": 93213,
-   "hlasy_proc": 2.24,
+   "hlasy": 93800,
+   "hlasy_proc": 2.25,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -162,8 +162,8 @@
   {
    "por": 15,
    "vstrana": 1870,
-   "hlasy": 280014,
-   "hlasy_proc": 6.74,
+   "hlasy": 281110,
+   "hlasy_proc": 6.73,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -172,13 +172,13 @@
   {
    "por": 16,
    "vstrana": 1305,
-   "hlasy": 163810,
-   "hlasy_proc": 3.94,
+   "hlasy": 164906,
+   "hlasy_proc": 3.95,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPD a nezávislí"
   }
  ],
- "stazeno": "2026-10-10T21:26:19+02:00"
+ "stazeno": "2026-10-10T21:27:16+02:00"
 }
