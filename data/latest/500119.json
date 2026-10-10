@@ -5,24 +5,24 @@
  "voleno": 45,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:05:01",
+ "generovano": "2026-10-10T21:08:01",
  "ucast": {
   "okrsky_celkem": 132,
-  "okrsky_zprac": 73,
-  "okrsky_zprac_proc": 55.3,
-  "zapsani_volici": 49873,
-  "vydane_obalky": 20738,
-  "ucast_proc": 41.58,
+  "okrsky_zprac": 74,
+  "okrsky_zprac_proc": 56.06,
+  "zapsani_volici": 50699,
+  "vydane_obalky": 21145,
+  "ucast_proc": 41.71,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 20733,
-  "platne_listky": 20224,
-  "platne_hlasy": 869259
+  "odevzdane_obalky": 21140,
+  "platne_listky": 20630,
+  "platne_hlasy": 886829
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1843,
-   "hlasy": 2003,
+   "hlasy": 2016,
    "hlasy_proc": 0.23,
    "kandidatu": 13,
    "zastupitele": 0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 720,
-   "hlasy": 102400,
-   "hlasy_proc": 11.78,
+   "hlasy": 103674,
+   "hlasy_proc": 11.69,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,7 +42,7 @@
   {
    "por": 3,
    "vstrana": 1697,
-   "hlasy": 27232,
+   "hlasy": 27721,
    "hlasy_proc": 3.13,
    "kandidatu": 45,
    "zastupitele": 0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1305,
-   "hlasy": 36150,
-   "hlasy_proc": 4.16,
+   "hlasy": 36977,
+   "hlasy_proc": 4.17,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,7 +62,7 @@
   {
    "por": 5,
    "vstrana": 768,
-   "hlasy": 133724,
+   "hlasy": 136380,
    "hlasy_proc": 15.38,
    "kandidatu": 45,
    "zastupitele": 0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 687,
-   "hlasy": 286205,
-   "hlasy_proc": 32.93,
+   "hlasy": 292857,
+   "hlasy_proc": 33.02,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,7 +82,7 @@
   {
    "por": 7,
    "vstrana": 1814,
-   "hlasy": 281545,
+   "hlasy": 287204,
    "hlasy_proc": 32.39,
    "kandidatu": 45,
    "zastupitele": 0,
@@ -90,5 +90,5 @@
    "nazev": "SPOLEČNĚ PRO ZMĚNU – KOALICE STAROSTOVÉ, PRAHA SOBĚ, LIDOVCI A ZELENÍ"
   }
  ],
- "stazeno": "2026-10-10T21:05:41+02:00"
+ "stazeno": "2026-10-10T21:08:20+02:00"
 }
