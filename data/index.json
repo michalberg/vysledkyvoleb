@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-11T00:05:30+02:00",
+ "aktualizovano": "2026-10-11T00:06:21+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -10,7 +10,7 @@
    "je_spocteno": false,
    "okrsky_zprac": 340,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T23:49:00"
+   "generovano": "2026-10-11T00:06:01"
   },
   {
    "kod": "551198",
@@ -44,9 +44,9 @@
    "nazev": "Brno-Královo Pole",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 12,
+   "okrsky_zprac": 13,
    "okrsky_celkem": 19,
-   "generovano": "2026-10-10T23:43:01"
+   "generovano": "2026-10-11T00:06:01"
   },
   {
    "kod": "551287",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 986,
+   "okrsky_zprac": 988,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-11T00:04:00"
+   "generovano": "2026-10-11T00:06:01"
   },
   {
    "kod": "500054",
@@ -314,9 +314,9 @@
    "nazev": "Praha 7",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 21,
+   "okrsky_zprac": 22,
    "okrsky_celkem": 36,
-   "generovano": "2026-10-10T23:55:00"
+   "generovano": "2026-10-11T00:06:01"
   },
   {
    "kod": "500208",

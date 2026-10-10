@@ -5,13 +5,13 @@
  "voleno": 55,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T23:49:00",
+ "generovano": "2026-10-11T00:06:01",
  "ucast": {
   "okrsky_celkem": 353,
   "okrsky_zprac": 340,
   "okrsky_zprac_proc": 96.32,
   "zapsani_volici": 293185,
-  "vydane_obalky": 127884,
+  "vydane_obalky": 127885,
   "ucast_proc": 43.62,
   "volicske_prukazy": 0,
   "odevzdane_obalky": 127718,
@@ -180,5 +180,5 @@
    "nazev": "SPD a nezávislí"
   }
  ],
- "stazeno": "2026-10-10T23:49:17+02:00"
+ "stazeno": "2026-10-11T00:06:21+02:00"
 }

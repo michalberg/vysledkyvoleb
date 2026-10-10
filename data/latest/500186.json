@@ -5,25 +5,25 @@
  "voleno": 29,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T23:55:00",
+ "generovano": "2026-10-11T00:06:01",
  "ucast": {
   "okrsky_celkem": 36,
-  "okrsky_zprac": 21,
-  "okrsky_zprac_proc": 58.33,
-  "zapsani_volici": 17274,
-  "vydane_obalky": 8533,
-  "ucast_proc": 49.4,
+  "okrsky_zprac": 22,
+  "okrsky_zprac_proc": 61.11,
+  "zapsani_volici": 18195,
+  "vydane_obalky": 9048,
+  "ucast_proc": 49.73,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 8498,
-  "platne_listky": 8105,
-  "platne_hlasy": 224500
+  "odevzdane_obalky": 9009,
+  "platne_listky": 8595,
+  "platne_hlasy": 238286
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 129648,
-   "hlasy_proc": 57.75,
+   "hlasy": 137346,
+   "hlasy_proc": 57.64,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1843,
-   "hlasy": 1955,
-   "hlasy_proc": 0.87,
+   "hlasy": 2048,
+   "hlasy_proc": 0.86,
    "kandidatu": 28,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 40625,
-   "hlasy_proc": 18.1,
+   "hlasy": 43448,
+   "hlasy_proc": 18.23,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 532,
-   "hlasy": 19453,
-   "hlasy_proc": 8.67,
+   "hlasy": 20590,
+   "hlasy_proc": 8.64,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 6937,
-   "hlasy_proc": 3.09,
+   "hlasy": 7279,
+   "hlasy_proc": 3.05,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1350,
-   "hlasy": 25882,
-   "hlasy_proc": 11.53,
+   "hlasy": 27575,
+   "hlasy_proc": 11.57,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Piráti a Starostové"
   }
  ],
- "stazeno": "2026-10-10T23:55:28+02:00"
+ "stazeno": "2026-10-11T00:06:21+02:00"
 }
