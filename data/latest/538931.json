@@ -4,36 +4,65 @@
  "typ": "MCMO",
  "voleno": 25,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T23:01:00",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T23:37:01",
  "ucast": {
   "okrsky_celkem": 9,
-  "okrsky_zprac": 8,
-  "okrsky_zprac_proc": 88.89,
-  "zapsani_volici": 7673,
-  "vydane_obalky": 3884,
-  "ucast_proc": 50.62,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 8707,
+  "vydane_obalky": 4441,
+  "ucast_proc": 51.0,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 3884,
-  "platne_listky": 3807,
-  "platne_hlasy": 90348
+  "odevzdane_obalky": 4441,
+  "platne_listky": 4348,
+  "platne_hlasy": 103048
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1970,
-   "hlasy": 11469,
-   "hlasy_proc": 12.69,
+   "hlasy": 12696,
+   "hlasy_proc": 12.32,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "DvacetDvojka"
+   "zastupitele": 3,
+   "zastupitele_proc": 12.0,
+   "nazev": "DvacetDvojka",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 682,
+     "hlasy_proc": 5.37,
+     "titul_pred": "Bc.",
+     "jmeno": "Hana",
+     "prijmeni": "Vagenknechtová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 553,
+     "hlasy_proc": 4.35,
+     "titul_pred": "Bc.",
+     "jmeno": "Radim",
+     "prijmeni": "Pokorný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 562,
+     "hlasy_proc": 4.42,
+     "titul_pred": "Mgr.",
+     "jmeno": "Alice",
+     "prijmeni": "Končinská",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 477,
-   "hlasy": 3958,
-   "hlasy_proc": 4.38,
+   "hlasy": 4469,
+   "hlasy_proc": 4.34,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,63 +71,273 @@
   {
    "por": 3,
    "vstrana": 540,
-   "hlasy": 7112,
-   "hlasy_proc": 7.87,
+   "hlasy": 7807,
+   "hlasy_proc": 7.58,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "TADY 22 – hlas místních"
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "TADY 22 – hlas místních",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 493,
+     "hlasy_proc": 6.31,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jitka",
+     "prijmeni": "Rothová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 412,
+     "hlasy_proc": 5.27,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vlasta",
+     "prijmeni": "Zdobinská",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 720,
-   "hlasy": 6853,
-   "hlasy_proc": 7.59,
+   "hlasy": 7697,
+   "hlasy_proc": 7.47,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Česká pirátská strana"
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Česká pirátská strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 399,
+     "hlasy_proc": 5.18,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Jaromír",
+     "prijmeni": "Beránek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 363,
+     "hlasy_proc": 4.71,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Nikol",
+     "prijmeni": "Janková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 10630,
-   "hlasy_proc": 11.77,
+   "hlasy": 11967,
+   "hlasy_proc": 11.61,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Občanská demokratická strana"
+   "zastupitele": 3,
+   "zastupitele_proc": 12.0,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 586,
+     "hlasy_proc": 4.89,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Langmajer",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 497,
+     "hlasy_proc": 4.15,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Veselá",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 566,
+     "hlasy_proc": 4.72,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jan",
+     "prijmeni": "Zedník",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 768,
-   "hlasy": 14510,
-   "hlasy_proc": 16.06,
+   "hlasy": 16991,
+   "hlasy_proc": 16.49,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 4,
+   "zastupitele_proc": 16.0,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 897,
+     "hlasy_proc": 5.27,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Kaněra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 757,
+     "hlasy_proc": 4.45,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Žaludová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 774,
+     "hlasy_proc": 4.55,
+     "titul_pred": "Bc.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Roth",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 749,
+     "hlasy_proc": 4.4,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Klich",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 1373,
-   "hlasy": 16701,
-   "hlasy_proc": 18.49,
+   "hlasy": 18486,
+   "hlasy_proc": 17.94,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "OK22 s podporou PRAHA SOBĚ"
+   "zastupitele": 5,
+   "zastupitele_proc": 20.0,
+   "nazev": "OK22 s podporou PRAHA SOBĚ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 888,
+     "hlasy_proc": 4.8,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Straková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 784,
+     "hlasy_proc": 4.24,
+     "titul_pred": "",
+     "jmeno": "Vít",
+     "prijmeni": "Urban",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 803,
+     "hlasy_proc": 4.34,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Chladná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 866,
+     "hlasy_proc": 4.68,
+     "titul_pred": "Ing.",
+     "jmeno": "Radka",
+     "prijmeni": "Motlochová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 811,
+     "hlasy_proc": 4.38,
+     "titul_pred": "Bc.",
+     "jmeno": "Filip",
+     "prijmeni": "Musil",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 166,
-   "hlasy": 19115,
-   "hlasy_proc": 21.16,
+   "hlasy": 22935,
+   "hlasy_proc": 22.26,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+   "zastupitele": 6,
+   "zastupitele_proc": 24.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1105,
+     "hlasy_proc": 4.81,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Lagner",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1006,
+     "hlasy_proc": 4.38,
+     "titul_pred": "Bc.",
+     "jmeno": "Jana",
+     "prijmeni": "Kabilová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 969,
+     "hlasy_proc": 4.22,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Kopecký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1007,
+     "hlasy_proc": 4.39,
+     "titul_pred": "",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Zelenka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 978,
+     "hlasy_proc": 4.26,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Bohumil",
+     "prijmeni": "Fendrych",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 1012,
+     "hlasy_proc": 4.41,
+     "titul_pred": "Mgr.",
+     "jmeno": "Veronika",
+     "prijmeni": "Špalková Kuželová",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T23:01:08+02:00"
+ "stazeno": "2026-10-10T23:37:17+02:00"
 }
