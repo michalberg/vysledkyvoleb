@@ -5,25 +5,25 @@
  "voleno": 35,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T18:00:02",
+ "generovano": "2026-10-10T18:29:02",
  "ucast": {
   "okrsky_celkem": 41,
-  "okrsky_zprac": 1,
-  "okrsky_zprac_proc": 2.44,
-  "zapsani_volici": 736,
-  "vydane_obalky": 378,
-  "ucast_proc": 51.36,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 4.88,
+  "zapsani_volici": 1448,
+  "vydane_obalky": 652,
+  "ucast_proc": 45.03,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 378,
-  "platne_listky": 367,
-  "platne_hlasy": 12667
+  "odevzdane_obalky": 651,
+  "platne_listky": 634,
+  "platne_hlasy": 21305
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1373,
-   "hlasy": 3313,
-   "hlasy_proc": 26.15,
+   "hlasy": 5422,
+   "hlasy_proc": 25.45,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1846,
-   "hlasy": 261,
-   "hlasy_proc": 2.06,
+   "hlasy": 503,
+   "hlasy_proc": 2.36,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1305,
-   "hlasy": 591,
-   "hlasy_proc": 4.67,
+   "hlasy": 1226,
+   "hlasy_proc": 5.75,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 946,
-   "hlasy_proc": 7.47,
+   "hlasy": 1716,
+   "hlasy_proc": 8.05,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 355,
-   "hlasy": 51,
-   "hlasy_proc": 0.4,
+   "hlasy": 331,
+   "hlasy_proc": 1.55,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 687,
-   "hlasy": 4397,
-   "hlasy_proc": 34.71,
+   "hlasy": 6885,
+   "hlasy_proc": 32.32,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 166,
-   "hlasy": 1950,
-   "hlasy_proc": 15.39,
+   "hlasy": 2866,
+   "hlasy_proc": 13.45,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 720,
-   "hlasy": 1158,
-   "hlasy_proc": 9.14,
+   "hlasy": 2356,
+   "hlasy_proc": 11.06,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Česká pirátská strana"
   }
  ],
- "stazeno": "2026-10-10T18:01:19+02:00"
+ "stazeno": "2026-10-10T18:31:12+02:00"
 }
