@@ -31,12 +31,13 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 .brno-meta .rows{display:flex;flex-direction:column;gap:3px;font-size:14px;font-weight:600;color:var(--muted)}
 .brno-meta b{color:var(--fg);font-weight:800}
 .cells{flex:1;min-width:0;display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);gap:6px}
-.cell{display:flex;flex-direction:column;justify-content:space-between;gap:4px;padding:8px 7px;border-radius:6px;background:var(--bg);border-top:4px solid}
+.cell{min-width:0;container-type:inline-size;display:flex;flex-direction:column;justify-content:space-between;gap:4px;padding:8px 6px;border-radius:6px;background:var(--bg);border-top:4px solid}
 .cell.ours{background:var(--accent);color:var(--on-accent)}
-.cell .n{font-size:13px;font-weight:700;line-height:1.15;max-height:30px;overflow:hidden}
-.cell .p{font-size:19px;font-weight:900;line-height:1;white-space:nowrap;letter-spacing:-.02em}
+.cell .n{font-size:clamp(10px,15cqw,13px);font-weight:700;line-height:1.15;height:2.3em}
+.cell .n span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;overflow-wrap:normal;word-break:normal}
+.cell .p{font-size:clamp(12px,22cqw,19px);font-weight:900;line-height:1;white-space:nowrap;letter-spacing:-.02em}
 .cell .p small,.col .pct small{font-size:.63em;font-weight:700;margin-left:1px}
-.cell .s{font-size:13px;font-weight:700;min-height:1.2em}
+.cell .s{font-size:clamp(11px,16cqw,13px);font-weight:700;min-height:1.2em}
 .cells-note{grid-column:1/-1;align-self:center;color:var(--muted);font-size:14px;font-weight:600}
 
 .countdown{height:4px;margin-top:-10px;background:var(--line);border-radius:2px;overflow:hidden}
