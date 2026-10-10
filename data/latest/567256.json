@@ -5,25 +5,25 @@
  "voleno": 23,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:14:03",
+ "generovano": "2026-10-10T16:19:02",
  "ucast": {
   "okrsky_celkem": 28,
-  "okrsky_zprac": 11,
-  "okrsky_zprac_proc": 39.29,
-  "zapsani_volici": 6451,
-  "vydane_obalky": 1616,
-  "ucast_proc": 25.05,
+  "okrsky_zprac": 12,
+  "okrsky_zprac_proc": 42.86,
+  "zapsani_volici": 7087,
+  "vydane_obalky": 1910,
+  "ucast_proc": 26.95,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1616,
-  "platne_listky": 1591,
-  "platne_hlasy": 33873
+  "odevzdane_obalky": 1910,
+  "platne_listky": 1885,
+  "platne_hlasy": 40417
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1298,
-   "hlasy": 2079,
-   "hlasy_proc": 6.14,
+   "hlasy": 2256,
+   "hlasy_proc": 5.58,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 529,
-   "hlasy": 5054,
-   "hlasy_proc": 14.92,
+   "hlasy": 6046,
+   "hlasy_proc": 14.96,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1305,
-   "hlasy": 2356,
-   "hlasy_proc": 6.96,
+   "hlasy": 2682,
+   "hlasy_proc": 6.64,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1811,
-   "hlasy": 5269,
-   "hlasy_proc": 15.56,
+   "hlasy": 6238,
+   "hlasy_proc": 15.43,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 389,
-   "hlasy": 1826,
-   "hlasy_proc": 5.39,
+   "hlasy": 2092,
+   "hlasy_proc": 5.18,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 768,
-   "hlasy": 8071,
-   "hlasy_proc": 23.83,
+   "hlasy": 9203,
+   "hlasy_proc": 22.77,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1695,
-   "hlasy": 4552,
-   "hlasy_proc": 13.44,
+   "hlasy": 5658,
+   "hlasy_proc": 14.0,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 470,
-   "hlasy": 4666,
-   "hlasy_proc": 13.77,
+   "hlasy": 6242,
+   "hlasy_proc": 15.44,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "LITVÍNOV PATŘÍ OBČANŮM - STAROSTOVÉ A NEZÁVISLÍ"
   }
  ],
- "stazeno": "2026-10-10T16:15:27+02:00"
+ "stazeno": "2026-10-10T16:18:09+02:00"
 }
