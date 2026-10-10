@@ -5,18 +5,18 @@
  "voleno": 65,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T23:28:00",
+ "generovano": "2026-10-10T23:29:00",
  "ucast": {
   "okrsky_celkem": 1120,
-  "okrsky_zprac": 921,
-  "okrsky_zprac_proc": 82.23,
-  "zapsani_volici": 721360,
-  "vydane_obalky": 326715,
-  "ucast_proc": 45.29,
+  "okrsky_zprac": 922,
+  "okrsky_zprac_proc": 82.32,
+  "zapsani_volici": 722078,
+  "vydane_obalky": 327073,
+  "ucast_proc": 45.3,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 326232,
-  "platne_listky": 309698,
-  "platne_hlasy": 19007226
+  "odevzdane_obalky": 326590,
+  "platne_listky": 310054,
+  "platne_hlasy": 19028425
  },
  "strany": [
   {
@@ -32,7 +32,7 @@
   {
    "por": 2,
    "vstrana": 1923,
-   "hlasy": 3385,
+   "hlasy": 3388,
    "hlasy_proc": 0.02,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -62,7 +62,7 @@
   {
    "por": 5,
    "vstrana": 1373,
-   "hlasy": 3294548,
+   "hlasy": 3297777,
    "hlasy_proc": 17.33,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -82,7 +82,7 @@
   {
    "por": 7,
    "vstrana": 720,
-   "hlasy": 1796138,
+   "hlasy": 1797991,
    "hlasy_proc": 9.45,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -92,7 +92,7 @@
   {
    "por": 8,
    "vstrana": 1713,
-   "hlasy": 2745,
+   "hlasy": 2751,
    "hlasy_proc": 0.01,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 166,
-   "hlasy": 4407010,
-   "hlasy_proc": 23.19,
+   "hlasy": 4410792,
+   "hlasy_proc": 23.18,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 1305,
-   "hlasy": 680283,
+   "hlasy": 680942,
    "hlasy_proc": 3.58,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -122,7 +122,7 @@
   {
    "por": 11,
    "vstrana": 1806,
-   "hlasy": 79333,
+   "hlasy": 79338,
    "hlasy_proc": 0.42,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -132,7 +132,7 @@
   {
    "por": 12,
    "vstrana": 687,
-   "hlasy": 4131972,
+   "hlasy": 4136175,
    "hlasy_proc": 21.74,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -142,7 +142,7 @@
   {
    "por": 13,
    "vstrana": 74,
-   "hlasy": 46936,
+   "hlasy": 47136,
    "hlasy_proc": 0.25,
    "kandidatu": 50,
    "zastupitele": 0,
@@ -152,8 +152,8 @@
   {
    "por": 14,
    "vstrana": 1178,
-   "hlasy": 559199,
-   "hlasy_proc": 2.94,
+   "hlasy": 560592,
+   "hlasy_proc": 2.95,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -162,7 +162,7 @@
   {
    "por": 15,
    "vstrana": 714,
-   "hlasy": 89190,
+   "hlasy": 89211,
    "hlasy_proc": 0.47,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -172,7 +172,7 @@
   {
    "por": 16,
    "vstrana": 1846,
-   "hlasy": 128604,
+   "hlasy": 128947,
    "hlasy_proc": 0.68,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -182,7 +182,7 @@
   {
    "por": 17,
    "vstrana": 482,
-   "hlasy": 12513,
+   "hlasy": 12518,
    "hlasy_proc": 0.07,
    "kandidatu": 8,
    "zastupitele": 0,
@@ -192,7 +192,7 @@
   {
    "por": 18,
    "vstrana": 524,
-   "hlasy": 115862,
+   "hlasy": 115933,
    "hlasy_proc": 0.61,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -212,7 +212,7 @@
   {
    "por": 20,
    "vstrana": 1689,
-   "hlasy": 182892,
+   "hlasy": 182981,
    "hlasy_proc": 0.96,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -222,7 +222,7 @@
   {
    "por": 21,
    "vstrana": 98,
-   "hlasy": 7810,
+   "hlasy": 7816,
    "hlasy_proc": 0.04,
    "kandidatu": 14,
    "zastupitele": 0,
@@ -232,8 +232,8 @@
   {
    "por": 22,
    "vstrana": 768,
-   "hlasy": 2842306,
-   "hlasy_proc": 14.95,
+   "hlasy": 2845789,
+   "hlasy_proc": 14.96,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -252,13 +252,13 @@
   {
    "por": 24,
    "vstrana": 1827,
-   "hlasy": 542042,
-   "hlasy_proc": 2.85,
+   "hlasy": 543890,
+   "hlasy_proc": 2.86,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SEN PRO PRAHU s Václavem Láskou, s podporou HPP 11 a strany Mourek"
   }
  ],
- "stazeno": "2026-10-10T23:28:20+02:00"
+ "stazeno": "2026-10-10T23:29:17+02:00"
 }
