@@ -5,25 +5,25 @@
  "voleno": 45,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:50:01",
+ "generovano": "2026-10-10T19:55:01",
  "ucast": {
   "okrsky_celkem": 109,
-  "okrsky_zprac": 39,
-  "okrsky_zprac_proc": 35.78,
-  "zapsani_volici": 28207,
-  "vydane_obalky": 11008,
-  "ucast_proc": 39.03,
+  "okrsky_zprac": 41,
+  "okrsky_zprac_proc": 37.61,
+  "zapsani_volici": 29696,
+  "vydane_obalky": 11698,
+  "ucast_proc": 39.39,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 11007,
-  "platne_listky": 10675,
-  "platne_hlasy": 461077
+  "odevzdane_obalky": 11693,
+  "platne_listky": 11347,
+  "platne_hlasy": 490157
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1846,
-   "hlasy": 35782,
-   "hlasy_proc": 7.76,
+   "hlasy": 37490,
+   "hlasy_proc": 7.65,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 480,
-   "hlasy": 35893,
-   "hlasy_proc": 7.78,
+   "hlasy": 38546,
+   "hlasy_proc": 7.86,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,7 +42,7 @@
   {
    "por": 3,
    "vstrana": 1690,
-   "hlasy": 14,
+   "hlasy": 15,
    "hlasy_proc": 0.0,
    "kandidatu": 1,
    "zastupitele": 0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1305,
-   "hlasy": 28781,
-   "hlasy_proc": 6.24,
+   "hlasy": 30732,
+   "hlasy_proc": 6.27,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 768,
-   "hlasy": 63007,
-   "hlasy_proc": 13.67,
+   "hlasy": 67100,
+   "hlasy_proc": 13.69,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1898,
-   "hlasy": 24730,
-   "hlasy_proc": 5.36,
+   "hlasy": 26086,
+   "hlasy_proc": 5.32,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 720,
-   "hlasy": 51978,
-   "hlasy_proc": 11.27,
+   "hlasy": 54791,
+   "hlasy_proc": 11.18,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1404,
-   "hlasy": 73792,
-   "hlasy_proc": 16.0,
+   "hlasy": 79023,
+   "hlasy_proc": 16.12,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 389,
-   "hlasy": 93059,
-   "hlasy_proc": 20.18,
+   "hlasy": 99040,
+   "hlasy_proc": 20.21,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,13 +112,13 @@
   {
    "por": 10,
    "vstrana": 1918,
-   "hlasy": 54041,
-   "hlasy_proc": 11.72,
+   "hlasy": 57334,
+   "hlasy_proc": 11.7,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "PRAHA 10 SOBĚ"
   }
  ],
- "stazeno": "2026-10-10T19:49:51+02:00"
+ "stazeno": "2026-10-10T19:55:05+02:00"
 }
