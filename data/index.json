@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:45:38+02:00",
+ "aktualizovano": "2026-10-10T15:47:20+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -170,9 +170,9 @@
    "nazev": "Liberec",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 87,
-   "generovano": "2026-10-08T16:40:21"
+   "generovano": "2026-10-10T15:46:02"
   },
   {
    "kod": "535419",
