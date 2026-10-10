@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:56:20+02:00",
+ "aktualizovano": "2026-10-10T15:57:17+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -458,9 +458,9 @@
    "nazev": "Česká Lípa",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T15:49:02"
+   "generovano": "2026-10-10T15:57:02"
   },
   {
    "kod": "544256",
@@ -512,9 +512,9 @@
    "nazev": "Litoměřice",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 4,
    "okrsky_celkem": 30,
-   "generovano": "2026-10-10T15:52:02"
+   "generovano": "2026-10-10T15:57:02"
   },
   {
    "kod": "567256",
