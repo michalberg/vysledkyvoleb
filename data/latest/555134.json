@@ -5,24 +5,24 @@
  "voleno": 39,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:50:01",
+ "generovano": "2026-10-10T20:51:01",
  "ucast": {
   "okrsky_celkem": 92,
-  "okrsky_zprac": 81,
-  "okrsky_zprac_proc": 88.04,
-  "zapsani_volici": 54445,
-  "vydane_obalky": 22363,
-  "ucast_proc": 41.07,
+  "okrsky_zprac": 82,
+  "okrsky_zprac_proc": 89.13,
+  "zapsani_volici": 55476,
+  "vydane_obalky": 22660,
+  "ucast_proc": 40.85,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 22360,
-  "platne_listky": 21723,
-  "platne_hlasy": 779139
+  "odevzdane_obalky": 22657,
+  "platne_listky": 22013,
+  "platne_hlasy": 789370
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1305,
-   "hlasy": 43704,
+   "hlasy": 44262,
    "hlasy_proc": 5.61,
    "kandidatu": 39,
    "zastupitele": 0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 183214,
-   "hlasy_proc": 23.51,
+   "hlasy": 185369,
+   "hlasy_proc": 23.48,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1897,
-   "hlasy": 85358,
-   "hlasy_proc": 10.96,
+   "hlasy": 86633,
+   "hlasy_proc": 10.97,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 166,
-   "hlasy": 87024,
-   "hlasy_proc": 11.17,
+   "hlasy": 88459,
+   "hlasy_proc": 11.21,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 389,
-   "hlasy": 142537,
-   "hlasy_proc": 18.29,
+   "hlasy": 144667,
+   "hlasy_proc": 18.33,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 339,
-   "hlasy": 39768,
-   "hlasy_proc": 5.1,
+   "hlasy": 40400,
+   "hlasy_proc": 5.12,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1950,
-   "hlasy": 93831,
-   "hlasy_proc": 12.04,
+   "hlasy": 95113,
+   "hlasy_proc": 12.05,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1301,
-   "hlasy": 71840,
-   "hlasy_proc": 9.22,
+   "hlasy": 72200,
+   "hlasy_proc": 9.15,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,7 +102,7 @@
   {
    "por": 9,
    "vstrana": 1741,
-   "hlasy": 31863,
+   "hlasy": 32267,
    "hlasy_proc": 4.09,
    "kandidatu": 39,
    "zastupitele": 0,
@@ -110,5 +110,5 @@
    "nazev": "Srdcem pro Pardubice"
   }
  ],
- "stazeno": "2026-10-10T20:50:35+02:00"
+ "stazeno": "2026-10-10T20:51:17+02:00"
 }
