@@ -5,17 +5,17 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": true,
- "generovano": "2026-10-10T18:31:02",
+ "generovano": "2026-10-10T19:05:02",
  "ucast": {
   "okrsky_celkem": 25,
   "okrsky_zprac": 25,
   "okrsky_zprac_proc": 100.0,
   "zapsani_volici": 15126,
-  "vydane_obalky": 7059,
-  "ucast_proc": 46.67,
+  "vydane_obalky": 6959,
+  "ucast_proc": 46.01,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 7056,
-  "platne_listky": 6987,
+  "odevzdane_obalky": 6956,
+  "platne_listky": 6887,
   "platne_hlasy": 164175
  },
  "strany": [
@@ -333,5 +333,5 @@
    ]
   }
  ],
- "stazeno": "2026-10-10T18:31:12+02:00"
+ "stazeno": "2026-10-10T19:05:23+02:00"
 }
