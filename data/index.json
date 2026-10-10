@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T23:18:19+02:00",
+ "aktualizovano": "2026-10-10T23:19:16+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -124,10 +124,10 @@
    "kod": "551279",
    "nazev": "Brno-Vinohrady",
    "voleno": 21,
-   "je_spocteno": true,
-   "okrsky_zprac": 10,
+   "je_spocteno": false,
+   "okrsky_zprac": 9,
    "okrsky_celkem": 10,
-   "generovano": "2026-10-10T21:19:01"
+   "generovano": "2026-10-10T23:19:00"
   },
   {
    "kod": "550990",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 906,
+   "okrsky_zprac": 908,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T23:18:00"
+   "generovano": "2026-10-10T23:19:00"
   },
   {
    "kod": "500054",
@@ -359,9 +359,9 @@
    "nazev": "Praha 12",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 44,
+   "okrsky_zprac": 45,
    "okrsky_celkem": 50,
-   "generovano": "2026-10-10T23:03:01"
+   "generovano": "2026-10-10T23:19:00"
   },
   {
    "kod": "539694",
@@ -584,9 +584,9 @@
    "nazev": "Pardubice",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 90,
+   "okrsky_zprac": 91,
    "okrsky_celkem": 92,
-   "generovano": "2026-10-10T23:08:00"
+   "generovano": "2026-10-10T23:19:00"
   },
   {
    "kod": "549240",
