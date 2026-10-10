@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T20:26:22+02:00",
+ "aktualizovano": "2026-10-10T20:27:17+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -17,9 +17,9 @@
    "nazev": "Brno-Bystrc",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 19,
+   "okrsky_zprac": 20,
    "okrsky_celkem": 24,
-   "generovano": "2026-10-10T20:16:01"
+   "generovano": "2026-10-10T20:27:01"
   },
   {
    "kod": "551171",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 363,
+   "okrsky_zprac": 366,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T20:26:01"
+   "generovano": "2026-10-10T20:27:01"
   },
   {
    "kod": "500054",
@@ -250,10 +250,10 @@
    "kod": "552046",
    "nazev": "Tábor",
    "voleno": 27,
-   "je_spocteno": false,
-   "okrsky_zprac": 40,
+   "je_spocteno": true,
+   "okrsky_zprac": 41,
    "okrsky_celkem": 41,
-   "generovano": "2026-10-10T19:43:01"
+   "generovano": "2026-10-10T20:27:01"
   },
   {
    "kod": "590266",
@@ -314,9 +314,9 @@
    "nazev": "Praha 7",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 36,
-   "generovano": "2026-10-10T20:23:01"
+   "generovano": "2026-10-10T20:27:01"
   },
   {
    "kod": "500208",
@@ -476,9 +476,9 @@
    "nazev": "Hradec Králové",
    "voleno": 37,
    "je_spocteno": false,
-   "okrsky_zprac": 72,
+   "okrsky_zprac": 73,
    "okrsky_celkem": 85,
-   "generovano": "2026-10-10T20:24:01"
+   "generovano": "2026-10-10T20:27:01"
   },
   {
    "kod": "554481",
@@ -584,9 +584,9 @@
    "nazev": "Pardubice",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 76,
+   "okrsky_zprac": 77,
    "okrsky_celkem": 92,
-   "generovano": "2026-10-10T20:26:01"
+   "generovano": "2026-10-10T20:27:01"
   },
   {
    "kod": "549240",

@@ -4,65 +4,190 @@
  "typ": "OBEC",
  "voleno": 27,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T19:43:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T20:27:01",
  "ucast": {
   "okrsky_celkem": 41,
-  "okrsky_zprac": 40,
-  "okrsky_zprac_proc": 97.56,
-  "zapsani_volici": 25721,
-  "vydane_obalky": 11284,
-  "ucast_proc": 43.87,
+  "okrsky_zprac": 41,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 26219,
+  "vydane_obalky": 11486,
+  "ucast_proc": 43.81,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 11281,
-  "platne_listky": 11190,
-  "platne_hlasy": 277633
+  "odevzdane_obalky": 11483,
+  "platne_listky": 11389,
+  "platne_hlasy": 282549
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 470,
-   "hlasy": 23362,
+   "hlasy": 23758,
    "hlasy_proc": 8.41,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "TÁBOR na MAX s podporou STAROSTŮ"
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "TÁBOR na MAX s podporou STAROSTŮ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1328,
+     "hlasy_proc": 5.58,
+     "titul_pred": "Ing.",
+     "jmeno": "Radka",
+     "prijmeni": "Maxová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1091,
+     "hlasy_proc": 4.59,
+     "titul_pred": "Bc.",
+     "jmeno": "Martina",
+     "prijmeni": "Netrvalová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 1810,
-   "hlasy": 32305,
-   "hlasy_proc": 11.64,
+   "hlasy": 33053,
+   "hlasy_proc": 11.7,
    "kandidatu": 26,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ŠANCE pro TÁBOR (SOCDEM, SPD, PRO, KSČM, nezávislí)"
+   "zastupitele": 3,
+   "zastupitele_proc": 11.11,
+   "nazev": "ŠANCE pro TÁBOR (SOCDEM, SPD, PRO, KSČM, nezávislí)",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 1539,
+     "hlasy_proc": 4.65,
+     "titul_pred": "",
+     "jmeno": "Václav",
+     "prijmeni": "Ebert",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1414,
+     "hlasy_proc": 4.27,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Bohuslávek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1610,
+     "hlasy_proc": 4.87,
+     "titul_pred": "Ing.",
+     "jmeno": "Olga",
+     "prijmeni": "Bastlová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1722,
-   "hlasy": 51919,
-   "hlasy_proc": 18.7,
+   "hlasy": 52780,
+   "hlasy_proc": 18.68,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Naše Česko"
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "Naše Česko",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2255,
+     "hlasy_proc": 4.27,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Semerák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2195,
+     "hlasy_proc": 4.15,
+     "titul_pred": "PhDr.",
+     "jmeno": "Markéta",
+     "prijmeni": "Švadlenová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2227,
+     "hlasy_proc": 4.21,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Jůza",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2368,
+     "hlasy_proc": 4.48,
+     "titul_pred": "PaedDr.",
+     "jmeno": "Alena",
+     "prijmeni": "Heršálková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2196,
+     "hlasy_proc": 4.16,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Brázda",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 1327,
-   "hlasy": 30527,
-   "hlasy_proc": 11.0,
+   "hlasy": 31111,
+   "hlasy_proc": 11.01,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SPOLEČNĚ PRO TÁBOR"
+   "zastupitele": 3,
+   "zastupitele_proc": 11.11,
+   "nazev": "SPOLEČNĚ PRO TÁBOR",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1451,
+     "hlasy_proc": 4.66,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Kotrčka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1573,
+     "hlasy_proc": 5.05,
+     "titul_pred": "Ing.",
+     "jmeno": "Lenka",
+     "prijmeni": "Horejsková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1454,
+     "hlasy_proc": 4.67,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Horecký",
+     "titul_za": "Ph.D., MSc., MBA"
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 482,
-   "hlasy": 303,
+   "hlasy": 311,
    "hlasy_proc": 0.11,
    "kandidatu": 1,
    "zastupitele": 0,
@@ -72,33 +197,165 @@
   {
    "por": 6,
    "vstrana": 136,
-   "hlasy": 45872,
-   "hlasy_proc": 16.52,
+   "hlasy": 46411,
+   "hlasy_proc": 16.43,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Tábor 2020"
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "Tábor 2020",
+   "zvoleni": [
+    {
+     "poradi": 3,
+     "hlasy": 2161,
+     "hlasy_proc": 4.65,
+     "titul_pred": "Bc.",
+     "jmeno": "Radoslav",
+     "prijmeni": "Kacerovský",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1988,
+     "hlasy_proc": 4.28,
+     "titul_pred": "Mgr.",
+     "jmeno": "František",
+     "prijmeni": "Korbel",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1988,
+     "hlasy_proc": 4.28,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Fišer",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2142,
+     "hlasy_proc": 4.61,
+     "titul_pred": "Ing.",
+     "jmeno": "Jakub",
+     "prijmeni": "Valeš",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 20,
+     "hlasy": 2030,
+     "hlasy_proc": 4.37,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jakub",
+     "prijmeni": "Smrčka",
+     "titul_za": "Th.D."
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 529,
-   "hlasy": 43108,
-   "hlasy_proc": 15.53,
+   "hlasy": 43769,
+   "hlasy_proc": 15.49,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Živý Tábor"
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "Živý Tábor",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2145,
+     "hlasy_proc": 4.9,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Mareda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2166,
+     "hlasy_proc": 4.94,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vítězslav",
+     "prijmeni": "Dohnal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1922,
+     "hlasy_proc": 4.39,
+     "titul_pred": "Mgr.",
+     "jmeno": "Eva",
+     "prijmeni": "Staněk",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1788,
+     "hlasy_proc": 4.08,
+     "titul_pred": "Bc.",
+     "jmeno": "Jan",
+     "prijmeni": "Mácha",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 768,
-   "hlasy": 50237,
-   "hlasy_proc": 18.09,
+   "hlasy": 51356,
+   "hlasy_proc": 18.18,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2162,
+     "hlasy_proc": 4.2,
+     "titul_pred": "Ing.",
+     "jmeno": "Hana",
+     "prijmeni": "Randová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2101,
+     "hlasy_proc": 4.09,
+     "titul_pred": "JUDr.",
+     "jmeno": "Jana",
+     "prijmeni": "Borská",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2103,
+     "hlasy_proc": 4.09,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Breda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1912,
+     "hlasy_proc": 3.72,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Depta",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2089,
+     "hlasy_proc": 4.06,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Veronika",
+     "prijmeni": "Jirovská",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T19:43:19+02:00"
+ "stazeno": "2026-10-10T20:27:17+02:00"
 }
