@@ -5,25 +5,25 @@
  "voleno": 17,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:52:01",
+ "generovano": "2026-10-10T20:21:01",
  "ucast": {
   "okrsky_celkem": 8,
-  "okrsky_zprac": 2,
-  "okrsky_zprac_proc": 25.0,
-  "zapsani_volici": 1830,
-  "vydane_obalky": 832,
-  "ucast_proc": 45.46,
+  "okrsky_zprac": 3,
+  "okrsky_zprac_proc": 37.5,
+  "zapsani_volici": 2851,
+  "vydane_obalky": 1385,
+  "ucast_proc": 48.58,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 832,
-  "platne_listky": 822,
-  "platne_hlasy": 13359
+  "odevzdane_obalky": 1384,
+  "platne_listky": 1372,
+  "platne_hlasy": 22664
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 1996,
-   "hlasy_proc": 14.94,
+   "hlasy": 2915,
+   "hlasy_proc": 12.86,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 470,
-   "hlasy": 4284,
-   "hlasy_proc": 32.07,
+   "hlasy": 7497,
+   "hlasy_proc": 33.08,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 90,
-   "hlasy": 3067,
-   "hlasy_proc": 22.96,
+   "hlasy": 5469,
+   "hlasy_proc": 24.13,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1602,
-   "hlasy": 615,
-   "hlasy_proc": 4.6,
+   "hlasy": 1067,
+   "hlasy_proc": 4.71,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,13 +62,13 @@
   {
    "por": 5,
    "vstrana": 687,
-   "hlasy": 3397,
-   "hlasy_proc": 25.43,
+   "hlasy": 5716,
+   "hlasy_proc": 25.22,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD"
   }
  ],
- "stazeno": "2026-10-10T19:52:21+02:00"
+ "stazeno": "2026-10-10T20:21:16+02:00"
 }
