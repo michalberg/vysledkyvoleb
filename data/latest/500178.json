@@ -5,25 +5,25 @@
  "voleno": 45,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T22:17:01",
+ "generovano": "2026-10-10T22:28:01",
  "ucast": {
   "okrsky_celkem": 104,
-  "okrsky_zprac": 62,
-  "okrsky_zprac_proc": 59.62,
-  "zapsani_volici": 42335,
-  "vydane_obalky": 21121,
-  "ucast_proc": 49.89,
+  "okrsky_zprac": 63,
+  "okrsky_zprac_proc": 60.58,
+  "zapsani_volici": 42994,
+  "vydane_obalky": 21483,
+  "ucast_proc": 49.97,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 21098,
-  "platne_listky": 20713,
-  "platne_hlasy": 881824
+  "odevzdane_obalky": 21460,
+  "platne_listky": 21065,
+  "platne_hlasy": 897035
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 166,
-   "hlasy": 213841,
-   "hlasy_proc": 24.25,
+   "hlasy": 217912,
+   "hlasy_proc": 24.29,
    "kandidatu": 44,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1297,
-   "hlasy": 5311,
-   "hlasy_proc": 0.6,
+   "hlasy": 5317,
+   "hlasy_proc": 0.59,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,7 +42,7 @@
   {
    "por": 3,
    "vstrana": 47,
-   "hlasy": 3884,
+   "hlasy": 3907,
    "hlasy_proc": 0.44,
    "kandidatu": 23,
    "zastupitele": 0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 720,
-   "hlasy": 77089,
-   "hlasy_proc": 8.74,
+   "hlasy": 78817,
+   "hlasy_proc": 8.79,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 27244,
-   "hlasy_proc": 3.09,
+   "hlasy": 27519,
+   "hlasy_proc": 3.07,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1910,
-   "hlasy": 178862,
-   "hlasy_proc": 20.28,
+   "hlasy": 182208,
+   "hlasy_proc": 20.31,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 210,
-   "hlasy": 169793,
-   "hlasy_proc": 19.25,
+   "hlasy": 172470,
+   "hlasy_proc": 19.23,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 768,
-   "hlasy": 88529,
-   "hlasy_proc": 10.04,
+   "hlasy": 89290,
+   "hlasy_proc": 9.95,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 721,
-   "hlasy": 73797,
-   "hlasy_proc": 8.37,
+   "hlasy": 75162,
+   "hlasy_proc": 8.38,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,8 +112,8 @@
   {
    "por": 10,
    "vstrana": 1697,
-   "hlasy": 23784,
-   "hlasy_proc": 2.7,
+   "hlasy": 24333,
+   "hlasy_proc": 2.71,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -122,13 +122,13 @@
   {
    "por": 11,
    "vstrana": 1846,
-   "hlasy": 19690,
-   "hlasy_proc": 2.23,
+   "hlasy": 20100,
+   "hlasy_proc": 2.24,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "JSME PRAHA 6"
   }
  ],
- "stazeno": "2026-10-10T22:17:17+02:00"
+ "stazeno": "2026-10-10T22:28:23+02:00"
 }
