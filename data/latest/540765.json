@@ -5,25 +5,25 @@
  "voleno": 15,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T18:43:02",
+ "generovano": "2026-10-10T19:14:02",
  "ucast": {
   "okrsky_celkem": 5,
-  "okrsky_zprac": 2,
-  "okrsky_zprac_proc": 40.0,
-  "zapsani_volici": 999,
-  "vydane_obalky": 591,
-  "ucast_proc": 59.16,
+  "okrsky_zprac": 3,
+  "okrsky_zprac_proc": 60.0,
+  "zapsani_volici": 2245,
+  "vydane_obalky": 1197,
+  "ucast_proc": 53.32,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 591,
-  "platne_listky": 588,
-  "platne_hlasy": 8157
+  "odevzdane_obalky": 1197,
+  "platne_listky": 1183,
+  "platne_hlasy": 16524
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 540,
-   "hlasy": 651,
-   "hlasy_proc": 7.98,
+   "hlasy": 1578,
+   "hlasy_proc": 9.55,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 449,
-   "hlasy": 691,
-   "hlasy_proc": 8.47,
+   "hlasy": 1489,
+   "hlasy_proc": 9.01,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1500,
-   "hlasy": 1144,
-   "hlasy_proc": 14.02,
+   "hlasy": 2450,
+   "hlasy_proc": 14.83,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 53,
-   "hlasy": 814,
-   "hlasy_proc": 9.98,
+   "hlasy": 1703,
+   "hlasy_proc": 10.31,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 364,
-   "hlasy": 2552,
-   "hlasy_proc": 31.29,
+   "hlasy": 3947,
+   "hlasy_proc": 23.89,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 166,
-   "hlasy": 2305,
-   "hlasy_proc": 28.26,
+   "hlasy": 5357,
+   "hlasy_proc": 32.42,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
   }
  ],
- "stazeno": "2026-10-10T18:44:17+02:00"
+ "stazeno": "2026-10-10T19:17:39+02:00"
 }
