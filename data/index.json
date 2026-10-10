@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T23:37:17+02:00",
+ "aktualizovano": "2026-10-10T23:38:20+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 939,
+   "okrsky_zprac": 944,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T23:37:00"
+   "generovano": "2026-10-10T23:38:00"
   },
   {
    "kod": "500054",
@@ -287,18 +287,18 @@
    "nazev": "Praha 4",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 118,
+   "okrsky_zprac": 119,
    "okrsky_celkem": 132,
-   "generovano": "2026-10-10T23:32:01"
+   "generovano": "2026-10-10T23:38:00"
   },
   {
    "kod": "500143",
    "nazev": "Praha 5",
    "voleno": 41,
    "je_spocteno": false,
-   "okrsky_zprac": 57,
+   "okrsky_zprac": 58,
    "okrsky_celkem": 81,
-   "generovano": "2026-10-10T23:29:00"
+   "generovano": "2026-10-10T23:38:00"
   },
   {
    "kod": "500178",
@@ -323,18 +323,18 @@
    "nazev": "Praha 8",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 92,
+   "okrsky_zprac": 93,
    "okrsky_celkem": 106,
-   "generovano": "2026-10-10T23:22:01"
+   "generovano": "2026-10-10T23:38:00"
   },
   {
    "kod": "500216",
    "nazev": "Praha 9",
    "voleno": 33,
    "je_spocteno": false,
-   "okrsky_zprac": 28,
+   "okrsky_zprac": 29,
    "okrsky_celkem": 43,
-   "generovano": "2026-10-10T23:37:00"
+   "generovano": "2026-10-10T23:38:00"
   },
   {
    "kod": "500224",
@@ -386,9 +386,9 @@
    "nazev": "Praha 15",
    "voleno": 31,
    "je_spocteno": false,
-   "okrsky_zprac": 20,
+   "okrsky_zprac": 21,
    "okrsky_celkem": 23,
-   "generovano": "2026-10-10T23:27:01"
+   "generovano": "2026-10-10T23:38:00"
   },
   {
    "kod": "539601",
@@ -403,10 +403,10 @@
    "kod": "547174",
    "nazev": "Praha 17",
    "voleno": 23,
-   "je_spocteno": false,
-   "okrsky_zprac": 17,
+   "je_spocteno": true,
+   "okrsky_zprac": 18,
    "okrsky_celkem": 18,
-   "generovano": "2026-10-10T23:11:00"
+   "generovano": "2026-10-10T23:38:01"
   },
   {
    "kod": "547417",
