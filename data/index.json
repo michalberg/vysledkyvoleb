@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T23:15:38+02:00",
+ "aktualizovano": "2026-10-10T23:16:20+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -97,10 +97,10 @@
    "kod": "551031",
    "nazev": "Brno-sever",
    "voleno": 35,
-   "je_spocteno": false,
-   "okrsky_zprac": 44,
+   "je_spocteno": true,
+   "okrsky_zprac": 45,
    "okrsky_celkem": 45,
-   "generovano": "2026-10-10T23:10:01"
+   "generovano": "2026-10-10T23:16:00"
   },
   {
    "kod": "551091",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 898,
+   "okrsky_zprac": 899,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T23:15:00"
+   "generovano": "2026-10-10T23:16:00"
   },
   {
    "kod": "500054",
@@ -224,9 +224,9 @@
    "nazev": "Praha 3",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 37,
+   "okrsky_zprac": 38,
    "okrsky_celkem": 52,
-   "generovano": "2026-10-10T23:05:01"
+   "generovano": "2026-10-10T23:16:00"
   },
   {
    "kod": "589250",
