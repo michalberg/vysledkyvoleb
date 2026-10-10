@@ -4,71 +4,234 @@
  "typ": "MCMO",
  "voleno": 17,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T22:34:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T23:03:01",
  "ucast": {
   "okrsky_celkem": 8,
-  "okrsky_zprac": 7,
-  "okrsky_zprac_proc": 87.5,
-  "zapsani_volici": 6714,
-  "vydane_obalky": 3598,
-  "ucast_proc": 53.59,
+  "okrsky_zprac": 8,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 7937,
+  "vydane_obalky": 4327,
+  "ucast_proc": 54.52,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 3597,
-  "platne_listky": 3551,
-  "platne_hlasy": 58475
+  "odevzdane_obalky": 4326,
+  "platne_listky": 4264,
+  "platne_hlasy": 70185
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 7430,
-   "hlasy_proc": 12.71,
+   "hlasy": 8738,
+   "hlasy_proc": 12.45,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 2,
+   "zastupitele_proc": 11.76,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 563,
+     "hlasy_proc": 6.44,
+     "titul_pred": "Mgr.",
+     "jmeno": "Yvona",
+     "prijmeni": "Trčalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 587,
+     "hlasy_proc": 6.71,
+     "titul_pred": "Ing.",
+     "jmeno": "Vít",
+     "prijmeni": "Pěkný",
+     "titul_za": "Ph.D."
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 470,
-   "hlasy": 20440,
-   "hlasy_proc": 34.96,
+   "hlasy": 24429,
+   "hlasy_proc": 34.81,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTOVÉ A NEZÁVISLÍ – ÚJEZD ŽIJE"
+   "zastupitele": 6,
+   "zastupitele_proc": 35.29,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ – ÚJEZD ŽIJE",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1612,
+     "hlasy_proc": 6.59,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Doležalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1619,
+     "hlasy_proc": 6.62,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Petr",
+     "prijmeni": "Kučera",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1532,
+     "hlasy_proc": 6.27,
+     "titul_pred": "Mgr.",
+     "jmeno": "Hana",
+     "prijmeni": "Cermonová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1530,
+     "hlasy_proc": 6.26,
+     "titul_pred": "Ing.",
+     "jmeno": "Hana",
+     "prijmeni": "Mertová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1449,
+     "hlasy_proc": 5.93,
+     "titul_pred": "Ing.",
+     "jmeno": "Marie",
+     "prijmeni": "Kučerová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1473,
+     "hlasy_proc": 6.02,
+     "titul_pred": "",
+     "jmeno": "Marek",
+     "prijmeni": "Hladík",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 90,
-   "hlasy": 12170,
-   "hlasy_proc": 20.81,
+   "hlasy": 14595,
+   "hlasy_proc": 20.8,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ÚJEZD21"
+   "zastupitele": 3,
+   "zastupitele_proc": 17.65,
+   "nazev": "ÚJEZD21",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1038,
+     "hlasy_proc": 7.11,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Jackanič",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 947,
+     "hlasy_proc": 6.48,
+     "titul_pred": "Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Buchtel",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 890,
+     "hlasy_proc": 6.09,
+     "titul_pred": "",
+     "jmeno": "David Otto",
+     "prijmeni": "Cikhart",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 1602,
-   "hlasy": 3086,
-   "hlasy_proc": 5.28,
+   "hlasy": 3666,
+   "hlasy_proc": 5.22,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Otevřený Újezd – pro dobrý život bez planých slibů"
+   "zastupitele": 1,
+   "zastupitele_proc": 5.88,
+   "nazev": "Otevřený Újezd – pro dobrý život bez planých slibů",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 295,
+     "hlasy_proc": 8.04,
+     "titul_pred": "RNDr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Roušar",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 687,
-   "hlasy": 15349,
-   "hlasy_proc": 26.25,
+   "hlasy": 18757,
+   "hlasy_proc": 26.73,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD"
+   "zastupitele": 5,
+   "zastupitele_proc": 29.41,
+   "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1154,
+     "hlasy_proc": 6.15,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Hazdra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1132,
+     "hlasy_proc": 6.03,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Samec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1156,
+     "hlasy_proc": 6.16,
+     "titul_pred": "Ing.",
+     "jmeno": "Alena",
+     "prijmeni": "Motejlová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1134,
+     "hlasy_proc": 6.04,
+     "titul_pred": "Ing.",
+     "jmeno": "David",
+     "prijmeni": "Cubínek",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1183,
+     "hlasy_proc": 6.3,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Frey",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T22:34:20+02:00"
+ "stazeno": "2026-10-10T23:03:18+02:00"
 }
