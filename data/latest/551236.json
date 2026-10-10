@@ -5,25 +5,25 @@
  "voleno": 15,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T18:52:02",
+ "generovano": "2026-10-10T20:50:01",
  "ucast": {
   "okrsky_celkem": 5,
-  "okrsky_zprac": 1,
-  "okrsky_zprac_proc": 20.0,
-  "zapsani_volici": 858,
-  "vydane_obalky": 386,
-  "ucast_proc": 44.99,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 40.0,
+  "zapsani_volici": 1707,
+  "vydane_obalky": 837,
+  "ucast_proc": 49.03,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 386,
-  "platne_listky": 363,
-  "platne_hlasy": 5184
+  "odevzdane_obalky": 834,
+  "platne_listky": 806,
+  "platne_hlasy": 11198
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 3289,
-   "hlasy_proc": 63.45,
+   "hlasy": 6907,
+   "hlasy_proc": 61.68,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 364,
-   "hlasy": 657,
-   "hlasy_proc": 12.67,
+   "hlasy": 1846,
+   "hlasy_proc": 16.49,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1305,
-   "hlasy": 576,
-   "hlasy_proc": 11.11,
+   "hlasy": 1037,
+   "hlasy_proc": 9.26,
    "kandidatu": 14,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 389,
-   "hlasy": 357,
-   "hlasy_proc": 6.89,
+   "hlasy": 640,
+   "hlasy_proc": 5.72,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 355,
-   "hlasy": 254,
-   "hlasy_proc": 4.9,
+   "hlasy": 659,
+   "hlasy_proc": 5.88,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1832,
-   "hlasy": 51,
-   "hlasy_proc": 0.98,
+   "hlasy": 109,
+   "hlasy_proc": 0.97,
    "kandidatu": 8,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Koalice politických stran a hnutí Restart pro Brno"
   }
  ],
- "stazeno": "2026-10-10T18:52:43+02:00"
+ "stazeno": "2026-10-10T20:50:35+02:00"
 }
