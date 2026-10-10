@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-11T01:28:19+02:00",
+ "aktualizovano": "2026-10-11T01:29:16+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 346,
+   "okrsky_zprac": 347,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-11T00:49:00"
+   "generovano": "2026-10-11T01:29:00"
   },
   {
    "kod": "551198",
@@ -44,9 +44,9 @@
    "nazev": "Brno-Královo Pole",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 17,
+   "okrsky_zprac": 18,
    "okrsky_celkem": 19,
-   "generovano": "2026-10-11T00:36:00"
+   "generovano": "2026-10-11T01:29:00"
   },
   {
    "kod": "551287",
