@@ -5,25 +5,25 @@
  "voleno": 19,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:10:01",
+ "generovano": "2026-10-10T21:26:01",
  "ucast": {
   "okrsky_celkem": 9,
-  "okrsky_zprac": 4,
-  "okrsky_zprac_proc": 44.44,
-  "zapsani_volici": 3268,
-  "vydane_obalky": 1406,
-  "ucast_proc": 43.02,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 55.56,
+  "zapsani_volici": 4242,
+  "vydane_obalky": 1849,
+  "ucast_proc": 43.59,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1401,
-  "platne_listky": 1364,
-  "platne_hlasy": 24610
+  "odevzdane_obalky": 1844,
+  "platne_listky": 1797,
+  "platne_hlasy": 32541
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 523,
-   "hlasy": 4774,
-   "hlasy_proc": 19.4,
+   "hlasy": 6315,
+   "hlasy_proc": 19.41,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 90,
-   "hlasy": 8180,
-   "hlasy_proc": 33.24,
+   "hlasy": 11572,
+   "hlasy_proc": 35.56,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 768,
-   "hlasy": 5994,
-   "hlasy_proc": 24.36,
+   "hlasy": 7258,
+   "hlasy_proc": 22.3,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 355,
-   "hlasy": 3348,
-   "hlasy_proc": 13.6,
+   "hlasy": 4626,
+   "hlasy_proc": 14.22,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,13 +62,13 @@
   {
    "por": 5,
    "vstrana": 1884,
-   "hlasy": 2314,
-   "hlasy_proc": 9.4,
+   "hlasy": 2770,
+   "hlasy_proc": 8.51,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "NOVOLÍSKOVEČTÍ PATRIOTI"
   }
  ],
- "stazeno": "2026-10-10T21:10:36+02:00"
+ "stazeno": "2026-10-10T21:26:19+02:00"
 }
