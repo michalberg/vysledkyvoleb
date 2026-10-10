@@ -5,25 +5,25 @@
  "voleno": 41,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:18:01",
+ "generovano": "2026-10-10T20:28:01",
  "ucast": {
   "okrsky_celkem": 81,
-  "okrsky_zprac": 25,
-  "okrsky_zprac_proc": 30.86,
-  "zapsani_volici": 14856,
-  "vydane_obalky": 5206,
-  "ucast_proc": 35.04,
+  "okrsky_zprac": 26,
+  "okrsky_zprac_proc": 32.1,
+  "zapsani_volici": 15624,
+  "vydane_obalky": 5554,
+  "ucast_proc": 35.55,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 5195,
-  "platne_listky": 5029,
-  "platne_hlasy": 198450
+  "odevzdane_obalky": 5540,
+  "platne_listky": 5373,
+  "platne_hlasy": 211998
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1305,
-   "hlasy": 6888,
-   "hlasy_proc": 3.47,
+   "hlasy": 7727,
+   "hlasy_proc": 3.64,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1058,
-   "hlasy": 11726,
-   "hlasy_proc": 5.91,
+   "hlasy": 12208,
+   "hlasy_proc": 5.76,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 768,
-   "hlasy": 22090,
-   "hlasy_proc": 11.13,
+   "hlasy": 23868,
+   "hlasy_proc": 11.26,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1373,
-   "hlasy": 42407,
-   "hlasy_proc": 21.37,
+   "hlasy": 44850,
+   "hlasy_proc": 21.16,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 33454,
-   "hlasy_proc": 16.86,
+   "hlasy": 35459,
+   "hlasy_proc": 16.73,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1697,
-   "hlasy": 6353,
-   "hlasy_proc": 3.2,
+   "hlasy": 6710,
+   "hlasy_proc": 3.17,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1898,
-   "hlasy": 5272,
-   "hlasy_proc": 2.66,
+   "hlasy": 5611,
+   "hlasy_proc": 2.65,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 720,
-   "hlasy": 18105,
-   "hlasy_proc": 9.12,
+   "hlasy": 18780,
+   "hlasy_proc": 8.86,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,7 +102,7 @@
   {
    "por": 9,
    "vstrana": 1713,
-   "hlasy": 18,
+   "hlasy": 19,
    "hlasy_proc": 0.01,
    "kandidatu": 1,
    "zastupitele": 0,
@@ -112,8 +112,8 @@
   {
    "por": 10,
    "vstrana": 371,
-   "hlasy": 1333,
-   "hlasy_proc": 0.67,
+   "hlasy": 1341,
+   "hlasy_proc": 0.63,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -122,8 +122,8 @@
   {
    "por": 11,
    "vstrana": 166,
-   "hlasy": 31883,
-   "hlasy_proc": 16.07,
+   "hlasy": 33923,
+   "hlasy_proc": 16.0,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -132,13 +132,13 @@
   {
    "por": 12,
    "vstrana": 1855,
-   "hlasy": 18921,
-   "hlasy_proc": 9.53,
+   "hlasy": 21502,
+   "hlasy_proc": 10.14,
    "kandidatu": 41,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SEN PRO PRAHU 5 s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí"
   }
  ],
- "stazeno": "2026-10-10T20:18:21+02:00"
+ "stazeno": "2026-10-10T20:28:18+02:00"
 }
