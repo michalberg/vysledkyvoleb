@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:48:22+02:00",
+ "aktualizovano": "2026-10-10T15:49:20+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -458,9 +458,9 @@
    "nazev": "Česká Lípa",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-08T16:40:34"
+   "generovano": "2026-10-10T15:49:02"
   },
   {
    "kod": "544256",
@@ -512,18 +512,18 @@
    "nazev": "Litoměřice",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 30,
-   "generovano": "2026-10-10T15:38:02"
+   "generovano": "2026-10-10T15:49:02"
   },
   {
    "kod": "567256",
    "nazev": "Litvínov",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 4,
+   "okrsky_zprac": 5,
    "okrsky_celkem": 28,
-   "generovano": "2026-10-10T15:36:02"
+   "generovano": "2026-10-10T15:49:02"
   },
   {
    "kod": "565229",
@@ -611,9 +611,9 @@
    "nazev": "Telč",
    "voleno": 21,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 7,
-   "generovano": "2026-10-08T16:40:23"
+   "generovano": "2026-10-10T15:49:02"
   },
   {
    "kod": "567442",
