@@ -5,8 +5,8 @@ a 15 městských částí, s přibližným výpočtem mandátů a skládáním k
 
 **Web:** https://michalberg.github.io/vysledkyvoleb/ (Brno)
 a https://michalberg.github.io/vysledkyvoleb/praha.html (Praha + MČ Praha 1–22)
-a https://michalberg.github.io/vysledkyvoleb/mesta.html (vybraná města)
-a https://michalberg.github.io/vysledkyvoleb/mesta2.html (další města)
+a https://michalberg.github.io/vysledkyvoleb/mesta.html (Města 1)
+a https://michalberg.github.io/vysledkyvoleb/mesta2.html (Města 2)
 
 Zdroj: otevřená data [volby.gov.cz](https://volby.gov.cz/opendata/kv2026/KV2026_XML.htm).
 
