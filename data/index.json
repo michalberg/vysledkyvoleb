@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T22:18:20+02:00",
+ "aktualizovano": "2026-10-10T22:19:17+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 298,
+   "okrsky_zprac": 299,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T22:18:01"
+   "generovano": "2026-10-10T22:19:01"
   },
   {
    "kod": "551198",
@@ -89,18 +89,18 @@
    "nazev": "Brno-Řečkovice a Mokrá Hora",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 12,
+   "okrsky_zprac": 13,
    "okrsky_celkem": 14,
-   "generovano": "2026-10-10T21:59:01"
+   "generovano": "2026-10-10T22:19:01"
   },
   {
    "kod": "551031",
    "nazev": "Brno-sever",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 39,
+   "okrsky_zprac": 40,
    "okrsky_celkem": 45,
-   "generovano": "2026-10-10T22:11:00"
+   "generovano": "2026-10-10T22:19:01"
   },
   {
    "kod": "551091",
@@ -449,9 +449,9 @@
    "nazev": "Praha 22",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 6,
+   "okrsky_zprac": 7,
    "okrsky_celkem": 9,
-   "generovano": "2026-10-10T21:39:00"
+   "generovano": "2026-10-10T22:19:01"
   },
   {
    "kod": "561380",
