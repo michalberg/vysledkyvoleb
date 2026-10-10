@@ -15,7 +15,8 @@
   },
   "pirati": {
    "nazev": "Piráti + Fakt Brno",
-   "barva": "#111111"
+   "barva": "#111111",
+   "barva_tmava": "#ffffff"
   },
   "kdu": {
    "nazev": "KDU-ČSL",
@@ -130,5 +131,6 @@
   "551058:6": "Židenice – PETR KUNC – HLAS PRO ŽIDENICE (VSTRANA 1500 = SEN 21 + NK)",
   "551252:7": "Maloměřice a Obřany – PRO Maloměřice a Obřany (VSTRANA 1500 = SEN 21 + NK)"
  },
- "vychozi": "ostatni"
+ "vychozi": "ostatni",
+ "_popis_barva_tmava": "Volitelná barva skupiny pro tmavý režim (výchozí na projektoru)."
 }
