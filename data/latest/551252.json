@@ -5,25 +5,25 @@
  "voleno": 15,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T23:05:01",
+ "generovano": "2026-10-10T23:13:01",
  "ucast": {
   "okrsky_celkem": 4,
-  "okrsky_zprac": 2,
-  "okrsky_zprac_proc": 50.0,
-  "zapsani_volici": 2106,
-  "vydane_obalky": 1075,
-  "ucast_proc": 51.04,
+  "okrsky_zprac": 3,
+  "okrsky_zprac_proc": 75.0,
+  "zapsani_volici": 3159,
+  "vydane_obalky": 1561,
+  "ucast_proc": 49.41,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1073,
-  "platne_listky": 1054,
-  "platne_hlasy": 15008
+  "odevzdane_obalky": 1558,
+  "platne_listky": 1520,
+  "platne_hlasy": 21765
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1832,
-   "hlasy": 457,
-   "hlasy_proc": 3.05,
+   "hlasy": 714,
+   "hlasy_proc": 3.28,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 687,
-   "hlasy": 1451,
-   "hlasy_proc": 9.67,
+   "hlasy": 2073,
+   "hlasy_proc": 9.52,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 355,
-   "hlasy": 1958,
-   "hlasy_proc": 13.05,
+   "hlasy": 3314,
+   "hlasy_proc": 15.23,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 1940,
-   "hlasy_proc": 12.93,
+   "hlasy": 3084,
+   "hlasy_proc": 14.17,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 166,
-   "hlasy": 1433,
-   "hlasy_proc": 9.55,
+   "hlasy": 2133,
+   "hlasy_proc": 9.8,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1688,
-   "hlasy": 3671,
-   "hlasy_proc": 24.46,
+   "hlasy": 5400,
+   "hlasy_proc": 24.81,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,13 +82,13 @@
   {
    "por": 7,
    "vstrana": 1500,
-   "hlasy": 4098,
-   "hlasy_proc": 27.31,
+   "hlasy": 5047,
+   "hlasy_proc": 23.19,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "PRO Maloměřice a Obřany"
   }
  ],
- "stazeno": "2026-10-10T23:05:28+02:00"
+ "stazeno": "2026-10-10T23:13:17+02:00"
 }
