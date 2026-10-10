@@ -38,6 +38,9 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;",
 const num2 = v => v.toFixed(2).replace(".", ",");
 const fmt = v => num2(v) + " %";
 const pctHtml = v => `${num2(v)}<small>%</small>`;
+// Ikona mandátu (křeslo) místo zkratky „mand.“
+const SEAT = `<svg class="seat" viewBox="0 0 24 24" role="img" aria-label="mandátů"><path d="M7 2.5h10a1 1 0 0 1 1 1V12H6V3.5a1 1 0 0 1 1-1zM4.5 13h15a1 1 0 0 1 1 1v2.5h-17V14a1 1 0 0 1 1-1zM5.5 17.5h2.2v4H5.5zM16.3 17.5h2.2v4h-2.2z"/></svg>`;
+const seatsHtml = n => n > 0 ? `${n}${SEAT}` : "";
 const short = n => S.zkratky[n] || n;
 const plMand = n => n === 1 ? "mandát" : n >= 2 && n <= 4 ? "mandáty" : "mandátů";
 
@@ -237,7 +240,7 @@ function renderBrnoRow() {
       <div class="cell${p.ours && !v.isRef ? " ours" : ""}" style="border-top-color:${p.color}" title="${esc(p.nazev)}">
         <div class="n">${esc(short(p.nazev))}</div>
         <div class="p">${pctHtml(p.pct)}</div>
-        <div class="s">${p.seats} mand.</div>
+        <div class="s">${seatsHtml(p.seats)}</div>
       </div>`).join("")}
     </div>`;
   if (v.isRef) el.querySelector(".brno-meta .rows").insertAdjacentHTML("beforeend", `<div>Zobrazen rok <b>2022</b></div>`);
@@ -314,7 +317,7 @@ function renderResults(v) {
       el.children[0].firstChild.textContent = short(p.nazev);
       el.title = p.nazev;
       el.children[0].className = "n" + (p.ours ? " ours" : "");
-      el.children[1].innerHTML = `<b>${p.seats}</b> <small>mand.</small>`;
+      el.children[1].innerHTML = seatsHtml(p.seats);
       el.children[2].hidden = !(p.ours && p.pct < 3);
     }, scope);
 }
@@ -364,7 +367,7 @@ function renderCoal(container, v) {
       el.querySelector(".top").style.background = p.color;
       el.querySelector(".n").textContent = short(p.nazev);
       el.title = p.nazev;
-      el.querySelector(".s").innerHTML = `${p.seats}<small>mand.</small>`;
+      el.querySelector(".s").innerHTML = `${p.seats}${SEAT}`;
       const a = el.querySelector(".a");
       a.textContent = on ? "Odebrat" : "+ Přidat";
       a.className = "a" + (!on && p.ours ? " add-ours" : "");
@@ -394,7 +397,7 @@ function renderStage() {
   $("footLeft").innerHTML = S.view === "coal" ? `<b>Automatické přepínání pozastaveno</b>`
     : S.active === 0 ? `<button type="button" class="pill-small fg" id="toDistricts">Městské části →</button>`
     : `Linka pod názvem = podíl sečtených okrsků`;
-  $("seatNote").textContent = v.isRef ? "Rok 2022 · oficiální mandáty" : v.official ? "Mandáty oficiální" : v.hasLive ? "Mandáty jsou odhad (D'Hondt, 5 %)" : "";
+  $("seatNote").innerHTML = `${SEAT} = mandát · ` + (v.isRef ? "rok 2022, oficiální" : v.official ? "oficiální výsledek" : v.hasLive ? "odhad (D'Hondt, 5 %)" : "");
   $("themeBtn").textContent = S.theme === "dark" ? "Světlý režim" : "Tmavý režim";
   tick(0);
 }
@@ -419,7 +422,7 @@ function renderMobile() {
       ${v.isRef ? `<div class="ref-note" style="margin-bottom:10px"><b>Zobrazuji výsledky 2022</b>, zatím nebyl sečten žádný okrsek</div>` : ""}
       ${v.d ? `<div class="hbars">${list.map(p => `
         <div class="hrow"><div class="n${p.ours ? " ours" : ""}">${esc(p.nazev)}</div>
-          <div class="v">${fmt(p.pct)}<small>${p.seats} mand.</small></div>
+          <div class="v">${fmt(p.pct)}<small>${seatsHtml(p.seats)}</small></div>
           <div class="track"><div style="width:${p.pct / max * 100}%;background:${p.color}"></div><span class="f5" style="left:${5 / max * 100}%"></span></div></div>`).join("")}</div>`
         : `<div class="m-empty"><b>Čekáme na data</b><span>Zatím nebyl sečten žádný okrsek</span></div>`}
       <div class="m-actions">
@@ -427,7 +430,7 @@ function renderMobile() {
         ${u.kod !== S.units[0].kod ? `<button type="button" class="sec" data-all>${S.showAll ? "Jen strany nad 3 %" : "Všechny strany"}</button>` : ""}
       </div>`;
   }, "m");
-  $("mSeatNote").textContent = "Mandáty jsou do sečtení všech okrsků odhad (D'Hondt, 5% klauzule). Celky bez sečteného okrsku ukazují šedě výsledky 2022.";
+  $("mSeatNote").innerHTML = SEAT + " = mandát. Mandáty jsou do sečtení všech okrsků odhad (D'Hondt, 5% klauzule). Celky bez sečteného okrsku ukazují šedě výsledky 2022.";
   if (!$("mCoal").hidden) renderCoal($("mCoalBody"), view(S.units.find(u => u.kod === S.mCoalKod)));
 }
 

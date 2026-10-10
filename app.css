@@ -36,7 +36,7 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 .cell .n{font-size:13px;font-weight:700;line-height:1.15;max-height:30px;overflow:hidden}
 .cell .p{font-size:19px;font-weight:900;line-height:1;white-space:nowrap;letter-spacing:-.02em}
 .cell .p small,.col .pct small{font-size:.63em;font-weight:700;margin-left:1px}
-.cell .s{font-size:13px;font-weight:700}
+.cell .s{font-size:13px;font-weight:700;min-height:1.2em}
 .cells-note{grid-column:1/-1;align-self:center;color:var(--muted);font-size:14px;font-weight:600}
 
 .countdown{height:4px;margin-top:-10px;background:var(--line);border-radius:2px;overflow:hidden}
@@ -98,10 +98,8 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 .lab .n.ours{font-weight:800;background:var(--accent);color:var(--on-accent);border-radius:4px}
 .dense .lab .n{font-size:12px;line-height:1.12;height:calc(3 * 1.12em + 6px);padding:3px 2px}
 .dense .lab .n span{-webkit-line-clamp:3}
-.lab .s{font-size:18px;font-weight:800;white-space:nowrap;line-height:1.1}
-.lab .s small{font-size:1em;font-weight:800}
+.lab .s{font-size:18px;font-weight:800;white-space:nowrap;line-height:1.1;min-height:1.1em}
 .dense .lab .s{font-size:18px}
-.dense .lab .s small{display:block;font-size:11px;font-weight:700;color:var(--muted)}
 .dense .labels,.dense .plot{gap:6px}
 .lab .u3{font-size:13px;font-weight:600;color:var(--muted);white-space:nowrap}
 .dense .lab .u3{font-size:11px}
@@ -134,7 +132,6 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 .card .n{padding:0 12px;font-size:15px;font-weight:700;line-height:1.15;min-height:35px}
 .card .r{padding:0 12px;display:flex;align-items:baseline;justify-content:space-between;gap:6px}
 .card .s{font-size:24px;font-weight:900}
-.card .s small{font-size:13px;font-weight:700;margin-left:4px}
 .card .a{font-size:13px;font-weight:700}
 .card .a.add-ours{color:var(--accent)}
 .card.on .a{color:var(--muted)}
@@ -192,3 +189,7 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
   .m-coal-body .reset{min-height:44px}
 }
 @media (prefers-reduced-motion:reduce){.col .bar,.seg-c,.hrow .track div{transition:none}}
+
+/* ikona mandátu */
+.seat{width:.78em;height:.78em;margin-left:.18em;vertical-align:-.06em;fill:currentColor;opacity:.75;flex:none}
+.foot .seat,.m-note .seat{width:1.1em;height:1.1em;vertical-align:-.2em;margin:0 .15em 0 0}
