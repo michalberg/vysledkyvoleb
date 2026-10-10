@@ -312,13 +312,12 @@ function renderResults(v) {
   // „five“ musí v plotu zůstat – keyed ho při změně scope smaže, tak ho vrátíme
   if (!$("five")) { $("plot").prepend(h(`<div class="five" id="five"><span>5 %</span></div>`)); $("five").style.bottom = (5 / scale * 100) + "%"; }
   keyed($("labels"), bars, p => p.por,
-    () => h(`<div class="lab"><div class="n"><span></span></div><div class="s"></div><div class="u3">pod 3 %</div></div>`),
+    () => h(`<div class="lab"><div class="n"><span></span></div><div class="s"></div></div>`),
     (el, p) => {
       el.children[0].firstChild.textContent = short(p.nazev);
       el.title = p.nazev;
       el.children[0].className = "n" + (p.ours ? " ours" : "");
       el.children[1].innerHTML = seatsHtml(p.seats);
-      el.children[2].hidden = !(p.ours && p.pct < 3);
     }, scope);
 }
 

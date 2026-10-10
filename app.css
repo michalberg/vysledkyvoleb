@@ -102,8 +102,6 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 .lab .s{font-size:18px;font-weight:800;white-space:nowrap;line-height:1.1;min-height:1.1em}
 .dense .lab .s{font-size:18px}
 .dense .labels,.dense .plot{gap:6px}
-.lab .u3{font-size:13px;font-weight:600;color:var(--muted);white-space:nowrap}
-.dense .lab .u3{font-size:11px}
 
 .empty{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;border:2px dashed var(--line);border-radius:8px}
 .empty b{font-size:36px;font-weight:800}
