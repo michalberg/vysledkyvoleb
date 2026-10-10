@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T22:10:35+02:00",
+ "aktualizovano": "2026-10-10T22:11:16+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 289,
+   "okrsky_zprac": 291,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T22:10:00"
+   "generovano": "2026-10-10T22:11:00"
   },
   {
    "kod": "551198",
@@ -98,9 +98,9 @@
    "nazev": "Brno-sever",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 38,
+   "okrsky_zprac": 39,
    "okrsky_celkem": 45,
-   "generovano": "2026-10-10T22:06:01"
+   "generovano": "2026-10-10T22:11:00"
   },
   {
    "kod": "551091",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 737,
+   "okrsky_zprac": 741,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T22:10:00"
+   "generovano": "2026-10-10T22:11:00"
   },
   {
    "kod": "500054",
@@ -287,9 +287,9 @@
    "nazev": "Praha 4",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 103,
+   "okrsky_zprac": 104,
    "okrsky_celkem": 132,
-   "generovano": "2026-10-10T22:10:00"
+   "generovano": "2026-10-10T22:11:00"
   },
   {
    "kod": "500143",
@@ -305,18 +305,18 @@
    "nazev": "Praha 6",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 59,
+   "okrsky_zprac": 61,
    "okrsky_celkem": 104,
-   "generovano": "2026-10-10T22:01:00"
+   "generovano": "2026-10-10T22:11:00"
   },
   {
    "kod": "500186",
    "nazev": "Praha 7",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 12,
+   "okrsky_zprac": 13,
    "okrsky_celkem": 36,
-   "generovano": "2026-10-10T22:05:01"
+   "generovano": "2026-10-10T22:11:00"
   },
   {
    "kod": "500208",
@@ -422,9 +422,9 @@
    "nazev": "Praha 19",
    "voleno": 19,
    "je_spocteno": false,
-   "okrsky_zprac": 4,
+   "okrsky_zprac": 5,
    "okrsky_celkem": 6,
-   "generovano": "2026-10-10T21:28:01"
+   "generovano": "2026-10-10T22:11:00"
   },
   {
    "kod": "538213",
