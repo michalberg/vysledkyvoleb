@@ -5,25 +5,25 @@
  "voleno": 25,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:35:01",
+ "generovano": "2026-10-10T21:39:00",
  "ucast": {
   "okrsky_celkem": 25,
-  "okrsky_zprac": 19,
-  "okrsky_zprac_proc": 76.0,
-  "zapsani_volici": 11783,
-  "vydane_obalky": 6231,
-  "ucast_proc": 52.88,
+  "okrsky_zprac": 20,
+  "okrsky_zprac_proc": 80.0,
+  "zapsani_volici": 12587,
+  "vydane_obalky": 6681,
+  "ucast_proc": 53.08,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 6218,
-  "platne_listky": 6035,
-  "platne_hlasy": 141848
+  "odevzdane_obalky": 6665,
+  "platne_listky": 6481,
+  "platne_hlasy": 152115
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 687,
-   "hlasy": 23540,
-   "hlasy_proc": 16.6,
+   "hlasy": 25414,
+   "hlasy_proc": 16.71,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1832,
-   "hlasy": 1572,
-   "hlasy_proc": 1.11,
+   "hlasy": 1578,
+   "hlasy_proc": 1.04,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 768,
-   "hlasy": 23471,
-   "hlasy_proc": 16.55,
+   "hlasy": 25072,
+   "hlasy_proc": 16.48,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1491,
-   "hlasy": 6536,
-   "hlasy_proc": 4.61,
+   "hlasy": 6790,
+   "hlasy_proc": 4.46,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1277,
-   "hlasy": 11333,
-   "hlasy_proc": 7.99,
+   "hlasy": 12424,
+   "hlasy_proc": 8.17,
    "kandidatu": 24,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1913,
-   "hlasy": 10602,
-   "hlasy_proc": 7.47,
+   "hlasy": 11629,
+   "hlasy_proc": 7.64,
    "kandidatu": 24,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1710,
-   "hlasy": 4286,
-   "hlasy_proc": 3.02,
+   "hlasy": 4579,
+   "hlasy_proc": 3.01,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 340,
-   "hlasy": 47745,
-   "hlasy_proc": 33.66,
+   "hlasy": 50963,
+   "hlasy_proc": 33.5,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,13 +102,13 @@
   {
    "por": 9,
    "vstrana": 5,
-   "hlasy": 12763,
-   "hlasy_proc": 9.0,
+   "hlasy": 13666,
+   "hlasy_proc": 8.98,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Zelení a osobnosti pro Žabovřesky"
   }
  ],
- "stazeno": "2026-10-10T21:35:28+02:00"
+ "stazeno": "2026-10-10T21:39:16+02:00"
 }
