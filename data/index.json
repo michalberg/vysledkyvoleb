@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:57:17+02:00",
+ "aktualizovano": "2026-10-10T15:59:16+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -458,9 +458,9 @@
    "nazev": "Česká Lípa",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T15:57:02"
+   "generovano": "2026-10-10T15:59:03"
   },
   {
    "kod": "544256",
@@ -521,9 +521,9 @@
    "nazev": "Litvínov",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 6,
+   "okrsky_zprac": 7,
    "okrsky_celkem": 28,
-   "generovano": "2026-10-10T15:56:02"
+   "generovano": "2026-10-10T15:59:03"
   },
   {
    "kod": "565229",
@@ -548,9 +548,9 @@
    "nazev": "Most",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 12,
+   "okrsky_zprac": 13,
    "okrsky_celkem": 60,
-   "generovano": "2026-10-10T15:54:02"
+   "generovano": "2026-10-10T15:59:03"
   },
   {
    "kod": "573868",
