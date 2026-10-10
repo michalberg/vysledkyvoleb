@@ -5,25 +5,25 @@
  "voleno": 29,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:58:01",
+ "generovano": "2026-10-10T22:05:01",
  "ucast": {
   "okrsky_celkem": 36,
-  "okrsky_zprac": 11,
-  "okrsky_zprac_proc": 30.56,
-  "zapsani_volici": 9672,
-  "vydane_obalky": 4563,
-  "ucast_proc": 47.18,
+  "okrsky_zprac": 12,
+  "okrsky_zprac_proc": 33.33,
+  "zapsani_volici": 10711,
+  "vydane_obalky": 5028,
+  "ucast_proc": 46.94,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 4548,
-  "platne_listky": 4388,
-  "platne_hlasy": 120856
+  "odevzdane_obalky": 5013,
+  "platne_listky": 4837,
+  "platne_hlasy": 133290
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 70757,
-   "hlasy_proc": 58.55,
+   "hlasy": 77571,
+   "hlasy_proc": 58.2,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1843,
-   "hlasy": 1220,
-   "hlasy_proc": 1.01,
+   "hlasy": 1280,
+   "hlasy_proc": 0.96,
    "kandidatu": 28,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 22057,
-   "hlasy_proc": 18.25,
+   "hlasy": 23828,
+   "hlasy_proc": 17.88,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 532,
-   "hlasy": 10623,
-   "hlasy_proc": 8.79,
+   "hlasy": 12132,
+   "hlasy_proc": 9.1,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 3187,
-   "hlasy_proc": 2.64,
+   "hlasy": 3704,
+   "hlasy_proc": 2.78,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1350,
-   "hlasy": 13012,
-   "hlasy_proc": 10.77,
+   "hlasy": 14775,
+   "hlasy_proc": 11.08,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Piráti a Starostové"
   }
  ],
- "stazeno": "2026-10-10T21:58:21+02:00"
+ "stazeno": "2026-10-10T22:05:27+02:00"
 }
