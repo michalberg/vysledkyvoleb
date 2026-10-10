@@ -4,55 +4,106 @@
  "typ": "OBEC",
  "voleno": 21,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T19:29:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T20:18:02",
  "ucast": {
   "okrsky_celkem": 25,
-  "okrsky_zprac": 24,
-  "okrsky_zprac_proc": 96.0,
-  "zapsani_volici": 19365,
-  "vydane_obalky": 8481,
-  "ucast_proc": 43.8,
+  "okrsky_zprac": 25,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 20162,
+  "vydane_obalky": 8881,
+  "ucast_proc": 44.05,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 8476,
-  "platne_listky": 8402,
-  "platne_hlasy": 158019
+  "odevzdane_obalky": 8876,
+  "platne_listky": 8794,
+  "platne_hlasy": 165403
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 53,
-   "hlasy": 10552,
-   "hlasy_proc": 6.68,
+   "hlasy": 10985,
+   "hlasy_proc": 6.64,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Občanská demokratická strana"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1056,
+     "hlasy_proc": 9.61,
+     "titul_pred": "Mgr.",
+     "jmeno": "Roman",
+     "prijmeni": "Kalabus",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 1695,
-   "hlasy": 8188,
-   "hlasy_proc": 5.18,
+   "hlasy": 8591,
+   "hlasy_proc": 5.19,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "NAŠE ČESKO - NÁŠ VSETÍN"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "NAŠE ČESKO - NÁŠ VSETÍN",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1246,
+     "hlasy_proc": 14.5,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Kořenek",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 768,
-   "hlasy": 19417,
-   "hlasy_proc": 12.29,
+   "hlasy": 20895,
+   "hlasy_proc": 12.63,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1568,
+     "hlasy_proc": 7.5,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Kudlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1396,
+     "hlasy_proc": 6.68,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Bartoň",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1137,
+     "hlasy_proc": 5.44,
+     "titul_pred": "",
+     "jmeno": "Marek",
+     "prijmeni": "Urban",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 1818,
-   "hlasy": 4981,
+   "hlasy": 5217,
    "hlasy_proc": 3.15,
    "kandidatu": 21,
    "zastupitele": 0,
@@ -62,38 +113,179 @@
   {
    "por": 5,
    "vstrana": 90,
-   "hlasy": 64419,
-   "hlasy_proc": 40.77,
+   "hlasy": 66992,
+   "hlasy_proc": 40.5,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "VS21 - Sdružení nezávislých kandidátů"
+   "zastupitele": 10,
+   "zastupitele_proc": 47.62,
+   "nazev": "VS21 - Sdružení nezávislých kandidátů",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 4281,
+     "hlasy_proc": 6.39,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Metelka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3701,
+     "hlasy_proc": 5.52,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Janošková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3529,
+     "hlasy_proc": 5.26,
+     "titul_pred": "",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Čablík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3569,
+     "hlasy_proc": 5.32,
+     "titul_pred": "RNDr.",
+     "jmeno": "Bořek",
+     "prijmeni": "Navrátil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3692,
+     "hlasy_proc": 5.51,
+     "titul_pred": "Ing.",
+     "jmeno": "Otta",
+     "prijmeni": "Grebeň",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3264,
+     "hlasy_proc": 4.87,
+     "titul_pred": "Ing.",
+     "jmeno": "Zdenka",
+     "prijmeni": "Fojtů",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 3273,
+     "hlasy_proc": 4.88,
+     "titul_pred": "Mgr.",
+     "jmeno": "Aneta",
+     "prijmeni": "Turpišová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 3188,
+     "hlasy_proc": 4.75,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Helis",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 3350,
+     "hlasy_proc": 5.0,
+     "titul_pred": "",
+     "jmeno": "Boleslav",
+     "prijmeni": "Vjaclovský",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 10,
+     "hlasy": 3273,
+     "hlasy_proc": 4.88,
+     "titul_pred": "MUDr.",
+     "jmeno": "Ladislava",
+     "prijmeni": "Duffková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 364,
-   "hlasy": 12718,
-   "hlasy_proc": 8.05,
+   "hlasy": 13232,
+   "hlasy_proc": 8.0,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Koalice pro Otevřený Vsetín (KOV)"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Koalice pro Otevřený Vsetín (KOV)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1091,
+     "hlasy_proc": 8.24,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavla",
+     "prijmeni": "Fojtíková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 355,
-   "hlasy": 25523,
-   "hlasy_proc": 16.15,
+   "hlasy": 26746,
+   "hlasy_proc": 16.17,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "VSETÍN SRDCEM A ROZUMEM"
+   "zastupitele": 4,
+   "zastupitele_proc": 19.05,
+   "nazev": "VSETÍN SRDCEM A ROZUMEM",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1823,
+     "hlasy_proc": 6.81,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Čunek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1777,
+     "hlasy_proc": 6.64,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Růžička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1723,
+     "hlasy_proc": 6.44,
+     "titul_pred": "Mgr.",
+     "jmeno": "Simona",
+     "prijmeni": "Hlaváčová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1560,
+     "hlasy_proc": 5.83,
+     "titul_pred": "MUDr.",
+     "jmeno": "Róbert",
+     "prijmeni": "Teleky",
+     "titul_za": "MBA"
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 721,
-   "hlasy": 1550,
-   "hlasy_proc": 0.98,
+   "hlasy": 1585,
+   "hlasy_proc": 0.96,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,13 +294,24 @@
   {
    "por": 9,
    "vstrana": 470,
-   "hlasy": 10671,
+   "hlasy": 11160,
    "hlasy_proc": 6.75,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "PROBUĎME VSETÍN!"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "PROBUĎME VSETÍN!",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 995,
+     "hlasy_proc": 8.91,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Pifka",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T19:35:08+02:00"
+ "stazeno": "2026-10-10T20:18:21+02:00"
 }
