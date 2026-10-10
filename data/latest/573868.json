@@ -5,25 +5,25 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:21:03",
+ "generovano": "2026-10-10T16:25:02",
  "ucast": {
   "okrsky_celkem": 25,
-  "okrsky_zprac": 3,
-  "okrsky_zprac_proc": 12.0,
-  "zapsani_volici": 1425,
-  "vydane_obalky": 384,
-  "ucast_proc": 26.95,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 20.0,
+  "zapsani_volici": 2525,
+  "vydane_obalky": 844,
+  "ucast_proc": 33.43,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 383,
-  "platne_listky": 380,
-  "platne_hlasy": 8693
+  "odevzdane_obalky": 843,
+  "platne_listky": 829,
+  "platne_hlasy": 19554
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1454,
-   "hlasy": 975,
-   "hlasy_proc": 11.22,
+   "hlasy": 2643,
+   "hlasy_proc": 13.52,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 993,
-   "hlasy_proc": 11.42,
+   "hlasy": 2214,
+   "hlasy_proc": 11.32,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1264,
-   "hlasy": 1168,
-   "hlasy_proc": 13.44,
+   "hlasy": 2411,
+   "hlasy_proc": 12.33,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1804,
-   "hlasy": 593,
-   "hlasy_proc": 6.82,
+   "hlasy": 1070,
+   "hlasy_proc": 5.47,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1523,
-   "hlasy": 2260,
-   "hlasy_proc": 26.0,
+   "hlasy": 4142,
+   "hlasy_proc": 21.18,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 371,
-   "hlasy": 2704,
-   "hlasy_proc": 31.11,
+   "hlasy": 7074,
+   "hlasy_proc": 36.18,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "JAN BIRKE PRO NÁCHOD"
   }
  ],
- "stazeno": "2026-10-10T16:21:17+02:00"
+ "stazeno": "2026-10-10T16:24:01+02:00"
 }
