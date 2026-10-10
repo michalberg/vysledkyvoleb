@@ -5,25 +5,25 @@
  "voleno": 45,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:04:02",
+ "generovano": "2026-10-10T19:09:01",
  "ucast": {
   "okrsky_celkem": 132,
-  "okrsky_zprac": 29,
-  "okrsky_zprac_proc": 21.97,
-  "zapsani_volici": 20352,
-  "vydane_obalky": 7625,
-  "ucast_proc": 37.47,
+  "okrsky_zprac": 30,
+  "okrsky_zprac_proc": 22.73,
+  "zapsani_volici": 20849,
+  "vydane_obalky": 7807,
+  "ucast_proc": 37.45,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 7623,
-  "platne_listky": 7422,
-  "platne_hlasy": 319090
+  "odevzdane_obalky": 7805,
+  "platne_listky": 7598,
+  "platne_hlasy": 326431
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1843,
-   "hlasy": 812,
-   "hlasy_proc": 0.25,
+   "hlasy": 869,
+   "hlasy_proc": 0.27,
    "kandidatu": 13,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 720,
-   "hlasy": 38482,
-   "hlasy_proc": 12.06,
+   "hlasy": 39026,
+   "hlasy_proc": 11.96,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1697,
-   "hlasy": 10294,
-   "hlasy_proc": 3.23,
+   "hlasy": 10707,
+   "hlasy_proc": 3.28,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1305,
-   "hlasy": 13632,
-   "hlasy_proc": 4.27,
+   "hlasy": 14254,
+   "hlasy_proc": 4.37,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 768,
-   "hlasy": 48166,
-   "hlasy_proc": 15.09,
+   "hlasy": 49831,
+   "hlasy_proc": 15.27,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 687,
-   "hlasy": 106280,
-   "hlasy_proc": 33.31,
+   "hlasy": 108265,
+   "hlasy_proc": 33.17,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,13 +82,13 @@
   {
    "por": 7,
    "vstrana": 1814,
-   "hlasy": 101424,
-   "hlasy_proc": 31.79,
+   "hlasy": 103479,
+   "hlasy_proc": 31.7,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPOLEČNĚ PRO ZMĚNU – KOALICE STAROSTOVÉ, PRAHA SOBĚ, LIDOVCI A ZELENÍ"
   }
  ],
- "stazeno": "2026-10-10T19:05:23+02:00"
+ "stazeno": "2026-10-10T19:09:19+02:00"
 }
