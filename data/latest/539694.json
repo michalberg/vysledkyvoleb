@@ -5,25 +5,25 @@
  "voleno": 35,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:06:01",
+ "generovano": "2026-10-10T21:11:01",
  "ucast": {
   "okrsky_celkem": 58,
-  "okrsky_zprac": 33,
-  "okrsky_zprac_proc": 56.9,
-  "zapsani_volici": 21860,
-  "vydane_obalky": 10049,
-  "ucast_proc": 45.97,
+  "okrsky_zprac": 34,
+  "okrsky_zprac_proc": 58.62,
+  "zapsani_volici": 22626,
+  "vydane_obalky": 10423,
+  "ucast_proc": 46.07,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 10039,
-  "platne_listky": 9759,
-  "platne_hlasy": 321082
+  "odevzdane_obalky": 10410,
+  "platne_listky": 10116,
+  "platne_hlasy": 333319
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1305,
-   "hlasy": 17690,
-   "hlasy_proc": 5.51,
+   "hlasy": 18442,
+   "hlasy_proc": 5.53,
    "kandidatu": 34,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 166,
-   "hlasy": 51704,
-   "hlasy_proc": 16.1,
+   "hlasy": 53346,
+   "hlasy_proc": 16.0,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1373,
-   "hlasy": 43075,
-   "hlasy_proc": 13.42,
+   "hlasy": 44396,
+   "hlasy_proc": 13.32,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1058,
-   "hlasy": 19074,
-   "hlasy_proc": 5.94,
+   "hlasy": 20143,
+   "hlasy_proc": 6.04,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1066,
-   "hlasy": 32355,
-   "hlasy_proc": 10.08,
+   "hlasy": 33641,
+   "hlasy_proc": 10.09,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1855,
-   "hlasy": 30088,
-   "hlasy_proc": 9.37,
+   "hlasy": 32171,
+   "hlasy_proc": 9.65,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1908,
-   "hlasy": 3934,
-   "hlasy_proc": 1.23,
+   "hlasy": 4060,
+   "hlasy_proc": 1.22,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 768,
-   "hlasy": 46370,
-   "hlasy_proc": 14.44,
+   "hlasy": 48762,
+   "hlasy_proc": 14.63,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,13 +102,13 @@
   {
    "por": 9,
    "vstrana": 389,
-   "hlasy": 76792,
-   "hlasy_proc": 23.92,
+   "hlasy": 78358,
+   "hlasy_proc": 23.51,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "ODS s podporou nezávislých"
   }
  ],
- "stazeno": "2026-10-10T21:07:26+02:00"
+ "stazeno": "2026-10-10T21:12:22+02:00"
 }

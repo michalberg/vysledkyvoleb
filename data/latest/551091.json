@@ -4,46 +4,95 @@
  "typ": "MCMO",
  "voleno": 21,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T20:21:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T21:12:01",
  "ucast": {
   "okrsky_celkem": 12,
-  "okrsky_zprac": 11,
-  "okrsky_zprac_proc": 91.67,
-  "zapsani_volici": 8857,
-  "vydane_obalky": 4088,
-  "ucast_proc": 46.16,
+  "okrsky_zprac": 12,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 9712,
+  "vydane_obalky": 4478,
+  "ucast_proc": 46.11,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 4088,
-  "platne_listky": 4002,
-  "platne_hlasy": 77210
+  "odevzdane_obalky": 4477,
+  "platne_listky": 4380,
+  "platne_hlasy": 84495
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 355,
-   "hlasy": 8936,
-   "hlasy_proc": 11.57,
+   "hlasy": 9975,
+   "hlasy_proc": 11.81,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Lidovci pro Starý Lískovec"
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "Lidovci pro Starý Lískovec",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 710,
+     "hlasy_proc": 7.11,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Dvořáček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 560,
+     "hlasy_proc": 5.61,
+     "titul_pred": "Mgr.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Skřička",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 166,
-   "hlasy": 10101,
-   "hlasy_proc": 13.08,
+   "hlasy": 10894,
+   "hlasy_proc": 12.89,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 624,
+     "hlasy_proc": 5.72,
+     "titul_pred": "Ing.",
+     "jmeno": "Simona",
+     "prijmeni": "Ondroušková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 578,
+     "hlasy_proc": 5.3,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Nak",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 552,
+     "hlasy_proc": 5.06,
+     "titul_pred": "Mgr.",
+     "jmeno": "Romana",
+     "prijmeni": "Hegedüsová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1305,
-   "hlasy": 1021,
-   "hlasy_proc": 1.32,
+   "hlasy": 1123,
+   "hlasy_proc": 1.33,
    "kandidatu": 7,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,53 +101,207 @@
   {
    "por": 4,
    "vstrana": 90,
-   "hlasy": 5104,
-   "hlasy_proc": 6.61,
+   "hlasy": 5656,
+   "hlasy_proc": 6.69,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Alternativa pro Lískovec, sdružení nezávislých kandidátů"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Alternativa pro Lískovec, sdružení nezávislých kandidátů",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 360,
+     "hlasy_proc": 6.36,
+     "titul_pred": "Ing.",
+     "jmeno": "Andrea",
+     "prijmeni": "Březnová",
+     "titul_za": "DiS."
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 687,
-   "hlasy": 24631,
-   "hlasy_proc": 31.9,
+   "hlasy": 27135,
+   "hlasy_proc": 32.11,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ODS a osobnosti Starého Lískovce s podporou TOP 09"
+   "zastupitele": 8,
+   "zastupitele_proc": 38.1,
+   "nazev": "ODS a osobnosti Starého Lískovce s podporou TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1578,
+     "hlasy_proc": 5.81,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladan",
+     "prijmeni": "Krásný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1379,
+     "hlasy_proc": 5.08,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Kottová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1309,
+     "hlasy_proc": 4.82,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Bernard",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1338,
+     "hlasy_proc": 4.93,
+     "titul_pred": "Ing.",
+     "jmeno": "Michaela",
+     "prijmeni": "Ambrožová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1303,
+     "hlasy_proc": 4.8,
+     "titul_pred": "",
+     "jmeno": "Ivan",
+     "prijmeni": "Mokrý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1326,
+     "hlasy_proc": 4.88,
+     "titul_pred": "MUDr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Hromadová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1329,
+     "hlasy_proc": 4.89,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Turčínek",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1306,
+     "hlasy_proc": 4.81,
+     "titul_pred": "doc. RNDr.",
+     "jmeno": "Milan",
+     "prijmeni": "Číž",
+     "titul_za": "Ph.D."
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 768,
-   "hlasy": 13630,
-   "hlasy_proc": 17.65,
+   "hlasy": 15045,
+   "hlasy_proc": 17.81,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 4,
+   "zastupitele_proc": 19.05,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 765,
+     "hlasy_proc": 5.08,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Hemerka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 752,
+     "hlasy_proc": 4.99,
+     "titul_pred": "",
+     "jmeno": "Josef",
+     "prijmeni": "Houšť",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 733,
+     "hlasy_proc": 4.87,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Krejčí",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 735,
+     "hlasy_proc": 4.88,
+     "titul_pred": "Bc.",
+     "jmeno": "Lucie",
+     "prijmeni": "Nádeníčková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 1066,
-   "hlasy": 8332,
-   "hlasy_proc": 10.79,
+   "hlasy": 8799,
+   "hlasy_proc": 10.41,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Piráti a Zelení"
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "Piráti a Zelení",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 510,
+     "hlasy_proc": 5.79,
+     "titul_pred": "RNDr.",
+     "jmeno": "Vendula",
+     "prijmeni": "Svobodová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 480,
+     "hlasy_proc": 5.45,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Novák",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 1902,
-   "hlasy": 5455,
-   "hlasy_proc": 7.07,
+   "hlasy": 5868,
+   "hlasy_proc": 6.94,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Za Lužánky - Jsme z Lískovce!"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Za Lužánky - Jsme z Lískovce!",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 342,
+     "hlasy_proc": 5.82,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Filip",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T20:21:16+02:00"
+ "stazeno": "2026-10-10T21:12:22+02:00"
 }
