@@ -66,6 +66,8 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 /* hlavička celku */
 .dhead{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;flex-wrap:wrap}
 .dname{font-size:44px;font-weight:900;line-height:1;letter-spacing:-.01em;display:flex;align-items:baseline;gap:10px}
+.dtitle{display:flex;flex-direction:column;gap:6px}
+.dseats{font-size:15px;font-weight:600;color:var(--muted)}
 .dname span{font-size:22px;font-weight:600;color:var(--muted)}
 .metrics{display:flex;gap:32px;align-items:flex-end}
 .metric{display:flex;flex-direction:column;gap:4px}

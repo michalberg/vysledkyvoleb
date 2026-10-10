@@ -14,7 +14,7 @@ pro zastupitelstva uvedená v `config.json`.
 - Celek bez sečteného okrsku ukazuje šedě výsledky 2022.
 - Mandáty do sečtení všech okrsků odhaduje podle § 45 zákona 491/2001 Sb.
   (5% klauzule s úpravou pro neúplné kandidátky, D'Hondt, strop počtem kandidátů).
-- URL parametry: `?mock=2022` / `?mock=2022-prubeh` (testovací data), `?interval=12` (rotace v s).
+- URL parametry: `?demo` (vymyšlené hlasy pro letošní kandidátky – test barev), `?mock=2022` / `?mock=2022-prubeh` (data 2022), `?interval=12` (rotace v s).
 - Naše kandidátka pro každý celek je v `config.json` → `nase` (číslo kandidátní listiny).
 
 ## Jak to funguje

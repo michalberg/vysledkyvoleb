@@ -7,6 +7,7 @@
  * Celky bez sečteného okrsku ukazují šedě výsledky 2022 (mock/2022/latest).
  *
  * Parametry URL: ?mock=2022 | ?mock=2022-prubeh  (testovací data)
+ *                ?demo                             (vymyšlené hlasy 2026)
  *                ?interval=12                      (rotace v sekundách)
  */
 
@@ -15,6 +16,7 @@ const GREY_ZELENI = "#8e8e8e";
 const REFRESH_MS = 60_000;
 const params = new URLSearchParams(location.search);
 const MOCK = params.get("mock");
+const DEMO = params.has("demo"); // vymyšlené hlasy pro letošní kandidátky (test barev a rozložení)
 const YEAR = MOCK ? "2022" : "2026";
 
 const S = {
@@ -95,6 +97,7 @@ async function loadUnit(u) {
       src = MOCK ? "mock" : "záloha";
     } catch (e) { /* nic */ }
   }
+  if (d && DEMO) d = demo(d);
   if (d && d.kod === u.kod) {
     S.data[u.kod] = d;
     Object.assign(m, { src, failed: !MOCK && src !== "živě", lastOk: Date.now() });
@@ -106,6 +109,14 @@ async function loadUnit(u) {
 async function refresh() {
   await Promise.all(S.units.map(loadUnit));
   render();
+}
+
+function demo(d) {
+  let seed = Number(d.kod);
+  const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+  const zprac = d.kod === "551171" ? 0 : Math.max(1, Math.round(d.celkem * (0.3 + rnd() * 0.7)));
+  const strany = d.strany.map(s => ({ ...s, hlasy: zprac ? Math.round(Math.pow(rnd(), 2) * 20000 + 300) : 0, oficialni: 0 }));
+  return { ...d, zprac, spocteno: false, ucast: zprac ? 35 + rnd() * 15 : 0, generovano: d.generovano || "2026-10-10T21:14:00", strany };
 }
 
 /* ---------------- mandáty: § 45 zákona 491/2001 Sb. ---------------- */
@@ -247,11 +258,14 @@ function renderSide() {
   }).join("");
 }
 
+const seatsTotal = v => (v.live || v.d)?.voleno || 0;
+
 function headHtml(v) {
   const d = v.live;
   const cp = d && d.celkem ? d.zprac / d.celkem * 100 : 0;
   return `<div class="dhead">
-    <a class="dname" href="${esc(v.u.odkaz)}" target="_blank" rel="noopener">${esc(v.u.zobrazit)}<span>↗</span></a>
+    <div class="dtitle"><a class="dname" href="${esc(v.u.odkaz)}" target="_blank" rel="noopener">${esc(v.u.zobrazit)}<span>↗</span></a>
+      ${seatsTotal(v) ? `<div class="dseats">${seatsTotal(v)} ${plMand(seatsTotal(v))} v zastupitelstvu</div>` : ""}</div>
     <div class="metrics">
       <div class="metric"><div class="lbl">Sečteno okrsků</div>
         <div class="row"><div class="val">${d ? d.zprac + " / " + d.celkem : "–"}</div><div class="sub">${d ? fmt(cp) : ""}</div></div>
@@ -400,7 +414,7 @@ function renderMobile() {
     el.innerHTML = `
       <h2><a href="${esc(u.odkaz)}" target="_blank" rel="noopener">${esc(u.zobrazit)} <span>↗</span></a></h2>
       <div class="m-meta"><span>Okrsky <b>${d ? d.zprac + " / " + d.celkem : "–"}</b> ${d ? "(" + fmt(cp) + ")" : ""}</span>
-        <span>Účast <b>${v.hasLive ? fmt(d.ucast) : "–"}</b></span><span>Aktualizováno <b>${timeTxt(v)}</b>${warnHtml(v)}</span></div>
+        <span>Účast <b>${v.hasLive ? fmt(d.ucast) : "–"}</b></span><span>Mandátů <b>${seatsTotal(v) || "–"}</b></span><span>Aktualizováno <b>${timeTxt(v)}</b>${warnHtml(v)}</span></div>
       <div class="m-prog"><div style="width:${cp}%"></div></div>
       ${v.isRef ? `<div class="ref-note" style="margin-bottom:10px"><b>Zobrazuji výsledky 2022</b>, zatím nebyl sečten žádný okrsek</div>` : ""}
       ${v.d ? `<div class="hbars">${list.map(p => `
