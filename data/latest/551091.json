@@ -5,25 +5,25 @@
  "voleno": 21,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T18:36:01",
+ "generovano": "2026-10-10T18:44:01",
  "ucast": {
   "okrsky_celkem": 12,
-  "okrsky_zprac": 2,
-  "okrsky_zprac_proc": 16.67,
-  "zapsani_volici": 1560,
-  "vydane_obalky": 692,
-  "ucast_proc": 44.36,
+  "okrsky_zprac": 3,
+  "okrsky_zprac_proc": 25.0,
+  "zapsani_volici": 2191,
+  "vydane_obalky": 971,
+  "ucast_proc": 44.32,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 692,
-  "platne_listky": 690,
-  "platne_hlasy": 12688
+  "odevzdane_obalky": 971,
+  "platne_listky": 963,
+  "platne_hlasy": 18012
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 355,
-   "hlasy": 1135,
-   "hlasy_proc": 8.95,
+   "hlasy": 1604,
+   "hlasy_proc": 8.91,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 166,
-   "hlasy": 2226,
-   "hlasy_proc": 17.54,
+   "hlasy": 2932,
+   "hlasy_proc": 16.28,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1305,
-   "hlasy": 196,
-   "hlasy_proc": 1.54,
+   "hlasy": 296,
+   "hlasy_proc": 1.64,
    "kandidatu": 7,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 90,
-   "hlasy": 1234,
-   "hlasy_proc": 9.73,
+   "hlasy": 2092,
+   "hlasy_proc": 11.61,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 687,
-   "hlasy": 3175,
-   "hlasy_proc": 25.02,
+   "hlasy": 4649,
+   "hlasy_proc": 25.81,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 768,
-   "hlasy": 2723,
-   "hlasy_proc": 21.46,
+   "hlasy": 3619,
+   "hlasy_proc": 20.09,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1066,
-   "hlasy": 1352,
-   "hlasy_proc": 10.66,
+   "hlasy": 1842,
+   "hlasy_proc": 10.23,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 1902,
-   "hlasy": 647,
-   "hlasy_proc": 5.1,
+   "hlasy": 978,
+   "hlasy_proc": 5.43,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Za Lužánky - Jsme z Lískovce!"
   }
  ],
- "stazeno": "2026-10-10T18:40:08+02:00"
+ "stazeno": "2026-10-10T18:44:17+02:00"
 }
