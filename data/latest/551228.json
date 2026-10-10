@@ -5,24 +5,24 @@
  "voleno": 17,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:09:00",
+ "generovano": "2026-10-10T20:52:00",
  "ucast": {
   "okrsky_celkem": 6,
-  "okrsky_zprac": 1,
-  "okrsky_zprac_proc": 16.67,
-  "zapsani_volici": 965,
-  "vydane_obalky": 495,
-  "ucast_proc": 51.3,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 33.33,
+  "zapsani_volici": 2044,
+  "vydane_obalky": 1160,
+  "ucast_proc": 56.75,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 492,
-  "platne_listky": 488,
-  "platne_hlasy": 7567
+  "odevzdane_obalky": 1153,
+  "platne_listky": 1108,
+  "platne_hlasy": 17463
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1832,
-   "hlasy": 15,
+   "hlasy": 35,
    "hlasy_proc": 0.2,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 53,
-   "hlasy": 359,
-   "hlasy_proc": 4.74,
+   "hlasy": 1091,
+   "hlasy_proc": 6.25,
    "kandidatu": 16,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 721,
-   "hlasy": 235,
-   "hlasy_proc": 3.11,
+   "hlasy": 621,
+   "hlasy_proc": 3.56,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 340,
-   "hlasy": 1180,
-   "hlasy_proc": 15.59,
+   "hlasy": 2926,
+   "hlasy_proc": 16.76,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1711,
-   "hlasy": 1168,
-   "hlasy_proc": 15.44,
+   "hlasy": 2378,
+   "hlasy_proc": 13.62,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 768,
-   "hlasy": 1054,
-   "hlasy_proc": 13.93,
+   "hlasy": 2799,
+   "hlasy_proc": 16.03,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,13 +82,13 @@
   {
    "por": 7,
    "vstrana": 364,
-   "hlasy": 3556,
-   "hlasy_proc": 46.99,
+   "hlasy": 7613,
+   "hlasy_proc": 43.6,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Zelená pro Komín"
   }
  ],
- "stazeno": "2026-10-10T20:11:03+02:00"
+ "stazeno": "2026-10-10T20:52:21+02:00"
 }
