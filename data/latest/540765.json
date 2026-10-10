@@ -5,25 +5,25 @@
  "voleno": 15,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:14:02",
+ "generovano": "2026-10-10T20:06:01",
  "ucast": {
   "okrsky_celkem": 5,
-  "okrsky_zprac": 3,
-  "okrsky_zprac_proc": 60.0,
-  "zapsani_volici": 2245,
-  "vydane_obalky": 1197,
-  "ucast_proc": 53.32,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 80.0,
+  "zapsani_volici": 3520,
+  "vydane_obalky": 1871,
+  "ucast_proc": 53.15,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1197,
-  "platne_listky": 1183,
-  "platne_hlasy": 16524
+  "odevzdane_obalky": 1869,
+  "platne_listky": 1832,
+  "platne_hlasy": 25645
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 540,
-   "hlasy": 1578,
-   "hlasy_proc": 9.55,
+   "hlasy": 2709,
+   "hlasy_proc": 10.56,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 449,
-   "hlasy": 1489,
-   "hlasy_proc": 9.01,
+   "hlasy": 2188,
+   "hlasy_proc": 8.53,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1500,
-   "hlasy": 2450,
-   "hlasy_proc": 14.83,
+   "hlasy": 3839,
+   "hlasy_proc": 14.97,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 53,
-   "hlasy": 1703,
-   "hlasy_proc": 10.31,
+   "hlasy": 2285,
+   "hlasy_proc": 8.91,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 364,
-   "hlasy": 3947,
-   "hlasy_proc": 23.89,
+   "hlasy": 5480,
+   "hlasy_proc": 21.37,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 166,
-   "hlasy": 5357,
-   "hlasy_proc": 32.42,
+   "hlasy": 9144,
+   "hlasy_proc": 35.66,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
   }
  ],
- "stazeno": "2026-10-10T19:17:39+02:00"
+ "stazeno": "2026-10-10T20:07:37+02:00"
 }

@@ -5,25 +5,25 @@
  "voleno": 33,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:57:00",
+ "generovano": "2026-10-10T20:07:01",
  "ucast": {
   "okrsky_celkem": 44,
-  "okrsky_zprac": 42,
-  "okrsky_zprac_proc": 95.45,
-  "zapsani_volici": 26537,
-  "vydane_obalky": 9912,
-  "ucast_proc": 37.35,
+  "okrsky_zprac": 43,
+  "okrsky_zprac_proc": 97.73,
+  "zapsani_volici": 27630,
+  "vydane_obalky": 10498,
+  "ucast_proc": 37.99,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 9906,
-  "platne_listky": 9804,
-  "platne_hlasy": 294517
+  "odevzdane_obalky": 10491,
+  "platne_listky": 10383,
+  "platne_hlasy": 311925
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 411,
-   "hlasy": 27058,
-   "hlasy_proc": 9.19,
+   "hlasy": 28360,
+   "hlasy_proc": 9.09,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 523,
-   "hlasy": 45820,
-   "hlasy_proc": 15.56,
+   "hlasy": 48290,
+   "hlasy_proc": 15.48,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1838,
-   "hlasy": 6551,
-   "hlasy_proc": 2.22,
+   "hlasy": 6663,
+   "hlasy_proc": 2.14,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1370,
-   "hlasy": 50751,
-   "hlasy_proc": 17.23,
+   "hlasy": 55018,
+   "hlasy_proc": 17.64,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1114,
-   "hlasy": 18501,
-   "hlasy_proc": 6.28,
+   "hlasy": 19184,
+   "hlasy_proc": 6.15,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1071,
-   "hlasy": 83262,
-   "hlasy_proc": 28.27,
+   "hlasy": 87115,
+   "hlasy_proc": 27.93,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1178,
-   "hlasy": 7685,
-   "hlasy_proc": 2.61,
+   "hlasy": 8467,
+   "hlasy_proc": 2.71,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 166,
-   "hlasy": 54889,
-   "hlasy_proc": 18.64,
+   "hlasy": 58828,
+   "hlasy_proc": 18.86,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
   }
  ],
- "stazeno": "2026-10-10T20:00:06+02:00"
+ "stazeno": "2026-10-10T20:07:37+02:00"
 }
