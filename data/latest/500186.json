@@ -5,25 +5,25 @@
  "voleno": 29,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:27:01",
+ "generovano": "2026-10-10T20:34:01",
  "ucast": {
   "okrsky_celkem": 36,
-  "okrsky_zprac": 2,
-  "okrsky_zprac_proc": 5.56,
-  "zapsani_volici": 1741,
-  "vydane_obalky": 735,
-  "ucast_proc": 42.22,
+  "okrsky_zprac": 3,
+  "okrsky_zprac_proc": 8.33,
+  "zapsani_volici": 2647,
+  "vydane_obalky": 1170,
+  "ucast_proc": 44.2,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 733,
-  "platne_listky": 694,
-  "platne_hlasy": 19369
+  "odevzdane_obalky": 1168,
+  "platne_listky": 1110,
+  "platne_hlasy": 31008
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 10912,
-   "hlasy_proc": 56.34,
+   "hlasy": 18216,
+   "hlasy_proc": 58.75,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1843,
-   "hlasy": 202,
-   "hlasy_proc": 1.04,
+   "hlasy": 258,
+   "hlasy_proc": 0.83,
    "kandidatu": 28,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 4142,
-   "hlasy_proc": 21.38,
+   "hlasy": 6084,
+   "hlasy_proc": 19.62,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 532,
-   "hlasy": 1540,
-   "hlasy_proc": 7.95,
+   "hlasy": 2526,
+   "hlasy_proc": 8.15,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 288,
-   "hlasy_proc": 1.49,
+   "hlasy": 493,
+   "hlasy_proc": 1.59,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1350,
-   "hlasy": 2285,
-   "hlasy_proc": 11.8,
+   "hlasy": 3431,
+   "hlasy_proc": 11.06,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Piráti a Starostové"
   }
  ],
- "stazeno": "2026-10-10T20:27:17+02:00"
+ "stazeno": "2026-10-10T20:34:20+02:00"
 }
