@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T22:49:18+02:00",
+ "aktualizovano": "2026-10-10T22:50:36+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -143,9 +143,9 @@
    "nazev": "Brno-Židenice",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 16,
+   "okrsky_zprac": 17,
    "okrsky_celkem": 19,
-   "generovano": "2026-10-10T22:00:00"
+   "generovano": "2026-10-10T22:50:01"
   },
   {
    "kod": "563510",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 832,
+   "okrsky_zprac": 833,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T22:49:00"
+   "generovano": "2026-10-10T22:50:01"
   },
   {
    "kod": "500054",
