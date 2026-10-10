@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:52:19+02:00",
+ "aktualizovano": "2026-10-10T15:53:15+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -242,9 +242,9 @@
    "nazev": "Příbram",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 39,
-   "generovano": "2026-10-08T16:40:21"
+   "generovano": "2026-10-10T15:53:02"
   },
   {
    "kod": "552046",
@@ -494,9 +494,9 @@
    "nazev": "Chomutov",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 40,
-   "generovano": "2026-10-08T16:40:37"
+   "generovano": "2026-10-10T15:53:02"
   },
   {
    "kod": "563129",
