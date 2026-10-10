@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T21:15:36+02:00",
+ "aktualizovano": "2026-10-10T21:16:20+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 225,
+   "okrsky_zprac": 226,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T21:14:01"
+   "generovano": "2026-10-10T21:16:01"
   },
   {
    "kod": "551198",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 552,
+   "okrsky_zprac": 556,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T21:15:01"
+   "generovano": "2026-10-10T21:16:01"
   },
   {
    "kod": "500054",
@@ -287,9 +287,9 @@
    "nazev": "Praha 4",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 76,
+   "okrsky_zprac": 77,
    "okrsky_celkem": 132,
-   "generovano": "2026-10-10T21:13:00"
+   "generovano": "2026-10-10T21:16:01"
   },
   {
    "kod": "500143",
@@ -314,18 +314,18 @@
    "nazev": "Praha 7",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 5,
+   "okrsky_zprac": 6,
    "okrsky_celkem": 36,
-   "generovano": "2026-10-10T21:09:01"
+   "generovano": "2026-10-10T21:16:01"
   },
   {
    "kod": "500208",
    "nazev": "Praha 8",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 69,
+   "okrsky_zprac": 70,
    "okrsky_celkem": 106,
-   "generovano": "2026-10-10T21:14:00"
+   "generovano": "2026-10-10T21:16:01"
   },
   {
    "kod": "500216",
@@ -359,9 +359,9 @@
    "nazev": "Praha 12",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 28,
+   "okrsky_zprac": 29,
    "okrsky_celkem": 50,
-   "generovano": "2026-10-10T21:14:01"
+   "generovano": "2026-10-10T21:16:01"
   },
   {
    "kod": "539694",
@@ -404,9 +404,9 @@
    "nazev": "Praha 17",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 10,
+   "okrsky_zprac": 11,
    "okrsky_celkem": 18,
-   "generovano": "2026-10-10T20:53:01"
+   "generovano": "2026-10-10T21:16:01"
   },
   {
    "kod": "547417",

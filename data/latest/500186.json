@@ -5,25 +5,25 @@
  "voleno": 29,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:09:01",
+ "generovano": "2026-10-10T21:16:01",
  "ucast": {
   "okrsky_celkem": 36,
-  "okrsky_zprac": 5,
-  "okrsky_zprac_proc": 13.89,
-  "zapsani_volici": 4245,
-  "vydane_obalky": 1997,
-  "ucast_proc": 47.04,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 16.67,
+  "zapsani_volici": 5093,
+  "vydane_obalky": 2476,
+  "ucast_proc": 48.62,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1995,
-  "platne_listky": 1916,
-  "platne_hlasy": 53153
+  "odevzdane_obalky": 2472,
+  "platne_listky": 2366,
+  "platne_hlasy": 65733
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 32226,
-   "hlasy_proc": 60.63,
+   "hlasy": 39487,
+   "hlasy_proc": 60.07,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1843,
-   "hlasy": 401,
-   "hlasy_proc": 0.75,
+   "hlasy": 498,
+   "hlasy_proc": 0.76,
    "kandidatu": 28,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 9517,
-   "hlasy_proc": 17.9,
+   "hlasy": 12347,
+   "hlasy_proc": 18.78,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 532,
-   "hlasy": 4382,
-   "hlasy_proc": 8.24,
+   "hlasy": 5160,
+   "hlasy_proc": 7.85,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 987,
-   "hlasy_proc": 1.86,
+   "hlasy": 1333,
+   "hlasy_proc": 2.03,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1350,
-   "hlasy": 5640,
-   "hlasy_proc": 10.61,
+   "hlasy": 6908,
+   "hlasy_proc": 10.51,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Piráti a Starostové"
   }
  ],
- "stazeno": "2026-10-10T21:09:18+02:00"
+ "stazeno": "2026-10-10T21:16:20+02:00"
 }
