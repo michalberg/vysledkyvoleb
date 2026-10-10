@@ -5,25 +5,25 @@
  "voleno": 29,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-11T00:36:01",
+ "generovano": "2026-10-11T00:44:00",
  "ucast": {
   "okrsky_celkem": 36,
-  "okrsky_zprac": 26,
-  "okrsky_zprac_proc": 72.22,
-  "zapsani_volici": 21622,
-  "vydane_obalky": 10885,
-  "ucast_proc": 50.34,
+  "okrsky_zprac": 27,
+  "okrsky_zprac_proc": 75.0,
+  "zapsani_volici": 22370,
+  "vydane_obalky": 11230,
+  "ucast_proc": 50.2,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 10844,
-  "platne_listky": 10356,
-  "platne_hlasy": 286854
+  "odevzdane_obalky": 11183,
+  "platne_listky": 10668,
+  "platne_hlasy": 295615
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 165381,
-   "hlasy_proc": 57.65,
+   "hlasy": 170439,
+   "hlasy_proc": 57.66,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1843,
-   "hlasy": 2283,
-   "hlasy_proc": 0.8,
+   "hlasy": 2343,
+   "hlasy_proc": 0.79,
    "kandidatu": 28,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 52018,
-   "hlasy_proc": 18.13,
+   "hlasy": 53809,
+   "hlasy_proc": 18.2,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 532,
-   "hlasy": 24602,
-   "hlasy_proc": 8.58,
+   "hlasy": 25320,
+   "hlasy_proc": 8.57,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 8356,
-   "hlasy_proc": 2.91,
+   "hlasy": 8566,
+   "hlasy_proc": 2.9,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1350,
-   "hlasy": 34214,
-   "hlasy_proc": 11.93,
+   "hlasy": 35138,
+   "hlasy_proc": 11.89,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Piráti a Starostové"
   }
  ],
- "stazeno": "2026-10-11T00:36:25+02:00"
+ "stazeno": "2026-10-11T00:44:22+02:00"
 }
