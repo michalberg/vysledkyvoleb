@@ -5,25 +5,25 @@
  "voleno": 29,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-11T00:32:00",
+ "generovano": "2026-10-11T00:36:01",
  "ucast": {
   "okrsky_celkem": 36,
-  "okrsky_zprac": 25,
-  "okrsky_zprac_proc": 69.44,
-  "zapsani_volici": 20627,
-  "vydane_obalky": 10405,
-  "ucast_proc": 50.44,
+  "okrsky_zprac": 26,
+  "okrsky_zprac_proc": 72.22,
+  "zapsani_volici": 21622,
+  "vydane_obalky": 10885,
+  "ucast_proc": 50.34,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 10365,
-  "platne_listky": 9901,
-  "platne_hlasy": 274613
+  "odevzdane_obalky": 10844,
+  "platne_listky": 10356,
+  "platne_hlasy": 286854
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 158147,
-   "hlasy_proc": 57.59,
+   "hlasy": 165381,
+   "hlasy_proc": 57.65,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,7 +32,7 @@
   {
    "por": 2,
    "vstrana": 1843,
-   "hlasy": 2199,
+   "hlasy": 2283,
    "hlasy_proc": 0.8,
    "kandidatu": 28,
    "zastupitele": 0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 50328,
-   "hlasy_proc": 18.33,
+   "hlasy": 52018,
+   "hlasy_proc": 18.13,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 532,
-   "hlasy": 23515,
-   "hlasy_proc": 8.56,
+   "hlasy": 24602,
+   "hlasy_proc": 8.58,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,7 +62,7 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 7997,
+   "hlasy": 8356,
    "hlasy_proc": 2.91,
    "kandidatu": 29,
    "zastupitele": 0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1350,
-   "hlasy": 32427,
-   "hlasy_proc": 11.81,
+   "hlasy": 34214,
+   "hlasy_proc": 11.93,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Piráti a Starostové"
   }
  ],
- "stazeno": "2026-10-11T00:32:34+02:00"
+ "stazeno": "2026-10-11T00:36:25+02:00"
 }
