@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T16:03:39+02:00",
+ "aktualizovano": "2026-10-10T16:05:29+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -467,9 +467,9 @@
    "nazev": "České Budějovice",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 90,
-   "generovano": "2026-10-08T16:40:24"
+   "generovano": "2026-10-10T16:05:02"
   },
   {
    "kod": "569810",
@@ -548,9 +548,9 @@
    "nazev": "Most",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 16,
+   "okrsky_zprac": 17,
    "okrsky_celkem": 60,
-   "generovano": "2026-10-10T16:03:03"
+   "generovano": "2026-10-10T16:06:02"
   },
   {
    "kod": "573868",
@@ -611,18 +611,18 @@
    "nazev": "Telč",
    "voleno": 21,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 7,
-   "generovano": "2026-10-10T15:49:02"
+   "generovano": "2026-10-10T16:06:02"
   },
   {
    "kod": "567442",
    "nazev": "Teplice",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 37,
-   "generovano": "2026-10-08T16:40:21"
+   "generovano": "2026-10-10T16:05:02"
   },
   {
    "kod": "554804",
