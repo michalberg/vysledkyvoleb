@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T18:11:20+02:00",
+ "aktualizovano": "2026-10-10T18:12:20+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 32,
+   "okrsky_zprac": 33,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T18:09:02"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "551198",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 38,
+   "okrsky_zprac": 39,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T18:11:02"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "500054",
@@ -242,27 +242,27 @@
    "nazev": "Příbram",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 14,
+   "okrsky_zprac": 15,
    "okrsky_celkem": 39,
-   "generovano": "2026-10-10T17:59:02"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "552046",
    "nazev": "Tábor",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 33,
+   "okrsky_zprac": 34,
    "okrsky_celkem": 41,
-   "generovano": "2026-10-10T18:11:02"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "590266",
    "nazev": "Třebíč",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 23,
+   "okrsky_zprac": 24,
    "okrsky_celkem": 39,
-   "generovano": "2026-10-10T18:11:02"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "541630",
@@ -395,18 +395,18 @@
    "nazev": "Praha 16",
    "voleno": 15,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 8,
-   "generovano": "2026-10-10T17:13:03"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "547174",
    "nazev": "Praha 17",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 18,
-   "generovano": "2026-10-08T16:40:40"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "547417",
@@ -566,9 +566,9 @@
    "nazev": "Olomouc",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 54,
+   "okrsky_zprac": 55,
    "okrsky_celkem": 96,
-   "generovano": "2026-10-10T18:11:02"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "554286",
@@ -602,9 +602,9 @@
    "nazev": "Plzeň",
    "voleno": 47,
    "je_spocteno": false,
-   "okrsky_zprac": 57,
+   "okrsky_zprac": 58,
    "okrsky_celkem": 174,
-   "generovano": "2026-10-10T18:11:02"
+   "generovano": "2026-10-10T18:12:02"
   },
   {
    "kod": "588024",
