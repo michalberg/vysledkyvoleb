@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T22:07:18+02:00",
+ "aktualizovano": "2026-10-10T22:08:21+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 730,
+   "okrsky_zprac": 731,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T22:07:01"
+   "generovano": "2026-10-10T22:08:01"
   },
   {
    "kod": "500054",
@@ -502,10 +502,10 @@
    "kod": "563129",
    "nazev": "Klášterec nad Ohří",
    "voleno": 21,
-   "je_spocteno": false,
-   "okrsky_zprac": 10,
+   "je_spocteno": true,
+   "okrsky_zprac": 11,
    "okrsky_celkem": 11,
-   "generovano": "2026-10-10T20:22:01"
+   "generovano": "2026-10-10T22:08:01"
   },
   {
    "kod": "564567",

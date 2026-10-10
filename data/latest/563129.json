@@ -4,71 +4,270 @@
  "typ": "OBEC",
  "voleno": 21,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T20:22:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T22:08:01",
  "ucast": {
   "okrsky_celkem": 11,
-  "okrsky_zprac": 10,
-  "okrsky_zprac_proc": 90.91,
-  "zapsani_volici": 9669,
-  "vydane_obalky": 3178,
-  "ucast_proc": 32.87,
+  "okrsky_zprac": 11,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 11214,
+  "vydane_obalky": 3745,
+  "ucast_proc": 33.4,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 3176,
-  "platne_listky": 3134,
-  "platne_hlasy": 60017
+  "odevzdane_obalky": 3743,
+  "platne_listky": 3688,
+  "platne_hlasy": 70466
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 14533,
-   "hlasy_proc": 24.21,
+   "hlasy": 16230,
+   "hlasy_proc": 23.03,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 5,
+   "zastupitele_proc": 23.81,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 945,
+     "hlasy_proc": 5.82,
+     "titul_pred": "Ing.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Šinkovicová",
+     "titul_za": "MPA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 819,
+     "hlasy_proc": 5.04,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Šmejc",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 849,
+     "hlasy_proc": 5.23,
+     "titul_pred": "Ing.  Bc.",
+     "jmeno": "Václav",
+     "prijmeni": "Koudelka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 874,
+     "hlasy_proc": 5.38,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Dimunová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 929,
+     "hlasy_proc": 5.72,
+     "titul_pred": "",
+     "jmeno": "David",
+     "prijmeni": "Suk",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 1939,
-   "hlasy": 6440,
-   "hlasy_proc": 10.73,
+   "hlasy": 7266,
+   "hlasy_proc": 10.31,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SPD + PRO + SVOBODNÍ s podporou TRIKOLORA = KLÁŠTEREC SOBĚ"
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "SPD + PRO + SVOBODNÍ s podporou TRIKOLORA = KLÁŠTEREC SOBĚ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 444,
+     "hlasy_proc": 6.11,
+     "titul_pred": "Ing. Bc.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Kohout",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 410,
+     "hlasy_proc": 5.64,
+     "titul_pred": "",
+     "jmeno": "Ladislav",
+     "prijmeni": "Kytka",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 785,
-   "hlasy": 9337,
-   "hlasy_proc": 15.56,
+   "hlasy": 10857,
+   "hlasy_proc": 15.41,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Zdraví Sport Vzdělání"
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "Zdraví Sport Vzdělání",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 793,
+     "hlasy_proc": 7.3,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Hybner",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 643,
+     "hlasy_proc": 5.92,
+     "titul_pred": "Ing.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Nyklíček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 15,
+     "hlasy": 605,
+     "hlasy_proc": 5.57,
+     "titul_pred": "MDDr.",
+     "jmeno": "Viktor",
+     "prijmeni": "Ilavskyj",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 470,
-   "hlasy": 23367,
-   "hlasy_proc": 38.93,
+   "hlasy": 28069,
+   "hlasy_proc": 39.83,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "MÁME RÁDI KLÁŠTEREC - STAROSTOVÉ"
+   "zastupitele": 9,
+   "zastupitele_proc": 42.86,
+   "nazev": "MÁME RÁDI KLÁŠTEREC - STAROSTOVÉ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1714,
+     "hlasy_proc": 6.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Štefan",
+     "prijmeni": "Drozd",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1500,
+     "hlasy_proc": 5.34,
+     "titul_pred": "Dr. Ing.",
+     "jmeno": "Radka",
+     "prijmeni": "Hodicová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1418,
+     "hlasy_proc": 5.05,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Marvan",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1365,
+     "hlasy_proc": 4.86,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavla",
+     "prijmeni": "Zemančíková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1395,
+     "hlasy_proc": 4.96,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Petr",
+     "prijmeni": "Auf",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1417,
+     "hlasy_proc": 5.04,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Fricová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1458,
+     "hlasy_proc": 5.19,
+     "titul_pred": "",
+     "jmeno": "Filip",
+     "prijmeni": "Foukal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1422,
+     "hlasy_proc": 5.06,
+     "titul_pred": "PhDr.",
+     "jmeno": "Jiřina",
+     "prijmeni": "Malastová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1323,
+     "hlasy_proc": 4.71,
+     "titul_pred": "",
+     "jmeno": "Karel",
+     "prijmeni": "Háša",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 1500,
-   "hlasy": 6340,
-   "hlasy_proc": 10.56,
+   "hlasy": 8044,
+   "hlasy_proc": 11.42,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SEN pro Klášterec nad Ohří s podporou Zelených"
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "SEN pro Klášterec nad Ohří s podporou Zelených",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 735,
+     "hlasy_proc": 9.13,
+     "titul_pred": "Mgr.",
+     "jmeno": "David",
+     "prijmeni": "Kodytek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 619,
+     "hlasy_proc": 7.69,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Kodytková",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T20:22:20+02:00"
+ "stazeno": "2026-10-10T22:08:21+02:00"
 }

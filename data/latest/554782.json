@@ -5,24 +5,24 @@
  "voleno": 65,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T22:07:01",
+ "generovano": "2026-10-10T22:08:01",
  "ucast": {
   "okrsky_celkem": 1120,
-  "okrsky_zprac": 730,
-  "okrsky_zprac_proc": 65.18,
-  "zapsani_volici": 553165,
-  "vydane_obalky": 246181,
-  "ucast_proc": 44.5,
+  "okrsky_zprac": 731,
+  "okrsky_zprac_proc": 65.27,
+  "zapsani_volici": 554103,
+  "vydane_obalky": 246735,
+  "ucast_proc": 44.53,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 245868,
-  "platne_listky": 233413,
-  "platne_hlasy": 14322426
+  "odevzdane_obalky": 246422,
+  "platne_listky": 233932,
+  "platne_hlasy": 14354865
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 121,
-   "hlasy": 9958,
+   "hlasy": 9969,
    "hlasy_proc": 0.07,
    "kandidatu": 10,
    "zastupitele": 0,
@@ -42,7 +42,7 @@
   {
    "por": 3,
    "vstrana": 1705,
-   "hlasy": 6710,
+   "hlasy": 6740,
    "hlasy_proc": 0.05,
    "kandidatu": 15,
    "zastupitele": 0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1373,
-   "hlasy": 2446349,
-   "hlasy_proc": 17.08,
+   "hlasy": 2449222,
+   "hlasy_proc": 17.06,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,7 +72,7 @@
   {
    "por": 6,
    "vstrana": 1690,
-   "hlasy": 932,
+   "hlasy": 936,
    "hlasy_proc": 0.01,
    "kandidatu": 4,
    "zastupitele": 0,
@@ -82,7 +82,7 @@
   {
    "por": 7,
    "vstrana": 720,
-   "hlasy": 1354095,
+   "hlasy": 1357243,
    "hlasy_proc": 9.45,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -92,7 +92,7 @@
   {
    "por": 8,
    "vstrana": 1713,
-   "hlasy": 2070,
+   "hlasy": 2076,
    "hlasy_proc": 0.01,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 166,
-   "hlasy": 3306568,
-   "hlasy_proc": 23.09,
+   "hlasy": 3315559,
+   "hlasy_proc": 23.1,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 1305,
-   "hlasy": 518579,
+   "hlasy": 519191,
    "hlasy_proc": 3.62,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -122,7 +122,7 @@
   {
    "por": 11,
    "vstrana": 1806,
-   "hlasy": 58263,
+   "hlasy": 58585,
    "hlasy_proc": 0.41,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -132,8 +132,8 @@
   {
    "por": 12,
    "vstrana": 687,
-   "hlasy": 3092215,
-   "hlasy_proc": 21.59,
+   "hlasy": 3103358,
+   "hlasy_proc": 21.62,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -152,7 +152,7 @@
   {
    "por": 14,
    "vstrana": 1178,
-   "hlasy": 422533,
+   "hlasy": 423904,
    "hlasy_proc": 2.95,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -162,7 +162,7 @@
   {
    "por": 15,
    "vstrana": 714,
-   "hlasy": 66739,
+   "hlasy": 67170,
    "hlasy_proc": 0.47,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -172,7 +172,7 @@
   {
    "por": 16,
    "vstrana": 1846,
-   "hlasy": 100780,
+   "hlasy": 100848,
    "hlasy_proc": 0.7,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -182,7 +182,7 @@
   {
    "por": 17,
    "vstrana": 482,
-   "hlasy": 9363,
+   "hlasy": 9371,
    "hlasy_proc": 0.07,
    "kandidatu": 8,
    "zastupitele": 0,
@@ -192,7 +192,7 @@
   {
    "por": 18,
    "vstrana": 524,
-   "hlasy": 88070,
+   "hlasy": 88135,
    "hlasy_proc": 0.61,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -212,8 +212,8 @@
   {
    "por": 20,
    "vstrana": 1689,
-   "hlasy": 142521,
-   "hlasy_proc": 1.0,
+   "hlasy": 142781,
+   "hlasy_proc": 0.99,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -232,8 +232,8 @@
   {
    "por": 22,
    "vstrana": 768,
-   "hlasy": 2194024,
-   "hlasy_proc": 15.32,
+   "hlasy": 2196178,
+   "hlasy_proc": 15.3,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -252,7 +252,7 @@
   {
    "por": 24,
    "vstrana": 1827,
-   "hlasy": 411227,
+   "hlasy": 412169,
    "hlasy_proc": 2.87,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -260,5 +260,5 @@
    "nazev": "SEN PRO PRAHU s Václavem Láskou, s podporou HPP 11 a strany Mourek"
   }
  ],
- "stazeno": "2026-10-10T22:07:18+02:00"
+ "stazeno": "2026-10-10T22:08:21+02:00"
 }
