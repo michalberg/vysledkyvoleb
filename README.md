@@ -1,34 +1,83 @@
 # Výsledky voleb – KV 2026
 
-Průběžné stahování výsledků voleb do zastupitelstev obcí (9.–10. 10. 2026)
-z otevřených dat [volby.gov.cz](https://volby.gov.cz/opendata/kv2026/KV2026_XML.htm)
-pro zastupitelstva uvedená v `config.json`.
+Průběžné výsledky voleb do zastupitelstev obcí (9.–10. 10. 2026) pro Brno
+a 15 městských částí, s přibližným výpočtem mandátů a skládáním koalic.
+
+**Web:** https://michalberg.github.io/vysledkyvoleb/
+
+Zdroj: otevřená data [volby.gov.cz](https://volby.gov.cz/opendata/kv2026/KV2026_XML.htm).
 
 ## Web
 
-`index.html` + `app.js` + `app.css`, statická stránka bez buildu (GitHub Pages).
+Statická stránka bez buildu (`index.html`, `app.js`, `app.css`, `fonts/`)
+na GitHub Pages. Design: varianta 1c ze zadání v `design_handoff_volebni_vysledky/`
+(lokálně, není v repozitáři).
 
-- Projektor 4:3 (od 700 px šířky): rotace Brno → 15 MČ, režim „Sestavit koalici“.
-- Mobil (pod 700 px): všechny celky pod sebou, koalice v panelu.
-- Data: živé XML z volby.gov.cz, při výpadku záloha `data/latest/`.
-- Celek bez sečteného okrsku ukazuje šedě výsledky 2022.
-- Mandáty do sečtení všech okrsků odhaduje podle § 45 zákona 491/2001 Sb.
-  (5% klauzule s úpravou pro neúplné kandidátky, D'Hondt, strop počtem kandidátů).
-- URL parametry: `?demo` (vymyšlené hlasy pro letošní kandidátky – test barev), `?mock=2022` / `?mock=2022-prubeh` (data 2022), `?interval=12` (rotace v s).
-- Naše kandidátka pro každý celek je v `config.json` → `nase` (číslo kandidátní listiny).
+**Projektor (od 700 px šířky)** – plátno 1024 × 768 škálované na obrazovku:
 
-## Jak to funguje
+- automatická rotace Brno → 15 MČ (výchozí 12 s), kliknutím na celek v levém
+  sloupci se přepne ručně,
+- graf stran nad 3 % plus vždy naše kandidátka (u Brna všechny strany,
+  u MČ přepínač „Všechny strany“),
+- režim „Sestavit koalici“ – zastaví rotaci, výběr stran se pamatuje
+  pro každý celek zvlášť (`localStorage`),
+- výchozí světlý režim, volba tmavého se ukládá v prohlížeči.
+
+**Mobil (pod 700 px)** – všechny celky pod sebou, vodorovné pruhy s plnými
+názvy, koalice v celoobrazovkovém panelu.
+
+**Data na stránce:**
+
+- každou minutu živé XML z volby.gov.cz (server povoluje CORS),
+  při výpadku záloha `data/latest/` a u času aktualizace ⚠,
+- celek bez sečteného okrsku ukazuje šedě výsledky 2022 (`mock/2022/`),
+- mandáty jsou do sečtení všech okrsků přibližný výpočet dle současných
+  výsledků podle § 45 zákona 491/2001 Sb.: 5% klauzule (u neúplné kandidátky
+  ze sníženého základu, při méně než dvou stranách se snižuje na 4–1 %),
+  D'Hondt, strop počtem kandidátů. Na konečných výsledcích 2022 dává
+  u všech 16 zastupitelstev přesně oficiální mandáty. Po sečtení se
+  zobrazí oficiální mandáty z XML.
+- mandáty se ukazují číslem s ikonou postavy, nula se nezobrazuje.
+
+**URL parametry:**
+
+| Parametr | Význam |
+|---|---|
+| `?demo` | vymyšlené hlasy pro letošní kandidátky (test barev a rozložení; Jundrov bez dat) |
+| `?mock=2022` | konečné výsledky 2022 |
+| `?mock=2022-prubeh` | stav 2022 uprostřed sčítání |
+| `?interval=12` | délka rotace v sekundách |
+
+GitHub Pages posílá `max-age=600`; `app.js` a `app.css` se proto načítají
+s časovým parametrem, aby se změny projevily hned. Samotné `index.html`
+může prohlížeč držet až 10 minut (Cmd + Shift + R).
+
+## Konfigurace
+
+| Soubor | Obsah |
+|---|---|
+| `config.json` | volby, datum, interval rotace a seznam celků: `kod` (KODZASTUP), `zobrazit`, `kratky` (levý sloupec), `nase` (číslo naší kandidátky pro 2026 a 2022), `odkaz` |
+| `barvy.json` | barevné skupiny stran; barva kandidátky podle výjimky `"KODZASTUP:číslo"`, jinak podle kódu VSTRANA, jinak `vychozi`; volitelně `barva_tmava` pro tmavý režim |
+| `zkratky.json` | krátké názvy kandidátek do grafu (klíč = přesný oficiální název), plný název je v tooltipu |
+| `strany.json` | číselník stran (VSTRANA → název, zkratka, typ, složení koalice), generuje `scripts/ciselnik.py` |
+
+Naše kandidátka je vždy `#0bd26f`; ostatní kandidátky ze zelené skupiny
+se zobrazují šedě, aby se s ní nepletly.
+
+Odkazy na volby.gov.cz (`odkaz`) zatím vedou na přehled výsledků – letošní
+prezentace běží v nové aplikaci a odkazy ve tvaru z roku 2022 nefungují.
+
+## Stahování dat
 
 1. [cron-job.org](https://cron-job.org) každou minutu spustí workflow
-   `.github/workflows/fetch.yml` přes GitHub API.
+   `.github/workflows/fetch.yml` přes GitHub API (úlohy na so 10. 10. 14–24 h
+   a ne 11. 10. 0–12 h).
 2. Workflow spustí `scripts/fetch.py`, který stáhne XML
    `vysledky_obec_<KODZASTUP>.xml` pro každé zastupitelstvo.
 3. Pokud se výsledky změnily, uloží je do `data/` a commitne.
    Při nedostupnosti volby.gov.cz zůstávají poslední uložená data.
 
 Záložně se workflow spouští i vestavěným cronem GitHubu každých 5 minut.
-
-## Data
 
 | Soubor | Obsah |
 |---|---|
@@ -37,29 +86,7 @@ Záložně se workflow spouští i vestavěným cronem GitHubu každých 5 minut
 | `data/history/<kod>.jsonl` | jeden řádek na každou změnu (hlasy stran v čase) |
 | `data/raw/<kod>.xml` | poslední stažené XML |
 
-## Strany a barvy
-
-- `strany.json` – číselník volebních stran (kód VSTRANA → název, zkratka,
-  typ, složení koalice) pro sledovaná zastupitelstva. Generuje
-  `python3 scripts/ciselnik.py` z číselníků volby.gov.cz.
-- `barvy.json` – barevné skupiny. Barva kandidátky se určí podle výjimky
-  `"KODZASTUP:číslo kandidátky"`, jinak podle kódu VSTRANA, jinak `vychozi`.
-
-## Mock data z voleb 2022
-
-Pro vývoj frontendu před ostrými daty jsou v `mock/` výsledky stejných
-zastupitelstev z roku 2022 ve stejném formátu jako `data/`:
-
-| Adresář | Stav |
-|---|---|
-| `mock/2022/` | konečný stav, všechno sečteno, oficiální mandáty a zvolení |
-| `mock/2022-prubeh/` | uprostřed sčítání (Brno 178/352 okrsků), bez mandátů |
-
-Historie (`history/*.jsonl`) je zrekonstruovaná z okrskových dávek 2022,
-takže odpovídá skutečnému průběhu sčítání. Generuje se skriptem
-`python3 scripts/mock2022.py`.
-
-## Nastavení cron-job.org
+### Nastavení cron-job.org
 
 1. **GitHub token:** Settings → Developer settings → Personal access tokens →
    Fine-grained tokens → Generate new token
@@ -67,8 +94,7 @@ takže odpovídá skutečnému průběhu sčítání. Generuje se skriptem
    - Permissions → Repository → **Actions: Read and write**
 2. **cron-job.org** → Create cronjob
    - URL: `https://api.github.com/repos/michalberg/vysledkyvoleb/actions/workflows/fetch.yml/dispatches`
-   - Schedule: every minute
-   - Advanced → Request method: **POST**
+   - Request method: **POST**
    - Headers:
      - `Accept: application/vnd.github+json`
      - `Authorization: Bearer <TOKEN>`
@@ -77,10 +103,28 @@ takže odpovídá skutečnému průběhu sčítání. Generuje se skriptem
    - Request body: `{"ref":"main"}`
    - Úspěšná odpověď je `204 No Content`.
 
+Lokální soubor `token.md` s klíči je v `.gitignore`.
+
+## Mock data z voleb 2022
+
+V `mock/` jsou výsledky stejných zastupitelstev z roku 2022 ve stejném
+formátu jako `data/`:
+
+| Adresář | Stav |
+|---|---|
+| `mock/2022/` | konečný stav, oficiální mandáty a zvolení; slouží i jako šedé zobrazení celků bez dat |
+| `mock/2022-prubeh/` | uprostřed sčítání (Brno 178/352 okrsků), bez mandátů |
+
+Historie je zrekonstruovaná z okrskových dávek 2022, takže odpovídá
+skutečnému průběhu sčítání. Generuje `python3 scripts/mock2022.py`
+(dávky se ukládají do `.cache/`). Kandidátky 2022 mají jiné kódy VSTRANA,
+takže barvy v mock režimu neodpovídají – pro test barev slouží `?demo`.
+
 ## Lokální spuštění
 
 ```sh
-python3 scripts/fetch.py
+python3 scripts/fetch.py          # stažení aktuálních výsledků do data/
+python3 -m http.server 8000       # web na http://localhost:8000/
 ```
 
 Stačí standardní knihovna Pythonu 3.9+.
