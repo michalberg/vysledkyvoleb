@@ -26,7 +26,7 @@ const S = {
   active: 0, elapsed: 0, intervalMs: 12000,
   view: "res", showAll: false,
   coal: load("vv-coal", {}),
-  theme: document.documentElement.dataset.theme || "dark",
+  theme: document.documentElement.dataset.theme || "light",
 };
 
 function load(key, def) { try { return JSON.parse(localStorage.getItem(key)) ?? def; } catch (e) { return def; } }
