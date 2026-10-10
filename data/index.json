@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:33:18+02:00",
+ "aktualizovano": "2026-10-10T15:34:20+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -521,9 +521,9 @@
    "nazev": "Litvínov",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 28,
-   "generovano": "2026-10-10T14:50:02"
+   "generovano": "2026-10-10T15:34:03"
   },
   {
    "kod": "565229",
