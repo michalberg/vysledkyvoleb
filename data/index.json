@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T16:12:27+02:00",
+ "aktualizovano": "2026-10-10T16:15:27+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -467,9 +467,9 @@
    "nazev": "České Budějovice",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 90,
-   "generovano": "2026-10-10T16:05:02"
+   "generovano": "2026-10-10T16:15:01"
   },
   {
    "kod": "569810",
@@ -512,18 +512,18 @@
    "nazev": "Litoměřice",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 4,
+   "okrsky_zprac": 5,
    "okrsky_celkem": 30,
-   "generovano": "2026-10-10T15:57:02"
+   "generovano": "2026-10-10T16:15:01"
   },
   {
    "kod": "567256",
    "nazev": "Litvínov",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 10,
+   "okrsky_zprac": 11,
    "okrsky_celkem": 28,
-   "generovano": "2026-10-10T16:12:02"
+   "generovano": "2026-10-10T16:14:03"
   },
   {
    "kod": "565229",
@@ -557,9 +557,9 @@
    "nazev": "Náchod",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 25,
-   "generovano": "2026-10-10T15:56:02"
+   "generovano": "2026-10-10T16:14:03"
   },
   {
    "kod": "500496",

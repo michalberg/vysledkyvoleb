@@ -5,25 +5,25 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T15:56:02",
+ "generovano": "2026-10-10T16:14:03",
  "ucast": {
   "okrsky_celkem": 25,
-  "okrsky_zprac": 1,
-  "okrsky_zprac_proc": 4.0,
-  "zapsani_volici": 110,
-  "vydane_obalky": 61,
-  "ucast_proc": 55.45,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 8.0,
+  "zapsani_volici": 283,
+  "vydane_obalky": 143,
+  "ucast_proc": 50.53,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 61,
-  "platne_listky": 60,
-  "platne_hlasy": 1062
+  "odevzdane_obalky": 143,
+  "platne_listky": 142,
+  "platne_hlasy": 3042
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1454,
-   "hlasy": 141,
-   "hlasy_proc": 13.28,
+   "hlasy": 343,
+   "hlasy_proc": 11.28,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 81,
-   "hlasy_proc": 7.63,
+   "hlasy": 263,
+   "hlasy_proc": 8.65,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1264,
-   "hlasy": 396,
-   "hlasy_proc": 37.29,
+   "hlasy": 593,
+   "hlasy_proc": 19.49,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1804,
-   "hlasy": 106,
-   "hlasy_proc": 9.98,
+   "hlasy": 276,
+   "hlasy_proc": 9.07,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1523,
-   "hlasy": 238,
-   "hlasy_proc": 22.41,
+   "hlasy": 919,
+   "hlasy_proc": 30.21,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 371,
-   "hlasy": 100,
-   "hlasy_proc": 9.42,
+   "hlasy": 648,
+   "hlasy_proc": 21.3,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "JAN BIRKE PRO NÁCHOD"
   }
  ],
- "stazeno": "2026-10-10T15:55:28+02:00"
+ "stazeno": "2026-10-10T16:15:27+02:00"
 }
