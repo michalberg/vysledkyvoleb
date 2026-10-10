@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:47:20+02:00",
+ "aktualizovano": "2026-10-10T15:48:22+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -251,9 +251,9 @@
    "nazev": "Tábor",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 41,
-   "generovano": "2026-10-08T16:40:36"
+   "generovano": "2026-10-10T15:48:03"
   },
   {
    "kod": "590266",
