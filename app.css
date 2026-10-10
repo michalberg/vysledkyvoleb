@@ -35,7 +35,7 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 .cell.ours{background:var(--accent);color:var(--on-accent)}
 .cell .n{font-size:clamp(12px,20cqw,14px);font-weight:700;line-height:1.15;height:2.3em}
 .cell .n span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;overflow-wrap:normal;word-break:normal}
-.cell .p{font-size:clamp(15px,30cqw,20px);font-weight:900;line-height:1;white-space:nowrap;letter-spacing:-.02em}
+.cell .p{font-size:clamp(16px,36cqw,22px);font-weight:900;line-height:1;white-space:nowrap;letter-spacing:-.02em}
 .cell .p small,.col .pct small{font-size:.63em;font-weight:700;margin-left:1px}
 .cell .s{font-size:14px;font-weight:700;min-height:1.2em}
 .cells-note{grid-column:1/-1;align-self:center;color:var(--muted);font-size:14px;font-weight:600}

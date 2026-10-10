@@ -239,7 +239,7 @@ function renderBrnoRow() {
     <div class="cells">${cells.map(p => `
       <div class="cell${p.ours && !v.isRef ? " ours" : ""}" style="border-top-color:${p.color}" title="${esc(p.nazev)}">
         <div class="n"><span>${esc(short(p.nazev))}</span></div>
-        <div class="p">${pctHtml(p.pct)}</div>
+        <div class="p">${num2(p.pct)}</div>
         <div class="s">${seatsHtml(p.seats)}</div>
       </div>`).join("")}
     </div>`;
