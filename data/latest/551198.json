@@ -5,25 +5,25 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T18:55:02",
+ "generovano": "2026-10-10T18:59:01",
  "ucast": {
   "okrsky_celkem": 24,
-  "okrsky_zprac": 8,
-  "okrsky_zprac_proc": 33.33,
-  "zapsani_volici": 5587,
-  "vydane_obalky": 2530,
-  "ucast_proc": 45.28,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 37.5,
+  "zapsani_volici": 6219,
+  "vydane_obalky": 2790,
+  "ucast_proc": 44.86,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2530,
-  "platne_listky": 2493,
-  "platne_hlasy": 62308
+  "odevzdane_obalky": 2790,
+  "platne_listky": 2749,
+  "platne_hlasy": 68580
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1749,
-   "hlasy": 1754,
-   "hlasy_proc": 2.82,
+   "hlasy": 1891,
+   "hlasy_proc": 2.76,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 364,
-   "hlasy": 5125,
-   "hlasy_proc": 8.23,
+   "hlasy": 5950,
+   "hlasy_proc": 8.68,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1683,
-   "hlasy": 10913,
-   "hlasy_proc": 17.51,
+   "hlasy": 11987,
+   "hlasy_proc": 17.48,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 340,
-   "hlasy": 17678,
-   "hlasy_proc": 28.37,
+   "hlasy": 19521,
+   "hlasy_proc": 28.46,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 6046,
-   "hlasy_proc": 9.7,
+   "hlasy": 6606,
+   "hlasy_proc": 9.63,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1693,
-   "hlasy": 955,
-   "hlasy_proc": 1.53,
+   "hlasy": 960,
+   "hlasy_proc": 1.4,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1831,
-   "hlasy": 6696,
-   "hlasy_proc": 10.75,
+   "hlasy": 7309,
+   "hlasy_proc": 10.66,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1305,
-   "hlasy": 2059,
-   "hlasy_proc": 3.3,
+   "hlasy": 2358,
+   "hlasy_proc": 3.44,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1832,
-   "hlasy": 464,
-   "hlasy_proc": 0.74,
+   "hlasy": 520,
+   "hlasy_proc": 0.76,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,13 +112,13 @@
   {
    "por": 10,
    "vstrana": 768,
-   "hlasy": 10618,
-   "hlasy_proc": 17.04,
+   "hlasy": 11478,
+   "hlasy_proc": 16.74,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "ANO 2011"
   }
  ],
- "stazeno": "2026-10-10T18:57:00+02:00"
+ "stazeno": "2026-10-10T19:01:25+02:00"
 }
