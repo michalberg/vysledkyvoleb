@@ -5,25 +5,25 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T18:10:02",
+ "generovano": "2026-10-10T18:11:02",
  "ucast": {
   "okrsky_celkem": 39,
-  "okrsky_zprac": 21,
-  "okrsky_zprac_proc": 53.85,
-  "zapsani_volici": 12110,
-  "vydane_obalky": 5008,
-  "ucast_proc": 41.35,
+  "okrsky_zprac": 23,
+  "okrsky_zprac_proc": 58.97,
+  "zapsani_volici": 13548,
+  "vydane_obalky": 5645,
+  "ucast_proc": 41.67,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 5008,
-  "platne_listky": 4965,
-  "platne_hlasy": 124437
+  "odevzdane_obalky": 5645,
+  "platne_listky": 5595,
+  "platne_hlasy": 140111
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 47,
-   "hlasy": 2503,
-   "hlasy_proc": 2.01,
+   "hlasy": 2766,
+   "hlasy_proc": 1.97,
    "kandidatu": 24,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 21555,
-   "hlasy_proc": 17.32,
+   "hlasy": 24744,
+   "hlasy_proc": 17.66,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 470,
-   "hlasy": 24546,
-   "hlasy_proc": 19.73,
+   "hlasy": 28733,
+   "hlasy_proc": 20.51,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1688,
-   "hlasy": 15712,
-   "hlasy_proc": 12.63,
+   "hlasy": 17366,
+   "hlasy_proc": 12.39,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 371,
-   "hlasy": 2617,
-   "hlasy_proc": 2.1,
+   "hlasy": 2951,
+   "hlasy_proc": 2.11,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1874,
-   "hlasy": 9424,
-   "hlasy_proc": 7.57,
+   "hlasy": 10566,
+   "hlasy_proc": 7.54,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 529,
-   "hlasy": 18105,
-   "hlasy_proc": 14.55,
+   "hlasy": 20266,
+   "hlasy_proc": 14.46,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1699,
-   "hlasy": 16691,
-   "hlasy_proc": 13.41,
+   "hlasy": 18359,
+   "hlasy_proc": 13.1,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 355,
-   "hlasy": 8853,
-   "hlasy_proc": 7.11,
+   "hlasy": 9613,
+   "hlasy_proc": 6.86,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,13 +112,13 @@
   {
    "por": 10,
    "vstrana": 1487,
-   "hlasy": 4431,
-   "hlasy_proc": 3.56,
+   "hlasy": 4747,
+   "hlasy_proc": 3.39,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPD a Trikolora"
   }
  ],
- "stazeno": "2026-10-10T18:09:41+02:00"
+ "stazeno": "2026-10-10T18:11:20+02:00"
 }
