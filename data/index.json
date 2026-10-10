@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:59:16+02:00",
+ "aktualizovano": "2026-10-10T16:01:05+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -179,9 +179,9 @@
    "nazev": "Mladá Boleslav",
    "voleno": 33,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T15:56:02"
+   "generovano": "2026-10-10T16:00:03"
   },
   {
    "kod": "599191",
@@ -233,9 +233,9 @@
    "nazev": "Prostějov",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-08T16:40:40"
+   "generovano": "2026-10-10T16:00:03"
   },
   {
    "kod": "539911",
@@ -251,9 +251,9 @@
    "nazev": "Tábor",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 41,
-   "generovano": "2026-10-10T15:48:03"
+   "generovano": "2026-10-10T16:01:03"
   },
   {
    "kod": "590266",
@@ -548,9 +548,9 @@
    "nazev": "Most",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 13,
+   "okrsky_zprac": 15,
    "okrsky_celkem": 60,
-   "generovano": "2026-10-10T15:59:03"
+   "generovano": "2026-10-10T16:01:03"
   },
   {
    "kod": "573868",
