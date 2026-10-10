@@ -459,12 +459,23 @@ function render() {
   if (isMobile.matches) renderMobile(); else renderStage();
 }
 
+// Další celek v rotaci – přeskakuje ty, kde zatím není sečtený žádný okrsek.
+// Když data nemá nikdo, rotuje všemi (ukazují se šedé výsledky 2022).
+function nextActive() {
+  const n = S.units.length;
+  for (let k = 1; k <= n; k++) {
+    const i = (S.active + k) % n;
+    if (S.data[S.units[i].kod]?.zprac > 0) return i;
+  }
+  return (S.active + 1) % n;
+}
+
 function tick(dt) {
   const stopped = S.view === "coal" || S.paused;
   if (stopped) { S.elapsed = 0; }
   else {
     S.elapsed += dt;
-    if (S.elapsed >= S.intervalMs) { S.elapsed = 0; S.active = (S.active + 1) % S.units.length; render(); return; }
+    if (S.elapsed >= S.intervalMs) { S.elapsed = 0; S.active = nextActive(); render(); return; }
   }
   $("countdown").style.width = (stopped ? 0 : S.elapsed / S.intervalMs * 100) + "%";
 }
