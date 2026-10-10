@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T20:55:26+02:00",
+ "aktualizovano": "2026-10-10T20:56:26+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 470,
+   "okrsky_zprac": 474,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T20:55:01"
+   "generovano": "2026-10-10T20:56:01"
   },
   {
    "kod": "500054",
@@ -287,9 +287,9 @@
    "nazev": "Praha 4",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 67,
+   "okrsky_zprac": 68,
    "okrsky_celkem": 132,
-   "generovano": "2026-10-10T20:54:01"
+   "generovano": "2026-10-10T20:56:01"
   },
   {
    "kod": "500143",
@@ -314,9 +314,9 @@
    "nazev": "Praha 7",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 4,
    "okrsky_celkem": 36,
-   "generovano": "2026-10-10T20:34:01"
+   "generovano": "2026-10-10T20:56:01"
   },
   {
    "kod": "500208",
@@ -395,9 +395,9 @@
    "nazev": "Praha 16",
    "voleno": 15,
    "je_spocteno": false,
-   "okrsky_zprac": 4,
+   "okrsky_zprac": 5,
    "okrsky_celkem": 8,
-   "generovano": "2026-10-10T18:58:01"
+   "generovano": "2026-10-10T20:56:01"
   },
   {
    "kod": "547174",
@@ -431,9 +431,9 @@
    "nazev": "Praha 20",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 6,
+   "okrsky_zprac": 7,
    "okrsky_celkem": 12,
-   "generovano": "2026-10-10T20:38:01"
+   "generovano": "2026-10-10T20:56:01"
   },
   {
    "kod": "538949",
@@ -575,9 +575,9 @@
    "nazev": "Ostrava-Mariánské Hory a Hulváky",
    "voleno": 15,
    "je_spocteno": false,
-   "okrsky_zprac": 6,
+   "okrsky_zprac": 7,
    "okrsky_celkem": 9,
-   "generovano": "2026-10-10T20:42:01"
+   "generovano": "2026-10-10T20:56:01"
   },
   {
    "kod": "555134",
