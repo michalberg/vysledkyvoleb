@@ -4,26 +4,26 @@
  "typ": "MCMO",
  "voleno": 23,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-11T00:13:00",
+ "je_spocteno": true,
+ "generovano": "2026-10-11T00:39:01",
  "ucast": {
   "okrsky_celkem": 12,
-  "okrsky_zprac": 11,
-  "okrsky_zprac_proc": 91.67,
-  "zapsani_volici": 12506,
-  "vydane_obalky": 5563,
-  "ucast_proc": 44.48,
+  "okrsky_zprac": 12,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 13591,
+  "vydane_obalky": 6020,
+  "ucast_proc": 44.29,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 5562,
-  "platne_listky": 5460,
-  "platne_hlasy": 117769
+  "odevzdane_obalky": 6019,
+  "platne_listky": 5903,
+  "platne_hlasy": 127127
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1178,
-   "hlasy": 2815,
-   "hlasy_proc": 2.39,
+   "hlasy": 2961,
+   "hlasy_proc": 2.33,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,38 +32,125 @@
   {
    "por": 2,
    "vstrana": 166,
-   "hlasy": 9647,
-   "hlasy_proc": 8.19,
+   "hlasy": 10807,
+   "hlasy_proc": 8.5,
    "kandidatu": 19,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+   "zastupitele": 2,
+   "zastupitele_proc": 8.7,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 638,
+     "hlasy_proc": 5.9,
+     "titul_pred": "Ing.",
+     "jmeno": "Kosta",
+     "prijmeni": "Prandžev",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 646,
+     "hlasy_proc": 5.97,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Drtina",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1334,
-   "hlasy": 18209,
-   "hlasy_proc": 15.46,
+   "hlasy": 19666,
+   "hlasy_proc": 15.47,
    "kandidatu": 23,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SPOLU pro Letňany"
+   "zastupitele": 4,
+   "zastupitele_proc": 17.39,
+   "nazev": "SPOLU pro Letňany",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 953,
+     "hlasy_proc": 4.84,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Lněnička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1019,
+     "hlasy_proc": 5.18,
+     "titul_pred": "",
+     "jmeno": "Iveta",
+     "prijmeni": "Lojková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 923,
+     "hlasy_proc": 4.69,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Bušek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 907,
+     "hlasy_proc": 4.61,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Halama",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 524,
-   "hlasy": 14483,
-   "hlasy_proc": 12.3,
+   "hlasy": 15588,
+   "hlasy_proc": 12.26,
    "kandidatu": 23,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Náš Domov Letňany"
+   "zastupitele": 3,
+   "zastupitele_proc": 13.04,
+   "nazev": "Náš Domov Letňany",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 891,
+     "hlasy_proc": 5.71,
+     "titul_pred": "Mgr.",
+     "jmeno": "David",
+     "prijmeni": "Červenka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 814,
+     "hlasy_proc": 5.22,
+     "titul_pred": "Bc.",
+     "jmeno": "Lucie",
+     "prijmeni": "Hymplová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 754,
+     "hlasy_proc": 4.83,
+     "titul_pred": "",
+     "jmeno": "Josef",
+     "prijmeni": "Hympl",
+     "titul_za": "DiS."
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 1722,
-   "hlasy": 5967,
-   "hlasy_proc": 5.07,
+   "hlasy": 6307,
+   "hlasy_proc": 4.96,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,18 +159,83 @@
   {
    "por": 6,
    "vstrana": 1823,
-   "hlasy": 29010,
-   "hlasy_proc": 24.63,
+   "hlasy": 31463,
+   "hlasy_proc": 24.75,
    "kandidatu": 23,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Zdravé Letňany s podporou Prahy sobě, Pirátů, Lidovců a Zelených"
+   "zastupitele": 7,
+   "zastupitele_proc": 30.43,
+   "nazev": "Zdravé Letňany s podporou Prahy sobě, Pirátů, Lidovců a Zelených",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1503,
+     "hlasy_proc": 4.77,
+     "titul_pred": "Bc.",
+     "jmeno": "Anna",
+     "prijmeni": "Michálková Hadwiger",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1502,
+     "hlasy_proc": 4.77,
+     "titul_pred": "",
+     "jmeno": "Tadeáš",
+     "prijmeni": "Štěpka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1507,
+     "hlasy_proc": 4.78,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radek",
+     "prijmeni": "Čermák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1427,
+     "hlasy_proc": 4.53,
+     "titul_pred": "Ing.",
+     "jmeno": "Martina",
+     "prijmeni": "Křenková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1419,
+     "hlasy_proc": 4.51,
+     "titul_pred": "",
+     "jmeno": "Olaf",
+     "prijmeni": "Deutsch",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1499,
+     "hlasy_proc": 4.76,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Miffek",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1410,
+     "hlasy_proc": 4.48,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Raška",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 1305,
-   "hlasy": 4628,
-   "hlasy_proc": 3.93,
+   "hlasy": 5068,
+   "hlasy_proc": 3.99,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,7 +244,7 @@
   {
    "por": 8,
    "vstrana": 1713,
-   "hlasy": 35,
+   "hlasy": 38,
    "hlasy_proc": 0.03,
    "kandidatu": 1,
    "zastupitele": 0,
@@ -102,33 +254,100 @@
   {
    "por": 9,
    "vstrana": 768,
-   "hlasy": 21175,
-   "hlasy_proc": 17.98,
+   "hlasy": 22775,
+   "hlasy_proc": 17.92,
    "kandidatu": 23,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 5,
+   "zastupitele_proc": 21.74,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1259,
+     "hlasy_proc": 5.52,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Kučera",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1061,
+     "hlasy_proc": 4.65,
+     "titul_pred": "",
+     "jmeno": "Stanislav",
+     "prijmeni": "Nekolný",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1071,
+     "hlasy_proc": 4.7,
+     "titul_pred": "",
+     "jmeno": "Helena",
+     "prijmeni": "Lukešová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1067,
+     "hlasy_proc": 4.68,
+     "titul_pred": "",
+     "jmeno": "Karel",
+     "prijmeni": "Slavata",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1013,
+     "hlasy_proc": 4.44,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Krátký",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 10,
    "vstrana": 1846,
-   "hlasy": 10549,
-   "hlasy_proc": 8.96,
+   "hlasy": 11021,
+   "hlasy_proc": 8.67,
    "kandidatu": 23,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "JSME TEAM LETŇANY"
+   "zastupitele": 2,
+   "zastupitele_proc": 8.7,
+   "nazev": "JSME TEAM LETŇANY",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 672,
+     "hlasy_proc": 6.09,
+     "titul_pred": "MUDr.",
+     "jmeno": "Tereza",
+     "prijmeni": "Brázdová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 599,
+     "hlasy_proc": 5.43,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Závodný",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 11,
    "vstrana": 1399,
-   "hlasy": 1251,
-   "hlasy_proc": 1.06,
+   "hlasy": 1433,
+   "hlasy_proc": 1.13,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "KRÁSNÉ LETŇANY"
   }
  ],
- "stazeno": "2026-10-11T00:13:17+02:00"
+ "stazeno": "2026-10-11T00:39:18+02:00"
 }

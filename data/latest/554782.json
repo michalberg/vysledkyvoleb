@@ -5,24 +5,24 @@
  "voleno": 65,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-11T00:37:01",
+ "generovano": "2026-10-11T00:39:01",
  "ucast": {
   "okrsky_celkem": 1120,
-  "okrsky_zprac": 1029,
-  "okrsky_zprac_proc": 91.88,
-  "zapsani_volici": 826136,
-  "vydane_obalky": 376556,
+  "okrsky_zprac": 1030,
+  "okrsky_zprac_proc": 91.96,
+  "zapsani_volici": 826943,
+  "vydane_obalky": 376920,
   "ucast_proc": 45.58,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 376013,
-  "platne_listky": 357017,
-  "platne_hlasy": 21915053
+  "odevzdane_obalky": 376377,
+  "platne_listky": 357360,
+  "platne_hlasy": 21936544
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 121,
-   "hlasy": 14786,
+   "hlasy": 14806,
    "hlasy_proc": 0.07,
    "kandidatu": 10,
    "zastupitele": 0,
@@ -32,7 +32,7 @@
   {
    "por": 2,
    "vstrana": 1923,
-   "hlasy": 3824,
+   "hlasy": 3830,
    "hlasy_proc": 0.02,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -42,7 +42,7 @@
   {
    "por": 3,
    "vstrana": 1705,
-   "hlasy": 9758,
+   "hlasy": 9760,
    "hlasy_proc": 0.04,
    "kandidatu": 15,
    "zastupitele": 0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1373,
-   "hlasy": 3843254,
-   "hlasy_proc": 17.54,
+   "hlasy": 3845985,
+   "hlasy_proc": 17.53,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,7 +82,7 @@
   {
    "por": 7,
    "vstrana": 720,
-   "hlasy": 2058839,
+   "hlasy": 2060023,
    "hlasy_proc": 9.39,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -102,7 +102,7 @@
   {
    "por": 9,
    "vstrana": 166,
-   "hlasy": 5059723,
+   "hlasy": 5065046,
    "hlasy_proc": 23.09,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 1305,
-   "hlasy": 776373,
+   "hlasy": 777464,
    "hlasy_proc": 3.54,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -122,7 +122,7 @@
   {
    "por": 11,
    "vstrana": 1806,
-   "hlasy": 91529,
+   "hlasy": 91694,
    "hlasy_proc": 0.42,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -132,7 +132,7 @@
   {
    "por": 12,
    "vstrana": 687,
-   "hlasy": 4812203,
+   "hlasy": 4816218,
    "hlasy_proc": 21.96,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -142,7 +142,7 @@
   {
    "por": 13,
    "vstrana": 74,
-   "hlasy": 55145,
+   "hlasy": 55230,
    "hlasy_proc": 0.25,
    "kandidatu": 50,
    "zastupitele": 0,
@@ -152,8 +152,8 @@
   {
    "por": 14,
    "vstrana": 1178,
-   "hlasy": 642932,
-   "hlasy_proc": 2.93,
+   "hlasy": 644322,
+   "hlasy_proc": 2.94,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -162,7 +162,7 @@
   {
    "por": 15,
    "vstrana": 714,
-   "hlasy": 103118,
+   "hlasy": 103348,
    "hlasy_proc": 0.47,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -172,7 +172,7 @@
   {
    "por": 16,
    "vstrana": 1846,
-   "hlasy": 147828,
+   "hlasy": 147849,
    "hlasy_proc": 0.67,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -182,7 +182,7 @@
   {
    "por": 17,
    "vstrana": 482,
-   "hlasy": 14207,
+   "hlasy": 14226,
    "hlasy_proc": 0.06,
    "kandidatu": 8,
    "zastupitele": 0,
@@ -202,7 +202,7 @@
   {
    "por": 19,
    "vstrana": 1926,
-   "hlasy": 54104,
+   "hlasy": 54236,
    "hlasy_proc": 0.25,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -212,7 +212,7 @@
   {
    "por": 20,
    "vstrana": 1689,
-   "hlasy": 204658,
+   "hlasy": 204983,
    "hlasy_proc": 0.93,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -222,7 +222,7 @@
   {
    "por": 21,
    "vstrana": 98,
-   "hlasy": 8688,
+   "hlasy": 8691,
    "hlasy_proc": 0.04,
    "kandidatu": 14,
    "zastupitele": 0,
@@ -232,8 +232,8 @@
   {
    "por": 22,
    "vstrana": 768,
-   "hlasy": 3235087,
-   "hlasy_proc": 14.76,
+   "hlasy": 3239623,
+   "hlasy_proc": 14.77,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -252,13 +252,13 @@
   {
    "por": 24,
    "vstrana": 1827,
-   "hlasy": 625952,
-   "hlasy_proc": 2.86,
+   "hlasy": 626165,
+   "hlasy_proc": 2.85,
    "kandidatu": 65,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SEN PRO PRAHU s Václavem Láskou, s podporou HPP 11 a strany Mourek"
   }
  ],
- "stazeno": "2026-10-11T00:37:19+02:00"
+ "stazeno": "2026-10-11T00:39:18+02:00"
 }
