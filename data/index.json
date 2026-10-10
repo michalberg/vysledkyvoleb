@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:50:34+02:00",
+ "aktualizovano": "2026-10-10T15:52:19+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -512,9 +512,9 @@
    "nazev": "Litoměřice",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 30,
-   "generovano": "2026-10-10T15:49:02"
+   "generovano": "2026-10-10T15:52:02"
   },
   {
    "kod": "567256",
@@ -548,9 +548,9 @@
    "nazev": "Most",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 9,
+   "okrsky_zprac": 10,
    "okrsky_celkem": 60,
-   "generovano": "2026-10-10T15:45:03"
+   "generovano": "2026-10-10T15:52:02"
   },
   {
    "kod": "573868",
