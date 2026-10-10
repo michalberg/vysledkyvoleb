@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:44:18+02:00",
+ "aktualizovano": "2026-10-10T15:45:38+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -548,9 +548,9 @@
    "nazev": "Most",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 8,
+   "okrsky_zprac": 9,
    "okrsky_celkem": 60,
-   "generovano": "2026-10-10T15:43:03"
+   "generovano": "2026-10-10T15:45:03"
   },
   {
    "kod": "573868",
