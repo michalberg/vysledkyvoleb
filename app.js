@@ -38,8 +38,8 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;",
 const num2 = v => v.toFixed(2).replace(".", ",");
 const fmt = v => num2(v) + " %";
 const pctHtml = v => `${num2(v)}<small>%</small>`;
-// Ikona mandátu (křeslo) místo zkratky „mand.“
-const SEAT = `<svg class="seat" viewBox="0 0 24 24" role="img" aria-label="mandátů"><path d="M7 2.5h10a1 1 0 0 1 1 1V12H6V3.5a1 1 0 0 1 1-1zM4.5 13h15a1 1 0 0 1 1 1v2.5h-17V14a1 1 0 0 1 1-1zM5.5 17.5h2.2v4H5.5zM16.3 17.5h2.2v4h-2.2z"/></svg>`;
+// Ikona mandátu (postava) místo zkratky „mand.“
+const SEAT = `<svg class="seat" viewBox="0 0 24 24" role="img" aria-label="mandátů"><circle cx="12" cy="7" r="4.5"/><path d="M3.5 22c0-5 3.8-8.5 8.5-8.5s8.5 3.5 8.5 8.5z"/></svg>`;
 const seatsHtml = n => n > 0 ? `${n}${SEAT}` : "";
 const short = n => S.zkratky[n] || n;
 const plMand = n => n === 1 ? "mandát" : n >= 2 && n <= 4 ? "mandáty" : "mandátů";
