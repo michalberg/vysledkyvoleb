@@ -4,101 +4,342 @@
  "typ": "MCMO",
  "voleno": 25,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T22:12:00",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T22:27:01",
  "ucast": {
   "okrsky_celkem": 12,
-  "okrsky_zprac": 11,
-  "okrsky_zprac_proc": 91.67,
-  "zapsani_volici": 10350,
-  "vydane_obalky": 4946,
-  "ucast_proc": 47.79,
+  "okrsky_zprac": 12,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 11569,
+  "vydane_obalky": 5686,
+  "ucast_proc": 49.15,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 4934,
-  "platne_listky": 4757,
-  "platne_hlasy": 111868
+  "odevzdane_obalky": 5668,
+  "platne_listky": 5446,
+  "platne_hlasy": 128442
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 401,
-   "hlasy": 23431,
-   "hlasy_proc": 20.95,
+   "hlasy": 26279,
+   "hlasy_proc": 20.46,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Hnutí Občanů Počernic a NEZÁVISLÍ"
+   "zastupitele": 6,
+   "zastupitele_proc": 24.0,
+   "nazev": "Hnutí Občanů Počernic a NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1142,
+     "hlasy_proc": 4.34,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Šebek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1253,
+     "hlasy_proc": 4.76,
+     "titul_pred": "Mgr.",
+     "jmeno": "Alena",
+     "prijmeni": "Štrobová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1162,
+     "hlasy_proc": 4.42,
+     "titul_pred": "Mgr.",
+     "jmeno": "Josef",
+     "prijmeni": "Beránek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1262,
+     "hlasy_proc": 4.8,
+     "titul_pred": "Ing.",
+     "jmeno": "Monika",
+     "prijmeni": "Brzkovská",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1054,
+     "hlasy_proc": 4.01,
+     "titul_pred": "",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Mucha",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1165,
+     "hlasy_proc": 4.43,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Herian",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 166,
-   "hlasy": 10727,
-   "hlasy_proc": 9.59,
+   "hlasy": 12268,
+   "hlasy_proc": 9.55,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 5,
+     "hlasy": 654,
+     "hlasy_proc": 5.33,
+     "titul_pred": "Bc.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Kočí",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 626,
+     "hlasy_proc": 5.1,
+     "titul_pred": "MgA.",
+     "jmeno": "Michal",
+     "prijmeni": "Novotný",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1695,
-   "hlasy": 5878,
-   "hlasy_proc": 5.25,
+   "hlasy": 6685,
+   "hlasy_proc": 5.2,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "PRO Počernice – Naše Česko"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.0,
+   "nazev": "PRO Počernice – Naše Česko",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 421,
+     "hlasy_proc": 6.29,
+     "titul_pred": "Mgr. et Bc.",
+     "jmeno": "Petr",
+     "prijmeni": "Růžička",
+     "titul_za": "Ph.D., MBA, DiS."
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 449,
-   "hlasy": 6945,
-   "hlasy_proc": 6.21,
+   "hlasy": 8680,
+   "hlasy_proc": 6.76,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Místní pro Horní Počernice"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.0,
+   "nazev": "Místní pro Horní Počernice",
+   "zvoleni": [
+    {
+     "poradi": 4,
+     "hlasy": 490,
+     "hlasy_proc": 5.64,
+     "titul_pred": "plk. Ing.",
+     "jmeno": "Lenka",
+     "prijmeni": "Štiková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 1716,
-   "hlasy": 14899,
-   "hlasy_proc": 13.32,
+   "hlasy": 17457,
+   "hlasy_proc": 13.59,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Hnutí Šance pro Počernice"
+   "zastupitele": 4,
+   "zastupitele_proc": 16.0,
+   "nazev": "Hnutí Šance pro Počernice",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 922,
+     "hlasy_proc": 5.28,
+     "titul_pred": "",
+     "jmeno": "Hana",
+     "prijmeni": "Markulinec Moravcová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 774,
+     "hlasy_proc": 4.43,
+     "titul_pred": "Ing.",
+     "jmeno": "Alexandra",
+     "prijmeni": "Janáčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 844,
+     "hlasy_proc": 4.83,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Wágner",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 801,
+     "hlasy_proc": 4.58,
+     "titul_pred": "MVDr.",
+     "jmeno": "Klára",
+     "prijmeni": "Bonková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 566,
-   "hlasy": 8075,
-   "hlasy_proc": 7.22,
+   "hlasy": 8598,
+   "hlasy_proc": 6.69,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Počernice JINAK"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.0,
+   "nazev": "Počernice JINAK",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 441,
+     "hlasy_proc": 5.12,
+     "titul_pred": "MgA.",
+     "jmeno": "Jakub",
+     "prijmeni": "Philipp",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 768,
-   "hlasy": 12923,
-   "hlasy_proc": 11.55,
+   "hlasy": 14153,
+   "hlasy_proc": 11.02,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 3,
+   "zastupitele_proc": 12.0,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 595,
+     "hlasy_proc": 4.2,
+     "titul_pred": "",
+     "jmeno": "Vladimír",
+     "prijmeni": "Krejčík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 594,
+     "hlasy_proc": 4.19,
+     "titul_pred": "Ing.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Boubal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 594,
+     "hlasy_proc": 4.19,
+     "titul_pred": "",
+     "jmeno": "Sabina",
+     "prijmeni": "Kurfürstová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 687,
-   "hlasy": 28990,
-   "hlasy_proc": 25.91,
+   "hlasy": 34322,
+   "hlasy_proc": 26.72,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SPOLU (ODS a TOP09 s podporou nezávislých kandidátů Horních Počernic)"
+   "zastupitele": 7,
+   "zastupitele_proc": 28.0,
+   "nazev": "SPOLU (ODS a TOP09 s podporou nezávislých kandidátů Horních Počernic)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1671,
+     "hlasy_proc": 4.86,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Měšťan",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1421,
+     "hlasy_proc": 4.14,
+     "titul_pred": "Bc.",
+     "jmeno": "Jana",
+     "prijmeni": "Víchová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1448,
+     "hlasy_proc": 4.21,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Žídek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1452,
+     "hlasy_proc": 4.23,
+     "titul_pred": "Ing.",
+     "jmeno": "Jindřich",
+     "prijmeni": "Jukl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1407,
+     "hlasy_proc": 4.09,
+     "titul_pred": "PhDr.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Foglarová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1461,
+     "hlasy_proc": 4.25,
+     "titul_pred": "",
+     "jmeno": "Richard",
+     "prijmeni": "Stára",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1392,
+     "hlasy_proc": 4.05,
+     "titul_pred": "",
+     "jmeno": "Jaromír",
+     "prijmeni": "Hukal",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T22:12:22+02:00"
+ "stazeno": "2026-10-10T22:27:18+02:00"
 }
