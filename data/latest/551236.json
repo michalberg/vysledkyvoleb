@@ -4,46 +4,167 @@
  "typ": "MCMO",
  "voleno": 15,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T22:36:00",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T22:55:01",
  "ucast": {
   "okrsky_celkem": 5,
-  "okrsky_zprac": 4,
-  "okrsky_zprac_proc": 80.0,
-  "zapsani_volici": 3407,
-  "vydane_obalky": 1862,
-  "ucast_proc": 54.65,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 4247,
+  "vydane_obalky": 2367,
+  "ucast_proc": 55.73,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1859,
-  "platne_listky": 1806,
-  "platne_hlasy": 25708
+  "odevzdane_obalky": 2363,
+  "platne_listky": 2286,
+  "platne_hlasy": 32727
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 15490,
-   "hlasy_proc": 60.25,
+   "hlasy": 20178,
+   "hlasy_proc": 61.66,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Občané pro Medlánky"
+   "zastupitele": 10,
+   "zastupitele_proc": 66.67,
+   "nazev": "Občané pro Medlánky",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1420,
+     "hlasy_proc": 7.03,
+     "titul_pred": "JUDr.",
+     "jmeno": "Michal",
+     "prijmeni": "Marek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1390,
+     "hlasy_proc": 6.88,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Žůrková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1394,
+     "hlasy_proc": 6.9,
+     "titul_pred": "",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Brabcová",
+     "titul_za": "dipl. fyz."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1369,
+     "hlasy_proc": 6.78,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Lhotský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1396,
+     "hlasy_proc": 6.91,
+     "titul_pred": "Ing.",
+     "jmeno": "Klára",
+     "prijmeni": "Drápalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1385,
+     "hlasy_proc": 6.86,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Mohapl",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1366,
+     "hlasy_proc": 6.76,
+     "titul_pred": "Ing.",
+     "jmeno": "Blanka",
+     "prijmeni": "Teplanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1368,
+     "hlasy_proc": 6.77,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Bukovjanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1362,
+     "hlasy_proc": 6.74,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Horký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1337,
+     "hlasy_proc": 6.62,
+     "titul_pred": "",
+     "jmeno": "Eliška",
+     "prijmeni": "Überhuberová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 364,
-   "hlasy": 5219,
-   "hlasy_proc": 20.3,
+   "hlasy": 6480,
+   "hlasy_proc": 19.8,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Zelené Medlánky"
+   "zastupitele": 3,
+   "zastupitele_proc": 20.0,
+   "nazev": "Zelené Medlánky",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 488,
+     "hlasy_proc": 7.53,
+     "titul_pred": "Bc.",
+     "jmeno": "Gustav",
+     "prijmeni": "Procházka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 492,
+     "hlasy_proc": 7.59,
+     "titul_pred": "Ing. et Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Menšík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 485,
+     "hlasy_proc": 7.48,
+     "titul_pred": "Bc.",
+     "jmeno": "Nikol",
+     "prijmeni": "Kuchtíčková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1305,
-   "hlasy": 1631,
-   "hlasy_proc": 6.34,
+   "hlasy": 1824,
+   "hlasy_proc": 5.57,
    "kandidatu": 14,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,33 +173,55 @@
   {
    "por": 4,
    "vstrana": 389,
-   "hlasy": 1595,
-   "hlasy_proc": 6.2,
+   "hlasy": 2058,
+   "hlasy_proc": 6.29,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Medlánečtí nezávislí a ODS"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Medlánečtí nezávislí a ODS",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 183,
+     "hlasy_proc": 8.89,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Krčmař",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 355,
-   "hlasy": 1652,
-   "hlasy_proc": 6.43,
+   "hlasy": 2051,
+   "hlasy_proc": 6.27,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Lidovci"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Lidovci",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 236,
+     "hlasy_proc": 11.5,
+     "titul_pred": "",
+     "jmeno": "Augustin",
+     "prijmeni": "Dobeš",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 1832,
-   "hlasy": 121,
-   "hlasy_proc": 0.47,
+   "hlasy": 136,
+   "hlasy_proc": 0.42,
    "kandidatu": 8,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Koalice politických stran a hnutí Restart pro Brno"
   }
  ],
- "stazeno": "2026-10-10T22:36:22+02:00"
+ "stazeno": "2026-10-10T22:55:28+02:00"
 }
