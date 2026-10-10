@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T22:05:27+02:00",
+ "aktualizovano": "2026-10-10T22:06:20+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 285,
+   "okrsky_zprac": 287,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T22:03:00"
+   "generovano": "2026-10-10T22:06:01"
   },
   {
    "kod": "551198",
@@ -53,9 +53,9 @@
    "nazev": "Brno-Líšeň",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 11,
+   "okrsky_zprac": 12,
    "okrsky_celkem": 19,
-   "generovano": "2026-10-10T21:55:00"
+   "generovano": "2026-10-10T22:06:01"
   },
   {
    "kod": "551252",
@@ -98,9 +98,9 @@
    "nazev": "Brno-sever",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 37,
+   "okrsky_zprac": 38,
    "okrsky_celkem": 45,
-   "generovano": "2026-10-10T21:59:01"
+   "generovano": "2026-10-10T22:06:01"
   },
   {
    "kod": "551091",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 723,
+   "okrsky_zprac": 726,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T22:05:01"
+   "generovano": "2026-10-10T22:06:01"
   },
   {
    "kod": "500054",
@@ -350,9 +350,9 @@
    "nazev": "Praha 11",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 43,
+   "okrsky_zprac": 45,
    "okrsky_celkem": 62,
-   "generovano": "2026-10-10T22:00:00"
+   "generovano": "2026-10-10T22:06:01"
   },
   {
    "kod": "547107",
@@ -431,9 +431,9 @@
    "nazev": "Praha 20",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 9,
+   "okrsky_zprac": 10,
    "okrsky_celkem": 12,
-   "generovano": "2026-10-10T21:41:01"
+   "generovano": "2026-10-10T22:06:01"
   },
   {
    "kod": "538949",
@@ -602,9 +602,9 @@
    "nazev": "Plzeň",
    "voleno": 47,
    "je_spocteno": false,
-   "okrsky_zprac": 166,
+   "okrsky_zprac": 167,
    "okrsky_celkem": 174,
-   "generovano": "2026-10-10T22:02:00"
+   "generovano": "2026-10-10T22:06:01"
   },
   {
    "kod": "588024",
