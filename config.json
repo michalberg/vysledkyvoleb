@@ -1,22 +1,183 @@
 {
   "volby": "kv2026",
   "datum": "20261009",
+  "interval_s": 12,
   "obce": [
-    { "kod": "582786", "nazev": "Brno" },
-    { "kod": "551198", "nazev": "Brno-Bystrc" },
-    { "kod": "551171", "nazev": "Brno-Jundrov" },
-    { "kod": "551228", "nazev": "Brno-Komín" },
-    { "kod": "551007", "nazev": "Brno-Královo Pole" },
-    { "kod": "551287", "nazev": "Brno-Líšeň" },
-    { "kod": "551252", "nazev": "Brno-Maloměřice a Obřany" },
-    { "kod": "551236", "nazev": "Brno-Medlánky" },
-    { "kod": "551112", "nazev": "Brno-Nový Lískovec" },
-    { "kod": "551031", "nazev": "Brno-sever" },
-    { "kod": "550973", "nazev": "Brno-střed" },
-    { "kod": "551091", "nazev": "Brno-Starý Lískovec" },
-    { "kod": "551244", "nazev": "Brno-Řečkovice a Mokrá Hora" },
-    { "kod": "551279", "nazev": "Brno-Vinohrady" },
-    { "kod": "550990", "nazev": "Brno-Žabovřesky" },
-    { "kod": "551058", "nazev": "Brno-Židenice" }
+    {
+      "kod": "582786",
+      "nazev": "Brno",
+      "zobrazit": "Brno",
+      "kratky": "Brno",
+      "nase": {
+        "2026": 3,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551198",
+      "nazev": "Brno-Bystrc",
+      "zobrazit": "Bystrc",
+      "kratky": "Bystrc",
+      "nase": {
+        "2026": 2,
+        "2022": 3
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551171",
+      "nazev": "Brno-Jundrov",
+      "zobrazit": "Jundrov",
+      "kratky": "Jundrov",
+      "nase": {
+        "2026": 2,
+        "2022": 3
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551228",
+      "nazev": "Brno-Komín",
+      "zobrazit": "Komín",
+      "kratky": "Komín",
+      "nase": {
+        "2026": 7,
+        "2022": 7
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551007",
+      "nazev": "Brno-Královo Pole",
+      "zobrazit": "Královo Pole",
+      "kratky": "Královo Pole",
+      "nase": {
+        "2026": 5,
+        "2022": 8
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551287",
+      "nazev": "Brno-Líšeň",
+      "zobrazit": "Líšeň",
+      "kratky": "Líšeň",
+      "nase": {
+        "2026": 6,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551252",
+      "nazev": "Brno-Maloměřice a Obřany",
+      "zobrazit": "Maloměřice a Obřany",
+      "kratky": "Maloměřice",
+      "nase": {
+        "2026": 7,
+        "2022": 3
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551236",
+      "nazev": "Brno-Medlánky",
+      "zobrazit": "Medlánky",
+      "kratky": "Medlánky",
+      "nase": {
+        "2026": 2,
+        "2022": 5
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551112",
+      "nazev": "Brno-Nový Lískovec",
+      "zobrazit": "Nový Lískovec",
+      "kratky": "Nový Lískovec",
+      "nase": {
+        "2026": 2,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551244",
+      "nazev": "Brno-Řečkovice a Mokrá Hora",
+      "zobrazit": "Řečkovice a Mokrá Hora",
+      "kratky": "Řečkovice",
+      "nase": {
+        "2026": 9,
+        "2022": 2
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551031",
+      "nazev": "Brno-sever",
+      "zobrazit": "Sever",
+      "kratky": "Sever",
+      "nase": {
+        "2026": 5,
+        "2022": 1
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551091",
+      "nazev": "Brno-Starý Lískovec",
+      "zobrazit": "Starý Lískovec",
+      "kratky": "Starý Lískovec",
+      "nase": {
+        "2026": 7,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "550973",
+      "nazev": "Brno-střed",
+      "zobrazit": "Střed",
+      "kratky": "Střed",
+      "nase": {
+        "2026": 6,
+        "2022": 1
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551279",
+      "nazev": "Brno-Vinohrady",
+      "zobrazit": "Vinohrady",
+      "kratky": "Vinohrady",
+      "nase": {
+        "2026": 5,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "550990",
+      "nazev": "Brno-Žabovřesky",
+      "zobrazit": "Žabovřesky",
+      "kratky": "Žabovřesky",
+      "nase": {
+        "2026": 9,
+        "2022": 9
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "551058",
+      "nazev": "Brno-Židenice",
+      "zobrazit": "Židenice",
+      "kratky": "Židenice",
+      "nase": {
+        "2026": 6,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    }
   ]
 }

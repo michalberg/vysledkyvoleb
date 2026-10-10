@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="cs" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Volby Brno 2026</title>
+<link rel="stylesheet" href="app.css">
+<script>
+  try { document.documentElement.dataset.theme = localStorage.getItem("vv-theme") || "dark"; } catch (e) {}
+</script>
+</head>
+<body>
+<!-- Projektor 4:3 (≥ 700 px) -->
+<div id="stage" class="stage">
+  <div id="brnoRow" class="brno-row"></div>
+  <div class="countdown"><div id="countdown"></div></div>
+  <div class="toolbar">
+    <button id="allBtn" class="pill-toggle" type="button">Všechny strany</button>
+    <div class="seg" role="tablist">
+      <button type="button" data-view="res">Výsledky</button>
+      <button type="button" data-view="coal">Sestavit koalici</button>
+    </div>
+  </div>
+  <div class="main">
+    <aside id="side" class="side"></aside>
+    <section id="detail" class="detail"></section>
+  </div>
+  <footer class="foot">
+    <div id="footLeft"></div>
+    <div class="foot-right"><span id="seatNote"></span><button id="themeBtn" class="pill-small" type="button"></button></div>
+  </footer>
+</div>
+
+<!-- Mobil (< 700 px) -->
+<div id="mobile" class="mobile">
+  <div class="m-bar">
+    <div id="mChips" class="m-chips"></div>
+    <button id="mTheme" class="pill-small" type="button"></button>
+  </div>
+  <div id="mUnits"></div>
+  <div id="mSeatNote" class="m-note"></div>
+</div>
+<div id="mCoal" class="m-coal" hidden>
+  <div class="m-coal-head"><button id="mCoalClose" class="pill-small" type="button">Zavřít</button></div>
+  <div id="mCoalBody" class="m-coal-body"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

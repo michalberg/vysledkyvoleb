@@ -4,6 +4,19 @@ Průběžné stahování výsledků voleb do zastupitelstev obcí (9.–10. 10. 
 z otevřených dat [volby.gov.cz](https://volby.gov.cz/opendata/kv2026/KV2026_XML.htm)
 pro zastupitelstva uvedená v `config.json`.
 
+## Web
+
+`index.html` + `app.js` + `app.css`, statická stránka bez buildu (GitHub Pages).
+
+- Projektor 4:3 (od 700 px šířky): rotace Brno → 15 MČ, režim „Sestavit koalici“.
+- Mobil (pod 700 px): všechny celky pod sebou, koalice v panelu.
+- Data: živé XML z volby.gov.cz, při výpadku záloha `data/latest/`.
+- Celek bez sečteného okrsku ukazuje šedě výsledky 2022.
+- Mandáty do sečtení všech okrsků odhaduje podle § 45 zákona 491/2001 Sb.
+  (5% klauzule s úpravou pro neúplné kandidátky, D'Hondt, strop počtem kandidátů).
+- URL parametry: `?mock=2022` / `?mock=2022-prubeh` (testovací data), `?interval=12` (rotace v s).
+- Naše kandidátka pro každý celek je v `config.json` → `nase` (číslo kandidátní listiny).
+
 ## Jak to funguje
 
 1. [cron-job.org](https://cron-job.org) každou minutu spustí workflow
