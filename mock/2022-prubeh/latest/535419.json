@@ -1,0 +1,104 @@
+{
+ "kod": "535419",
+ "nazev": "Mladá Boleslav",
+ "typ": "OBEC",
+ "voleno": 33,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T18:25:00",
+ "ucast": {
+  "okrsky_celkem": 44,
+  "okrsky_zprac": 40,
+  "okrsky_zprac_proc": 90.91,
+  "zapsani_volici": 25298,
+  "vydane_obalky": 9348,
+  "ucast_proc": 36.95,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 9343,
+  "platne_listky": null,
+  "platne_hlasy": 274227
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 387,
+   "hlasy": 10075,
+   "hlasy_proc": 3.67,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Levicoví občané"
+  },
+  {
+   "por": 2,
+   "vstrana": 1071,
+   "hlasy": 82774,
+   "hlasy_proc": 30.18,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011 + Volba pro Mladou Boleslav"
+  },
+  {
+   "por": 3,
+   "vstrana": 523,
+   "hlasy": 65767,
+   "hlasy_proc": 23.98,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana, TOP 09 a nezávislí kandidáti"
+  },
+  {
+   "por": 4,
+   "vstrana": 1114,
+   "hlasy": 26851,
+   "hlasy_proc": 9.79,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 5,
+   "vstrana": 1399,
+   "hlasy": 6330,
+   "hlasy_proc": 2.31,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KRÁSNÁ MLADÁ BOLESLAV"
+  },
+  {
+   "por": 6,
+   "vstrana": 371,
+   "hlasy": 19980,
+   "hlasy_proc": 7.29,
+   "kandidatu": 32,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "HLAS PRO BOLESLAV"
+  },
+  {
+   "por": 7,
+   "vstrana": 166,
+   "hlasy": 32838,
+   "hlasy_proc": 11.97,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 8,
+   "vstrana": 303,
+   "hlasy": 29612,
+   "hlasy_proc": 10.8,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ŠANCE PRO MLADOU BOLESLAV (KOALICE STRANY ZELENÝCH A KDU-ČSL)"
+  }
+ ],
+ "stazeno": "2022-09-24T18:25:00"
+}

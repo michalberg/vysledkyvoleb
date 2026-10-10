@@ -1,0 +1,124 @@
+{
+ "kod": "590266",
+ "nazev": "Třebíč",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:29",
+ "ucast": {
+  "okrsky_celkem": 39,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 47,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 470,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO TŘEBÍČ"
+  },
+  {
+   "por": 4,
+   "vstrana": 1688,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "MOSTy Třebíč"
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Budoucnost pro Třebíč"
+  },
+  {
+   "por": 6,
+   "vstrana": 1874,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Živé Město"
+  },
+  {
+   "por": 7,
+   "vstrana": 529,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti - Břehy - Zelení"
+  },
+  {
+   "por": 8,
+   "vstrana": 1699,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Třebíč Občanům!"
+  },
+  {
+   "por": 9,
+   "vstrana": 355,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LIDOVCI"
+  },
+  {
+   "por": 10,
+   "vstrana": 1487,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a Trikolora"
+  }
+ ],
+ "stazeno": "2026-10-10T14:35:22+02:00"
+}

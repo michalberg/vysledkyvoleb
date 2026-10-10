@@ -1,0 +1,418 @@
+{
+ "kod": "563510",
+ "nazev": "Jablonec nad Nisou",
+ "typ": "OBEC",
+ "voleno": 30,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T20:50:00",
+ "ucast": {
+  "okrsky_celkem": 49,
+  "okrsky_zprac": 49,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 35090,
+  "vydane_obalky": 13681,
+  "ucast_proc": 38.99,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 13677,
+  "platne_listky": null,
+  "platne_hlasy": 375130
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1114,
+   "hlasy": 46963,
+   "hlasy_proc": 12.51,
+   "kandidatu": 30,
+   "zastupitele": 4,
+   "zastupitele_proc": 13.33,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1968,
+     "hlasy_proc": 4.19,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Michal",
+     "prijmeni": "Švarc",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1748,
+     "hlasy_proc": 3.72,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Mrklas",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1649,
+     "hlasy_proc": 3.51,
+     "titul_pred": "Bc.",
+     "jmeno": "Karel",
+     "prijmeni": "Pauch",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1572,
+     "hlasy_proc": 3.34,
+     "titul_pred": "",
+     "jmeno": "Ivanka",
+     "prijmeni": "Rejmanová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1265,
+   "hlasy": 10937,
+   "hlasy_proc": 3.12,
+   "kandidatu": 28,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Právo Respekt Odbornost"
+  },
+  {
+   "por": 3,
+   "vstrana": 703,
+   "hlasy": 38994,
+   "hlasy_proc": 10.39,
+   "kandidatu": 30,
+   "zastupitele": 3,
+   "zastupitele_proc": 10.0,
+   "nazev": "Starostové pro Liberecký kraj",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1835,
+     "hlasy_proc": 4.7,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Hamplová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1862,
+     "hlasy_proc": 4.77,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Jitka",
+     "prijmeni": "Skalická",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1623,
+     "hlasy_proc": 4.16,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Bauer",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 550,
+   "hlasy": 19007,
+   "hlasy_proc": 5.06,
+   "kandidatu": 30,
+   "zastupitele": 1,
+   "zastupitele_proc": 3.33,
+   "nazev": "Pro Jablonec",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1241,
+     "hlasy_proc": 6.52,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Žur",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 541,
+   "hlasy": 40362,
+   "hlasy_proc": 10.75,
+   "kandidatu": 30,
+   "zastupitele": 4,
+   "zastupitele_proc": 13.33,
+   "nazev": "Piráti a nezávislí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1749,
+     "hlasy_proc": 4.33,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Šída",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1948,
+     "hlasy_proc": 4.82,
+     "titul_pred": "MgA.",
+     "jmeno": "Jakub",
+     "prijmeni": "Chuchlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1776,
+     "hlasy_proc": 4.4,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Opatrný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1555,
+     "hlasy_proc": 3.85,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Martina",
+     "prijmeni": "Picko Baumannová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 53,
+   "hlasy": 58086,
+   "hlasy_proc": 15.48,
+   "kandidatu": 30,
+   "zastupitele": 5,
+   "zastupitele_proc": 16.67,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2267,
+     "hlasy_proc": 3.9,
+     "titul_pred": "Ing.",
+     "jmeno": "Miloš",
+     "prijmeni": "Vele",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2301,
+     "hlasy_proc": 3.96,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Roubíček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2173,
+     "hlasy_proc": 3.74,
+     "titul_pred": "",
+     "jmeno": "Michaela",
+     "prijmeni": "Albrechtová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2381,
+     "hlasy_proc": 4.09,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Beitl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2408,
+     "hlasy_proc": 4.14,
+     "titul_pred": "MUDr.",
+     "jmeno": "Vít",
+     "prijmeni": "Němeček",
+     "titul_za": "MBA"
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 47,
+   "hlasy": 6642,
+   "hlasy_proc": 1.77,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 8,
+   "vstrana": 401,
+   "hlasy": 10232,
+   "hlasy_proc": 2.72,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "DOMOV NAD NISOU"
+  },
+  {
+   "por": 9,
+   "vstrana": 480,
+   "hlasy": 9997,
+   "hlasy_proc": 2.66,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Křížek pro LEVNÉ ENERGIE z městské elektrárny, ODPADY ZDARMA (kdo třídí, neplatí), dostupné PARKOVÁNÍ, POŘÁDEK a BEZP…"
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 94256,
+   "hlasy_proc": 25.12,
+   "kandidatu": 30,
+   "zastupitele": 9,
+   "zastupitele_proc": 30.0,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3682,
+     "hlasy_proc": 3.9,
+     "titul_pred": "Mgr.",
+     "jmeno": "David",
+     "prijmeni": "Mánek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3343,
+     "hlasy_proc": 3.54,
+     "titul_pred": "",
+     "jmeno": "Jitka",
+     "prijmeni": "Baláková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3411,
+     "hlasy_proc": 3.61,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Kouřil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3299,
+     "hlasy_proc": 3.5,
+     "titul_pred": "Ing.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Říha",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3255,
+     "hlasy_proc": 3.45,
+     "titul_pred": "Bc.",
+     "jmeno": "Milan",
+     "prijmeni": "Kroupa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3185,
+     "hlasy_proc": 3.37,
+     "titul_pred": "",
+     "jmeno": "Josef",
+     "prijmeni": "Hejtmánek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 3369,
+     "hlasy_proc": 3.57,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Pastuchová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 3157,
+     "hlasy_proc": 3.34,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Sas",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 3169,
+     "hlasy_proc": 3.36,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Kott",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 11,
+   "vstrana": 479,
+   "hlasy": 39654,
+   "hlasy_proc": 10.57,
+   "kandidatu": 30,
+   "zastupitele": 4,
+   "zastupitele_proc": 13.33,
+   "nazev": "Společně pro Jablonec",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1663,
+     "hlasy_proc": 4.19,
+     "titul_pred": "RNDr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Opočenská",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1653,
+     "hlasy_proc": 4.16,
+     "titul_pred": "Ing.",
+     "jmeno": "Štěpán",
+     "prijmeni": "Matek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1797,
+     "hlasy_proc": 4.53,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Petr",
+     "prijmeni": "Klápště",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1603,
+     "hlasy_proc": 4.04,
+     "titul_pred": "MUDr.",
+     "jmeno": "Veronika",
+     "prijmeni": "Kaššovicová",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T20:50:00"
+}

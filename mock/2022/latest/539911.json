@@ -1,0 +1,383 @@
+{
+ "kod": "539911",
+ "nazev": "Příbram",
+ "typ": "OBEC",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T23:00:00",
+ "ucast": {
+  "okrsky_celkem": 39,
+  "okrsky_zprac": 39,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 25575,
+  "vydane_obalky": 9827,
+  "ucast_proc": 38.42,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 9827,
+  "platne_listky": null,
+  "platne_hlasy": 219495
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 75769,
+   "hlasy_proc": 34.51,
+   "kandidatu": 25,
+   "zastupitele": 11,
+   "zastupitele_proc": 44.0,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3860,
+     "hlasy_proc": 5.09,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Konvalinka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3262,
+     "hlasy_proc": 4.3,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Rotter",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3296,
+     "hlasy_proc": 4.35,
+     "titul_pred": "MUDr.",
+     "jmeno": "Barbora",
+     "prijmeni": "Daňhová",
+     "titul_za": "MHA"
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3190,
+     "hlasy_proc": 4.21,
+     "titul_pred": "MUDr.",
+     "jmeno": "František",
+     "prijmeni": "Hauser",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3163,
+     "hlasy_proc": 4.17,
+     "titul_pred": "Bc.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Karpíšek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3075,
+     "hlasy_proc": 4.05,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Hrudka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 3073,
+     "hlasy_proc": 4.05,
+     "titul_pred": "",
+     "jmeno": "Marta",
+     "prijmeni": "Frýbertová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 3070,
+     "hlasy_proc": 4.05,
+     "titul_pred": "Ing.",
+     "jmeno": "Josef",
+     "prijmeni": "Šašek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 3094,
+     "hlasy_proc": 4.08,
+     "titul_pred": "",
+     "jmeno": "František",
+     "prijmeni": "Jobek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 3039,
+     "hlasy_proc": 4.01,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Dvořáček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 3044,
+     "hlasy_proc": 4.01,
+     "titul_pred": "Bc.",
+     "jmeno": "Denisa",
+     "prijmeni": "Kotková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1114,
+   "hlasy": 18173,
+   "hlasy_proc": 8.27,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 919,
+     "hlasy_proc": 5.05,
+     "titul_pred": "Bc.",
+     "jmeno": "Petra",
+     "prijmeni": "Novotná",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 814,
+     "hlasy_proc": 4.47,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Novotný",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 720,
+   "hlasy": 14418,
+   "hlasy_proc": 6.56,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Česká pirátská strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 909,
+     "hlasy_proc": 6.3,
+     "titul_pred": "Mgr.",
+     "jmeno": "Simona",
+     "prijmeni": "Luftová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 831,
+     "hlasy_proc": 5.76,
+     "titul_pred": "Bc.",
+     "jmeno": "Antonín",
+     "prijmeni": "Schejbal",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 371,
+   "hlasy": 5705,
+   "hlasy_proc": 2.59,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD a Přátelé"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 14387,
+   "hlasy_proc": 6.55,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 895,
+     "hlasy_proc": 6.22,
+     "titul_pred": "",
+     "jmeno": "Miroslav",
+     "prijmeni": "Peterka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 713,
+     "hlasy_proc": 4.95,
+     "titul_pred": "Ing.",
+     "jmeno": "Ivan",
+     "prijmeni": "Fuksa",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 355,
+   "hlasy": 6910,
+   "hlasy_proc": 3.14,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL a nezávislí kandidáti"
+  },
+  {
+   "por": 7,
+   "vstrana": 1522,
+   "hlasy": 32086,
+   "hlasy_proc": 14.61,
+   "kandidatu": 25,
+   "zastupitele": 4,
+   "zastupitele_proc": 16.0,
+   "nazev": "SPOJENCI - TOP 09, STAROSTOVÉ A NEZÁVISLÍ, POLITICKÉ HNUTÍ HLAS, SOS PŘÍBRAM A NEZÁVISLÍ KANDIDÁTI",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1890,
+     "hlasy_proc": 5.89,
+     "titul_pred": "Mgr.",
+     "jmeno": "Václav",
+     "prijmeni": "Švenda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1584,
+     "hlasy_proc": 4.93,
+     "titul_pred": "Mgr.",
+     "jmeno": "Markéta",
+     "prijmeni": "Škodová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1675,
+     "hlasy_proc": 5.22,
+     "titul_pred": "Ing.",
+     "jmeno": "Václav",
+     "prijmeni": "Dvořák",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1637,
+     "hlasy_proc": 5.1,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marek",
+     "prijmeni": "Školoud",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 1624,
+   "hlasy": 10287,
+   "hlasy_proc": 4.68,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Příbramáci pro Příbram a PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 9,
+   "vstrana": 457,
+   "hlasy": 15746,
+   "hlasy_proc": 7.17,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "PŘÍBRAM 2030 (Nestraníci)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1085,
+     "hlasy_proc": 6.89,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Buršík",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1116,
+     "hlasy_proc": 7.08,
+     "titul_pred": "Mgr.",
+     "jmeno": "Josef",
+     "prijmeni": "Strejc",
+     "titul_za": "MBA"
+    }
+   ]
+  },
+  {
+   "por": 10,
+   "vstrana": 1435,
+   "hlasy": 16665,
+   "hlasy_proc": 7.59,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Šance pro Příbram",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1101,
+     "hlasy_proc": 6.6,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Král",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1028,
+     "hlasy_proc": 6.16,
+     "titul_pred": "",
+     "jmeno": "Aleš",
+     "prijmeni": "Barášek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 11,
+   "vstrana": 47,
+   "hlasy": 9117,
+   "hlasy_proc": 4.15,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 12,
+   "vstrana": 156,
+   "hlasy": 232,
+   "hlasy_proc": 0.26,
+   "kandidatu": 10,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Dělnická strana sociální spravedlnosti"
+  }
+ ],
+ "stazeno": "2022-09-24T23:00:00"
+}

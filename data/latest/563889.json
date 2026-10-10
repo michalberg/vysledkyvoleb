@@ -1,0 +1,134 @@
+{
+ "kod": "563889",
+ "nazev": "Liberec",
+ "typ": "OBEC",
+ "voleno": 39,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:21",
+ "ucast": {
+  "okrsky_celkem": 87,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1114,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 2,
+   "vstrana": 540,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LIBERECKÁ 9"
+  },
+  {
+   "por": 3,
+   "vstrana": 1265,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO Právo Respekt Odbornost"
+  },
+  {
+   "por": 4,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 5,
+   "vstrana": 1806,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LIBE!"
+  },
+  {
+   "por": 6,
+   "vstrana": 1066,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Liberec otevřený lidem a Piráti"
+  },
+  {
+   "por": 7,
+   "vstrana": 1713,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 4,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana asociálů"
+  },
+  {
+   "por": 8,
+   "vstrana": 482,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 6,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 9,
+   "vstrana": 1872,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lepší Liberec"
+  },
+  {
+   "por": 10,
+   "vstrana": 1839,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS společně se sportovci"
+  },
+  {
+   "por": 11,
+   "vstrana": 703,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Starostové pro Liberecký kraj"
+  }
+ ],
+ "stazeno": "2026-10-10T14:35:22+02:00"
+}

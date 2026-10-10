@@ -208,8 +208,28 @@ def write_index(data_dir, config, updated):
     write_json(data_dir / "index.json", index)
 
 
+CONFIGS = ("config.json", "config-mesta.json")
+
+
+def load_config():
+    """Spojí seznamy obcí ze všech konfigurací (Brno + další města)."""
+    config, seen = None, set()
+    for name in CONFIGS:
+        path = ROOT / name
+        if not path.exists():
+            continue
+        c = json.loads(path.read_text(encoding="utf-8"))
+        if config is None:
+            config = {**c, "obce": []}
+        for o in c["obce"]:
+            if o["kod"] not in seen:
+                seen.add(o["kod"])
+                config["obce"].append(o)
+    return config
+
+
 def main():
-    config = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
+    config = load_config()
     fetched = datetime.now(TZ).isoformat(timespec="seconds")
     changed, failed = [], []
 

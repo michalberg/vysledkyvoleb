@@ -1,0 +1,114 @@
+{
+ "kod": "552046",
+ "nazev": "Tábor",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 41,
+  "okrsky_zprac": 38,
+  "okrsky_zprac_proc": 92.68,
+  "zapsani_volici": 23618,
+  "vydane_obalky": 9515,
+  "ucast_proc": 40.29,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 9474,
+  "platne_listky": null,
+  "platne_hlasy": 228088
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 61140,
+   "hlasy_proc": 26.81,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 136,
+   "hlasy": 64785,
+   "hlasy_proc": 28.4,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Tábor 2020"
+  },
+  {
+   "por": 3,
+   "vstrana": 720,
+   "hlasy": 15974,
+   "hlasy_proc": 7.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 1505,
+   "hlasy": 32821,
+   "hlasy_proc": 14.39,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ŠANCE pro TÁBOR (ČSSD, SPD, KSČM, nezávislí)"
+  },
+  {
+   "por": 5,
+   "vstrana": 687,
+   "hlasy": 31936,
+   "hlasy_proc": 14.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ PRO TÁBOR"
+  },
+  {
+   "por": 6,
+   "vstrana": 482,
+   "hlasy": 557,
+   "hlasy_proc": 0.24,
+   "kandidatu": 6,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT — sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 7,
+   "vstrana": 355,
+   "hlasy": 5723,
+   "hlasy_proc": 2.51,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL a nezávislí kandidáti"
+  },
+  {
+   "por": 8,
+   "vstrana": 364,
+   "hlasy": 9673,
+   "hlasy_proc": 4.24,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "JiNAK! - sdružení zelených a nezávislých"
+  },
+  {
+   "por": 9,
+   "vstrana": 1514,
+   "hlasy": 5479,
+   "hlasy_proc": 2.4,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TÁBOR - NÁŠ DOMOV"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

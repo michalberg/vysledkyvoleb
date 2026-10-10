@@ -1,0 +1,244 @@
+{
+ "kod": "554782",
+ "nazev": "Praha hl.m.",
+ "typ": "OBEC",
+ "voleno": 65,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 1123,
+  "okrsky_zprac": 248,
+  "okrsky_zprac_proc": 22.08,
+  "zapsani_volici": 167681,
+  "vydane_obalky": 67020,
+  "ucast_proc": 39.97,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 66970,
+  "platne_listky": null,
+  "platne_hlasy": 3927638
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 714,
+   "hlasy": 45550,
+   "hlasy_proc": 1.16,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní"
+  },
+  {
+   "por": 2,
+   "vstrana": 1587,
+   "hlasy": 16229,
+   "hlasy_proc": 0.41,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA NÁŠ DOMOV"
+  },
+  {
+   "por": 3,
+   "vstrana": 1516,
+   "hlasy": 25786,
+   "hlasy_proc": 0.66,
+   "kandidatu": 64,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Praha bez chaosu"
+  },
+  {
+   "por": 4,
+   "vstrana": 1373,
+   "hlasy": 550796,
+   "hlasy_proc": 14.02,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA SOBĚ"
+  },
+  {
+   "por": 5,
+   "vstrana": 1572,
+   "hlasy": 34441,
+   "hlasy_proc": 0.88,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LEPŠÍ PRAHA PRO PRAŽANY – snížení daně z nemovitých věcí o 50%, městská hromadná doprava zdarma, internet zdarma…"
+  },
+  {
+   "por": 6,
+   "vstrana": 166,
+   "hlasy": 278509,
+   "hlasy_proc": 7.09,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 7,
+   "vstrana": 98,
+   "hlasy": 335,
+   "hlasy_proc": 0.01,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Volte Pravý Blok - stranu za ODVOLATELNOST politiků a státních úředníků PŘÍMO OBČANY"
+  },
+  {
+   "por": 8,
+   "vstrana": 720,
+   "hlasy": 710393,
+   "hlasy_proc": 18.09,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 9,
+   "vstrana": 1178,
+   "hlasy": 87010,
+   "hlasy_proc": 2.22,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Motoristé sobě"
+  },
+  {
+   "por": 10,
+   "vstrana": 1603,
+   "hlasy": 34230,
+   "hlasy_proc": 0.87,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Přísaha s Patrioty"
+  },
+  {
+   "por": 11,
+   "vstrana": 600,
+   "hlasy": 927,
+   "hlasy_proc": 0.02,
+   "kandidatu": 13,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Za bezpečné ulice v Praze"
+  },
+  {
+   "por": 12,
+   "vstrana": 1250,
+   "hlasy": 160,
+   "hlasy_proc": 0.0,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Urza.cz: Nechceme vaše hlasy; ke svobodě se nelze provolit... Máme jinou vizi. Jdeme jinou cestou."
+  },
+  {
+   "por": 13,
+   "vstrana": 47,
+   "hlasy": 58203,
+   "hlasy_proc": 1.48,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 14,
+   "vstrana": 1327,
+   "hlasy": 982034,
+   "hlasy_proc": 25.0,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU pro Prahu (ODS, TOP 09, KDU-ČSL)"
+  },
+  {
+   "por": 15,
+   "vstrana": 1604,
+   "hlasy": 79930,
+   "hlasy_proc": 2.04,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Solidarita – koalice ČSSD, Zelených, Budoucnosti a Idealistů"
+  },
+  {
+   "por": 16,
+   "vstrana": 1545,
+   "hlasy": 213201,
+   "hlasy_proc": 5.43,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora, Hnutí PES a nezávislí společně pro Prahu"
+  },
+  {
+   "por": 17,
+   "vstrana": 1041,
+   "hlasy": 13953,
+   "hlasy_proc": 0.36,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společnost proti developerské výstavbě v Prokopském údolí"
+  },
+  {
+   "por": 18,
+   "vstrana": 1272,
+   "hlasy": 857,
+   "hlasy_proc": 0.02,
+   "kandidatu": 9,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Volt"
+  },
+  {
+   "por": 19,
+   "vstrana": 1243,
+   "hlasy": 223,
+   "hlasy_proc": 0.01,
+   "kandidatu": 6,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "DOST"
+  },
+  {
+   "por": 20,
+   "vstrana": 482,
+   "hlasy": 7278,
+   "hlasy_proc": 0.19,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "S.O.S. ZA PRÁVA ZVÍŘAT — Demokratická strana zelených - ZA PRÁVA ZVÍŘAT — sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 21,
+   "vstrana": 768,
+   "hlasy": 779314,
+   "hlasy_proc": 19.84,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 22,
+   "vstrana": 1571,
+   "hlasy": 8279,
+   "hlasy_proc": 0.21,
+   "kandidatu": 65,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Strana soukromníků ČR, Koruna Česká (monarch. strana Čech, Moravy a Slezska), Konzervat. strana, Klub angaž. nestraníků"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

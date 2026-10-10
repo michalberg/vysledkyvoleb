@@ -1,0 +1,114 @@
+{
+ "kod": "536385",
+ "nazev": "Jeseník",
+ "typ": "OBEC",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:39",
+ "ucast": {
+  "okrsky_celkem": 11,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1482,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Náš Jeseník"
+  },
+  {
+   "por": 2,
+   "vstrana": 477,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Nezávislí za Jeseník"
+  },
+  {
+   "por": 3,
+   "vstrana": 90,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO JESENÍK"
+  },
+  {
+   "por": 4,
+   "vstrana": 7,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sociální demokracie"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 1178,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Motoristé sobě"
+  },
+  {
+   "por": 7,
+   "vstrana": 480,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Jeseník srdcem"
+  },
+  {
+   "por": 8,
+   "vstrana": 355,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občané Jeseníku"
+  },
+  {
+   "por": 9,
+   "vstrana": 1114,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  }
+ ],
+ "stazeno": "2026-10-10T14:35:22+02:00"
+}

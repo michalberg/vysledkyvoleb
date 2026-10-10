@@ -1,0 +1,104 @@
+{
+ "kod": "563510",
+ "nazev": "Jablonec nad Nisou",
+ "typ": "OBEC",
+ "voleno": 30,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:29",
+ "ucast": {
+  "okrsky_celkem": 31,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 1114,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 3,
+   "vstrana": 1537,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPRÁVNÁ CESTA pro JABLONEC"
+  },
+  {
+   "por": 4,
+   "vstrana": 541,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a nezávislí"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 479,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ PRO JABLONEC"
+  },
+  {
+   "por": 7,
+   "vstrana": 1892,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU se Sportovci – pro ŽIVÝ JABLONEC"
+  },
+  {
+   "por": 8,
+   "vstrana": 703,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Starostové pro Liberecký kraj"
+  }
+ ],
+ "stazeno": "2026-10-10T14:35:22+02:00"
+}

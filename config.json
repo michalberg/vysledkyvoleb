@@ -179,5 +179,11 @@
       },
       "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
     }
-  ]
+  ],
+  "hlavni": true,
+  "nadpis": "Městská část",
+  "dalsi_stranka": {
+    "text": "Další města →",
+    "href": "mesta.html"
+  }
 }

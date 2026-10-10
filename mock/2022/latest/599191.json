@@ -1,0 +1,391 @@
+{
+ "kod": "599191",
+ "nazev": "Nový Jičín",
+ "typ": "OBEC",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:35:00",
+ "ucast": {
+  "okrsky_celkem": 22,
+  "okrsky_zprac": 22,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 18500,
+  "vydane_obalky": 7659,
+  "ucast_proc": 41.4,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 7650,
+  "platne_listky": null,
+  "platne_hlasy": 195459
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1351,
+   "hlasy": 31776,
+   "hlasy_proc": 16.25,
+   "kandidatu": 29,
+   "zastupitele": 5,
+   "zastupitele_proc": 17.24,
+   "nazev": "Strana zelených s Piráty, TOP 09 a STAN",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1556,
+     "hlasy_proc": 4.89,
+     "titul_pred": "",
+     "jmeno": "Ondřej",
+     "prijmeni": "Syrovátka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1200,
+     "hlasy_proc": 3.77,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Gazda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1257,
+     "hlasy_proc": 3.95,
+     "titul_pred": "",
+     "jmeno": "Andrej",
+     "prijmeni": "Droščín",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1172,
+     "hlasy_proc": 3.68,
+     "titul_pred": "",
+     "jmeno": "Lucie",
+     "prijmeni": "Jančařiková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 1519,
+     "hlasy_proc": 4.78,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Orel",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 477,
+   "hlasy": 10399,
+   "hlasy_proc": 5.32,
+   "kandidatu": 29,
+   "zastupitele": 1,
+   "zastupitele_proc": 3.45,
+   "nazev": "PROJEKTY PRO NJ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 521,
+     "hlasy_proc": 5.01,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Farda",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 1114,
+   "hlasy": 19218,
+   "hlasy_proc": 9.83,
+   "kandidatu": 29,
+   "zastupitele": 3,
+   "zastupitele_proc": 10.34,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 817,
+     "hlasy_proc": 4.25,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Pořízka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 905,
+     "hlasy_proc": 4.7,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Liška",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 744,
+     "hlasy_proc": 3.87,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Pořízková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 53,
+   "hlasy": 21720,
+   "hlasy_proc": 11.11,
+   "kandidatu": 29,
+   "zastupitele": 3,
+   "zastupitele_proc": 10.34,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 982,
+     "hlasy_proc": 4.52,
+     "titul_pred": "JUDr.",
+     "jmeno": "Václav",
+     "prijmeni": "Dobrozemský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1018,
+     "hlasy_proc": 4.68,
+     "titul_pred": "Mgr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Vindiš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 19,
+     "hlasy": 955,
+     "hlasy_proc": 4.39,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Choleva",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1,
+   "hlasy": 13944,
+   "hlasy_proc": 7.13,
+   "kandidatu": 29,
+   "zastupitele": 2,
+   "zastupitele_proc": 6.9,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 722,
+     "hlasy_proc": 5.17,
+     "titul_pred": "",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Perútka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 701,
+     "hlasy_proc": 5.02,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Adamec",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 1179,
+   "hlasy": 370,
+   "hlasy_proc": 1.09,
+   "kandidatu": 5,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 46185,
+   "hlasy_proc": 23.62,
+   "kandidatu": 29,
+   "zastupitele": 7,
+   "zastupitele_proc": 24.14,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1923,
+     "hlasy_proc": 4.16,
+     "titul_pred": "Mgr.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Kopecký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1670,
+     "hlasy_proc": 3.61,
+     "titul_pred": "",
+     "jmeno": "Dalibor",
+     "prijmeni": "Janošek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1743,
+     "hlasy_proc": 3.77,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Šturala",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1647,
+     "hlasy_proc": 3.56,
+     "titul_pred": "",
+     "jmeno": "Hana",
+     "prijmeni": "El-Shikha",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1703,
+     "hlasy_proc": 3.68,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Pavel",
+     "prijmeni": "Kurek",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1755,
+     "hlasy_proc": 3.79,
+     "titul_pred": "PhDr. Mgr.",
+     "jmeno": "Jaromír",
+     "prijmeni": "Radkovský",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1684,
+     "hlasy_proc": 3.64,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Strýček",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 371,
+   "hlasy": 37955,
+   "hlasy_proc": 19.41,
+   "kandidatu": 29,
+   "zastupitele": 6,
+   "zastupitele_proc": 20.69,
+   "nazev": "Víc pro Nový Jičín s ČSSD",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1953,
+     "hlasy_proc": 5.14,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Klein",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1500,
+     "hlasy_proc": 3.95,
+     "titul_pred": "Mgr.",
+     "jmeno": "Blanka",
+     "prijmeni": "Faluši",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1689,
+     "hlasy_proc": 4.45,
+     "titul_pred": "",
+     "jmeno": "Radek",
+     "prijmeni": "Polach",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1583,
+     "hlasy_proc": 4.17,
+     "titul_pred": "MUDr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Andrýsek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1614,
+     "hlasy_proc": 4.25,
+     "titul_pred": "PhDr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Dvořák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1461,
+     "hlasy_proc": 3.84,
+     "titul_pred": "",
+     "jmeno": "Ludmila",
+     "prijmeni": "Kocourková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 387,
+   "hlasy": 13892,
+   "hlasy_proc": 7.1,
+   "kandidatu": 29,
+   "zastupitele": 2,
+   "zastupitele_proc": 6.9,
+   "nazev": "Je čas na změnu!",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1145,
+     "hlasy_proc": 8.24,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Konečná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 20,
+     "hlasy": 637,
+     "hlasy_proc": 4.58,
+     "titul_pred": "",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Kotas",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T22:35:00"
+}

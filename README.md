@@ -3,7 +3,8 @@
 Průběžné výsledky voleb do zastupitelstev obcí (9.–10. 10. 2026) pro Brno
 a 15 městských částí, s přibližným výpočtem mandátů a skládáním koalic.
 
-**Web:** https://michalberg.github.io/vysledkyvoleb/
+**Web:** https://michalberg.github.io/vysledkyvoleb/ (Brno)
+a https://michalberg.github.io/vysledkyvoleb/mesta.html (další města)
 
 Zdroj: otevřená data [volby.gov.cz](https://volby.gov.cz/opendata/kv2026/KV2026_XML.htm).
 
@@ -52,11 +53,21 @@ GitHub Pages posílá `max-age=600`; `app.js` a `app.css` se proto načítají
 s časovým parametrem, aby se změny projevily hned. Samotné `index.html`
 může prohlížeč držet až 10 minut (Cmd + Shift + R).
 
+## Dvě stránky
+
+| Stránka | Konfigurace | Obsah |
+|---|---|---|
+| `index.html` | `config.json` (`hlavni: true`) | Brno + 15 MČ; Brno má řádek nahoře a ukazuje všechny strany |
+| `mesta.html` | `config-mesta.json` | Praha, Praha 3, Vsetín, Opava, Nový Jičín, Jablonec n. N., Prostějov, Jeseník, Tábor, Příbram, Mladá Boleslav, Třebíč, Liberec |
+
+Obě stránky sdílejí `app.js`; stránka si konfiguraci bere z `<body data-config>`.
+Stahovací skript čte obě konfigurace a ukládá všechno do `data/`.
+
 ## Konfigurace
 
 | Soubor | Obsah |
 |---|---|
-| `config.json` | volby, datum, interval rotace a seznam celků: `kod` (KODZASTUP), `zobrazit`, `kratky` (levý sloupec), `nase` (číslo naší kandidátky pro 2026 a 2022), `odkaz` |
+| `config.json`, `config-mesta.json` | volby, datum, interval rotace, `nadpis` levého sloupce, `dalsi_stranka` (odkaz v patičce) a seznam celků: `kod` (KODZASTUP), `zobrazit`, `kratky` (levý sloupec), `nase` (číslo naší kandidátky pro 2026 a 2022), `odkaz` |
 | `barvy.json` | barevné skupiny stran; barva kandidátky podle výjimky `"KODZASTUP:číslo"`, jinak podle kódu VSTRANA, jinak `vychozi`; volitelně `barva_tmava` pro tmavý režim |
 | `zkratky.json` | krátké názvy kandidátek do grafu (klíč = přesný oficiální název), plný název je v tooltipu |
 | `strany.json` | číselník stran (VSTRANA → název, zkratka, typ, složení koalice), generuje `scripts/ciselnik.py` |
@@ -115,9 +126,10 @@ formátu jako `data/`:
 | `mock/2022/` | konečný stav, oficiální mandáty a zvolení; slouží i jako šedé zobrazení celků bez dat |
 | `mock/2022-prubeh/` | uprostřed sčítání (Brno 178/352 okrsků), bez mandátů |
 
-Historie je zrekonstruovaná z okrskových dávek 2022, takže odpovídá
-skutečnému průběhu sčítání. Generuje `python3 scripts/mock2022.py`
-(dávky se ukládají do `.cache/`). Kandidátky 2022 mají jiné kódy VSTRANA,
+Konečné výsledky (názvy, hlasy, mandáty, zvolení) jsou z registru KV 2022
+na opendata volby.gov.cz, účast a průběh z okrskových dávek 2022 – historie
+tak odpovídá skutečnému průběhu sčítání. Generuje `python3 scripts/mock2022.py`
+(dávky a registr se ukládají do `.cache/`). Kandidátky 2022 mají jiné kódy VSTRANA,
 takže barvy v mock režimu neodpovídají – pro test barev slouží `?demo`.
 
 ## Lokální spuštění

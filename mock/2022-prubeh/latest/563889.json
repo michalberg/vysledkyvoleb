@@ -1,0 +1,124 @@
+{
+ "kod": "563889",
+ "nazev": "Liberec",
+ "typ": "OBEC",
+ "voleno": 39,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 87,
+  "okrsky_zprac": 53,
+  "okrsky_zprac_proc": 60.92,
+  "zapsani_volici": 45882,
+  "vydane_obalky": 17297,
+  "ucast_proc": 37.7,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 17263,
+  "platne_listky": null,
+  "platne_hlasy": 614985
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1446,
+   "hlasy": 10841,
+   "hlasy_proc": 1.76,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Trikolora a Soukromníci"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 169056,
+   "hlasy_proc": 27.49,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 720,
+   "hlasy": 36613,
+   "hlasy_proc": 5.95,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 1485,
+   "hlasy": 170943,
+   "hlasy_proc": 27.8,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Starostové pro Liberecký kraj společně s TOP 09 a KDU-ČSL"
+  },
+  {
+   "por": 5,
+   "vstrana": 364,
+   "hlasy": 80589,
+   "hlasy_proc": 13.1,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Liberec otevřený lidem"
+  },
+  {
+   "por": 6,
+   "vstrana": 1484,
+   "hlasy": 53303,
+   "hlasy_proc": 8.67,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS společně se Sportovci"
+  },
+  {
+   "por": 7,
+   "vstrana": 1265,
+   "hlasy": 11260,
+   "hlasy_proc": 1.83,
+   "kandidatu": 28,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Právo Respekt Odbornost"
+  },
+  {
+   "por": 8,
+   "vstrana": 387,
+   "hlasy": 9226,
+   "hlasy_proc": 1.5,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy a Podještědská levice"
+  },
+  {
+   "por": 9,
+   "vstrana": 7,
+   "hlasy": 7921,
+   "hlasy_proc": 1.29,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická"
+  },
+  {
+   "por": 10,
+   "vstrana": 1114,
+   "hlasy": 65233,
+   "hlasy_proc": 10.61,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

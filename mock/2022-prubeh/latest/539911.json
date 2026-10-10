@@ -1,0 +1,144 @@
+{
+ "kod": "539911",
+ "nazev": "Příbram",
+ "typ": "OBEC",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:10:00",
+ "ucast": {
+  "okrsky_celkem": 39,
+  "okrsky_zprac": 33,
+  "okrsky_zprac_proc": 84.62,
+  "zapsani_volici": 21298,
+  "vydane_obalky": 7865,
+  "ucast_proc": 36.93,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 7865,
+  "platne_listky": null,
+  "platne_hlasy": 176152
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 62346,
+   "hlasy_proc": 35.39,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 1114,
+   "hlasy": 14979,
+   "hlasy_proc": 8.5,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 3,
+   "vstrana": 720,
+   "hlasy": 11446,
+   "hlasy_proc": 6.5,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 371,
+   "hlasy": 4190,
+   "hlasy_proc": 2.38,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD a Přátelé"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 11052,
+   "hlasy_proc": 6.27,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 355,
+   "hlasy": 5442,
+   "hlasy_proc": 3.09,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL a nezávislí kandidáti"
+  },
+  {
+   "por": 7,
+   "vstrana": 1522,
+   "hlasy": 24751,
+   "hlasy_proc": 14.05,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOJENCI - TOP 09, STAROSTOVÉ A NEZÁVISLÍ, POLITICKÉ HNUTÍ HLAS, SOS PŘÍBRAM A NEZÁVISLÍ KANDIDÁTI"
+  },
+  {
+   "por": 8,
+   "vstrana": 1624,
+   "hlasy": 7780,
+   "hlasy_proc": 4.42,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Příbramáci pro Příbram a PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 9,
+   "vstrana": 457,
+   "hlasy": 12555,
+   "hlasy_proc": 7.13,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍBRAM 2030 (Nestraníci)"
+  },
+  {
+   "por": 10,
+   "vstrana": 1435,
+   "hlasy": 13620,
+   "hlasy_proc": 7.73,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Šance pro Příbram"
+  },
+  {
+   "por": 11,
+   "vstrana": 47,
+   "hlasy": 7791,
+   "hlasy_proc": 4.42,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 12,
+   "vstrana": 156,
+   "hlasy": 200,
+   "hlasy_proc": 0.11,
+   "kandidatu": 10,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Dělnická strana sociální spravedlnosti"
+  }
+ ],
+ "stazeno": "2022-09-24T19:10:00"
+}

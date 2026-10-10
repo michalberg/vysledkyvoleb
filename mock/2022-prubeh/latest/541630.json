@@ -1,0 +1,319 @@
+{
+ "kod": "541630",
+ "nazev": "Vsetín",
+ "typ": "OBEC",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T19:25:00",
+ "ucast": {
+  "okrsky_celkem": 25,
+  "okrsky_zprac": 25,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 20706,
+  "vydane_obalky": 8887,
+  "ucast_proc": 42.92,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 8887,
+  "platne_listky": null,
+  "platne_hlasy": 162847
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1,
+   "hlasy": 27587,
+   "hlasy_proc": 16.94,
+   "kandidatu": 21,
+   "zastupitele": 4,
+   "zastupitele_proc": 19.05,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1777,
+     "hlasy_proc": 6.44,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Růžička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1810,
+     "hlasy_proc": 6.56,
+     "titul_pred": "Mgr.",
+     "jmeno": "Simona",
+     "prijmeni": "Hlaváčová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1604,
+     "hlasy_proc": 5.81,
+     "titul_pred": "MUDr.",
+     "jmeno": "Róbert",
+     "prijmeni": "Teleky",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 21,
+     "hlasy": 2020,
+     "hlasy_proc": 7.32,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Čunek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 529,
+   "hlasy": 23545,
+   "hlasy_proc": 14.45,
+   "kandidatu": 21,
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "KOALICE PRO OTEVŘENÝ VSETÍN",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1677,
+     "hlasy_proc": 7.12,
+     "titul_pred": "BcA.",
+     "jmeno": "Michal",
+     "prijmeni": "Berg",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1510,
+     "hlasy_proc": 6.41,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavla",
+     "prijmeni": "Fojtíková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1561,
+     "hlasy_proc": 6.62,
+     "titul_pred": "MUDr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Husa",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 181,
+   "hlasy": 12937,
+   "hlasy_proc": 7.94,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "Nestraníci",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1997,
+     "hlasy_proc": 15.43,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Metelka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 842,
+     "hlasy_proc": 6.5,
+     "titul_pred": "",
+     "jmeno": "Marián",
+     "prijmeni": "Šepeľák",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 768,
+   "hlasy": 32659,
+   "hlasy_proc": 20.05,
+   "kandidatu": 21,
+   "zastupitele": 5,
+   "zastupitele_proc": 23.81,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2196,
+     "hlasy_proc": 6.72,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Bartoň",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1828,
+     "hlasy_proc": 5.59,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Martina",
+     "prijmeni": "Hovořáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1730,
+     "hlasy_proc": 5.29,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Kudlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1883,
+     "hlasy_proc": 5.76,
+     "titul_pred": "MUDr.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Vaculín",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1705,
+     "hlasy_proc": 5.22,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Kašpar",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 166,
+   "hlasy": 13853,
+   "hlasy_proc": 8.5,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1123,
+     "hlasy_proc": 8.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Pifka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1197,
+     "hlasy_proc": 8.64,
+     "titul_pred": "MUDr.",
+     "jmeno": "Helena",
+     "prijmeni": "Fukalová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 53,
+   "hlasy": 15684,
+   "hlasy_proc": 9.63,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1226,
+     "hlasy_proc": 7.81,
+     "titul_pred": "Mgr.",
+     "jmeno": "Roman",
+     "prijmeni": "Kalabus",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1161,
+     "hlasy_proc": 7.4,
+     "titul_pred": "Bc.",
+     "jmeno": "Iveta",
+     "prijmeni": "Táborská",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 1491,
+   "hlasy": 17988,
+   "hlasy_proc": 11.04,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "Politické hnutí Svoboda a přímá demokracie s podporou politického hnutí Trikolóra a nezávislých kandidátů",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1262,
+     "hlasy_proc": 7.01,
+     "titul_pred": "Ing.",
+     "jmeno": "Radek",
+     "prijmeni": "Vraj",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1089,
+     "hlasy_proc": 6.05,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jan",
+     "prijmeni": "Tkadlec",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 371,
+   "hlasy": 11084,
+   "hlasy_proc": 6.8,
+   "kandidatu": 21,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "PRO-pořádek-rozvoj-odpovědnost VSETÍN",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1403,
+     "hlasy_proc": 12.65,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Kořenek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 47,
+   "hlasy": 7510,
+   "hlasy_proc": 4.61,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  }
+ ],
+ "stazeno": "2022-09-24T19:25:00"
+}

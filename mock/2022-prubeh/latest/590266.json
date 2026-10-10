@@ -1,0 +1,164 @@
+{
+ "kod": "590266",
+ "nazev": "Třebíč",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 39,
+  "okrsky_zprac": 34,
+  "okrsky_zprac_proc": 87.18,
+  "zapsani_volici": 23198,
+  "vydane_obalky": 9632,
+  "ucast_proc": 41.52,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 9620,
+  "platne_listky": null,
+  "platne_hlasy": 237596
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 449,
+   "hlasy": 8427,
+   "hlasy_proc": 3.55,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Třebíč můj domov"
+  },
+  {
+   "por": 2,
+   "vstrana": 382,
+   "hlasy": 35306,
+   "hlasy_proc": 14.86,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Třebíč Občanům!"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 51923,
+   "hlasy_proc": 21.85,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 1022,
+   "hlasy": 3098,
+   "hlasy_proc": 1.3,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občané patrioti"
+  },
+  {
+   "por": 5,
+   "vstrana": 541,
+   "hlasy": 11298,
+   "hlasy_proc": 4.76,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PIRÁTI A NEZÁVISLÍ"
+  },
+  {
+   "por": 6,
+   "vstrana": 1,
+   "hlasy": 14142,
+   "hlasy_proc": 5.95,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 7,
+   "vstrana": 371,
+   "hlasy": 6309,
+   "hlasy_proc": 2.66,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TSD - Třebíč sociálně demokratická"
+  },
+  {
+   "por": 8,
+   "vstrana": 47,
+   "hlasy": 7824,
+   "hlasy_proc": 3.29,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 9,
+   "vstrana": 1514,
+   "hlasy": 2178,
+   "hlasy_proc": 0.92,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Domov pro Třebíč"
+  },
+  {
+   "por": 10,
+   "vstrana": 721,
+   "hlasy": 7318,
+   "hlasy_proc": 3.08,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09"
+  },
+  {
+   "por": 11,
+   "vstrana": 1487,
+   "hlasy": 17518,
+   "hlasy_proc": 7.37,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou Trikolory"
+  },
+  {
+   "por": 12,
+   "vstrana": 470,
+   "hlasy": 48114,
+   "hlasy_proc": 20.25,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO TŘEBÍČ"
+  },
+  {
+   "por": 13,
+   "vstrana": 1319,
+   "hlasy": 11434,
+   "hlasy_proc": 4.81,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana a Ta naše Třebíč"
+  },
+  {
+   "por": 14,
+   "vstrana": 364,
+   "hlasy": 12707,
+   "hlasy_proc": 5.35,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Břehy"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

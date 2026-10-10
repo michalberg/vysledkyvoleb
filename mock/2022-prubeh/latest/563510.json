@@ -1,0 +1,134 @@
+{
+ "kod": "563510",
+ "nazev": "Jablonec nad Nisou",
+ "typ": "OBEC",
+ "voleno": 30,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:30:00",
+ "ucast": {
+  "okrsky_celkem": 49,
+  "okrsky_zprac": 45,
+  "okrsky_zprac_proc": 91.84,
+  "zapsani_volici": 31821,
+  "vydane_obalky": 12208,
+  "ucast_proc": 38.36,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 12205,
+  "platne_listky": null,
+  "platne_hlasy": 334358
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1114,
+   "hlasy": 41916,
+   "hlasy_proc": 12.54,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 2,
+   "vstrana": 1265,
+   "hlasy": 10013,
+   "hlasy_proc": 2.99,
+   "kandidatu": 28,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Právo Respekt Odbornost"
+  },
+  {
+   "por": 3,
+   "vstrana": 703,
+   "hlasy": 34199,
+   "hlasy_proc": 10.23,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Starostové pro Liberecký kraj"
+  },
+  {
+   "por": 4,
+   "vstrana": 550,
+   "hlasy": 16686,
+   "hlasy_proc": 4.99,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Pro Jablonec"
+  },
+  {
+   "por": 5,
+   "vstrana": 541,
+   "hlasy": 36086,
+   "hlasy_proc": 10.79,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a nezávislí"
+  },
+  {
+   "por": 6,
+   "vstrana": 53,
+   "hlasy": 52132,
+   "hlasy_proc": 15.59,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 7,
+   "vstrana": 47,
+   "hlasy": 6313,
+   "hlasy_proc": 1.89,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 8,
+   "vstrana": 401,
+   "hlasy": 9720,
+   "hlasy_proc": 2.91,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "DOMOV NAD NISOU"
+  },
+  {
+   "por": 9,
+   "vstrana": 480,
+   "hlasy": 8934,
+   "hlasy_proc": 2.67,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Křížek pro LEVNÉ ENERGIE z městské elektrárny, ODPADY ZDARMA (kdo třídí, neplatí), dostupné PARKOVÁNÍ, POŘÁDEK a BEZP…"
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 84182,
+   "hlasy_proc": 25.18,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 11,
+   "vstrana": 479,
+   "hlasy": 34177,
+   "hlasy_proc": 10.22,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Jablonec"
+  }
+ ],
+ "stazeno": "2022-09-24T19:30:00"
+}

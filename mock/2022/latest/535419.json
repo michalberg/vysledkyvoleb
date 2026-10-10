@@ -1,0 +1,413 @@
+{
+ "kod": "535419",
+ "nazev": "Mladá Boleslav",
+ "typ": "OBEC",
+ "voleno": 33,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:15:00",
+ "ucast": {
+  "okrsky_celkem": 44,
+  "okrsky_zprac": 44,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 29018,
+  "vydane_obalky": 11281,
+  "ucast_proc": 38.88,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 11275,
+  "platne_listky": null,
+  "platne_hlasy": 337283
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 387,
+   "hlasy": 12392,
+   "hlasy_proc": 3.67,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Levicoví občané"
+  },
+  {
+   "por": 2,
+   "vstrana": 1071,
+   "hlasy": 101679,
+   "hlasy_proc": 30.14,
+   "kandidatu": 33,
+   "zastupitele": 11,
+   "zastupitele_proc": 33.33,
+   "nazev": "ANO 2011 + Volba pro Mladou Boleslav",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 4052,
+     "hlasy_proc": 3.98,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Bouška",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3569,
+     "hlasy_proc": 3.51,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Mašek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3188,
+     "hlasy_proc": 3.13,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Servus",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3212,
+     "hlasy_proc": 3.15,
+     "titul_pred": "Ing.",
+     "jmeno": "Jakub",
+     "prijmeni": "Starý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3125,
+     "hlasy_proc": 3.07,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Polívka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3257,
+     "hlasy_proc": 3.2,
+     "titul_pred": "Ing.",
+     "jmeno": "František",
+     "prijmeni": "Petrtýl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 3430,
+     "hlasy_proc": 3.37,
+     "titul_pred": "MUDr.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Najman",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 3130,
+     "hlasy_proc": 3.07,
+     "titul_pred": "Ing.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Starý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 3143,
+     "hlasy_proc": 3.09,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Novák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 3188,
+     "hlasy_proc": 3.13,
+     "titul_pred": "",
+     "jmeno": "Bohumil",
+     "prijmeni": "Rosenkranz",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 3109,
+     "hlasy_proc": 3.05,
+     "titul_pred": "Bc.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Rambousek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 523,
+   "hlasy": 81172,
+   "hlasy_proc": 24.06,
+   "kandidatu": 33,
+   "zastupitele": 9,
+   "zastupitele_proc": 27.27,
+   "nazev": "Občanská demokratická strana, TOP 09 a nezávislí kandidáti",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2774,
+     "hlasy_proc": 3.41,
+     "titul_pred": "MUDr.",
+     "jmeno": "Raduan",
+     "prijmeni": "Nwelati",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2584,
+     "hlasy_proc": 3.18,
+     "titul_pred": "Ing.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Olšák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2675,
+     "hlasy_proc": 3.29,
+     "titul_pred": "Mgr.",
+     "jmeno": "Miroslava",
+     "prijmeni": "Kašpárková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2562,
+     "hlasy_proc": 3.15,
+     "titul_pred": "",
+     "jmeno": "Miloslav",
+     "prijmeni": "Neuman",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2654,
+     "hlasy_proc": 3.26,
+     "titul_pred": "PaedDr.",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Kuhnová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2544,
+     "hlasy_proc": 3.13,
+     "titul_pred": "Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Džuvarovský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2586,
+     "hlasy_proc": 3.18,
+     "titul_pred": "",
+     "jmeno": "Iva",
+     "prijmeni": "Bílková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2599,
+     "hlasy_proc": 3.2,
+     "titul_pred": "MUDr.",
+     "jmeno": "Helena",
+     "prijmeni": "Tomanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2506,
+     "hlasy_proc": 3.08,
+     "titul_pred": "",
+     "jmeno": "Štěpán",
+     "prijmeni": "Neuman",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1114,
+   "hlasy": 31548,
+   "hlasy_proc": 9.35,
+   "kandidatu": 33,
+   "zastupitele": 3,
+   "zastupitele_proc": 9.09,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1051,
+     "hlasy_proc": 3.33,
+     "titul_pred": "",
+     "jmeno": "Lada",
+     "prijmeni": "Hrádková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1040,
+     "hlasy_proc": 3.29,
+     "titul_pred": "",
+     "jmeno": "Leoš",
+     "prijmeni": "Vacek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1043,
+     "hlasy_proc": 3.3,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Gaudin",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1399,
+   "hlasy": 7538,
+   "hlasy_proc": 2.23,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KRÁSNÁ MLADÁ BOLESLAV"
+  },
+  {
+   "por": 6,
+   "vstrana": 371,
+   "hlasy": 24303,
+   "hlasy_proc": 7.43,
+   "kandidatu": 32,
+   "zastupitele": 2,
+   "zastupitele_proc": 6.06,
+   "nazev": "HLAS PRO BOLESLAV",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1091,
+     "hlasy_proc": 4.48,
+     "titul_pred": "",
+     "jmeno": "Robin",
+     "prijmeni": "Povšík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 992,
+     "hlasy_proc": 4.08,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Irain",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 166,
+   "hlasy": 42046,
+   "hlasy_proc": 12.46,
+   "kandidatu": 33,
+   "zastupitele": 4,
+   "zastupitele_proc": 12.12,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1996,
+     "hlasy_proc": 4.74,
+     "titul_pred": "MUDr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Nechanický",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1705,
+     "hlasy_proc": 4.05,
+     "titul_pred": "Mgr.",
+     "jmeno": "Daniel",
+     "prijmeni": "Marek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1581,
+     "hlasy_proc": 3.76,
+     "titul_pred": "",
+     "jmeno": "David",
+     "prijmeni": "Vrbata",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1623,
+     "hlasy_proc": 3.86,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Dostál",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 303,
+   "hlasy": 36605,
+   "hlasy_proc": 10.85,
+   "kandidatu": 33,
+   "zastupitele": 4,
+   "zastupitele_proc": 12.12,
+   "nazev": "ŠANCE PRO MLADOU BOLESLAV (KOALICE STRANY ZELENÝCH A KDU-ČSL)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1728,
+     "hlasy_proc": 4.72,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Krumpholcová",
+     "titul_za": "MSc."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1267,
+     "hlasy_proc": 3.46,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Milda",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1371,
+     "hlasy_proc": 3.74,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Vedral",
+     "titul_za": ""
+    },
+    {
+     "poradi": 15,
+     "hlasy": 1410,
+     "hlasy_proc": 3.85,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radek",
+     "prijmeni": "Kotlaba",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T22:15:00"
+}

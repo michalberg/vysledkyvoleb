@@ -1,0 +1,104 @@
+{
+ "kod": "552046",
+ "nazev": "Tábor",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:36",
+ "ucast": {
+  "okrsky_celkem": 41,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 470,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TÁBOR na MAX s podporou STAROSTŮ"
+  },
+  {
+   "por": 2,
+   "vstrana": 1810,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ŠANCE pro TÁBOR (SOCDEM, SPD, PRO, KSČM, nezávislí)"
+  },
+  {
+   "por": 3,
+   "vstrana": 1722,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Česko"
+  },
+  {
+   "por": 4,
+   "vstrana": 1327,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ PRO TÁBOR"
+  },
+  {
+   "por": 5,
+   "vstrana": 482,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 6,
+   "vstrana": 136,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Tábor 2020"
+  },
+  {
+   "por": 7,
+   "vstrana": 529,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Živý Tábor"
+  },
+  {
+   "por": 8,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2026-10-10T14:35:22+02:00"
+}

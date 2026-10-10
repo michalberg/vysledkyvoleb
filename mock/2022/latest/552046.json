@@ -1,0 +1,367 @@
+{
+ "kod": "552046",
+ "nazev": "Tábor",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T20:50:00",
+ "ucast": {
+  "okrsky_celkem": 41,
+  "okrsky_zprac": 41,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 26691,
+  "vydane_obalky": 10753,
+  "ucast_proc": 40.29,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 10711,
+  "platne_listky": null,
+  "platne_hlasy": 258035
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 66456,
+   "hlasy_proc": 25.75,
+   "kandidatu": 27,
+   "zastupitele": 8,
+   "zastupitele_proc": 29.63,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2807,
+     "hlasy_proc": 4.22,
+     "titul_pred": "Mgr.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Ryba",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2960,
+     "hlasy_proc": 4.45,
+     "titul_pred": "PaedDr.",
+     "jmeno": "Alena",
+     "prijmeni": "Heršálková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2698,
+     "hlasy_proc": 4.05,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Breda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2629,
+     "hlasy_proc": 3.95,
+     "titul_pred": "Ing.",
+     "jmeno": "Soňa",
+     "prijmeni": "Šicnerová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2548,
+     "hlasy_proc": 3.83,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Jankovský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2634,
+     "hlasy_proc": 3.96,
+     "titul_pred": "",
+     "jmeno": "Štěpán",
+     "prijmeni": "Kadilák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2456,
+     "hlasy_proc": 3.69,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Depta",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2495,
+     "hlasy_proc": 3.75,
+     "titul_pred": "",
+     "jmeno": "Miroslav",
+     "prijmeni": "Novák",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 136,
+   "hlasy": 75029,
+   "hlasy_proc": 29.07,
+   "kandidatu": 27,
+   "zastupitele": 9,
+   "zastupitele_proc": 33.33,
+   "nazev": "Tábor 2020",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3391,
+     "hlasy_proc": 4.51,
+     "titul_pred": "Ing.",
+     "jmeno": "Štěpán",
+     "prijmeni": "Pavlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3063,
+     "hlasy_proc": 4.08,
+     "titul_pred": "Ing.",
+     "jmeno": "Lucia",
+     "prijmeni": "Kopřivová Markovová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3297,
+     "hlasy_proc": 4.39,
+     "titul_pred": "Mgr.",
+     "jmeno": "František",
+     "prijmeni": "Korbel",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3093,
+     "hlasy_proc": 4.12,
+     "titul_pred": "Bc.",
+     "jmeno": "Radoslav",
+     "prijmeni": "Kacerovský",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2953,
+     "hlasy_proc": 3.93,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Čulík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3222,
+     "hlasy_proc": 4.29,
+     "titul_pred": "Ing.",
+     "jmeno": "Jakub",
+     "prijmeni": "Valeš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2877,
+     "hlasy_proc": 3.83,
+     "titul_pred": "Bc.",
+     "jmeno": "Matěj",
+     "prijmeni": "Pospíchal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2882,
+     "hlasy_proc": 3.84,
+     "titul_pred": "JUDr.",
+     "jmeno": "Ivana",
+     "prijmeni": "Mizerová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2954,
+     "hlasy_proc": 3.93,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Martin",
+     "prijmeni": "Kraus",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 720,
+   "hlasy": 18561,
+   "hlasy_proc": 7.19,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "Česká pirátská strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1305,
+     "hlasy_proc": 7.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Mareda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 927,
+     "hlasy_proc": 4.99,
+     "titul_pred": "Mgr.",
+     "jmeno": "Václav",
+     "prijmeni": "Klecanda",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1505,
+   "hlasy": 35942,
+   "hlasy_proc": 13.92,
+   "kandidatu": 27,
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "ŠANCE pro TÁBOR (ČSSD, SPD, KSČM, nezávislí)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1996,
+     "hlasy_proc": 5.55,
+     "titul_pred": "Ing.",
+     "jmeno": "Olga",
+     "prijmeni": "Bastlová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1633,
+     "hlasy_proc": 4.54,
+     "titul_pred": "",
+     "jmeno": "Václav",
+     "prijmeni": "Ebert",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1512,
+     "hlasy_proc": 4.2,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Bohuslávek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1366,
+     "hlasy_proc": 3.8,
+     "titul_pred": "JUDr. PhDr.",
+     "jmeno": "Antonín",
+     "prijmeni": "Snášel",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 687,
+   "hlasy": 37472,
+   "hlasy_proc": 14.52,
+   "kandidatu": 27,
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "SPOLEČNĚ PRO TÁBOR",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1988,
+     "hlasy_proc": 5.3,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Horecký",
+     "titul_za": "Ph.D., MSc., MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1862,
+     "hlasy_proc": 4.96,
+     "titul_pred": "Ing.",
+     "jmeno": "Lenka",
+     "prijmeni": "Horejsková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1601,
+     "hlasy_proc": 4.27,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martina",
+     "prijmeni": "Smětáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1558,
+     "hlasy_proc": 4.15,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Lešek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 482,
+   "hlasy": 609,
+   "hlasy_proc": 1.06,
+   "kandidatu": 6,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT — sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 7,
+   "vstrana": 355,
+   "hlasy": 6869,
+   "hlasy_proc": 2.99,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL a nezávislí kandidáti"
+  },
+  {
+   "por": 8,
+   "vstrana": 364,
+   "hlasy": 11343,
+   "hlasy_proc": 4.39,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "JiNAK! - sdružení zelených a nezávislých"
+  },
+  {
+   "por": 9,
+   "vstrana": 1514,
+   "hlasy": 5754,
+   "hlasy_proc": 2.31,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TÁBOR - NÁŠ DOMOV"
+  }
+ ],
+ "stazeno": "2022-09-24T20:50:00"
+}

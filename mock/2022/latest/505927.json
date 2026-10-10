@@ -1,0 +1,529 @@
+{
+ "kod": "505927",
+ "nazev": "Opava",
+ "typ": "OBEC",
+ "voleno": 39,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T21:30:00",
+ "ucast": {
+  "okrsky_celkem": 59,
+  "okrsky_zprac": 59,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 45451,
+  "vydane_obalky": 18103,
+  "ucast_proc": 39.83,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 18086,
+  "platne_listky": null,
+  "platne_hlasy": 631904
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1188,
+   "hlasy": 41622,
+   "hlasy_proc": 6.58,
+   "kandidatu": 39,
+   "zastupitele": 3,
+   "zastupitele_proc": 7.69,
+   "nazev": "Občané městských částí Opavy",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1307,
+     "hlasy_proc": 3.14,
+     "titul_pred": "",
+     "jmeno": "Miroslav",
+     "prijmeni": "Kořistka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1427,
+     "hlasy_proc": 3.42,
+     "titul_pred": "Ing.",
+     "jmeno": "Lumír",
+     "prijmeni": "Měch",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1262,
+     "hlasy_proc": 3.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Miroslava",
+     "prijmeni": "Konečná",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 482,
+   "hlasy": 417,
+   "hlasy_proc": 2.57,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených – ZA PRÁVA ZVÍŘAT — sdružení DSZ – ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 3,
+   "vstrana": 7,
+   "hlasy": 29835,
+   "hlasy_proc": 4.72,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická"
+  },
+  {
+   "por": 4,
+   "vstrana": 687,
+   "hlasy": 96269,
+   "hlasy_proc": 15.23,
+   "kandidatu": 39,
+   "zastupitele": 7,
+   "zastupitele_proc": 17.95,
+   "nazev": "Společně pro Opavu (ODS, TOP 09)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2931,
+     "hlasy_proc": 3.04,
+     "titul_pred": "Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Veselý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2919,
+     "hlasy_proc": 3.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Monika",
+     "prijmeni": "Klapková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2781,
+     "hlasy_proc": 2.88,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Jan",
+     "prijmeni": "Zelinka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2653,
+     "hlasy_proc": 2.75,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Stanjura",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2582,
+     "hlasy_proc": 2.68,
+     "titul_pred": "Mgr.",
+     "jmeno": "Dominik",
+     "prijmeni": "Janků",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2637,
+     "hlasy_proc": 2.73,
+     "titul_pred": "Ing.",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Šimetka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2558,
+     "hlasy_proc": 2.65,
+     "titul_pred": "Ing.",
+     "jmeno": "Daniel",
+     "prijmeni": "Benna",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 510,
+   "hlasy": 38909,
+   "hlasy_proc": 6.15,
+   "kandidatu": 39,
+   "zastupitele": 3,
+   "zastupitele_proc": 7.69,
+   "nazev": "Změna pro Opavu",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1365,
+     "hlasy_proc": 3.5,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Veselý",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1584,
+     "hlasy_proc": 4.07,
+     "titul_pred": "Mgr.",
+     "jmeno": "Dalibor",
+     "prijmeni": "Halátek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1360,
+     "hlasy_proc": 3.49,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Tůma",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 47,
+   "hlasy": 15634,
+   "hlasy_proc": 2.47,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 7,
+   "vstrana": 1,
+   "hlasy": 31845,
+   "hlasy_proc": 5.03,
+   "kandidatu": 39,
+   "zastupitele": 2,
+   "zastupitele_proc": 5.13,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1183,
+     "hlasy_proc": 3.71,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Jedlička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 950,
+     "hlasy_proc": 2.98,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Pobořilová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 1227,
+   "hlasy": 5894,
+   "hlasy_proc": 1.25,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Trikolora"
+  },
+  {
+   "por": 9,
+   "vstrana": 541,
+   "hlasy": 25301,
+   "hlasy_proc": 4.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti & Opavané"
+  },
+  {
+   "por": 10,
+   "vstrana": 364,
+   "hlasy": 36896,
+   "hlasy_proc": 5.83,
+   "kandidatu": 39,
+   "zastupitele": 2,
+   "zastupitele_proc": 5.13,
+   "nazev": "Zelená pro Opavu",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1503,
+     "hlasy_proc": 4.07,
+     "titul_pred": "MUDr.",
+     "jmeno": "Dalibor",
+     "prijmeni": "Hudec",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1531,
+     "hlasy_proc": 4.14,
+     "titul_pred": "MgA.",
+     "jmeno": "Daniel",
+     "prijmeni": "Volný",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 11,
+   "vstrana": 401,
+   "hlasy": 19373,
+   "hlasy_proc": 3.06,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NEZÁVISLÍ pro OPAVU"
+  },
+  {
+   "por": 12,
+   "vstrana": 768,
+   "hlasy": 221101,
+   "hlasy_proc": 34.98,
+   "kandidatu": 39,
+   "zastupitele": 17,
+   "zastupitele_proc": 43.59,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 6249,
+     "hlasy_proc": 2.82,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Navrátil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 5804,
+     "hlasy_proc": 2.62,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Štěpánek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 5978,
+     "hlasy_proc": 2.7,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Kania",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 5956,
+     "hlasy_proc": 2.69,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Kokošek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 5803,
+     "hlasy_proc": 2.62,
+     "titul_pred": "Mgr.",
+     "jmeno": "Dalibor",
+     "prijmeni": "Bárta",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 5769,
+     "hlasy_proc": 2.6,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Meletzký",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 7,
+     "hlasy": 5782,
+     "hlasy_proc": 2.61,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radana",
+     "prijmeni": "Petrželová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 5809,
+     "hlasy_proc": 2.62,
+     "titul_pred": "Mgr.",
+     "jmeno": "Simona",
+     "prijmeni": "Horáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 5728,
+     "hlasy_proc": 2.59,
+     "titul_pred": "Bc.",
+     "jmeno": "Petr",
+     "prijmeni": "Popadinec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 5748,
+     "hlasy_proc": 2.59,
+     "titul_pred": "Ing.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Schreier",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 5704,
+     "hlasy_proc": 2.57,
+     "titul_pred": "Ing.",
+     "jmeno": "Romeo",
+     "prijmeni": "Doupal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 5726,
+     "hlasy_proc": 2.58,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Semera",
+     "titul_za": ""
+    },
+    {
+     "poradi": 13,
+     "hlasy": 5696,
+     "hlasy_proc": 2.57,
+     "titul_pred": "Bc.",
+     "jmeno": "Jakub",
+     "prijmeni": "Kopťák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 14,
+     "hlasy": 5803,
+     "hlasy_proc": 2.62,
+     "titul_pred": "PhDr.",
+     "jmeno": "Igor",
+     "prijmeni": "Hendrych",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 15,
+     "hlasy": 5875,
+     "hlasy_proc": 2.65,
+     "titul_pred": "MUDr.",
+     "jmeno": "Richard",
+     "prijmeni": "Lenert",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 16,
+     "hlasy": 5673,
+     "hlasy_proc": 2.56,
+     "titul_pred": "PhDr.",
+     "jmeno": "Zdenka",
+     "prijmeni": "Pfefferová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 17,
+     "hlasy": 5678,
+     "hlasy_proc": 2.56,
+     "titul_pred": "",
+     "jmeno": "Linda",
+     "prijmeni": "Javorská",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 13,
+   "vstrana": 1114,
+   "hlasy": 62211,
+   "hlasy_proc": 9.84,
+   "kandidatu": 39,
+   "zastupitele": 5,
+   "zastupitele_proc": 12.82,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1773,
+     "hlasy_proc": 2.84,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Šatný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1742,
+     "hlasy_proc": 2.8,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Lévay",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1704,
+     "hlasy_proc": 2.73,
+     "titul_pred": "",
+     "jmeno": "Radim",
+     "prijmeni": "Hořanský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1737,
+     "hlasy_proc": 2.79,
+     "titul_pred": "Bc.",
+     "jmeno": "Ivo",
+     "prijmeni": "Špičák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1667,
+     "hlasy_proc": 2.67,
+     "titul_pred": "",
+     "jmeno": "Hana",
+     "prijmeni": "Říčná",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 14,
+   "vstrana": 1271,
+   "hlasy": 6597,
+   "hlasy_proc": 1.04,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "VOLNÝ blok"
+  }
+ ],
+ "stazeno": "2022-09-24T21:30:00"
+}

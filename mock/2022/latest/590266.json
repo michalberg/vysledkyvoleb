@@ -1,0 +1,419 @@
+{
+ "kod": "590266",
+ "nazev": "Třebíč",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T21:35:00",
+ "ucast": {
+  "okrsky_celkem": 39,
+  "okrsky_zprac": 39,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 28055,
+  "vydane_obalky": 11853,
+  "ucast_proc": 42.25,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 11841,
+  "platne_listky": null,
+  "platne_hlasy": 292658
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 449,
+   "hlasy": 10899,
+   "hlasy_proc": 3.72,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Třebíč můj domov"
+  },
+  {
+   "por": 2,
+   "vstrana": 382,
+   "hlasy": 42211,
+   "hlasy_proc": 14.42,
+   "kandidatu": 27,
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "Třebíč Občanům!",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1816,
+     "hlasy_proc": 4.3,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaromír",
+     "prijmeni": "Barák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1828,
+     "hlasy_proc": 4.33,
+     "titul_pred": "Bc.",
+     "jmeno": "Blanka",
+     "prijmeni": "Kutinová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1763,
+     "hlasy_proc": 4.17,
+     "titul_pred": "Ing.",
+     "jmeno": "Aleš",
+     "prijmeni": "Novák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1807,
+     "hlasy_proc": 4.28,
+     "titul_pred": "",
+     "jmeno": "Stanislav",
+     "prijmeni": "Neuman",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1761,
+     "hlasy_proc": 4.17,
+     "titul_pred": "Bc.",
+     "jmeno": "Anna",
+     "prijmeni": "Kolaříková",
+     "titul_za": "DiS."
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 62524,
+   "hlasy_proc": 21.36,
+   "kandidatu": 27,
+   "zastupitele": 8,
+   "zastupitele_proc": 29.63,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2927,
+     "hlasy_proc": 4.68,
+     "titul_pred": "",
+     "jmeno": "Miloš",
+     "prijmeni": "Hrůza",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2542,
+     "hlasy_proc": 4.06,
+     "titul_pred": "Ing.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Kratochvílová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2412,
+     "hlasy_proc": 3.85,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Chlachula",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2457,
+     "hlasy_proc": 3.92,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Navrkal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2391,
+     "hlasy_proc": 3.82,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Řehoř",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2388,
+     "hlasy_proc": 3.81,
+     "titul_pred": "",
+     "jmeno": "Miroslav",
+     "prijmeni": "Prokeš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2521,
+     "hlasy_proc": 4.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Franěk",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2344,
+     "hlasy_proc": 3.74,
+     "titul_pred": "",
+     "jmeno": "Marta",
+     "prijmeni": "Sobotková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1022,
+   "hlasy": 4076,
+   "hlasy_proc": 1.39,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občané patrioti"
+  },
+  {
+   "por": 5,
+   "vstrana": 541,
+   "hlasy": 13744,
+   "hlasy_proc": 4.69,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PIRÁTI A NEZÁVISLÍ"
+  },
+  {
+   "por": 6,
+   "vstrana": 1,
+   "hlasy": 18302,
+   "hlasy_proc": 6.25,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1149,
+     "hlasy_proc": 6.27,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Janata",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 874,
+     "hlasy_proc": 4.77,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marie",
+     "prijmeni": "Dudíková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 371,
+   "hlasy": 7411,
+   "hlasy_proc": 2.53,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TSD - Třebíč sociálně demokratická"
+  },
+  {
+   "por": 8,
+   "vstrana": 47,
+   "hlasy": 9134,
+   "hlasy_proc": 3.12,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 9,
+   "vstrana": 1514,
+   "hlasy": 2712,
+   "hlasy_proc": 0.92,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Domov pro Třebíč"
+  },
+  {
+   "por": 10,
+   "vstrana": 721,
+   "hlasy": 9250,
+   "hlasy_proc": 3.16,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09"
+  },
+  {
+   "por": 11,
+   "vstrana": 1487,
+   "hlasy": 21864,
+   "hlasy_proc": 7.47,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou Trikolory",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 945,
+     "hlasy_proc": 4.32,
+     "titul_pred": "MUDr.",
+     "jmeno": "Václav",
+     "prijmeni": "Lhotský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 950,
+     "hlasy_proc": 4.34,
+     "titul_pred": "Mgr.",
+     "jmeno": "Simona",
+     "prijmeni": "Kafoňková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 12,
+   "vstrana": 470,
+   "hlasy": 61027,
+   "hlasy_proc": 20.85,
+   "kandidatu": 27,
+   "zastupitele": 8,
+   "zastupitele_proc": 29.63,
+   "nazev": "PRO TŘEBÍČ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3278,
+     "hlasy_proc": 5.37,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Pacal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2538,
+     "hlasy_proc": 4.15,
+     "titul_pred": "Bc.",
+     "jmeno": "Eva",
+     "prijmeni": "Vaňková",
+     "titul_za": "dipl. um."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2475,
+     "hlasy_proc": 4.05,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Urbánek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2416,
+     "hlasy_proc": 3.95,
+     "titul_pred": "Mgr.",
+     "jmeno": "Karel",
+     "prijmeni": "Dolák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2335,
+     "hlasy_proc": 3.82,
+     "titul_pred": "Mgr.",
+     "jmeno": "Adam",
+     "prijmeni": "Joura",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2377,
+     "hlasy_proc": 3.89,
+     "titul_pred": "JUDr.",
+     "jmeno": "Antonín",
+     "prijmeni": "Mládek",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2366,
+     "hlasy_proc": 3.87,
+     "titul_pred": "Bc.",
+     "jmeno": "Jaromíra",
+     "prijmeni": "Hanáčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2299,
+     "hlasy_proc": 3.76,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Ottich",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 13,
+   "vstrana": 1319,
+   "hlasy": 13980,
+   "hlasy_proc": 4.77,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana a Ta naše Třebíč"
+  },
+  {
+   "por": 14,
+   "vstrana": 364,
+   "hlasy": 15524,
+   "hlasy_proc": 5.3,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "Břehy",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1342,
+     "hlasy_proc": 8.64,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Zeibert",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 736,
+     "hlasy_proc": 4.74,
+     "titul_pred": "",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Bohutínský",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T21:35:00"
+}

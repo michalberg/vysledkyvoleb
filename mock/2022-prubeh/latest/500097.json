@@ -1,0 +1,134 @@
+{
+ "kod": "500097",
+ "nazev": "Praha 3",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 52,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 9.62,
+  "zapsani_volici": 4077,
+  "vydane_obalky": 1634,
+  "ucast_proc": 40.08,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 1632,
+  "platne_listky": null,
+  "platne_hlasy": 53540
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 524,
+   "hlasy": 2674,
+   "hlasy_proc": 4.99,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PATRIOTI PRO PRAHU 3"
+  },
+  {
+   "por": 2,
+   "vstrana": 210,
+   "hlasy": 7948,
+   "hlasy_proc": 14.84,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koalice pro Prahu 3 - ODS, KDU-ČSL"
+  },
+  {
+   "por": 3,
+   "vstrana": 1491,
+   "hlasy": 3219,
+   "hlasy_proc": 6.01,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Trikolora a hnutí SPD pro Prahu 3"
+  },
+  {
+   "por": 4,
+   "vstrana": 720,
+   "hlasy": 7423,
+   "hlasy_proc": 13.86,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 7390,
+   "hlasy_proc": 13.8,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 47,
+   "hlasy": 665,
+   "hlasy_proc": 1.24,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 7,
+   "vstrana": 659,
+   "hlasy": 14884,
+   "hlasy_proc": 27.8,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09 + Starostové a nezávislí s podporou Žižkov (nejen) sobě"
+  },
+  {
+   "por": 8,
+   "vstrana": 1373,
+   "hlasy": 4801,
+   "hlasy_proc": 8.97,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 3 SOBĚ"
+  },
+  {
+   "por": 9,
+   "vstrana": 1580,
+   "hlasy": 1358,
+   "hlasy_proc": 2.54,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Praha 3 pro všechny – ČSSD a Budoucnost"
+  },
+  {
+   "por": 10,
+   "vstrana": 364,
+   "hlasy": 3172,
+   "hlasy_proc": 5.92,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelení Praha 3"
+  },
+  {
+   "por": 11,
+   "vstrana": 1516,
+   "hlasy": 6,
+   "hlasy_proc": 0.01,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA BEZ CHAOSU"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

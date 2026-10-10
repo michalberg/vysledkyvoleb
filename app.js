@@ -41,6 +41,9 @@ const pctHtml = v => `${num2(v)}<small>%</small>`;
 // Ikona mandátu (postava) místo zkratky „mand.“
 const SEAT = `<svg class="seat" viewBox="0 0 24 24" role="img" aria-label="mandátů"><circle cx="12" cy="7" r="4.5"/><path d="M3.5 22c0-5 3.8-8.5 8.5-8.5s8.5 3.5 8.5 8.5z"/></svg>`;
 const seatsHtml = n => n > 0 ? `${n}${SEAT}` : "";
+// Hlavní celek (Brno) má vlastní řádek nahoře a ukazuje všechny strany; stránka měst ho nemá.
+const isMain = i => !!S.cfg.hlavni && i === 0;
+const isMainKod = kod => !!S.cfg.hlavni && kod === S.units[0].kod;
 const short = n => S.zkratky[n] || n;
 const plMand = n => n === 1 ? "mandát" : n >= 2 && n <= 4 ? "mandáty" : "mandátů";
 
@@ -222,7 +225,7 @@ function fit() {
 
 function renderBrnoRow() {
   const el = $("brnoRow");
-  el.hidden = S.active === 0;
+  el.hidden = !S.cfg.hlavni || isMain(S.active);
   if (el.hidden) return;
   const v = view(S.units[0]);
   const d = v.live;
@@ -248,9 +251,9 @@ function renderBrnoRow() {
 
 function renderSide() {
   const el = $("side");
-  el.hidden = S.active === 0;
+  el.hidden = isMain(S.active);
   if (el.hidden) return;
-  el.innerHTML = `<div class="side-head"><div>Městská část</div><div>Naše</div></div>` + S.units.map((u, i) => {
+  el.innerHTML = `<div class="side-head"><div>${esc(S.cfg.nadpis || "Městská část")}</div><div>Naše</div></div>` + S.units.map((u, i) => {
     const d = S.data[u.kod];
     const v = d && d.zprac > 0 ? view(u) : null;
     const ours = v && v.parties.find(p => p.ours);
@@ -297,7 +300,7 @@ function renderResults(v) {
       <div class="plot" id="plot"><div class="five" id="five"><span>5 %</span></div></div><div class="labels" id="labels"></div>`;
     wrap._built = true;
   }
-  const bars = shown(v, S.active === 0 || S.showAll);
+  const bars = shown(v, isMain(S.active) || S.showAll);
   const dense = bars.length > 10;
   wrap.classList.toggle("dense", dense);
   const scale = Math.max(...bars.map(p => p.pct), 10) / 0.82;
@@ -388,14 +391,15 @@ function renderStage() {
   const v = view(u);
   renderBrnoRow();
   renderSide();
-  $("allBtn").hidden = !(S.view === "res" && S.active !== 0);
+  $("allBtn").hidden = !(S.view === "res" && !isMain(S.active));
   $("allBtn").classList.toggle("on", S.showAll);
   document.querySelectorAll(".seg button").forEach(b => b.classList.toggle("on", b.dataset.view === S.view));
   if (S.view === "res") renderResults(v);
   else { $("detail")._scope = null; renderCoal($("detail"), v); }
   $("footLeft").innerHTML = S.view === "coal" ? `<b>Automatické přepínání pozastaveno</b>`
-    : S.active === 0 ? `<button type="button" class="pill-small fg" id="toDistricts">Městské části →</button>`
+    : isMain(S.active) ? `<button type="button" class="pill-small fg" id="toDistricts">Městské části →</button>`
     : `Linka pod názvem = podíl sečtených okrsků`;
+  if (S.cfg.dalsi_stranka) $("footLeft").insertAdjacentHTML("beforeend", ` <a class="pill-small" href="${esc(S.cfg.dalsi_stranka.href)}">${esc(S.cfg.dalsi_stranka.text)}</a>`);
   $("seatNote").innerHTML = `${SEAT} = mandát · ` + (v.isRef ? "rok 2022, oficiální" : v.official ? "oficiální výsledek" : v.hasLive ? "přibližný výpočet dle současných výsledků" : "");
   $("themeBtn").textContent = S.theme === "dark" ? "Světlý režim" : "Tmavý režim";
   tick(0);
@@ -411,7 +415,7 @@ function renderMobile() {
     const v = view(u);
     const d = v.live;
     const cp = d && d.celkem ? d.zprac / d.celkem * 100 : 0;
-    const list = shown(v, u.kod === S.units[0].kod || S.showAll);
+    const list = shown(v, isMainKod(u.kod) || S.showAll);
     const max = Math.max(...list.map(p => p.pct), 10);
     el.innerHTML = `
       <h2><a href="${esc(u.odkaz)}" target="_blank" rel="noopener">${esc(u.zobrazit)} <span>↗</span></a></h2>
@@ -426,10 +430,11 @@ function renderMobile() {
         : `<div class="m-empty"><b>Čekáme na data</b><span>Zatím nebyl sečten žádný okrsek</span></div>`}
       <div class="m-actions">
         ${v.hasLive ? `<button type="button" data-coal="${u.kod}">Sestavit koalici</button>` : ""}
-        ${u.kod !== S.units[0].kod ? `<button type="button" class="sec" data-all>${S.showAll ? "Jen strany nad 3 %" : "Všechny strany"}</button>` : ""}
+        ${!isMainKod(u.kod) ? `<button type="button" class="sec" data-all>${S.showAll ? "Jen strany nad 3 %" : "Všechny strany"}</button>` : ""}
       </div>`;
   }, "m");
   $("mSeatNote").innerHTML = SEAT + " = mandát. Do sečtení všech okrsků jde o přibližný výpočet dle současných výsledků. Celky bez sečteného okrsku ukazují šedě výsledky 2022.";
+  if (S.cfg.dalsi_stranka) $("mSeatNote").insertAdjacentHTML("beforeend", `<p><a class="pill-small" href="${esc(S.cfg.dalsi_stranka.href)}">${esc(S.cfg.dalsi_stranka.text)}</a></p>`);
   if (!$("mCoal").hidden) renderCoal($("mCoalBody"), view(S.units.find(u => u.kod === S.mCoalKod)));
 }
 
@@ -480,7 +485,7 @@ function bind() {
 }
 
 async function init() {
-  const [cfg, barvy, zkratky] = await Promise.all([get("config.json", "json"), get("barvy.json", "json"), get("zkratky.json", "json").catch(() => ({}))]);
+  const [cfg, barvy, zkratky] = await Promise.all([get(document.body.dataset.config || "config.json", "json"), get("barvy.json", "json"), get("zkratky.json", "json").catch(() => ({}))]);
   S.cfg = cfg; S.barvy = barvy; S.units = cfg.obce; S.zkratky = zkratky.nazvy || {};
   S.intervalMs = (Number(params.get("interval")) || cfg.interval_s || 12) * 1000;
   await Promise.all(S.units.map(async u => {

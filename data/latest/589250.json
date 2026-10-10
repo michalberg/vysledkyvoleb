@@ -1,0 +1,124 @@
+{
+ "kod": "589250",
+ "nazev": "Prostějov",
+ "typ": "OBEC",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:40",
+ "ucast": {
+  "okrsky_celkem": 44,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 541,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 28,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Prostějov 2:0"
+  },
+  {
+   "por": 2,
+   "vstrana": 1114,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 3,
+   "vstrana": 1,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 4,
+   "vstrana": 7,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 16,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sociální demokracie"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 1627,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NÁŠ PROSTĚJOV"
+  },
+  {
+   "por": 7,
+   "vstrana": 1020,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Pévéčko"
+  },
+  {
+   "por": 8,
+   "vstrana": 389,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Prostějovští demokraté: Občanská demokratická strana spolu s nezávislými osobnostmi města Prostějova"
+  },
+  {
+   "por": 9,
+   "vstrana": 1612,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Na rovinu!"
+  },
+  {
+   "por": 10,
+   "vstrana": 55,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 13,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)"
+  }
+ ],
+ "stazeno": "2026-10-10T14:35:22+02:00"
+}

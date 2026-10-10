@@ -1,0 +1,84 @@
+{
+ "kod": "536385",
+ "nazev": "Jeseník",
+ "typ": "OBEC",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 11,
+  "okrsky_zprac": 10,
+  "okrsky_zprac_proc": 90.91,
+  "zapsani_volici": 7907,
+  "vydane_obalky": 3202,
+  "ucast_proc": 40.5,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3198,
+  "platne_listky": null,
+  "platne_hlasy": 60512
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 461,
+   "hlasy": 5045,
+   "hlasy_proc": 8.34,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Nezávislí - Jeseník"
+  },
+  {
+   "por": 2,
+   "vstrana": 1487,
+   "hlasy": 8460,
+   "hlasy_proc": 13.98,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Jeseničtí 2022"
+  },
+  {
+   "por": 3,
+   "vstrana": 501,
+   "hlasy": 18544,
+   "hlasy_proc": 30.65,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Jeseník srdcem"
+  },
+  {
+   "por": 4,
+   "vstrana": 1452,
+   "hlasy": 14116,
+   "hlasy_proc": 23.33,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí ANO a ČSSD"
+  },
+  {
+   "por": 5,
+   "vstrana": 470,
+   "hlasy": 9947,
+   "hlasy_proc": 16.44,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO JESENÍK"
+  },
+  {
+   "por": 6,
+   "vstrana": 210,
+   "hlasy": 4400,
+   "hlasy_proc": 7.27,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

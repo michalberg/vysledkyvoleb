@@ -1,0 +1,114 @@
+{
+ "kod": "500097",
+ "nazev": "Praha 3",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:32",
+ "ucast": {
+  "okrsky_celkem": 52,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1888,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti, PRAHA 3 SOBĚ a Edita Janečková"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 1879,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "MOTORISTÉ sobě a PATRIOTI s podporou spoluvlastníků a sousedů"
+  },
+  {
+   "por": 4,
+   "vstrana": 1887,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Praha 3 srdcem"
+  },
+  {
+   "por": 5,
+   "vstrana": 659,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09 + Starostové a nezávislí s podporou Žižkov (nejen) sobě"
+  },
+  {
+   "por": 6,
+   "vstrana": 1154,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ pro Prahu 3 (ODS, Soukromníci)"
+  },
+  {
+   "por": 7,
+   "vstrana": 5,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Strana zelených"
+  },
+  {
+   "por": 8,
+   "vstrana": 47,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 9,
+   "vstrana": 1487,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora a nezávislí kandidáti pro Prahu 3 s podporou strany PRO a Přísahy"
+  }
+ ],
+ "stazeno": "2026-10-10T14:35:22+02:00"
+}

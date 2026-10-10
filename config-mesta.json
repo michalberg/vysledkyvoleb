@@ -1,0 +1,156 @@
+{
+  "volby": "kv2026",
+  "datum": "20261009",
+  "interval_s": 12,
+  "nadpis": "Obec",
+  "obce": [
+    {
+      "kod": "554782",
+      "nazev": "Praha",
+      "zobrazit": "Praha",
+      "kratky": "Praha",
+      "nase": {
+        "2026": null,
+        "2022": 15
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500097",
+      "nazev": "Praha 3",
+      "zobrazit": "Praha 3",
+      "kratky": "Praha 3",
+      "nase": {
+        "2026": 7,
+        "2022": 10
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "541630",
+      "nazev": "Vsetín",
+      "zobrazit": "Vsetín",
+      "kratky": "Vsetín",
+      "nase": {
+        "2026": 6,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "505927",
+      "nazev": "Opava",
+      "zobrazit": "Opava",
+      "kratky": "Opava",
+      "nase": {
+        "2026": 1,
+        "2022": 10
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "599191",
+      "nazev": "Nový Jičín",
+      "zobrazit": "Nový Jičín",
+      "kratky": "Nový Jičín",
+      "nase": {
+        "2026": 5,
+        "2022": 1
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "563510",
+      "nazev": "Jablonec nad Nisou",
+      "zobrazit": "Jablonec nad Nisou",
+      "kratky": "Jablonec n. N.",
+      "nase": {
+        "2026": 6,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "589250",
+      "nazev": "Prostějov",
+      "zobrazit": "Prostějov",
+      "kratky": "Prostějov",
+      "nase": {
+        "2026": 9,
+        "2022": 2
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "536385",
+      "nazev": "Jeseník",
+      "zobrazit": "Jeseník",
+      "kratky": "Jeseník",
+      "nase": {
+        "2026": null,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "552046",
+      "nazev": "Tábor",
+      "zobrazit": "Tábor",
+      "kratky": "Tábor",
+      "nase": {
+        "2026": 7,
+        "2022": 8
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "539911",
+      "nazev": "Příbram",
+      "zobrazit": "Příbram",
+      "kratky": "Příbram",
+      "nase": {
+        "2026": 1,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "535419",
+      "nazev": "Mladá Boleslav",
+      "zobrazit": "Mladá Boleslav",
+      "kratky": "Mladá Boleslav",
+      "nase": {
+        "2026": 4,
+        "2022": 8
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "590266",
+      "nazev": "Třebíč",
+      "zobrazit": "Třebíč",
+      "kratky": "Třebíč",
+      "nase": {
+        "2026": 7,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "563889",
+      "nazev": "Liberec",
+      "zobrazit": "Liberec",
+      "kratky": "Liberec",
+      "nase": {
+        "2026": 6,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    }
+  ],
+  "hlavni": false,
+  "dalsi_stranka": {
+    "text": "← Brno",
+    "href": "./"
+  }
+}

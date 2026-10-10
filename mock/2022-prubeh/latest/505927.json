@@ -1,0 +1,164 @@
+{
+ "kod": "505927",
+ "nazev": "Opava",
+ "typ": "OBEC",
+ "voleno": 39,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 59,
+  "okrsky_zprac": 51,
+  "okrsky_zprac_proc": 86.44,
+  "zapsani_volici": 37513,
+  "vydane_obalky": 14384,
+  "ucast_proc": 38.34,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 14373,
+  "platne_listky": null,
+  "platne_hlasy": 505229
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1188,
+   "hlasy": 23587,
+   "hlasy_proc": 4.67,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občané městských částí Opavy"
+  },
+  {
+   "por": 2,
+   "vstrana": 482,
+   "hlasy": 345,
+   "hlasy_proc": 0.07,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených – ZA PRÁVA ZVÍŘAT — sdružení DSZ – ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 3,
+   "vstrana": 7,
+   "hlasy": 19926,
+   "hlasy_proc": 3.94,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická"
+  },
+  {
+   "por": 4,
+   "vstrana": 687,
+   "hlasy": 78579,
+   "hlasy_proc": 15.55,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Opavu (ODS, TOP 09)"
+  },
+  {
+   "por": 5,
+   "vstrana": 510,
+   "hlasy": 32633,
+   "hlasy_proc": 6.46,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Změna pro Opavu"
+  },
+  {
+   "por": 6,
+   "vstrana": 47,
+   "hlasy": 12211,
+   "hlasy_proc": 2.42,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 7,
+   "vstrana": 1,
+   "hlasy": 25412,
+   "hlasy_proc": 5.03,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 8,
+   "vstrana": 1227,
+   "hlasy": 4631,
+   "hlasy_proc": 0.92,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Trikolora"
+  },
+  {
+   "por": 9,
+   "vstrana": 541,
+   "hlasy": 21328,
+   "hlasy_proc": 4.22,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti & Opavané"
+  },
+  {
+   "por": 10,
+   "vstrana": 364,
+   "hlasy": 32197,
+   "hlasy_proc": 6.37,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelená pro Opavu"
+  },
+  {
+   "por": 11,
+   "vstrana": 401,
+   "hlasy": 16039,
+   "hlasy_proc": 3.17,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NEZÁVISLÍ pro OPAVU"
+  },
+  {
+   "por": 12,
+   "vstrana": 768,
+   "hlasy": 181237,
+   "hlasy_proc": 35.87,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 13,
+   "vstrana": 1114,
+   "hlasy": 51380,
+   "hlasy_proc": 10.17,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 14,
+   "vstrana": 1271,
+   "hlasy": 5724,
+   "hlasy_proc": 1.13,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "VOLNÝ blok"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

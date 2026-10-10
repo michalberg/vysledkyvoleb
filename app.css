@@ -138,6 +138,7 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 
 .foot{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--muted)}
 .foot b{color:var(--fg);font-weight:700;white-space:nowrap}
+#footLeft{display:flex;gap:10px;align-items:center}
 .foot-right{display:flex;gap:12px;align-items:center}
 .pill-small{font-weight:700;border:1px solid var(--line);padding:3px 10px;border-radius:999px;white-space:nowrap;color:inherit}
 .foot .pill-small.fg{color:var(--fg)}

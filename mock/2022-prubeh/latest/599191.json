@@ -1,0 +1,114 @@
+{
+ "kod": "599191",
+ "nazev": "Nový Jičín",
+ "typ": "OBEC",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:30:00",
+ "ucast": {
+  "okrsky_celkem": 22,
+  "okrsky_zprac": 14,
+  "okrsky_zprac_proc": 63.64,
+  "zapsani_volici": 10461,
+  "vydane_obalky": 4025,
+  "ucast_proc": 38.48,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 4022,
+  "platne_listky": null,
+  "platne_hlasy": 103621
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1351,
+   "hlasy": 17006,
+   "hlasy_proc": 16.41,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Strana zelených s Piráty, TOP 09 a STAN"
+  },
+  {
+   "por": 2,
+   "vstrana": 477,
+   "hlasy": 5635,
+   "hlasy_proc": 5.44,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PROJEKTY PRO NJ"
+  },
+  {
+   "por": 3,
+   "vstrana": 1114,
+   "hlasy": 10348,
+   "hlasy_proc": 9.99,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 4,
+   "vstrana": 53,
+   "hlasy": 10675,
+   "hlasy_proc": 10.3,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 5,
+   "vstrana": 1,
+   "hlasy": 6838,
+   "hlasy_proc": 6.6,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 6,
+   "vstrana": 1179,
+   "hlasy": 195,
+   "hlasy_proc": 0.19,
+   "kandidatu": 5,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "BEZPEČNOST, ODPOVĚDNOST, SOLIDARITA"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 24799,
+   "hlasy_proc": 23.93,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 8,
+   "vstrana": 371,
+   "hlasy": 21038,
+   "hlasy_proc": 20.3,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Víc pro Nový Jičín s ČSSD"
+  },
+  {
+   "por": 9,
+   "vstrana": 387,
+   "hlasy": 7087,
+   "hlasy_proc": 6.84,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Je čas na změnu!"
+  }
+ ],
+ "stazeno": "2022-09-24T19:30:00"
+}
