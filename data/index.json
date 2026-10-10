@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T21:46:21+02:00",
+ "aktualizovano": "2026-10-10T21:47:16+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 267,
+   "okrsky_zprac": 268,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T21:46:01"
+   "generovano": "2026-10-10T21:47:01"
   },
   {
    "kod": "551198",
@@ -89,9 +89,9 @@
    "nazev": "Brno-Řečkovice a Mokrá Hora",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 10,
+   "okrsky_zprac": 11,
    "okrsky_celkem": 14,
-   "generovano": "2026-10-10T21:42:00"
+   "generovano": "2026-10-10T21:47:01"
   },
   {
    "kod": "551031",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 661,
+   "okrsky_zprac": 663,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T21:46:01"
+   "generovano": "2026-10-10T21:47:01"
   },
   {
    "kod": "500054",
@@ -305,9 +305,9 @@
    "nazev": "Praha 6",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 47,
+   "okrsky_zprac": 48,
    "okrsky_celkem": 104,
-   "generovano": "2026-10-10T21:43:01"
+   "generovano": "2026-10-10T21:47:01"
   },
   {
    "kod": "500186",
@@ -368,9 +368,9 @@
    "nazev": "Praha 13",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 40,
+   "okrsky_zprac": 41,
    "okrsky_celkem": 58,
-   "generovano": "2026-10-10T21:41:01"
+   "generovano": "2026-10-10T21:47:01"
   },
   {
    "kod": "547361",
@@ -602,9 +602,9 @@
    "nazev": "Plzeň",
    "voleno": 47,
    "je_spocteno": false,
-   "okrsky_zprac": 166,
+   "okrsky_zprac": 165,
    "okrsky_celkem": 174,
-   "generovano": "2026-10-10T21:40:01"
+   "generovano": "2026-10-10T21:47:01"
   },
   {
    "kod": "588024",
