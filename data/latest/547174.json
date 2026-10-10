@@ -5,25 +5,25 @@
  "voleno": 23,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:50:00",
+ "generovano": "2026-10-10T22:23:00",
  "ucast": {
   "okrsky_celkem": 18,
-  "okrsky_zprac": 13,
-  "okrsky_zprac_proc": 72.22,
-  "zapsani_volici": 11817,
-  "vydane_obalky": 4919,
-  "ucast_proc": 41.63,
+  "okrsky_zprac": 14,
+  "okrsky_zprac_proc": 77.78,
+  "zapsani_volici": 12957,
+  "vydane_obalky": 5493,
+  "ucast_proc": 42.39,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 4914,
-  "platne_listky": 4811,
-  "platne_hlasy": 105350
+  "odevzdane_obalky": 5488,
+  "platne_listky": 5383,
+  "platne_hlasy": 117718
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 389,
-   "hlasy": 18092,
-   "hlasy_proc": 17.17,
+   "hlasy": 20259,
+   "hlasy_proc": 17.21,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 449,
-   "hlasy": 6444,
-   "hlasy_proc": 6.12,
+   "hlasy": 7135,
+   "hlasy_proc": 6.06,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1,
-   "hlasy": 3246,
-   "hlasy_proc": 3.08,
+   "hlasy": 3703,
+   "hlasy_proc": 3.15,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 21195,
-   "hlasy_proc": 20.12,
+   "hlasy": 23331,
+   "hlasy_proc": 19.82,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 4055,
-   "hlasy_proc": 3.85,
+   "hlasy": 4748,
+   "hlasy_proc": 4.03,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 47,
-   "hlasy": 410,
-   "hlasy_proc": 0.39,
+   "hlasy": 432,
+   "hlasy_proc": 0.37,
    "kandidatu": 7,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 166,
-   "hlasy": 15273,
-   "hlasy_proc": 14.5,
+   "hlasy": 17202,
+   "hlasy_proc": 14.61,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 1737,
-   "hlasy": 36635,
-   "hlasy_proc": 34.77,
+   "hlasy": 40908,
+   "hlasy_proc": 34.75,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Řepští sousedé"
   }
  ],
- "stazeno": "2026-10-10T21:50:35+02:00"
+ "stazeno": "2026-10-10T22:23:17+02:00"
 }
