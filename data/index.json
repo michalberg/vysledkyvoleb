@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T22:17:17+02:00",
+ "aktualizovano": "2026-10-10T22:18:20+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 296,
+   "okrsky_zprac": 298,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T22:17:01"
+   "generovano": "2026-10-10T22:18:01"
   },
   {
    "kod": "551198",
@@ -53,9 +53,9 @@
    "nazev": "Brno-Líšeň",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 13,
+   "okrsky_zprac": 14,
    "okrsky_celkem": 19,
-   "generovano": "2026-10-10T22:14:01"
+   "generovano": "2026-10-10T22:18:01"
   },
   {
    "kod": "551252",
@@ -134,9 +134,9 @@
    "nazev": "Brno-Žabovřesky",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 23,
+   "okrsky_zprac": 24,
    "okrsky_celkem": 25,
-   "generovano": "2026-10-10T22:03:00"
+   "generovano": "2026-10-10T22:18:01"
   },
   {
    "kod": "551058",
