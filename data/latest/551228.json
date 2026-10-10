@@ -4,26 +4,26 @@
  "typ": "MCMO",
  "voleno": 17,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T21:35:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T22:10:00",
  "ucast": {
   "okrsky_celkem": 6,
-  "okrsky_zprac": 5,
-  "okrsky_zprac_proc": 83.33,
-  "zapsani_volici": 5074,
-  "vydane_obalky": 2904,
-  "ucast_proc": 57.23,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 6029,
+  "vydane_obalky": 3461,
+  "ucast_proc": 57.41,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2891,
-  "platne_listky": 2809,
-  "platne_hlasy": 44537
+  "odevzdane_obalky": 3448,
+  "platne_listky": 3365,
+  "platne_hlasy": 53138
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1832,
-   "hlasy": 76,
-   "hlasy_proc": 0.17,
+   "hlasy": 87,
+   "hlasy_proc": 0.16,
    "kandidatu": 3,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,18 +32,29 @@
   {
    "por": 2,
    "vstrana": 53,
-   "hlasy": 3449,
+   "hlasy": 4115,
    "hlasy_proc": 7.74,
    "kandidatu": 16,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Občanská demokratická strana"
+   "zastupitele": 1,
+   "zastupitele_proc": 5.88,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 301,
+     "hlasy_proc": 7.31,
+     "titul_pred": "Ing.",
+     "jmeno": "David",
+     "prijmeni": "Škaroupka",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 721,
-   "hlasy": 1745,
-   "hlasy_proc": 3.92,
+   "hlasy": 1977,
+   "hlasy_proc": 3.72,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,43 +63,195 @@
   {
    "por": 4,
    "vstrana": 340,
-   "hlasy": 8216,
-   "hlasy_proc": 18.45,
+   "hlasy": 9423,
+   "hlasy_proc": 17.73,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "LIDOVCI A STAROSTOVÉ"
+   "zastupitele": 3,
+   "zastupitele_proc": 17.65,
+   "nazev": "LIDOVCI A STAROSTOVÉ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 724,
+     "hlasy_proc": 7.68,
+     "titul_pred": "",
+     "jmeno": "David",
+     "prijmeni": "Řepa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 575,
+     "hlasy_proc": 6.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Bravený",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 615,
+     "hlasy_proc": 6.52,
+     "titul_pred": "Mgr.",
+     "jmeno": "Matěj",
+     "prijmeni": "Samek",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 1711,
-   "hlasy": 6491,
-   "hlasy_proc": 14.57,
+   "hlasy": 7703,
+   "hlasy_proc": 14.5,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Brnoklidem"
+   "zastupitele": 3,
+   "zastupitele_proc": 17.65,
+   "nazev": "Brnoklidem",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 511,
+     "hlasy_proc": 6.63,
+     "titul_pred": "Bc.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Jarošová",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 481,
+     "hlasy_proc": 6.24,
+     "titul_pred": "Mgr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Buček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 499,
+     "hlasy_proc": 6.47,
+     "titul_pred": "MUDr.",
+     "jmeno": "Ivo",
+     "prijmeni": "Rovný",
+     "titul_za": "MBA"
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 768,
-   "hlasy": 6028,
-   "hlasy_proc": 13.53,
+   "hlasy": 7287,
+   "hlasy_proc": 13.71,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 2,
+   "zastupitele_proc": 11.76,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 459,
+     "hlasy_proc": 6.29,
+     "titul_pred": "Ing.",
+     "jmeno": "Sabina",
+     "prijmeni": "Havránková",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 450,
+     "hlasy_proc": 6.17,
+     "titul_pred": "Ing.",
+     "jmeno": "Adam",
+     "prijmeni": "Stanislav",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 364,
-   "hlasy": 18532,
-   "hlasy_proc": 41.61,
+   "hlasy": 22546,
+   "hlasy_proc": 42.43,
    "kandidatu": 17,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Zelená pro Komín"
+   "zastupitele": 8,
+   "zastupitele_proc": 47.06,
+   "nazev": "Zelená pro Komín",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1422,
+     "hlasy_proc": 6.3,
+     "titul_pred": "Mgr.",
+     "jmeno": "Milada",
+     "prijmeni": "Blatná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1387,
+     "hlasy_proc": 6.15,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Pospíšil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1381,
+     "hlasy_proc": 6.12,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Němec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1414,
+     "hlasy_proc": 6.27,
+     "titul_pred": "",
+     "jmeno": "Eva",
+     "prijmeni": "Beranová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1364,
+     "hlasy_proc": 6.04,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Magdalena",
+     "prijmeni": "Maceková",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1345,
+     "hlasy_proc": 5.96,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Juřička",
+     "titul_za": "BBA"
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1345,
+     "hlasy_proc": 5.96,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "David",
+     "prijmeni": "Mikstein",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1339,
+     "hlasy_proc": 5.93,
+     "titul_pred": "Mgr.",
+     "jmeno": "Andrea",
+     "prijmeni": "Slavíčková",
+     "titul_za": "DiS."
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T21:35:28+02:00"
+ "stazeno": "2026-10-10T22:10:35+02:00"
 }
