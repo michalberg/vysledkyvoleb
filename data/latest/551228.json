@@ -5,25 +5,25 @@
  "voleno": 17,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:23:01",
+ "generovano": "2026-10-10T21:33:01",
  "ucast": {
   "okrsky_celkem": 6,
-  "okrsky_zprac": 3,
-  "okrsky_zprac_proc": 50.0,
-  "zapsani_volici": 3113,
-  "vydane_obalky": 1815,
-  "ucast_proc": 58.3,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 66.67,
+  "zapsani_volici": 4094,
+  "vydane_obalky": 2367,
+  "ucast_proc": 57.82,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1805,
-  "platne_listky": 1731,
-  "platne_hlasy": 27684
+  "odevzdane_obalky": 2355,
+  "platne_listky": 2280,
+  "platne_hlasy": 36320
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1832,
-   "hlasy": 52,
-   "hlasy_proc": 0.19,
+   "hlasy": 59,
+   "hlasy_proc": 0.16,
    "kandidatu": 3,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 53,
-   "hlasy": 2219,
-   "hlasy_proc": 8.02,
+   "hlasy": 2950,
+   "hlasy_proc": 8.12,
    "kandidatu": 16,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 721,
-   "hlasy": 1308,
-   "hlasy_proc": 4.72,
+   "hlasy": 1515,
+   "hlasy_proc": 4.17,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 340,
-   "hlasy": 4866,
-   "hlasy_proc": 17.58,
+   "hlasy": 6439,
+   "hlasy_proc": 17.73,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1711,
-   "hlasy": 3724,
-   "hlasy_proc": 13.45,
+   "hlasy": 5095,
+   "hlasy_proc": 14.03,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 768,
-   "hlasy": 3736,
-   "hlasy_proc": 13.5,
+   "hlasy": 4699,
+   "hlasy_proc": 12.94,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,13 +82,13 @@
   {
    "por": 7,
    "vstrana": 364,
-   "hlasy": 11779,
-   "hlasy_proc": 42.55,
+   "hlasy": 15563,
+   "hlasy_proc": 42.85,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Zelená pro Komín"
   }
  ],
- "stazeno": "2026-10-10T21:23:16+02:00"
+ "stazeno": "2026-10-10T21:34:20+02:00"
 }
