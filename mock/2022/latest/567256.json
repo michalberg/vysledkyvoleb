@@ -1,0 +1,337 @@
+{
+ "kod": "567256",
+ "nazev": "Litvínov",
+ "typ": "OBEC",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T19:25:00",
+ "ucast": {
+  "okrsky_celkem": 28,
+  "okrsky_zprac": 28,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 18556,
+  "vydane_obalky": 6351,
+  "ucast_proc": 34.23,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 6341,
+  "platne_listky": null,
+  "platne_hlasy": 130963
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 536,
+   "hlasy": 4700,
+   "hlasy_proc": 3.58,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sdružení LITVÍNOVÁCI"
+  },
+  {
+   "por": 2,
+   "vstrana": 1327,
+   "hlasy": 9529,
+   "hlasy_proc": 7.27,
+   "kandidatu": 23,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.7,
+   "nazev": "SPOLU",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 586,
+     "hlasy_proc": 6.14,
+     "titul_pred": "JUDr.",
+     "jmeno": "Daniel",
+     "prijmeni": "Volák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 482,
+     "hlasy_proc": 5.05,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Láter",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 1487,
+   "hlasy": 20286,
+   "hlasy_proc": 15.48,
+   "kandidatu": 23,
+   "zastupitele": 4,
+   "zastupitele_proc": 17.39,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou Trikolory",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1059,
+     "hlasy_proc": 5.22,
+     "titul_pred": "Ing.",
+     "jmeno": "Ivana",
+     "prijmeni": "Turková",
+     "titul_za": "PhD., MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 966,
+     "hlasy_proc": 4.76,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Marvan",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 900,
+     "hlasy_proc": 4.43,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Mareš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 891,
+     "hlasy_proc": 4.39,
+     "titul_pred": "",
+     "jmeno": "Vratislav",
+     "prijmeni": "Uher",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 47,
+   "hlasy": 6574,
+   "hlasy_proc": 5.01,
+   "kandidatu": 23,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.35,
+   "nazev": "Komunistická strana Čech a Moravy",
+   "zvoleni": [
+    {
+     "poradi": 23,
+     "hlasy": 435,
+     "hlasy_proc": 6.61,
+     "titul_pred": "RSDr.",
+     "jmeno": "Erika",
+     "prijmeni": "Sedláčková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 49366,
+   "hlasy_proc": 37.69,
+   "kandidatu": 23,
+   "zastupitele": 10,
+   "zastupitele_proc": 43.48,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2467,
+     "hlasy_proc": 4.99,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kamila",
+     "prijmeni": "Bláhová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2326,
+     "hlasy_proc": 4.71,
+     "titul_pred": "",
+     "jmeno": "Karel",
+     "prijmeni": "Rosenbaum",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2274,
+     "hlasy_proc": 4.6,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Fedoriška",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2238,
+     "hlasy_proc": 4.53,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Roman",
+     "prijmeni": "Ziegler",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2200,
+     "hlasy_proc": 4.45,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petra",
+     "prijmeni": "Troníčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2307,
+     "hlasy_proc": 4.67,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Vycpálek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2239,
+     "hlasy_proc": 4.53,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavla",
+     "prijmeni": "Tomášová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2210,
+     "hlasy_proc": 4.47,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Liška",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2173,
+     "hlasy_proc": 4.4,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Stanko",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 2150,
+     "hlasy_proc": 4.35,
+     "titul_pred": "",
+     "jmeno": "Vladislav",
+     "prijmeni": "Nemeš",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 129,
+   "hlasy": 8894,
+   "hlasy_proc": 6.79,
+   "kandidatu": 23,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.35,
+   "nazev": "SNK Evropští demokraté",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 571,
+     "hlasy_proc": 6.42,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Šlégr",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 166,
+   "hlasy": 11866,
+   "hlasy_proc": 9.06,
+   "kandidatu": 23,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.7,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 885,
+     "hlasy_proc": 7.45,
+     "titul_pred": "Mgr.",
+     "jmeno": "Milan",
+     "prijmeni": "Šťovíček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 622,
+     "hlasy_proc": 5.24,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Biolek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 1259,
+   "hlasy": 7488,
+   "hlasy_proc": 5.71,
+   "kandidatu": 23,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.35,
+   "nazev": "LEPŠÍ SEVER",
+   "zvoleni": [
+    {
+     "poradi": 6,
+     "hlasy": 520,
+     "hlasy_proc": 6.94,
+     "titul_pred": "PhDr.",
+     "jmeno": "Patrik Christian",
+     "prijmeni": "Cmorej",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 529,
+   "hlasy": 12260,
+   "hlasy_proc": 9.36,
+   "kandidatu": 23,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.7,
+   "nazev": "Litvínov DO TOHO!",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 719,
+     "hlasy_proc": 5.86,
+     "titul_pred": "Bc.",
+     "jmeno": "Petr",
+     "prijmeni": "Globočník",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 686,
+     "hlasy_proc": 5.59,
+     "titul_pred": "Mgr.",
+     "jmeno": "Daniel",
+     "prijmeni": "Urik",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T19:25:00"
+}

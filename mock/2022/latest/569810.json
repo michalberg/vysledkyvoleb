@@ -1,0 +1,521 @@
+{
+ "kod": "569810",
+ "nazev": "Hradec Králové",
+ "typ": "OBEC",
+ "voleno": 37,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T20:40:00",
+ "ucast": {
+  "okrsky_celkem": 85,
+  "okrsky_zprac": 85,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 71965,
+  "vydane_obalky": 30375,
+  "ucast_proc": 42.21,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 30359,
+  "platne_listky": null,
+  "platne_hlasy": 1045817
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1590,
+   "hlasy": 32908,
+   "hlasy_proc": 3.14,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "HRADEC ROZUMEM"
+  },
+  {
+   "por": 2,
+   "vstrana": 371,
+   "hlasy": 18876,
+   "hlasy_proc": 1.8,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická s podporou nezávislých"
+  },
+  {
+   "por": 3,
+   "vstrana": 1252,
+   "hlasy": 3288,
+   "hlasy_proc": 0.31,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ROMA LUMA"
+  },
+  {
+   "por": 4,
+   "vstrana": 1256,
+   "hlasy": 26334,
+   "hlasy_proc": 2.51,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "HRADEČÁCI"
+  },
+  {
+   "por": 5,
+   "vstrana": 1114,
+   "hlasy": 67887,
+   "hlasy_proc": 6.49,
+   "kandidatu": 37,
+   "zastupitele": 3,
+   "zastupitele_proc": 8.11,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2096,
+     "hlasy_proc": 3.08,
+     "titul_pred": "Ing.",
+     "jmeno": "Irena",
+     "prijmeni": "Němcová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2017,
+     "hlasy_proc": 2.97,
+     "titul_pred": "",
+     "jmeno": "Ivan",
+     "prijmeni": "Picek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2062,
+     "hlasy_proc": 3.03,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Piskač",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 457,
+   "hlasy": 44628,
+   "hlasy_proc": 4.26,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hradečtí kantoři a Nestraníci"
+  },
+  {
+   "por": 7,
+   "vstrana": 166,
+   "hlasy": 34971,
+   "hlasy_proc": 3.34,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 8,
+   "vstrana": 1530,
+   "hlasy": 142949,
+   "hlasy_proc": 13.66,
+   "kandidatu": 37,
+   "zastupitele": 7,
+   "zastupitele_proc": 18.92,
+   "nazev": "Hradecký demokratický klub a TOP 09 s podporou Hradeckých patriotů a LES",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 5182,
+     "hlasy_proc": 3.62,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Pavlína",
+     "prijmeni": "Springerová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 4283,
+     "hlasy_proc": 2.99,
+     "titul_pred": "Ing.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Řádek",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 4174,
+     "hlasy_proc": 2.91,
+     "titul_pred": "Ing.",
+     "jmeno": "Romana",
+     "prijmeni": "Dürrerová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 4168,
+     "hlasy_proc": 2.91,
+     "titul_pred": "JUDr.",
+     "jmeno": "Arnošt",
+     "prijmeni": "Urban",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 4013,
+     "hlasy_proc": 2.8,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jakub",
+     "prijmeni": "Sofka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 4177,
+     "hlasy_proc": 2.92,
+     "titul_pred": "JUDr.",
+     "jmeno": "Kamil",
+     "prijmeni": "Podroužek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 14,
+     "hlasy": 4820,
+     "hlasy_proc": 3.37,
+     "titul_pred": "MUDr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Fink",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 364,
+   "hlasy": 58553,
+   "hlasy_proc": 5.59,
+   "kandidatu": 37,
+   "zastupitele": 2,
+   "zastupitele_proc": 5.41,
+   "nazev": "Změna pro Hradec a Zelení",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2277,
+     "hlasy_proc": 3.88,
+     "titul_pred": "Ing.",
+     "jmeno": "Adam",
+     "prijmeni": "Záruba",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2281,
+     "hlasy_proc": 3.89,
+     "titul_pred": "RNDr. PhDr.",
+     "jmeno": "Ivo",
+     "prijmeni": "Králíček",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 10,
+   "vstrana": 47,
+   "hlasy": 32326,
+   "hlasy_proc": 3.09,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 11,
+   "vstrana": 768,
+   "hlasy": 256422,
+   "hlasy_proc": 24.51,
+   "kandidatu": 37,
+   "zastupitele": 13,
+   "zastupitele_proc": 35.14,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 7366,
+     "hlasy_proc": 2.87,
+     "titul_pred": "",
+     "jmeno": "Jana",
+     "prijmeni": "Šandová",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 7234,
+     "hlasy_proc": 2.82,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Fiedler",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 7188,
+     "hlasy_proc": 2.8,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Groh",
+     "titul_za": "LL.M., MBA"
+    },
+    {
+     "poradi": 4,
+     "hlasy": 7137,
+     "hlasy_proc": 2.78,
+     "titul_pred": "Mgr. et Mgr. Bc.",
+     "jmeno": "Jan",
+     "prijmeni": "Fajfr",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 7050,
+     "hlasy_proc": 2.74,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Gelbič",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 7046,
+     "hlasy_proc": 2.74,
+     "titul_pred": "Ing.",
+     "jmeno": "Miloslav",
+     "prijmeni": "Nejedlý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 7459,
+     "hlasy_proc": 2.9,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Mašek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 7112,
+     "hlasy_proc": 2.77,
+     "titul_pred": "",
+     "jmeno": "Andrea",
+     "prijmeni": "Turková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 7081,
+     "hlasy_proc": 2.76,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Kos",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 7125,
+     "hlasy_proc": 2.77,
+     "titul_pred": "",
+     "jmeno": "Denis",
+     "prijmeni": "Doksanský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 6990,
+     "hlasy_proc": 2.72,
+     "titul_pred": "Ing.",
+     "jmeno": "Jindřich",
+     "prijmeni": "Outlý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 7179,
+     "hlasy_proc": 2.79,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Marek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 13,
+     "hlasy": 7076,
+     "hlasy_proc": 2.75,
+     "titul_pred": "Ing.",
+     "jmeno": "Monika",
+     "prijmeni": "Štayrová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 12,
+   "vstrana": 53,
+   "hlasy": 107433,
+   "hlasy_proc": 10.27,
+   "kandidatu": 37,
+   "zastupitele": 5,
+   "zastupitele_proc": 13.51,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3283,
+     "hlasy_proc": 3.05,
+     "titul_pred": "Ing.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Hloušek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3433,
+     "hlasy_proc": 3.19,
+     "titul_pred": "doc. RNDr.",
+     "jmeno": "Jan",
+     "prijmeni": "Kříž",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3335,
+     "hlasy_proc": 3.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Oldřich",
+     "prijmeni": "Vlasák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3250,
+     "hlasy_proc": 3.02,
+     "titul_pred": "prof. PharmDr.",
+     "jmeno": "Alexandr",
+     "prijmeni": "Hrabálek",
+     "titul_za": "CSc."
+    },
+    {
+     "poradi": 11,
+     "hlasy": 3306,
+     "hlasy_proc": 3.07,
+     "titul_pred": "prof. MUDr.",
+     "jmeno": "Roman",
+     "prijmeni": "Chlíbek",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 13,
+   "vstrana": 1564,
+   "hlasy": 75186,
+   "hlasy_proc": 7.18,
+   "kandidatu": 37,
+   "zastupitele": 3,
+   "zastupitele_proc": 8.11,
+   "nazev": "ROZVÍJÍME HRADEC - NOVÁ HRADECKÁ OBČANSKÁ KANDIDÁTKA",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2822,
+     "hlasy_proc": 3.75,
+     "titul_pred": "JUDr.",
+     "jmeno": "Jan",
+     "prijmeni": "Holásek",
+     "titul_za": "LL.M."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2301,
+     "hlasy_proc": 3.06,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ilona",
+     "prijmeni": "Dvořáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2530,
+     "hlasy_proc": 3.36,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Nebeský",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 14,
+   "vstrana": 720,
+   "hlasy": 94766,
+   "hlasy_proc": 9.06,
+   "kandidatu": 37,
+   "zastupitele": 4,
+   "zastupitele_proc": 10.81,
+   "nazev": "Česká pirátská strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3228,
+     "hlasy_proc": 3.4,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Vrbický",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2926,
+     "hlasy_proc": 3.08,
+     "titul_pred": "",
+     "jmeno": "Aleš",
+     "prijmeni": "Dohnal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2927,
+     "hlasy_proc": 3.08,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Zeman",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2932,
+     "hlasy_proc": 3.09,
+     "titul_pred": "doc. PhDr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Vacek",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 15,
+   "vstrana": 355,
+   "hlasy": 49290,
+   "hlasy_proc": 4.71,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koalice pro Hradec"
+  }
+ ],
+ "stazeno": "2022-09-24T20:40:00"
+}

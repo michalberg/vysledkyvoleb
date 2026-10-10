@@ -1,0 +1,114 @@
+{
+ "kod": "573868",
+ "nazev": "Náchod",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:05:00",
+ "ucast": {
+  "okrsky_celkem": 25,
+  "okrsky_zprac": 24,
+  "okrsky_zprac_proc": 96.0,
+  "zapsani_volici": 14600,
+  "vydane_obalky": 6785,
+  "ucast_proc": 46.47,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 6779,
+  "platne_listky": null,
+  "platne_hlasy": 156808
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1374,
+   "hlasy": 17769,
+   "hlasy_proc": 11.33,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Za moderní Náchod s úctou k tradicím - Piráti, TOP 09, Zelení a nezávislí"
+  },
+  {
+   "por": 2,
+   "vstrana": 1264,
+   "hlasy": 12732,
+   "hlasy_proc": 8.12,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PATRIOTI NÁCHODA"
+  },
+  {
+   "por": 3,
+   "vstrana": 1454,
+   "hlasy": 16802,
+   "hlasy_proc": 10.72,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS, Starostové a nezávislí, Východočeši"
+  },
+  {
+   "por": 4,
+   "vstrana": 47,
+   "hlasy": 2722,
+   "hlasy_proc": 1.74,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 61791,
+   "hlasy_proc": 39.41,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "JAN BIRKE PRO NÁCHOD"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 21727,
+   "hlasy_proc": 13.86,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 7,
+   "vstrana": 1245,
+   "hlasy": 3253,
+   "hlasy_proc": 2.07,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 8,
+   "vstrana": 1,
+   "hlasy": 11316,
+   "hlasy_proc": 7.22,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 9,
+   "vstrana": 1114,
+   "hlasy": 8696,
+   "hlasy_proc": 5.55,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  }
+ ],
+ "stazeno": "2022-09-24T19:05:00"
+}

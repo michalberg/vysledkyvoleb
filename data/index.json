@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:10:34+02:00",
+ "aktualizovano": "2026-10-10T15:22:20+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -452,6 +452,186 @@
    "okrsky_zprac": 0,
    "okrsky_celkem": 9,
    "generovano": "2026-10-08T16:40:23"
+  },
+  {
+   "kod": "561380",
+   "nazev": "Česká Lípa",
+   "voleno": 25,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 44,
+   "generovano": "2026-10-08T16:40:34"
+  },
+  {
+   "kod": "544256",
+   "nazev": "České Budějovice",
+   "voleno": 45,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 90,
+   "generovano": "2026-10-08T16:40:24"
+  },
+  {
+   "kod": "569810",
+   "nazev": "Hradec Králové",
+   "voleno": 37,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 85,
+   "generovano": "2026-10-08T16:40:40"
+  },
+  {
+   "kod": "554481",
+   "nazev": "Cheb",
+   "voleno": 29,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 33,
+   "generovano": "2026-10-08T16:40:20"
+  },
+  {
+   "kod": "562971",
+   "nazev": "Chomutov",
+   "voleno": 35,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 40,
+   "generovano": "2026-10-08T16:40:37"
+  },
+  {
+   "kod": "563129",
+   "nazev": "Klášterec nad Ohří",
+   "voleno": 21,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 11,
+   "generovano": "2026-10-08T16:40:23"
+  },
+  {
+   "kod": "564567",
+   "nazev": "Litoměřice",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 30,
+   "generovano": "2026-10-08T16:40:37"
+  },
+  {
+   "kod": "567256",
+   "nazev": "Litvínov",
+   "voleno": 23,
+   "je_spocteno": false,
+   "okrsky_zprac": 2,
+   "okrsky_celkem": 28,
+   "generovano": "2026-10-10T14:50:02"
+  },
+  {
+   "kod": "565229",
+   "nazev": "Lovosice",
+   "voleno": 21,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 10,
+   "generovano": "2026-10-08T16:40:29"
+  },
+  {
+   "kod": "540765",
+   "nazev": "Mníšek pod Brdy",
+   "voleno": 15,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 5,
+   "generovano": "2026-10-08T16:40:26"
+  },
+  {
+   "kod": "567027",
+   "nazev": "Most",
+   "voleno": 45,
+   "je_spocteno": false,
+   "okrsky_zprac": 2,
+   "okrsky_celkem": 60,
+   "generovano": "2026-10-10T15:17:02"
+  },
+  {
+   "kod": "573868",
+   "nazev": "Náchod",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 25,
+   "generovano": "2026-10-08T16:40:39"
+  },
+  {
+   "kod": "500496",
+   "nazev": "Olomouc",
+   "voleno": 45,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 96,
+   "generovano": "2026-10-08T16:40:40"
+  },
+  {
+   "kod": "554286",
+   "nazev": "Ostrava-Mariánské Hory a Hulváky",
+   "voleno": 15,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 9,
+   "generovano": "2026-10-08T16:40:20"
+  },
+  {
+   "kod": "555134",
+   "nazev": "Pardubice",
+   "voleno": 39,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 92,
+   "generovano": "2026-10-08T16:40:34"
+  },
+  {
+   "kod": "549240",
+   "nazev": "Písek",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 29,
+   "generovano": "2026-10-08T16:40:35"
+  },
+  {
+   "kod": "554791",
+   "nazev": "Plzeň",
+   "voleno": 47,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 174,
+   "generovano": "2026-10-08T16:40:34"
+  },
+  {
+   "kod": "588024",
+   "nazev": "Telč",
+   "voleno": 21,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 7,
+   "generovano": "2026-10-08T16:40:23"
+  },
+  {
+   "kod": "567442",
+   "nazev": "Teplice",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 37,
+   "generovano": "2026-10-08T16:40:21"
+  },
+  {
+   "kod": "554804",
+   "nazev": "Ústí nad Labem",
+   "voleno": 37,
+   "je_spocteno": false,
+   "okrsky_zprac": 0,
+   "okrsky_celkem": 97,
+   "generovano": "2026-10-08T16:40:20"
   }
  ]
 }

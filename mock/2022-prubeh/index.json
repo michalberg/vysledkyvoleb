@@ -452,6 +452,186 @@
    "okrsky_zprac": 1,
    "okrsky_celkem": 9,
    "generovano": "2022-09-24T19:35:00"
+  },
+  {
+   "kod": "561380",
+   "nazev": "Česká Lípa",
+   "voleno": 25,
+   "je_spocteno": true,
+   "okrsky_zprac": 44,
+   "okrsky_celkem": 44,
+   "generovano": "2022-09-24T19:00:01"
+  },
+  {
+   "kod": "544256",
+   "nazev": "České Budějovice",
+   "voleno": 45,
+   "je_spocteno": false,
+   "okrsky_zprac": 75,
+   "okrsky_celkem": 90,
+   "generovano": "2022-09-24T19:40:00"
+  },
+  {
+   "kod": "569810",
+   "nazev": "Hradec Králové",
+   "voleno": 37,
+   "je_spocteno": false,
+   "okrsky_zprac": 77,
+   "okrsky_celkem": 85,
+   "generovano": "2022-09-24T19:40:00"
+  },
+  {
+   "kod": "554481",
+   "nazev": "Cheb",
+   "voleno": 29,
+   "je_spocteno": false,
+   "okrsky_zprac": 30,
+   "okrsky_celkem": 32,
+   "generovano": "2022-09-24T19:35:00"
+  },
+  {
+   "kod": "562971",
+   "nazev": "Chomutov",
+   "voleno": 35,
+   "je_spocteno": false,
+   "okrsky_zprac": 36,
+   "okrsky_celkem": 40,
+   "generovano": "2022-09-24T19:05:00"
+  },
+  {
+   "kod": "563129",
+   "nazev": "Klášterec nad Ohří",
+   "voleno": 21,
+   "je_spocteno": true,
+   "okrsky_zprac": 11,
+   "okrsky_celkem": 11,
+   "generovano": "2022-09-24T18:25:00"
+  },
+  {
+   "kod": "564567",
+   "nazev": "Litoměřice",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 29,
+   "okrsky_celkem": 30,
+   "generovano": "2022-09-24T18:45:00"
+  },
+  {
+   "kod": "567256",
+   "nazev": "Litvínov",
+   "voleno": 23,
+   "je_spocteno": true,
+   "okrsky_zprac": 28,
+   "okrsky_celkem": 28,
+   "generovano": "2022-09-24T19:25:00"
+  },
+  {
+   "kod": "565229",
+   "nazev": "Lovosice",
+   "voleno": 21,
+   "je_spocteno": true,
+   "okrsky_zprac": 10,
+   "okrsky_celkem": 10,
+   "generovano": "2022-09-24T17:20:00"
+  },
+  {
+   "kod": "540765",
+   "nazev": "Mníšek pod Brdy",
+   "voleno": 15,
+   "je_spocteno": true,
+   "okrsky_zprac": 5,
+   "okrsky_celkem": 5,
+   "generovano": "2022-09-24T18:30:00"
+  },
+  {
+   "kod": "567027",
+   "nazev": "Most",
+   "voleno": 45,
+   "je_spocteno": false,
+   "okrsky_zprac": 57,
+   "okrsky_celkem": 60,
+   "generovano": "2022-09-24T19:35:00"
+  },
+  {
+   "kod": "573868",
+   "nazev": "Náchod",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 24,
+   "okrsky_celkem": 25,
+   "generovano": "2022-09-24T19:05:00"
+  },
+  {
+   "kod": "500496",
+   "nazev": "Olomouc",
+   "voleno": 45,
+   "je_spocteno": false,
+   "okrsky_zprac": 81,
+   "okrsky_celkem": 96,
+   "generovano": "2022-09-24T19:40:00"
+  },
+  {
+   "kod": "554286",
+   "nazev": "Ostrava-Mariánské Hory a Hulváky",
+   "voleno": 15,
+   "je_spocteno": false,
+   "okrsky_zprac": 2,
+   "okrsky_celkem": 9,
+   "generovano": "2022-09-24T19:15:00"
+  },
+  {
+   "kod": "555134",
+   "nazev": "Pardubice",
+   "voleno": 39,
+   "je_spocteno": false,
+   "okrsky_zprac": 48,
+   "okrsky_celkem": 92,
+   "generovano": "2022-09-24T19:40:00"
+  },
+  {
+   "kod": "549240",
+   "nazev": "Písek",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 26,
+   "okrsky_celkem": 29,
+   "generovano": "2022-09-24T19:30:00"
+  },
+  {
+   "kod": "554791",
+   "nazev": "Plzeň",
+   "voleno": 47,
+   "je_spocteno": false,
+   "okrsky_zprac": 163,
+   "okrsky_celkem": 184,
+   "generovano": "2022-09-24T19:35:00"
+  },
+  {
+   "kod": "588024",
+   "nazev": "Telč",
+   "voleno": 21,
+   "je_spocteno": true,
+   "okrsky_zprac": 7,
+   "okrsky_celkem": 7,
+   "generovano": "2022-09-24T18:55:00"
+  },
+  {
+   "kod": "567442",
+   "nazev": "Teplice",
+   "voleno": 27,
+   "je_spocteno": true,
+   "okrsky_zprac": 47,
+   "okrsky_celkem": 47,
+   "generovano": "2022-09-24T19:20:00"
+  },
+  {
+   "kod": "554804",
+   "nazev": "Ústí nad Labem",
+   "voleno": 37,
+   "je_spocteno": false,
+   "okrsky_zprac": 73,
+   "okrsky_celkem": 97,
+   "generovano": "2022-09-24T19:40:00"
   }
  ]
 }

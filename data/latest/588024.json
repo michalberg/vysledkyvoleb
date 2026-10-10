@@ -1,0 +1,94 @@
+{
+ "kod": "588024",
+ "nazev": "Telč",
+ "typ": "OBEC",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:23",
+ "ucast": {
+  "okrsky_celkem": 7,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 47,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 2,
+   "vstrana": 411,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Volba pro Telč"
+  },
+  {
+   "por": 3,
+   "vstrana": 470,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLUOBČANÉ S PODPOROU STAROSTŮ"
+  },
+  {
+   "por": 4,
+   "vstrana": 529,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Telč - Piráti a Zelení"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 457,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČAS ZMĚNY"
+  },
+  {
+   "por": 7,
+   "vstrana": 355,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Noví Lidovci pro Telč"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

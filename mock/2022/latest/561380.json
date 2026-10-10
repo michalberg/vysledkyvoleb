@@ -1,0 +1,379 @@
+{
+ "kod": "561380",
+ "nazev": "Česká Lípa",
+ "typ": "OBEC",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T19:00:01",
+ "ucast": {
+  "okrsky_celkem": 44,
+  "okrsky_zprac": 44,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 28426,
+  "vydane_obalky": 9577,
+  "ucast_proc": 33.69,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 9576,
+  "platne_listky": null,
+  "platne_hlasy": 217249
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1245,
+   "hlasy": 6353,
+   "hlasy_proc": 2.92,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 2,
+   "vstrana": 7,
+   "hlasy": 3641,
+   "hlasy_proc": 1.82,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická"
+  },
+  {
+   "por": 3,
+   "vstrana": 475,
+   "hlasy": 42987,
+   "hlasy_proc": 19.78,
+   "kandidatu": 25,
+   "zastupitele": 6,
+   "zastupitele_proc": 24.0,
+   "nazev": "ŽIVÁ LÍPA",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2081,
+     "hlasy_proc": 4.84,
+     "titul_pred": "",
+     "jmeno": "Jakub",
+     "prijmeni": "Mencl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2017,
+     "hlasy_proc": 4.69,
+     "titul_pred": "",
+     "jmeno": "Štěpán",
+     "prijmeni": "Slaný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1953,
+     "hlasy_proc": 4.54,
+     "titul_pred": "",
+     "jmeno": "Roman",
+     "prijmeni": "Málek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2088,
+     "hlasy_proc": 4.85,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Turnhöfer",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1942,
+     "hlasy_proc": 4.51,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Jan",
+     "prijmeni": "Policer",
+     "titul_za": ""
+    },
+    {
+     "poradi": 17,
+     "hlasy": 1928,
+     "hlasy_proc": 4.48,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Znamenáček",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 720,
+   "hlasy": 8839,
+   "hlasy_proc": 4.06,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 5,
+   "vstrana": 457,
+   "hlasy": 11699,
+   "hlasy_proc": 5.38,
+   "kandidatu": 25,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.0,
+   "nazev": "PRO Českou Lípu",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 885,
+     "hlasy_proc": 7.56,
+     "titul_pred": "Ing.",
+     "jmeno": "Roman",
+     "prijmeni": "Kozák",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 1221,
+   "hlasy": 2496,
+   "hlasy_proc": 1.14,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "DOMOV"
+  },
+  {
+   "por": 7,
+   "vstrana": 1227,
+   "hlasy": 2123,
+   "hlasy_proc": 0.97,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Trikolora"
+  },
+  {
+   "por": 8,
+   "vstrana": 714,
+   "hlasy": 5024,
+   "hlasy_proc": 2.4,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní"
+  },
+  {
+   "por": 9,
+   "vstrana": 768,
+   "hlasy": 88627,
+   "hlasy_proc": 40.79,
+   "kandidatu": 25,
+   "zastupitele": 13,
+   "zastupitele_proc": 52.0,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 4348,
+     "hlasy_proc": 4.9,
+     "titul_pred": "Ing.",
+     "jmeno": "Jitka",
+     "prijmeni": "Volfová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3882,
+     "hlasy_proc": 4.38,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Brož",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3688,
+     "hlasy_proc": 4.16,
+     "titul_pred": "",
+     "jmeno": "Roman",
+     "prijmeni": "Hejna",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3680,
+     "hlasy_proc": 4.15,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Volf",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3653,
+     "hlasy_proc": 4.12,
+     "titul_pred": "",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Líbal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3614,
+     "hlasy_proc": 4.07,
+     "titul_pred": "",
+     "jmeno": "Lubomír",
+     "prijmeni": "Růžička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 3637,
+     "hlasy_proc": 4.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Šimoník",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 3544,
+     "hlasy_proc": 3.99,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Kratochvíl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 3573,
+     "hlasy_proc": 4.03,
+     "titul_pred": "",
+     "jmeno": "Nela",
+     "prijmeni": "Cyrmon Theerová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 3761,
+     "hlasy_proc": 4.24,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jan",
+     "prijmeni": "Moravík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 3552,
+     "hlasy_proc": 4.0,
+     "titul_pred": "",
+     "jmeno": "Lenka",
+     "prijmeni": "Vaňková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 3676,
+     "hlasy_proc": 4.14,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Lebduška",
+     "titul_za": ""
+    },
+    {
+     "poradi": 13,
+     "hlasy": 3481,
+     "hlasy_proc": 3.92,
+     "titul_pred": "",
+     "jmeno": "Anna",
+     "prijmeni": "Koštová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 10,
+   "vstrana": 47,
+   "hlasy": 5677,
+   "hlasy_proc": 2.61,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 11,
+   "vstrana": 1327,
+   "hlasy": 18187,
+   "hlasy_proc": 8.37,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "SPOLU",
+   "zvoleni": [
+    {
+     "poradi": 5,
+     "hlasy": 953,
+     "hlasy_proc": 5.24,
+     "titul_pred": "Bc.",
+     "jmeno": "Michal",
+     "prijmeni": "Prokop",
+     "titul_za": ""
+    },
+    {
+     "poradi": 13,
+     "hlasy": 1030,
+     "hlasy_proc": 5.66,
+     "titul_pred": "MUDr.",
+     "jmeno": "Karel",
+     "prijmeni": "Tejnora",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 12,
+   "vstrana": 1114,
+   "hlasy": 21596,
+   "hlasy_proc": 9.94,
+   "kandidatu": 25,
+   "zastupitele": 3,
+   "zastupitele_proc": 12.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1006,
+     "hlasy_proc": 4.65,
+     "titul_pred": "",
+     "jmeno": "Lukáš",
+     "prijmeni": "Leiner",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 976,
+     "hlasy_proc": 4.51,
+     "titul_pred": "",
+     "jmeno": "Marcela",
+     "prijmeni": "Kropáčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1052,
+     "hlasy_proc": 4.87,
+     "titul_pred": "Mgr.",
+     "jmeno": "Romana",
+     "prijmeni": "Žatecká",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T19:00:01"
+}

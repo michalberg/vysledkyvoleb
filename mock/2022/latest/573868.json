@@ -1,0 +1,371 @@
+{
+ "kod": "573868",
+ "nazev": "Náchod",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T20:15:00",
+ "ucast": {
+  "okrsky_celkem": 25,
+  "okrsky_zprac": 25,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 15384,
+  "vydane_obalky": 7120,
+  "ucast_proc": 46.28,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 7114,
+  "platne_listky": null,
+  "platne_hlasy": 164451
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1374,
+   "hlasy": 18715,
+   "hlasy_proc": 11.38,
+   "kandidatu": 27,
+   "zastupitele": 3,
+   "zastupitele_proc": 11.11,
+   "nazev": "Za moderní Náchod s úctou k tradicím - Piráti, TOP 09, Zelení a nezávislí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 963,
+     "hlasy_proc": 5.14,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Kudrnáč",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 942,
+     "hlasy_proc": 5.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Denisa",
+     "prijmeni": "Pokorná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1050,
+     "hlasy_proc": 5.61,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Ježek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1264,
+   "hlasy": 13157,
+   "hlasy_proc": 8.0,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "PATRIOTI NÁCHODA",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 694,
+     "hlasy_proc": 5.27,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Vik",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 853,
+     "hlasy_proc": 6.48,
+     "titul_pred": "MUDr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Žďárský",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 1454,
+   "hlasy": 17588,
+   "hlasy_proc": 10.69,
+   "kandidatu": 27,
+   "zastupitele": 3,
+   "zastupitele_proc": 11.11,
+   "nazev": "ODS, Starostové a nezávislí, Východočeši",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1077,
+     "hlasy_proc": 6.12,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jan",
+     "prijmeni": "Falta",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1362,
+     "hlasy_proc": 7.74,
+     "titul_pred": "Mgr.",
+     "jmeno": "František",
+     "prijmeni": "Majer",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 973,
+     "hlasy_proc": 5.53,
+     "titul_pred": "Mgr.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Jindra",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 47,
+   "hlasy": 2916,
+   "hlasy_proc": 2.27,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 64385,
+   "hlasy_proc": 39.15,
+   "kandidatu": 27,
+   "zastupitele": 12,
+   "zastupitele_proc": 44.44,
+   "nazev": "JAN BIRKE PRO NÁCHOD",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3799,
+     "hlasy_proc": 5.9,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Birke",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3060,
+     "hlasy_proc": 4.75,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Čtvrtečka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2817,
+     "hlasy_proc": 4.37,
+     "titul_pred": "MUDr.",
+     "jmeno": "Edita",
+     "prijmeni": "Nováková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2609,
+     "hlasy_proc": 4.05,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radka",
+     "prijmeni": "Lokvencová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2644,
+     "hlasy_proc": 4.1,
+     "titul_pred": "MUDr.",
+     "jmeno": "Ladislav",
+     "prijmeni": "Tichý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2510,
+     "hlasy_proc": 3.89,
+     "titul_pred": "",
+     "jmeno": "Miroslav",
+     "prijmeni": "Brát",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2487,
+     "hlasy_proc": 3.86,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Hronková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2715,
+     "hlasy_proc": 4.21,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Magnusek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2412,
+     "hlasy_proc": 3.74,
+     "titul_pred": "",
+     "jmeno": "Marek",
+     "prijmeni": "Dvorský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 2409,
+     "hlasy_proc": 3.74,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Brát",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 2494,
+     "hlasy_proc": 3.87,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Jirásek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 2300,
+     "hlasy_proc": 3.57,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Tesař",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 23202,
+   "hlasy_proc": 14.1,
+   "kandidatu": 27,
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1133,
+     "hlasy_proc": 4.88,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Prokop",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1091,
+     "hlasy_proc": 4.7,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Zima",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1105,
+     "hlasy_proc": 4.76,
+     "titul_pred": "Mgr.",
+     "jmeno": "Renata",
+     "prijmeni": "Klimešová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1066,
+     "hlasy_proc": 4.59,
+     "titul_pred": "",
+     "jmeno": "Štěpán",
+     "prijmeni": "Kačer",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 1245,
+   "hlasy": 3406,
+   "hlasy_proc": 2.15,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 8,
+   "vstrana": 1,
+   "hlasy": 11607,
+   "hlasy_proc": 7.05,
+   "kandidatu": 27,
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 740,
+     "hlasy_proc": 6.37,
+     "titul_pred": "JUDr.",
+     "jmeno": "Dita",
+     "prijmeni": "Vávrová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 697,
+     "hlasy_proc": 6.0,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Řehák",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 1114,
+   "hlasy": 9475,
+   "hlasy_proc": 5.98,
+   "kandidatu": 26,
+   "zastupitele": 1,
+   "zastupitele_proc": 3.7,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 473,
+     "hlasy_proc": 4.99,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Bertha",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T20:15:00"
+}

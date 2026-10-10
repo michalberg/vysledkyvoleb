@@ -1,0 +1,114 @@
+{
+ "kod": "555134",
+ "nazev": "Pardubice",
+ "typ": "OBEC",
+ "voleno": 39,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 92,
+  "okrsky_zprac": 48,
+  "okrsky_zprac_proc": 52.17,
+  "zapsani_volici": 30764,
+  "vydane_obalky": 12410,
+  "ucast_proc": 40.34,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 12386,
+  "platne_listky": null,
+  "platne_hlasy": 426615
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1327,
+   "hlasy": 84720,
+   "hlasy_proc": 19.86,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU (ODS, KDU-ČSL, TOP 09)"
+  },
+  {
+   "por": 2,
+   "vstrana": 1066,
+   "hlasy": 45411,
+   "hlasy_proc": 10.64,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti: 42projektu.cz"
+  },
+  {
+   "por": 3,
+   "vstrana": 1495,
+   "hlasy": 46067,
+   "hlasy_proc": 10.8,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Žijeme Pardubice"
+  },
+  {
+   "por": 4,
+   "vstrana": 1301,
+   "hlasy": 31165,
+   "hlasy_proc": 7.31,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NAŠE PARDUBICE - \"Nechme město rozkvést\""
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 128114,
+   "hlasy_proc": 30.03,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 1491,
+   "hlasy": 31822,
+   "hlasy_proc": 7.46,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí s podporou Trikolory"
+  },
+  {
+   "por": 7,
+   "vstrana": 1496,
+   "hlasy": 42144,
+   "hlasy_proc": 9.88,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ PRO PARDUBICE (Pardubáci společně, Sdružení pro Pardubice, Pardubice pro lidi)"
+  },
+  {
+   "por": 8,
+   "vstrana": 47,
+   "hlasy": 9638,
+   "hlasy_proc": 2.26,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 9,
+   "vstrana": 166,
+   "hlasy": 7534,
+   "hlasy_proc": 1.77,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

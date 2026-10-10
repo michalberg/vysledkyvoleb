@@ -89,6 +89,15 @@
    "Volte Pr.Blok www.cibulka.net"
   ]
  },
+ "113": {
+  "nazev": "Volba pro město",
+  "zkratka": "Volba pro město",
+  "zkratka8": "VPM",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "Volba pro město"
+  ]
+ },
  "121": {
   "nazev": "LEPŠÍ ŽIVOT PRO LIDI",
   "zkratka": "LEPŠÍ ŽIVOT PRO LIDI",
@@ -145,6 +154,16 @@
    "Komunistická str.Čech a Moravy"
   ]
  },
+ "339": {
+  "nazev": "Koalice KDU-ČSL, Nestraníci",
+  "zkratka": "Koalice KDU-ČSL, Nestraníci",
+  "zkratka8": "KDU-ČSL+Nestran",
+  "typ": "koalice",
+  "slozeni": [
+   "KDU-ČSL",
+   "Nestraníci"
+  ]
+ },
  "340": {
   "nazev": "Koalice KDU-ČSL, STAN",
   "zkratka": "Koalice KDU-ČSL, STAN",
@@ -153,6 +172,17 @@
   "slozeni": [
    "KDU-ČSL",
    "STAROSTOVÉ A NEZÁVISLÍ"
+  ]
+ },
+ "353": {
+  "nazev": "Sdružení KDU-ČSL, ODS, NK",
+  "zkratka": "Sdružení KDU-ČSL, ODS, NK",
+  "zkratka8": "KDU-ČSL+ODS+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "KDU-ČSL",
+   "Občanská demokratická strana",
+   "Nezávislý kandidát"
   ]
  },
  "355": {
@@ -185,6 +215,27 @@
    "Nezávislý kandidát"
   ]
  },
+ "385": {
+  "nazev": "Sdružení KSČM, SDS, NK",
+  "zkratka": "Sdružení KSČM, SDS, NK",
+  "zkratka8": "KSČM+SDS+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Komunistická str.Čech a Moravy",
+   "Levice",
+   "Nezávislý kandidát"
+  ]
+ },
+ "387": {
+  "nazev": "Sdružení KSČM, NK",
+  "zkratka": "Sdružení KSČM, NK",
+  "zkratka8": "KSČM+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Komunistická str.Čech a Moravy",
+   "Nezávislý kandidát"
+  ]
+ },
  "389": {
   "nazev": "Sdružení ODS, NK",
   "zkratka": "Sdružení ODS, NK",
@@ -192,6 +243,16 @@
   "typ": "sdružení s nezávislými",
   "slozeni": [
    "Občanská demokratická strana",
+   "Nezávislý kandidát"
+  ]
+ },
+ "393": {
+  "nazev": "Sdružení Levice, NK",
+  "zkratka": "Sdružení Levice, NK",
+  "zkratka8": "Levice+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Levice",
    "Nezávislý kandidát"
   ]
  },
@@ -225,6 +286,16 @@
    "SNK Evropští demokraté"
   ]
  },
+ "457": {
+  "nazev": "Sdružení Nestraníci, NK",
+  "zkratka": "Sdružení Nestraníci, NK",
+  "zkratka8": "Nestraníci+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Nestraníci"
+  ]
+ },
  "470": {
   "nazev": "Sdružení STAN, NK",
   "zkratka": "Sdružení STAN, NK",
@@ -244,6 +315,16 @@
    "Sociální demokracie",
    "Komunistická str.Čech a Moravy",
    "Nezávislý kandidát"
+  ]
+ },
+ "475": {
+  "nazev": "Sdružení SLK, NK",
+  "zkratka": "Sdružení SLK, NK",
+  "zkratka8": "SLK+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Starostové pro Liberecký kraj"
   ]
  },
  "477": {
@@ -287,6 +368,16 @@
    "DSZ - ZA PRÁVA ZVÍŘAT"
   ]
  },
+ "492": {
+  "nazev": "Sdružení S.cz, NK",
+  "zkratka": "Sdružení S.cz, NK",
+  "zkratka8": "S.cz+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Severočeši.cz"
+  ]
+ },
  "495": {
   "nazev": "Sdružení TOP 09, STAN, NK",
   "zkratka": "Sdružení TOP 09, STAN, NK",
@@ -295,6 +386,17 @@
   "slozeni": [
    "Nezávislý kandidát",
    "STAROSTOVÉ A NEZÁVISLÍ",
+   "TOP 09"
+  ]
+ },
+ "501": {
+  "nazev": "Sdružení Zelení, TOP 09, NK",
+  "zkratka": "Sdružení Zelení, TOP 09, NK",
+  "zkratka8": "Zelení+TOP09+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Strana zelených",
+   "Nezávislý kandidát",
    "TOP 09"
   ]
  },
@@ -371,6 +473,16 @@
    "Zdraví Sport Vzdělání"
   ]
  },
+ "596": {
+  "nazev": "Koalice STAN a HOPB",
+  "zkratka": "Koalice STAN, HOPB",
+  "zkratka8": "STAN+HOPB",
+  "typ": "koalice",
+  "slozeni": [
+   "STAROSTOVÉ A NEZÁVISLÍ",
+   "Občané pro Budějovice"
+  ]
+ },
  "659": {
   "nazev": "Koalice STAN, TOP 09",
   "zkratka": "Koalice STAN, TOP 09",
@@ -436,6 +548,15 @@
    "Jundrováci"
   ]
  },
+ "755": {
+  "nazev": "Ostravak",
+  "zkratka": "Ostravak",
+  "zkratka8": "Ostravak",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "Ostravak"
+  ]
+ },
  "768": {
   "nazev": "ANO 2011",
   "zkratka": "ANO 2011",
@@ -443,6 +564,24 @@
   "typ": "strana/hnutí",
   "slozeni": [
    "ANO 2011"
+  ]
+ },
+ "785": {
+  "nazev": "Zdraví Sport Vzdělání",
+  "zkratka": "Zdraví Sport Vzdělání",
+  "zkratka8": "PRO Zdraví",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "Zdraví Sport Vzdělání"
+  ]
+ },
+ "1017": {
+  "nazev": "NOVÝ SEVER",
+  "zkratka": "NOVÝ SEVER",
+  "zkratka8": "NS",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "NOVÝ SEVER"
   ]
  },
  "1020": {
@@ -461,6 +600,15 @@
   "typ": "strana/hnutí",
   "slozeni": [
    "Hnutí SOL"
+  ]
+ },
+ "1039": {
+  "nazev": "ProOlomouc",
+  "zkratka": "ProOlomouc",
+  "zkratka8": "ProOl",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "ProOlomouc"
   ]
  },
  "1058": {
@@ -513,6 +661,15 @@
    "Svoboda a př. demokracie (SPD)"
   ]
  },
+ "1118": {
+  "nazev": "VOK – Volba pro kraj",
+  "zkratka": "VOK – Volba pro kraj",
+  "zkratka8": "VOK",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "VOK – Volba pro kraj"
+  ]
+ },
  "1154": {
   "nazev": "Koalice ODS a Soukromníci",
   "zkratka": "Koalice ODS, Soukromníci",
@@ -521,6 +678,15 @@
   "slozeni": [
    "Občanská demokratická strana",
    "Strana soukromníků ČR"
+  ]
+ },
+ "1175": {
+  "nazev": "ProMOST",
+  "zkratka": "ProMOST",
+  "zkratka8": "ProMOST",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "ProMOST"
   ]
  },
  "1178": {
@@ -539,6 +705,15 @@
   "typ": "strana/hnutí",
   "slozeni": [
    "Občané městských částí Opavy"
+  ]
+ },
+ "1192": {
+  "nazev": "spOLečně",
+  "zkratka": "spOLečně",
+  "zkratka8": "spOL",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "spOLečně"
   ]
  },
  "1210": {
@@ -577,6 +752,15 @@
    "Urza.cz: Nechceme vaše hlasy"
   ]
  },
+ "1264": {
+  "nazev": "PATRIOTI NÁCHODA",
+  "zkratka": "PATRIOTI NÁCHODA",
+  "zkratka8": "PaN",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "PATRIOTI NÁCHODA"
+  ]
+ },
  "1265": {
   "nazev": "PRO Právo Respekt Odbornost",
   "zkratka": "PRO Právo Respekt Odbornost",
@@ -604,6 +788,25 @@
    "GEN"
   ]
  },
+ "1298": {
+  "nazev": "Stačilo!",
+  "zkratka": "Stačilo!",
+  "zkratka8": "Stačilo!",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "Stačilo!"
+  ]
+ },
+ "1301": {
+  "nazev": "Sdružení SOPU, NK",
+  "zkratka": "Sdružení SOPU, NK",
+  "zkratka8": "SOPU+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Společnost na ochranu Prok.úd."
+  ]
+ },
  "1305": {
   "nazev": "Sdružení SPD, NK",
   "zkratka": "Sdružení SPD, NK",
@@ -612,6 +815,16 @@
   "slozeni": [
    "Nezávislý kandidát",
    "Svoboda a př. demokracie (SPD)"
+  ]
+ },
+ "1323": {
+  "nazev": "Koalice ODS a STAN",
+  "zkratka": "Koalice ODS, STAN",
+  "zkratka8": "ODS+STAN",
+  "typ": "koalice",
+  "slozeni": [
+   "Občanská demokratická strana",
+   "STAROSTOVÉ A NEZÁVISLÍ"
   ]
  },
  "1327": {
@@ -669,6 +882,17 @@
    "TOP 09"
   ]
  },
+ "1369": {
+  "nazev": "Koalice Zelení, Piráti a TOP 09",
+  "zkratka": "Koalice Zelení, Piráti, TOP 09",
+  "zkratka8": "Zelen+Pirát+TOP",
+  "typ": "koalice",
+  "slozeni": [
+   "Strana zelených",
+   "Česká pirátská strana",
+   "TOP 09"
+  ]
+ },
  "1370": {
   "nazev": "Sdružení KDU-ČSL, Zelení, Piráti, NK",
   "zkratka": "Sdružení KDU,Zelení,Piráti,NK",
@@ -689,6 +913,16 @@
   "slozeni": [
    "Nezávislý kandidát",
    "Pražská městská str.PRAHA SOBĚ"
+  ]
+ },
+ "1376": {
+  "nazev": "Sdružení DV 2016, NK",
+  "zkratka": "Sdružení DV 2016, NK",
+  "zkratka8": "DV 2016+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Dobrá volba 2016"
   ]
  },
  "1399": {
@@ -712,6 +946,17 @@
    "STAROSTOVÉ A NEZÁVISLÍ"
   ]
  },
+ "1454": {
+  "nazev": "Koalice ODS, STAN a VČ",
+  "zkratka": "Koalice ODS, STAN, VČ",
+  "zkratka8": "ODS+STAN+VČ",
+  "typ": "koalice",
+  "slozeni": [
+   "Občanská demokratická strana",
+   "STAROSTOVÉ A NEZÁVISLÍ",
+   "VÝCHODOČEŠI"
+  ]
+ },
  "1479": {
   "nazev": "Sdružení MY, NK",
   "zkratka": "Sdružení MY, NK",
@@ -729,6 +974,17 @@
   "typ": "sdružení s nezávislými",
   "slozeni": [
    "Nezávislý kandidát",
+   "Trikolora"
+  ]
+ },
+ "1486": {
+  "nazev": "Koalice Svobodní, SPD a Trikolora",
+  "zkratka": "Koalice Svobodní,SPD,Trikolora",
+  "zkratka8": "Svob+SPD+Trikol",
+  "typ": "koalice",
+  "slozeni": [
+   "Svobodní",
+   "Svoboda a př. demokracie (SPD)",
    "Trikolora"
   ]
  },
@@ -753,6 +1009,16 @@
    "Trikolora"
   ]
  },
+ "1497": {
+  "nazev": "Sdružení LS, NK",
+  "zkratka": "Sdružení LS, NK",
+  "zkratka8": "LS+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "LEPŠÍ SEVER"
+  ]
+ },
  "1500": {
   "nazev": "Sdružení SEN 21, NK",
   "zkratka": "Sdružení SEN 21, NK",
@@ -761,6 +1027,40 @@
   "slozeni": [
    "Nezávislý kandidát",
    "SEN 21"
+  ]
+ },
+ "1509": {
+  "nazev": "Sdružení SOCDEM, PŘÍSAHA, NK",
+  "zkratka": "Sdružení SOCDEM, PŘÍSAHA, NK",
+  "zkratka8": "SOCD+PŘÍSAHA+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Sociální demokracie",
+   "Nezávislý kandidát",
+   "PŘÍSAHA občanské hnutí"
+  ]
+ },
+ "1521": {
+  "nazev": "Sdružení Budoucnost, NK",
+  "zkratka": "Sdružení Budoucnost, NK",
+  "zkratka8": "Budoucnost+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Budoucnost"
+  ]
+ },
+ "1523": {
+  "nazev": "Sdružení KDU-ČSL, Zelení, Piráti, TOP 09, NK",
+  "zkratka": "KDU-ČSL,Zelení,Piráti,TOP09,NK",
+  "zkratka8": "KDUZelPirTOPNK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "KDU-ČSL",
+   "Strana zelených",
+   "Nezávislý kandidát",
+   "Česká pirátská strana",
+   "TOP 09"
   ]
  },
  "1535": {
@@ -826,6 +1126,27 @@
    "PRO Právo Respekt Odbornost"
   ]
  },
+ "1639": {
+  "nazev": "Koalice SPD, Trikolora a PRO",
+  "zkratka": "Koalice SPD, Trikolora, PRO",
+  "zkratka8": "SPD+Trikol+PRO",
+  "typ": "koalice",
+  "slozeni": [
+   "Svoboda a př. demokracie (SPD)",
+   "Trikolora",
+   "PRO Právo Respekt Odbornost"
+  ]
+ },
+ "1661": {
+  "nazev": "Koalice KDU-ČSL a PRO PLZEŇ",
+  "zkratka": "Koalice KDU-ČSL, PRO PLZEŇ",
+  "zkratka8": "KDUČSL+PROPLZEŇ",
+  "typ": "koalice",
+  "slozeni": [
+   "KDU-ČSL",
+   "PRO PLZEŇ"
+  ]
+ },
  "1682": {
   "nazev": "Koalice Svobodní a SPD",
   "zkratka": "Koalice Svobodní, SPD",
@@ -854,6 +1175,30 @@
   "slozeni": [
    "Nezávislý kandidát",
    "JSME"
+  ]
+ },
+ "1686": {
+  "nazev": "Koalice VÚ a ZLS",
+  "zkratka": "Koalice VÚ, ZLS",
+  "zkratka8": "VÚ+ZLS",
+  "typ": "koalice",
+  "slozeni": [
+   "Vaše Ústí",
+   "Za lepší Střekov"
+  ]
+ },
+ "1687": {
+  "nazev": "Sdružení Svobodní, SPD, AUTO, Trikolora, PRO, NK",
+  "zkratka": "Svob,SPD,AUTO,Trikolora,PRO,NK",
+  "zkratka8": "SvSPDAUTriPRONK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Svobodní",
+   "Svoboda a př. demokracie (SPD)",
+   "Motoristé sobě",
+   "Trikolora",
+   "PRO Právo Respekt Odbornost"
   ]
  },
  "1688": {
@@ -982,6 +1327,15 @@
    "Hnutí Šance pro Počernice"
   ]
  },
+ "1721": {
+  "nazev": "MÁME RÁDI CHOMUTOV",
+  "zkratka": "MÁME RÁDI CHOMUTOV",
+  "zkratka8": "MRCHA",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "MÁME RÁDI CHOMUTOV"
+  ]
+ },
  "1722": {
   "nazev": "Naše Česko",
   "zkratka": "Naše Česko",
@@ -1009,6 +1363,33 @@
    "Řepští sousedé"
   ]
  },
+ "1738": {
+  "nazev": "SALON REPUBLIKY 21",
+  "zkratka": "SALON REPUBLIKY 21",
+  "zkratka8": "SR21",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "SALON REPUBLIKY 21"
+  ]
+ },
+ "1741": {
+  "nazev": "Srdcem pro Pardubice",
+  "zkratka": "Srdcem pro Pardubice",
+  "zkratka8": "SPP",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "Srdcem pro Pardubice"
+  ]
+ },
+ "1743": {
+  "nazev": "VIZE pro Most",
+  "zkratka": "VIZE pro Most",
+  "zkratka8": "VIZE",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "VIZE pro Most"
+  ]
+ },
  "1749": {
   "nazev": "Naše Bystrc",
   "zkratka": "Naše Bystrc",
@@ -1016,6 +1397,17 @@
   "typ": "strana/hnutí",
   "slozeni": [
    "Naše Bystrc"
+  ]
+ },
+ "1800": {
+  "nazev": "Koalice SPD, PRO a Stačilo!",
+  "zkratka": "Koalice SPD, PRO, Stačilo!",
+  "zkratka8": "SPD+PRO+Stačilo",
+  "typ": "koalice",
+  "slozeni": [
+   "Svoboda a př. demokracie (SPD)",
+   "PRO Právo Respekt Odbornost",
+   "Stačilo!"
   ]
  },
  "1804": {
@@ -1060,6 +1452,42 @@
    "Nezávislý kandidát",
    "Svoboda a př. demokracie (SPD)",
    "PRO Právo Respekt Odbornost"
+  ]
+ },
+ "1811": {
+  "nazev": "Sdruž. Svobodní, DOMOV, Trikolora, PŘÍSAHA, LS, NK",
+  "zkratka": "Svob.,DOM.,Trikol.,PŘÍS.,LS,NK",
+  "zkratka8": "SvDOTriPŘÍSLSNK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Svobodní",
+   "DOMOV",
+   "Trikolora",
+   "PŘÍSAHA občanské hnutí",
+   "LEPŠÍ SEVER"
+  ]
+ },
+ "1812": {
+  "nazev": "Sdružení SPD, AUTO, Trikolora, NK",
+  "zkratka": "Sdr. SPD, AUTO, Trikolora, NK",
+  "zkratka8": "SPDAUTOTrikolNK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Svoboda a př. demokracie (SPD)",
+   "Motoristé sobě",
+   "Trikolora"
+  ]
+ },
+ "1813": {
+  "nazev": "Koalice SPD a AUTO",
+  "zkratka": "Koalice SPD, AUTO",
+  "zkratka8": "SPD+AUTO",
+  "typ": "koalice",
+  "slozeni": [
+   "Svoboda a př. demokracie (SPD)",
+   "Motoristé sobě"
   ]
  },
  "1814": {
@@ -1120,6 +1548,20 @@
    "Pražská městská str.PRAHA SOBĚ"
   ]
  },
+ "1825": {
+  "nazev": "Sdružení KDU-ČSL,Zelení,Piráti,TOP 09,JsmePRO!,NK",
+  "zkratka": "KDU+Zelen+Pirát+TOP+JsmePRO+NK",
+  "zkratka8": "KDUZPiTOPJPRONK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "KDU-ČSL",
+   "Strana zelených",
+   "Nezávislý kandidát",
+   "Česká pirátská strana",
+   "TOP 09",
+   "JsmePRO!"
+  ]
+ },
  "1827": {
   "nazev": "Sdružení HPP 11, SEN 21, Mourek, NK",
   "zkratka": "Sdružení HPP11,SEN21,Mourek,NK",
@@ -1176,6 +1618,16 @@
    "Česká pirátská strana",
    "Fakt Brno",
    "GEN"
+  ]
+ },
+ "1837": {
+  "nazev": "Sdružení AUTO, NK",
+  "zkratka": "Sdružení AUTO, NK",
+  "zkratka8": "AUTO+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Motoristé sobě"
   ]
  },
  "1838": {
@@ -1241,6 +1693,18 @@
    "„JSME TEAM“"
   ]
  },
+ "1854": {
+  "nazev": "Sdružení KDU-ČSL, TOP 09, SPOLEHNUTÍ, NK",
+  "zkratka": "KDU-ČSL, TOP09, SPOLEHNUTÍ, NK",
+  "zkratka8": "KDUTOPSPOLEHNNK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "KDU-ČSL",
+   "Nezávislý kandidát",
+   "TOP 09",
+   "SPOLEHNUTÍ-SPOL.HN.ČESKOLIPANŮ"
+  ]
+ },
  "1855": {
   "nazev": "Sdružení SOPU, SEN 21, NK",
   "zkratka": "Sdružení SOPU, SEN 21, NK",
@@ -1250,6 +1714,39 @@
    "Nezávislý kandidát",
    "Společnost na ochranu Prok.úd.",
    "SEN 21"
+  ]
+ },
+ "1858": {
+  "nazev": "Koalice Svobodní, PŘÍSAHA a PRO",
+  "zkratka": "Koalice Svobodní, PŘÍSAHA, PRO",
+  "zkratka8": "Svob+PŘÍSAH+PRO",
+  "typ": "koalice",
+  "slozeni": [
+   "Svobodní",
+   "PŘÍSAHA občanské hnutí",
+   "PRO Právo Respekt Odbornost"
+  ]
+ },
+ "1859": {
+  "nazev": "Koalice TOP 09 a HDK",
+  "zkratka": "Koalice TOP 09, HDK",
+  "zkratka8": "TOP 09+HDK",
+  "typ": "koalice",
+  "slozeni": [
+   "TOP 09",
+   "Hradecký demokratický klub"
+  ]
+ },
+ "1861": {
+  "nazev": "Sdružení SpV, Koala, NČ, NK",
+  "zkratka": "Sdružení SpV, Koala, NČ, NK",
+  "zkratka8": "SpV+Koala+NČ+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Správná Volba",
+   "Chomutovská koalice",
+   "Naše Česko"
   ]
  },
  "1868": {
@@ -1332,6 +1829,18 @@
    "Motoristé sobě"
   ]
  },
+ "1881": {
+  "nazev": "Sdružení Svobodní, AUTO, Trikolora, NK",
+  "zkratka": "Svobodní, AUTO, Trikolora, NK",
+  "zkratka8": "SvobAUTOTrikoNK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Svobodní",
+   "Motoristé sobě",
+   "Trikolora"
+  ]
+ },
  "1882": {
   "nazev": "Sdružení Piráti, Fakt Brno, NK",
   "zkratka": "Sdružení Piráti, Fakt Brno, NK",
@@ -1406,6 +1915,17 @@
    "TOP 09"
   ]
  },
+ "1894": {
+  "nazev": "Koalice Zelení, STAN a Piráti",
+  "zkratka": "Koalice Zelení, STAN, Piráti",
+  "zkratka8": "Zele+STAN+Pirát",
+  "typ": "koalice",
+  "slozeni": [
+   "Strana zelených",
+   "STAROSTOVÉ A NEZÁVISLÍ",
+   "Česká pirátská strana"
+  ]
+ },
  "1895": {
   "nazev": "Sdružení PRO, Stačilo!, NK",
   "zkratka": "Sdružení PRO, Stačilo!, NK",
@@ -1417,6 +1937,16 @@
    "Stačilo!"
   ]
  },
+ "1897": {
+  "nazev": "Koalice Piráti a TOP 09",
+  "zkratka": "Koalice Piráti, TOP 09",
+  "zkratka8": "Piráti+TOP 09",
+  "typ": "koalice",
+  "slozeni": [
+   "Česká pirátská strana",
+   "TOP 09"
+  ]
+ },
  "1898": {
   "nazev": "Sdružení HNP, NK",
   "zkratka": "Sdružení HNP, NK",
@@ -1425,6 +1955,19 @@
   "slozeni": [
    "Nezávislý kandidát",
    "Naše Praha"
+  ]
+ },
+ "1899": {
+  "nazev": "Koalice VPM, HP, MY, RH a NČ",
+  "zkratka": "Koalice VPM, HP, MY, RH, NČ",
+  "zkratka8": "VPM+HP+MY+RH+NČ",
+  "typ": "koalice",
+  "slozeni": [
+   "Volba pro město",
+   "HRADEČTÍ PATRIOTI",
+   "MY",
+   "ROZVÍJÍME HRADEC",
+   "Naše Česko"
   ]
  },
  "1900": {
@@ -1521,6 +2064,20 @@
    "Váš starosta a občané"
   ]
  },
+ "1916": {
+  "nazev": "Koalice ČSNS, SOCDEM, KSČM, ČSSD, PRO a Stačilo!",
+  "zkratka": "ČSNS,SOCDEM,KSČM,ČSSD,PRO,Stač",
+  "zkratka8": "NSSOKSČMČSSDPSt",
+  "typ": "koalice",
+  "slozeni": [
+   "Česká strana národně sociální",
+   "Sociální demokracie",
+   "Komunistická str.Čech a Moravy",
+   "Česká suverenita soc. dem.",
+   "PRO Právo Respekt Odbornost",
+   "Stačilo!"
+  ]
+ },
  "1918": {
   "nazev": "Sdružení Zelení, PRAHA SOBĚ, NK",
   "zkratka": "Sdruž. Zelení, PRAHA SOBĚ, NK",
@@ -1583,6 +2140,75 @@
    "Rebelové"
   ]
  },
+ "1928": {
+  "nazev": "Sdružení ČSNS, KSČM, NK",
+  "zkratka": "Sdružení ČSNS, KSČM, NK",
+  "zkratka8": "ČSNS+KSČM+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Česká strana národně sociální",
+   "Komunistická str.Čech a Moravy",
+   "Nezávislý kandidát"
+  ]
+ },
+ "1931": {
+  "nazev": "Koalice ČSSD a PRO Zdraví",
+  "zkratka": "Koalice ČSSD, PRO Zdraví",
+  "zkratka8": "ČSSD+PRO Zdraví",
+  "typ": "koalice",
+  "slozeni": [
+   "Česká suverenita soc. dem.",
+   "Zdraví Sport Vzdělání"
+  ]
+ },
+ "1933": {
+  "nazev": "Sdružení Zelení, STAN, Piráti, TOP 09, UFO, NČ, NK",
+  "zkratka": "Zel,STAN,Pirát,TOP09,UFO,NČ,NK",
+  "zkratka8": "ZSTAPTOPUFONČNK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Strana zelených",
+   "Nezávislý kandidát",
+   "STAROSTOVÉ A NEZÁVISLÍ",
+   "Česká pirátská strana",
+   "TOP 09",
+   "ÚSTECKÉ FÓRUM OBČANŮ",
+   "Naše Česko"
+  ]
+ },
+ "1935": {
+  "nazev": "Sdružení MODES, NK",
+  "zkratka": "Sdružení MODES, NK",
+  "zkratka8": "MODES+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Moderní společnost"
+  ]
+ },
+ "1936": {
+  "nazev": "Sdružení Zelení, Piráti, Budoucnost, NK",
+  "zkratka": "Zelení, Piráti, Budoucnost, NK",
+  "zkratka8": "Zel+Pir+Bud+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Strana zelených",
+   "Nezávislý kandidát",
+   "Česká pirátská strana",
+   "Budoucnost"
+  ]
+ },
+ "1939": {
+  "nazev": "Koalice Svobodní, SPD a PRO",
+  "zkratka": "Koalice Svobodní, SPD, PRO",
+  "zkratka8": "Svobod+SPD+PRO",
+  "typ": "koalice",
+  "slozeni": [
+   "Svobodní",
+   "Svoboda a př. demokracie (SPD)",
+   "PRO Právo Respekt Odbornost"
+  ]
+ },
  "1944": {
   "nazev": "Sdružení Maják, NK",
   "zkratka": "Sdružení Maják, NK",
@@ -1591,6 +2217,29 @@
   "slozeni": [
    "Nezávislý kandidát",
    "Maják"
+  ]
+ },
+ "1950": {
+  "nazev": "Koalice SNK ED, Parspo, VČ, MY a PP21",
+  "zkratka": "SNK ED, Parspo, VČ, MY, PP21",
+  "zkratka8": "SNKEDPaspVČMYPP",
+  "typ": "koalice",
+  "slozeni": [
+   "SNK Evropští demokraté",
+   "Pardubáci společně",
+   "VÝCHODOČEŠI",
+   "MY",
+   "ProPce21"
+  ]
+ },
+ "1951": {
+  "nazev": "Koalice PRO a Stačilo!",
+  "zkratka": "Koalice PRO, Stačilo!",
+  "zkratka8": "PRO+Stačilo!",
+  "typ": "koalice",
+  "slozeni": [
+   "PRO Právo Respekt Odbornost",
+   "Stačilo!"
   ]
  },
  "1956": {
@@ -1604,6 +2253,16 @@
    "Česká pirátská strana",
    "TOP 09",
    "Fakt Brno"
+  ]
+ },
+ "1960": {
+  "nazev": "Sdružení PRO Chomutov, NK",
+  "zkratka": "Sdružení PRO Chomutov, NK",
+  "zkratka8": "PRO Chomutov+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Hnutí PRO Chomutov"
   ]
  },
  "1968": {

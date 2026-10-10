@@ -1,0 +1,114 @@
+{
+ "kod": "564567",
+ "nazev": "Litoměřice",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T18:45:00",
+ "ucast": {
+  "okrsky_celkem": 30,
+  "okrsky_zprac": 29,
+  "okrsky_zprac_proc": 96.67,
+  "zapsani_volici": 17518,
+  "vydane_obalky": 7363,
+  "ucast_proc": 42.03,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 7359,
+  "platne_listky": null,
+  "platne_hlasy": 179781
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 470,
+   "hlasy": 8764,
+   "hlasy_proc": 4.87,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ A SPORT A ZDRAVÍ LITOMĚŘICE"
+  },
+  {
+   "por": 2,
+   "vstrana": 1114,
+   "hlasy": 16290,
+   "hlasy_proc": 9.06,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 3,
+   "vstrana": 1307,
+   "hlasy": 38697,
+   "hlasy_proc": 21.52,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Litoměřice"
+  },
+  {
+   "por": 4,
+   "vstrana": 387,
+   "hlasy": 7252,
+   "hlasy_proc": 4.03,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KSČM a nezávislí kandidáti pro Litoměřice"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 42768,
+   "hlasy_proc": 23.79,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 53,
+   "hlasy": 34606,
+   "hlasy_proc": 19.25,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 7,
+   "vstrana": 492,
+   "hlasy": 15444,
+   "hlasy_proc": 8.59,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SEVEROČEŠI - LITOMĚŘICE"
+  },
+  {
+   "por": 8,
+   "vstrana": 1523,
+   "hlasy": 15804,
+   "hlasy_proc": 8.79,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Více pro Litoměřice"
+  },
+  {
+   "por": 9,
+   "vstrana": 482,
+   "hlasy": 156,
+   "hlasy_proc": 0.09,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT — sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  }
+ ],
+ "stazeno": "2022-09-24T18:45:00"
+}

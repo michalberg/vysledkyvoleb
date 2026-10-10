@@ -1,0 +1,273 @@
+{
+ "kod": "565229",
+ "nazev": "Lovosice",
+ "typ": "OBEC",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T17:20:00",
+ "ucast": {
+  "okrsky_celkem": 10,
+  "okrsky_zprac": 10,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 6799,
+  "vydane_obalky": 2932,
+  "ucast_proc": 43.12,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2920,
+  "platne_listky": null,
+  "platne_hlasy": 56407
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1327,
+   "hlasy": 8036,
+   "hlasy_proc": 14.24,
+   "kandidatu": 21,
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "SPOLU",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 503,
+     "hlasy_proc": 6.25,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Motl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 526,
+     "hlasy_proc": 6.54,
+     "titul_pred": "Mgr.",
+     "jmeno": "Andrea",
+     "prijmeni": "Červenková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 501,
+     "hlasy_proc": 6.23,
+     "titul_pred": "Mgr.",
+     "jmeno": "Alena",
+     "prijmeni": "Ptáčková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1114,
+   "hlasy": 4391,
+   "hlasy_proc": 7.78,
+   "kandidatu": 21,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 248,
+     "hlasy_proc": 5.64,
+     "titul_pred": "",
+     "jmeno": "Miroslav",
+     "prijmeni": "Macháč",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 20629,
+   "hlasy_proc": 36.57,
+   "kandidatu": 21,
+   "zastupitele": 8,
+   "zastupitele_proc": 38.1,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1051,
+     "hlasy_proc": 5.09,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Dian",
+     "titul_za": "Ph.D., MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1077,
+     "hlasy_proc": 5.22,
+     "titul_pred": "",
+     "jmeno": "Vladimír",
+     "prijmeni": "Šuma",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 969,
+     "hlasy_proc": 4.69,
+     "titul_pred": "",
+     "jmeno": "Vladimír",
+     "prijmeni": "Hieke",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1044,
+     "hlasy_proc": 5.06,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Landa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1065,
+     "hlasy_proc": 5.16,
+     "titul_pred": "Mgr.",
+     "jmeno": "Daniela",
+     "prijmeni": "Deusová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1054,
+     "hlasy_proc": 5.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Lisa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1020,
+     "hlasy_proc": 4.94,
+     "titul_pred": "",
+     "jmeno": "Přemysl",
+     "prijmeni": "Živný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1014,
+     "hlasy_proc": 4.91,
+     "titul_pred": "Ing.",
+     "jmeno": "František",
+     "prijmeni": "Zukerstein",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 47,
+   "hlasy": 2514,
+   "hlasy_proc": 5.19,
+   "kandidatu": 18,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Komunistická strana Čech a Moravy",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 316,
+     "hlasy_proc": 12.56,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Šramota",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 90,
+   "hlasy": 20837,
+   "hlasy_proc": 36.94,
+   "kandidatu": 21,
+   "zastupitele": 8,
+   "zastupitele_proc": 38.1,
+   "nazev": "PRO Lovosice",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1212,
+     "hlasy_proc": 5.81,
+     "titul_pred": "Ing.",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Krejčí",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1115,
+     "hlasy_proc": 5.35,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Hopp",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1055,
+     "hlasy_proc": 5.06,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Nováková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1099,
+     "hlasy_proc": 5.27,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Cimr",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 982,
+     "hlasy_proc": 4.71,
+     "titul_pred": "Bc.",
+     "jmeno": "Barbara",
+     "prijmeni": "Johnová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1023,
+     "hlasy_proc": 4.9,
+     "titul_pred": "",
+     "jmeno": "Tony",
+     "prijmeni": "Vávra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1033,
+     "hlasy_proc": 4.95,
+     "titul_pred": "Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Hřebík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1020,
+     "hlasy_proc": 4.89,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martina",
+     "prijmeni": "Lízlová",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T17:20:00"
+}

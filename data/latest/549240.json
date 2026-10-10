@@ -1,0 +1,134 @@
+{
+ "kod": "549240",
+ "nazev": "Písek",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:35",
+ "ucast": {
+  "okrsky_celkem": 29,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 480,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ONA PÍSEK"
+  },
+  {
+   "por": 2,
+   "vstrana": 364,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelená pro Písek"
+  },
+  {
+   "por": 3,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 477,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Písek srdcem a rozumem - Děkujeme za Váš hlas. Zaškrtnutí celé naší kandidátky nám dá velmi silný mandát, který zajistí naplnění našeho závazku vůči Vám. Navýšení parkovacích míst, levnější odpady, snížení daně z nemovitosti na původní hodnotu, nastartování družstevní bytové výstavby, založení nových zahrádkářských kolonií a místních výborů = občané tak získají přímé spojení na vedení města."
+  },
+  {
+   "por": 5,
+   "vstrana": 1,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 6,
+   "vstrana": 720,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 7,
+   "vstrana": 1521,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hlas Písku"
+  },
+  {
+   "por": 8,
+   "vstrana": 113,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Volba pro město"
+  },
+  {
+   "por": 9,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 10,
+   "vstrana": 1722,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Česko"
+  },
+  {
+   "por": 11,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

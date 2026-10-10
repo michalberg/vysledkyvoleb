@@ -1,0 +1,124 @@
+{
+ "kod": "549240",
+ "nazev": "Písek",
+ "typ": "OBEC",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:30:00",
+ "ucast": {
+  "okrsky_celkem": 29,
+  "okrsky_zprac": 26,
+  "okrsky_zprac_proc": 89.66,
+  "zapsani_volici": 20098,
+  "vydane_obalky": 7675,
+  "ucast_proc": 38.19,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 7672,
+  "platne_listky": null,
+  "platne_hlasy": 181966
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 720,
+   "hlasy": 16934,
+   "hlasy_proc": 9.31,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 53,
+   "hlasy": 17939,
+   "hlasy_proc": 9.86,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 43889,
+   "hlasy_proc": 24.12,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 1617,
+   "hlasy": 24406,
+   "hlasy_proc": 13.41,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PÍSEK SRDCEM A ROZUMEM = Písek sobě + Svobodní + Písecký patrioti + Trikolora + nezávislí kandidáti: Spojili jsme se…"
+  },
+  {
+   "por": 5,
+   "vstrana": 371,
+   "hlasy": 16440,
+   "hlasy_proc": 9.03,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hlas Písku"
+  },
+  {
+   "por": 6,
+   "vstrana": 1579,
+   "hlasy": 21675,
+   "hlasy_proc": 11.91,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO PÍSEK"
+  },
+  {
+   "por": 7,
+   "vstrana": 47,
+   "hlasy": 10067,
+   "hlasy_proc": 5.53,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 8,
+   "vstrana": 482,
+   "hlasy": 2055,
+   "hlasy_proc": 1.13,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - za práva zvířat a spravedlnost v Písku"
+  },
+  {
+   "por": 9,
+   "vstrana": 1,
+   "hlasy": 14375,
+   "hlasy_proc": 7.9,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 10,
+   "vstrana": 672,
+   "hlasy": 14186,
+   "hlasy_proc": 7.8,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "VAŠE VOLBA"
+  }
+ ],
+ "stazeno": "2022-09-24T19:30:00"
+}

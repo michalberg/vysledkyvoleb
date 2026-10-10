@@ -1,0 +1,134 @@
+{
+ "kod": "544256",
+ "nazev": "České Budějovice",
+ "typ": "OBEC",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 90,
+  "okrsky_zprac": 75,
+  "okrsky_zprac_proc": 83.33,
+  "zapsani_volici": 59255,
+  "vydane_obalky": 23110,
+  "ucast_proc": 39.0,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 23104,
+  "platne_listky": null,
+  "platne_hlasy": 953747
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 720,
+   "hlasy": 64760,
+   "hlasy_proc": 6.79,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 493,
+   "hlasy": 10495,
+   "hlasy_proc": 1.1,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Českobudějovičtí ROZUMNĚ NAŠTVANÍ"
+  },
+  {
+   "por": 3,
+   "vstrana": 387,
+   "hlasy": 44902,
+   "hlasy_proc": 4.71,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KSČM fungující Budějce"
+  },
+  {
+   "por": 4,
+   "vstrana": 371,
+   "hlasy": 31310,
+   "hlasy_proc": 3.28,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD a NEZÁVISLÉ OSOBNOSTI"
+  },
+  {
+   "por": 5,
+   "vstrana": 166,
+   "hlasy": 40837,
+   "hlasy_proc": 4.28,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 6,
+   "vstrana": 1422,
+   "hlasy": 114642,
+   "hlasy_proc": 12.02,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "OBČANÉ PRO BUDĚJOVICE"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 229127,
+   "hlasy_proc": 24.02,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 8,
+   "vstrana": 53,
+   "hlasy": 279383,
+   "hlasy_proc": 29.29,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 9,
+   "vstrana": 1058,
+   "hlasy": 52860,
+   "hlasy_proc": 5.54,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL a TOP 09 - Společně pro Budějovice"
+  },
+  {
+   "por": 10,
+   "vstrana": 1114,
+   "hlasy": 79274,
+   "hlasy_proc": 8.31,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 11,
+   "vstrana": 477,
+   "hlasy": 6157,
+   "hlasy_proc": 0.65,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Budějce srdcem a rozumem"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

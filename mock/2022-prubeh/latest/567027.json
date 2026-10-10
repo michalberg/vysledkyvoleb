@@ -1,0 +1,124 @@
+{
+ "kod": "567027",
+ "nazev": "Most",
+ "typ": "OBEC",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 60,
+  "okrsky_zprac": 57,
+  "okrsky_zprac_proc": 95.0,
+  "zapsani_volici": 47858,
+  "vydane_obalky": 14982,
+  "ucast_proc": 31.31,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 14967,
+  "platne_listky": null,
+  "platne_hlasy": 605912
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 47,
+   "hlasy": 24325,
+   "hlasy_proc": 4.01,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 2,
+   "vstrana": 1487,
+   "hlasy": 73860,
+   "hlasy_proc": 12.19,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou Trikolory"
+  },
+  {
+   "por": 3,
+   "vstrana": 1175,
+   "hlasy": 247593,
+   "hlasy_proc": 40.86,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ProMOST"
+  },
+  {
+   "por": 4,
+   "vstrana": 768,
+   "hlasy": 126323,
+   "hlasy_proc": 20.85,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 5,
+   "vstrana": 734,
+   "hlasy": 982,
+   "hlasy_proc": 0.16,
+   "kandidatu": 10,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občané městu, město občanům"
+  },
+  {
+   "por": 6,
+   "vstrana": 7,
+   "hlasy": 6537,
+   "hlasy_proc": 1.08,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická"
+  },
+  {
+   "por": 7,
+   "vstrana": 389,
+   "hlasy": 39697,
+   "hlasy_proc": 6.55,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS a NEZÁVISLÍ"
+  },
+  {
+   "por": 8,
+   "vstrana": 1066,
+   "hlasy": 27055,
+   "hlasy_proc": 4.47,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Zelení pro Most"
+  },
+  {
+   "por": 9,
+   "vstrana": 536,
+   "hlasy": 58888,
+   "hlasy_proc": 9.72,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sdružení Mostečané Mostu"
+  },
+  {
+   "por": 10,
+   "vstrana": 482,
+   "hlasy": 652,
+   "hlasy_proc": 0.11,
+   "kandidatu": 7,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT — sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

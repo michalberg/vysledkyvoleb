@@ -1,0 +1,124 @@
+{
+ "kod": "544256",
+ "nazev": "České Budějovice",
+ "typ": "OBEC",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:24",
+ "ucast": {
+  "okrsky_celkem": 90,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 482,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 2,
+   "vstrana": 1881,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Motoristé a Svobodní"
+  },
+  {
+   "por": 3,
+   "vstrana": 540,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Budějovice (Lidovci a TOP 09)"
+  },
+  {
+   "por": 4,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 5,
+   "vstrana": 1916,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 44,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO BUDĚJCE (koalice: KSČM, PRO, SOCDEM, ČSSD, ČSNS, Stačilo!)"
+  },
+  {
+   "por": 6,
+   "vstrana": 1066,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Budějčáci s podporou Zelených"
+  },
+  {
+   "por": 7,
+   "vstrana": 596,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "OBČANÉ PRO BUDĚJOVICE A STAROSTOVÉ"
+  },
+  {
+   "por": 8,
+   "vstrana": 1722,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Česko"
+  },
+  {
+   "por": 9,
+   "vstrana": 1114,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

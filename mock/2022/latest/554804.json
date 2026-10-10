@@ -1,0 +1,499 @@
+{
+ "kod": "554804",
+ "nazev": "Ústí nad Labem",
+ "typ": "OBEC",
+ "voleno": 37,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:50:01",
+ "ucast": {
+  "okrsky_celkem": 97,
+  "okrsky_zprac": 97,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 71515,
+  "vydane_obalky": 25036,
+  "ucast_proc": 35.01,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 24872,
+  "platne_listky": null,
+  "platne_hlasy": 789757
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1012,
+   "hlasy": 63134,
+   "hlasy_proc": 7.99,
+   "kandidatu": 37,
+   "zastupitele": 3,
+   "zastupitele_proc": 8.11,
+   "nazev": "ÚSTECKÉ FÓRUM OBČANŮ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1915,
+     "hlasy_proc": 3.03,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Křivan",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2121,
+     "hlasy_proc": 3.35,
+     "titul_pred": "Ing.",
+     "jmeno": "Věra",
+     "prijmeni": "Nechybová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2005,
+     "hlasy_proc": 3.17,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Madar",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1128,
+   "hlasy": 66336,
+   "hlasy_proc": 8.39,
+   "kandidatu": 37,
+   "zastupitele": 4,
+   "zastupitele_proc": 10.81,
+   "nazev": "Vaše Ústí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2146,
+     "hlasy_proc": 3.23,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Vonka Černá",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2393,
+     "hlasy_proc": 3.6,
+     "titul_pred": "Bc.",
+     "jmeno": "Yveta",
+     "prijmeni": "Tomková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2022,
+     "hlasy_proc": 3.04,
+     "titul_pred": "JUDr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Grus",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1899,
+     "hlasy_proc": 2.86,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marie",
+     "prijmeni": "Čápová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 53,
+   "hlasy": 70382,
+   "hlasy_proc": 8.91,
+   "kandidatu": 37,
+   "zastupitele": 4,
+   "zastupitele_proc": 10.81,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2158,
+     "hlasy_proc": 3.06,
+     "titul_pred": "Ing. Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Šidák",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2105,
+     "hlasy_proc": 2.99,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Tošovský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1923,
+     "hlasy_proc": 2.73,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Pejznochová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2360,
+     "hlasy_proc": 3.35,
+     "titul_pred": "doc. RNDr.",
+     "jmeno": "Martin",
+     "prijmeni": "Balej",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 166,
+   "hlasy": 26582,
+   "hlasy_proc": 3.36,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 5,
+   "vstrana": 1616,
+   "hlasy": 11013,
+   "hlasy_proc": 1.39,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Aliance pro Ústí"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 225382,
+   "hlasy_proc": 28.53,
+   "kandidatu": 37,
+   "zastupitele": 13,
+   "zastupitele_proc": 35.14,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 6406,
+     "hlasy_proc": 2.84,
+     "titul_pred": "PhDr. Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Nedvědický",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 6290,
+     "hlasy_proc": 2.79,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Vlach",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 6269,
+     "hlasy_proc": 2.78,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Kirbs",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 6263,
+     "hlasy_proc": 2.77,
+     "titul_pred": "Ing.",
+     "jmeno": "Eva",
+     "prijmeni": "Fialová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 6203,
+     "hlasy_proc": 2.75,
+     "titul_pred": "",
+     "jmeno": "Eva",
+     "prijmeni": "Nováková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 6161,
+     "hlasy_proc": 2.73,
+     "titul_pred": "Mgr.",
+     "jmeno": "Alena",
+     "prijmeni": "Pinkasová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 6194,
+     "hlasy_proc": 2.74,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Horák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 6166,
+     "hlasy_proc": 2.73,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Valenta",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 6152,
+     "hlasy_proc": 2.72,
+     "titul_pred": "",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Pém",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 6210,
+     "hlasy_proc": 2.75,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Peterka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 6119,
+     "hlasy_proc": 2.71,
+     "titul_pred": "Ing.",
+     "jmeno": "Josef",
+     "prijmeni": "Holub",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 6132,
+     "hlasy_proc": 2.72,
+     "titul_pred": "",
+     "jmeno": "Lukáš",
+     "prijmeni": "Sinu",
+     "titul_za": ""
+    },
+    {
+     "poradi": 13,
+     "hlasy": 6163,
+     "hlasy_proc": 2.73,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Krois",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 785,
+   "hlasy": 27955,
+   "hlasy_proc": 3.53,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zdraví Sport Prosperita"
+  },
+  {
+   "por": 8,
+   "vstrana": 1487,
+   "hlasy": 86286,
+   "hlasy_proc": 11.22,
+   "kandidatu": 36,
+   "zastupitele": 5,
+   "zastupitele_proc": 13.51,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou politické strany Trikolora",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2591,
+     "hlasy_proc": 3.0,
+     "titul_pred": "Ing.",
+     "jmeno": "Bohumil",
+     "prijmeni": "Ježek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2488,
+     "hlasy_proc": 2.88,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Mohr",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2453,
+     "hlasy_proc": 2.84,
+     "titul_pred": "",
+     "jmeno": "Patricie",
+     "prijmeni": "Šejnohová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2509,
+     "hlasy_proc": 2.9,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Krause",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2424,
+     "hlasy_proc": 2.8,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaromír",
+     "prijmeni": "Hůla",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 1195,
+   "hlasy": 14807,
+   "hlasy_proc": 1.87,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Za lepší Střekov"
+  },
+  {
+   "por": 10,
+   "vstrana": 529,
+   "hlasy": 128976,
+   "hlasy_proc": 16.33,
+   "kandidatu": 37,
+   "zastupitele": 8,
+   "zastupitele_proc": 21.62,
+   "nazev": "PRO! Ústí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3989,
+     "hlasy_proc": 3.09,
+     "titul_pred": "MgA.",
+     "jmeno": "Richard",
+     "prijmeni": "Loskot",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3795,
+     "hlasy_proc": 2.94,
+     "titul_pred": "JUDr.",
+     "jmeno": "Karolína",
+     "prijmeni": "Žákovská",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3724,
+     "hlasy_proc": 2.88,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Jan",
+     "prijmeni": "Hrouda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3718,
+     "hlasy_proc": 2.88,
+     "titul_pred": "",
+     "jmeno": "Lukáš",
+     "prijmeni": "Blažej",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 4167,
+     "hlasy_proc": 3.23,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Krsek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3558,
+     "hlasy_proc": 2.75,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Bartoníček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 3622,
+     "hlasy_proc": 2.8,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Dušan",
+     "prijmeni": "Oslej",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 3478,
+     "hlasy_proc": 2.69,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Kočárková Maredová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 11,
+   "vstrana": 47,
+   "hlasy": 21958,
+   "hlasy_proc": 2.78,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 12,
+   "vstrana": 540,
+   "hlasy": 35388,
+   "hlasy_proc": 4.48,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ Ústí nad Labem"
+  },
+  {
+   "por": 13,
+   "vstrana": 1245,
+   "hlasy": 11558,
+   "hlasy_proc": 1.5,
+   "kandidatu": 36,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  }
+ ],
+ "stazeno": "2022-09-24T22:50:01"
+}

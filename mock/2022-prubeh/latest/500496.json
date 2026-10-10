@@ -1,0 +1,134 @@
+{
+ "kod": "500496",
+ "nazev": "Olomouc",
+ "typ": "OBEC",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 96,
+  "okrsky_zprac": 81,
+  "okrsky_zprac_proc": 84.38,
+  "zapsani_volici": 65746,
+  "vydane_obalky": 25685,
+  "ucast_proc": 39.07,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 25597,
+  "platne_listky": null,
+  "platne_hlasy": 1055272
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 736,
+   "hlasy": 1878,
+   "hlasy_proc": 0.18,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SDRUŽENÍ PRO REPUBLIKU - REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA"
+  },
+  {
+   "por": 2,
+   "vstrana": 1585,
+   "hlasy": 57806,
+   "hlasy_proc": 5.48,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAN, ZELENÍ A NEZÁVISLÉ OLOMOUCKÉ OSOBNOSTI"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 336249,
+   "hlasy_proc": 31.86,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 1192,
+   "hlasy": 91094,
+   "hlasy_proc": 8.63,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "spOLečně"
+  },
+  {
+   "por": 5,
+   "vstrana": 1615,
+   "hlasy": 164632,
+   "hlasy_proc": 15.6,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ProOlomouc a Piráti"
+  },
+  {
+   "por": 6,
+   "vstrana": 1245,
+   "hlasy": 8811,
+   "hlasy_proc": 0.83,
+   "kandidatu": 22,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 7,
+   "vstrana": 371,
+   "hlasy": 40869,
+   "hlasy_proc": 3.87,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Olomoučané"
+  },
+  {
+   "por": 8,
+   "vstrana": 1596,
+   "hlasy": 2346,
+   "hlasy_proc": 0.22,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní, Soukromníci, Koruna Česká, Konzervativní strana"
+  },
+  {
+   "por": 9,
+   "vstrana": 47,
+   "hlasy": 24954,
+   "hlasy_proc": 2.36,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 10,
+   "vstrana": 1327,
+   "hlasy": 205394,
+   "hlasy_proc": 19.46,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU"
+  },
+  {
+   "por": 11,
+   "vstrana": 1487,
+   "hlasy": 121239,
+   "hlasy_proc": 11.49,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a Trikolora"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

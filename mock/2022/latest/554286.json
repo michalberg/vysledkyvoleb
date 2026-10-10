@@ -1,0 +1,301 @@
+{
+ "kod": "554286",
+ "nazev": "Mariánské Hory a Hulváky",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:25:00",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 9435,
+  "vydane_obalky": 3285,
+  "ucast_proc": 34.82,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3281,
+  "platne_listky": null,
+  "platne_hlasy": 43205
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 8329,
+   "hlasy_proc": 19.27,
+   "kandidatu": 15,
+   "zastupitele": 4,
+   "zastupitele_proc": 26.67,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 599,
+     "hlasy_proc": 7.19,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Vávra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 590,
+     "hlasy_proc": 7.08,
+     "titul_pred": "Bc.",
+     "jmeno": "Martina",
+     "prijmeni": "Slušná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 561,
+     "hlasy_proc": 6.73,
+     "titul_pred": "",
+     "jmeno": "Jiřina",
+     "prijmeni": "Šilhavá",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 567,
+     "hlasy_proc": 6.8,
+     "titul_pred": "",
+     "jmeno": "Jana",
+     "prijmeni": "Vávrová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 371,
+   "hlasy": 710,
+   "hlasy_proc": 1.64,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO NAŠE MARIÁNKY A HULVÁKY"
+  },
+  {
+   "por": 3,
+   "vstrana": 1376,
+   "hlasy": 2275,
+   "hlasy_proc": 5.26,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Občané pro Mariánské Hory a Hulváky",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 197,
+     "hlasy_proc": 8.65,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Sucharda",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 401,
+   "hlasy": 12803,
+   "hlasy_proc": 29.63,
+   "kandidatu": 15,
+   "zastupitele": 6,
+   "zastupitele_proc": 40.0,
+   "nazev": "STAROSTA PATRIK HUJDUS A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1038,
+     "hlasy_proc": 8.1,
+     "titul_pred": "Mgr.",
+     "jmeno": "Patrik",
+     "prijmeni": "Hujdus",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 883,
+     "hlasy_proc": 6.89,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Becher",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 867,
+     "hlasy_proc": 6.77,
+     "titul_pred": "MUDr.",
+     "jmeno": "Ivana",
+     "prijmeni": "Chudobová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 848,
+     "hlasy_proc": 6.62,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Šrámek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 868,
+     "hlasy_proc": 6.77,
+     "titul_pred": "",
+     "jmeno": "Hana",
+     "prijmeni": "Franková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 860,
+     "hlasy_proc": 6.71,
+     "titul_pred": "",
+     "jmeno": "Lukáš",
+     "prijmeni": "Mikula",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 785,
+   "hlasy": 1902,
+   "hlasy_proc": 4.71,
+   "kandidatu": 14,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zdraví Sport Prosperita"
+  },
+  {
+   "por": 6,
+   "vstrana": 1327,
+   "hlasy": 4197,
+   "hlasy_proc": 9.71,
+   "kandidatu": 15,
+   "zastupitele": 2,
+   "zastupitele_proc": 13.33,
+   "nazev": "Koalice SPOLU (Občanská demokratická strana, KDU-ČSL, TOP 09)",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 324,
+     "hlasy_proc": 7.71,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Pagáč",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 347,
+     "hlasy_proc": 8.26,
+     "titul_pred": "",
+     "jmeno": "Jana",
+     "prijmeni": "Pagáčová",
+     "titul_za": "MBA"
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 720,
+   "hlasy": 1990,
+   "hlasy_proc": 4.6,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 8,
+   "vstrana": 1191,
+   "hlasy": 2453,
+   "hlasy_proc": 5.67,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "LEČO – LEPŠÍ A ČISTÁ OSTRAVA",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 211,
+     "hlasy_proc": 8.6,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Luzar",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 755,
+   "hlasy": 1924,
+   "hlasy_proc": 4.45,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Ostravak"
+  },
+  {
+   "por": 10,
+   "vstrana": 1114,
+   "hlasy": 3545,
+   "hlasy_proc": 8.2,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 278,
+     "hlasy_proc": 7.84,
+     "titul_pred": "Ing.",
+     "jmeno": "Filip",
+     "prijmeni": "Čmiel",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 11,
+   "vstrana": 1245,
+   "hlasy": 689,
+   "hlasy_proc": 1.59,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 12,
+   "vstrana": 1521,
+   "hlasy": 1255,
+   "hlasy_proc": 2.9,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Budoucnost MH a H"
+  },
+  {
+   "por": 13,
+   "vstrana": 47,
+   "hlasy": 1133,
+   "hlasy_proc": 2.62,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  }
+ ],
+ "stazeno": "2022-09-24T22:25:00"
+}

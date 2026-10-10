@@ -1,0 +1,124 @@
+{
+ "kod": "554481",
+ "nazev": "Cheb",
+ "typ": "OBEC",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:20",
+ "ucast": {
+  "okrsky_celkem": 33,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1114,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 2,
+   "vstrana": 47,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 3,
+   "vstrana": 389,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS Cheb ve spolupráci s nezávislými"
+  },
+  {
+   "por": 4,
+   "vstrana": 1837,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 28,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "FAJN Cheb s podporou Motoristé sobě"
+  },
+  {
+   "por": 5,
+   "vstrana": 393,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidé Proti Zóně - NEPOSTAVÍME průmyslovou zónu Cheb II - www.protizone.cz"
+  },
+  {
+   "por": 6,
+   "vstrana": 1523,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koalice pro Cheb"
+  },
+  {
+   "por": 7,
+   "vstrana": 1118,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "VOK – Volba pro kraj"
+  },
+  {
+   "por": 8,
+   "vstrana": 1722,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Česko"
+  },
+  {
+   "por": 9,
+   "vstrana": 470,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "VOLBA PRO MĚSTO CHEB S PODPOROU STAROSTŮ"
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

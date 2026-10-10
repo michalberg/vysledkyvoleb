@@ -1,0 +1,104 @@
+{
+ "kod": "567256",
+ "nazev": "Litvínov",
+ "typ": "OBEC",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-10T14:50:02",
+ "ucast": {
+  "okrsky_celkem": 28,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 7.14,
+  "zapsani_volici": 568,
+  "vydane_obalky": 30,
+  "ucast_proc": 5.28,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 30,
+  "platne_listky": 29,
+  "platne_hlasy": 600
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1298,
+   "hlasy": 95,
+   "hlasy_proc": 15.83,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Stačilo!"
+  },
+  {
+   "por": 2,
+   "vstrana": 529,
+   "hlasy": 62,
+   "hlasy_proc": 10.33,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Litvínov DO TOHO!"
+  },
+  {
+   "por": 3,
+   "vstrana": 1305,
+   "hlasy": 75,
+   "hlasy_proc": 12.5,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD + MOTORISTÉ + PRO = LITVÍNOV SOBĚ"
+  },
+  {
+   "por": 4,
+   "vstrana": 1811,
+   "hlasy": 79,
+   "hlasy_proc": 13.17,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně za Lepší Litvínov"
+  },
+  {
+   "por": 5,
+   "vstrana": 389,
+   "hlasy": 50,
+   "hlasy_proc": 8.33,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sdružení ODS a nezávislých kandidátů"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 48,
+   "hlasy_proc": 8.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 7,
+   "vstrana": 1695,
+   "hlasy": 118,
+   "hlasy_proc": 19.67,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "To dáme - za podpory Naše Česko"
+  },
+  {
+   "por": 8,
+   "vstrana": 470,
+   "hlasy": 73,
+   "hlasy_proc": 12.17,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LITVÍNOV PATŘÍ OBČANŮM - STAROSTOVÉ A NEZÁVISLÍ"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

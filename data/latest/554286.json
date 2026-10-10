@@ -1,0 +1,124 @@
+{
+ "kod": "554286",
+ "nazev": "Mariánské Hory a Hulváky",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:20",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1936,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Budoucnost Mariánských Hor a Hulvák"
+  },
+  {
+   "por": 2,
+   "vstrana": 387,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Ostravská levice - sdružení Komunistické strany Čech a Moravy a nezávislých kandidátů"
+  },
+  {
+   "por": 3,
+   "vstrana": 389,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "srdcOVA - ODS a nezávislí kandidáti"
+  },
+  {
+   "por": 4,
+   "vstrana": 355,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lidovci"
+  },
+  {
+   "por": 5,
+   "vstrana": 1114,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 6,
+   "vstrana": 1837,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "MOTORISTÉ a přátelé exstarostky Liany Janáčkové - Mariánské Hory a Hulváky SOBĚ"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 8,
+   "vstrana": 401,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTA PATRIK HUJDUS A NEZÁVISLÍ"
+  },
+  {
+   "por": 9,
+   "vstrana": 1376,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "OBČANÉ PRO NAŠE MARIÁNSKÉ HORY A HULVÁKY !!!"
+  },
+  {
+   "por": 10,
+   "vstrana": 755,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 13,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Ostravak"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

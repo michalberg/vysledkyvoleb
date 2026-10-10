@@ -51,6 +51,7 @@ const PAGES = [
   { text: "Praha", href: "praha.html", config: "config-praha.json" },
   { text: "Brno", href: "./", config: "config.json" },
   { text: "Vybraná města", href: "mesta.html", config: "config-mesta.json" },
+  { text: "Další města", href: "mesta2.html", config: "config-mesta2.json" },
 ];
 const pagesHtml = () => `<nav class="pages">${PAGES.map(pg => (document.body.dataset.config || "config.json") === pg.config
   ? `<span class="pill-small on" aria-current="page">${pg.text}</span>`

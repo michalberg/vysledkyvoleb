@@ -1,0 +1,229 @@
+{
+  "volby": "kv2026",
+  "datum": "20261009",
+  "interval_s": 12,
+  "nadpis": "Obec",
+  "hlavni": false,
+  "obce": [
+    {
+      "kod": "561380",
+      "nazev": "Česká Lípa",
+      "zobrazit": "Česká Lípa",
+      "kratky": "Česká Lípa",
+      "nase": {
+        "2026": 8,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "544256",
+      "nazev": "České Budějovice",
+      "zobrazit": "České Budějovice",
+      "kratky": "Č. Budějovice",
+      "nase": {
+        "2026": 6,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "569810",
+      "nazev": "Hradec Králové",
+      "zobrazit": "Hradec Králové",
+      "kratky": "Hradec Králové",
+      "nase": {
+        "2026": 6,
+        "2022": 9
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "554481",
+      "nazev": "Cheb",
+      "zobrazit": "Cheb",
+      "kratky": "Cheb",
+      "nase": {
+        "2026": 6,
+        "2022": 9
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "562971",
+      "nazev": "Chomutov",
+      "zobrazit": "Chomutov",
+      "kratky": "Chomutov",
+      "nase": {
+        "2026": 5,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "563129",
+      "nazev": "Klášterec nad Ohří",
+      "zobrazit": "Klášterec nad Ohří",
+      "kratky": "Klášterec n. O.",
+      "nase": {
+        "2026": 5,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "564567",
+      "nazev": "Litoměřice",
+      "zobrazit": "Litoměřice",
+      "kratky": "Litoměřice",
+      "nase": {
+        "2026": null,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "567256",
+      "nazev": "Litvínov",
+      "zobrazit": "Litvínov",
+      "kratky": "Litvínov",
+      "nase": {
+        "2026": 2,
+        "2022": 9
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "565229",
+      "nazev": "Lovosice",
+      "zobrazit": "Lovosice",
+      "kratky": "Lovosice",
+      "nase": {
+        "2026": 7,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "540765",
+      "nazev": "Mníšek pod Brdy",
+      "zobrazit": "Mníšek pod Brdy",
+      "kratky": "Mníšek p. B.",
+      "nase": {
+        "2026": 5,
+        "2022": 5
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "567027",
+      "nazev": "Most",
+      "zobrazit": "Most",
+      "kratky": "Most",
+      "nase": {
+        "2026": 6,
+        "2022": 8
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "573868",
+      "nazev": "Náchod",
+      "zobrazit": "Náchod",
+      "kratky": "Náchod",
+      "nase": {
+        "2026": 5,
+        "2022": 1
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500496",
+      "nazev": "Olomouc",
+      "zobrazit": "Olomouc",
+      "kratky": "Olomouc",
+      "nase": {
+        "2026": 9,
+        "2022": 2
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "554286",
+      "nazev": "Ostrava-Mariánské Hory a Hulváky",
+      "zobrazit": "OVA-MHaH",
+      "kratky": "OVA-MHaH",
+      "nase": {
+        "2026": 1,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "555134",
+      "nazev": "Pardubice",
+      "zobrazit": "Pardubice",
+      "kratky": "Pardubice",
+      "nase": {
+        "2026": 3,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "549240",
+      "nazev": "Písek",
+      "zobrazit": "Písek",
+      "kratky": "Písek",
+      "nase": {
+        "2026": 2,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "554791",
+      "nazev": "Plzeň",
+      "zobrazit": "Plzeň",
+      "kratky": "Plzeň",
+      "nase": {
+        "2026": 12,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "588024",
+      "nazev": "Telč",
+      "zobrazit": "Telč",
+      "kratky": "Telč",
+      "nase": {
+        "2026": 4,
+        "2022": 6
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "567442",
+      "nazev": "Teplice",
+      "zobrazit": "Teplice",
+      "kratky": "Teplice",
+      "nase": {
+        "2026": 9,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "554804",
+      "nazev": "Ústí nad Labem",
+      "zobrazit": "Ústí nad Labem",
+      "kratky": "Ústí n. L.",
+      "nase": {
+        "2026": 5,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+ "kod": "588024",
+ "nazev": "Telč",
+ "typ": "OBEC",
+ "voleno": 21,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T18:55:00",
+ "ucast": {
+  "okrsky_celkem": 7,
+  "okrsky_zprac": 7,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 4238,
+  "vydane_obalky": 2069,
+  "ucast_proc": 48.82,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2063,
+  "platne_listky": null,
+  "platne_hlasy": 37126
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 457,
+   "hlasy": 3484,
+   "hlasy_proc": 9.38,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "ČAS ZMĚNY",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 324,
+     "hlasy_proc": 9.29,
+     "titul_pred": "",
+     "jmeno": "Bohumil",
+     "prijmeni": "Norek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 259,
+     "hlasy_proc": 7.43,
+     "titul_pred": "",
+     "jmeno": "Aleš",
+     "prijmeni": "Němeček",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 470,
+   "hlasy": 5326,
+   "hlasy_proc": 14.34,
+   "kandidatu": 21,
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "SPOLUOBČANÉ S PODPOROU STAROSTŮ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 320,
+     "hlasy_proc": 6.0,
+     "titul_pred": "",
+     "jmeno": "Roman",
+     "prijmeni": "Fabeš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 317,
+     "hlasy_proc": 5.95,
+     "titul_pred": "Bc.",
+     "jmeno": "Martin",
+     "prijmeni": "Navrátil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 322,
+     "hlasy_proc": 6.04,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Remešová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 1114,
+   "hlasy": 158,
+   "hlasy_proc": 8.93,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 4,
+   "vstrana": 53,
+   "hlasy": 10118,
+   "hlasy_proc": 27.25,
+   "kandidatu": 21,
+   "zastupitele": 6,
+   "zastupitele_proc": 28.57,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 801,
+     "hlasy_proc": 7.91,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Brtník",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 481,
+     "hlasy_proc": 4.75,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Marek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 578,
+     "hlasy_proc": 5.71,
+     "titul_pred": "Mgr.",
+     "jmeno": "Milena",
+     "prijmeni": "Kopečná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 585,
+     "hlasy_proc": 5.78,
+     "titul_pred": "Bc.",
+     "jmeno": "Michaela",
+     "prijmeni": "Čeřovská",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 468,
+     "hlasy_proc": 4.62,
+     "titul_pred": "Ing.",
+     "jmeno": "Radek",
+     "prijmeni": "Kříž",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 637,
+     "hlasy_proc": 6.29,
+     "titul_pred": "RNDr.",
+     "jmeno": "Miloš",
+     "prijmeni": "Vystrčil",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1,
+   "hlasy": 5418,
+   "hlasy_proc": 14.59,
+   "kandidatu": 21,
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 475,
+     "hlasy_proc": 8.76,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Komín",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 357,
+     "hlasy_proc": 6.58,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ludmila",
+     "prijmeni": "Švarcová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 375,
+     "hlasy_proc": 6.92,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Liška",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 529,
+   "hlasy": 5792,
+   "hlasy_proc": 15.6,
+   "kandidatu": 21,
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "Společně pro Telč - Piráti a Zelení",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 403,
+     "hlasy_proc": 6.95,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Pykal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 343,
+     "hlasy_proc": 5.92,
+     "titul_pred": "Mgr.",
+     "jmeno": "Hana",
+     "prijmeni": "Hajnová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 335,
+     "hlasy_proc": 5.78,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Dvořák",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 47,
+   "hlasy": 3057,
+   "hlasy_proc": 8.23,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "Komunistická strana Čech a Moravy",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 185,
+     "hlasy_proc": 6.05,
+     "titul_pred": "",
+     "jmeno": "Stanislav",
+     "prijmeni": "Vyvadil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 170,
+     "hlasy_proc": 5.56,
+     "titul_pred": "",
+     "jmeno": "Bedřich",
+     "prijmeni": "Burian",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 449,
+   "hlasy": 3773,
+   "hlasy_proc": 10.16,
+   "kandidatu": 21,
+   "zastupitele": 2,
+   "zastupitele_proc": 9.52,
+   "nazev": "Sdružení nezávislých a SNK Evropští demokraté",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 362,
+     "hlasy_proc": 9.59,
+     "titul_pred": "Mgr.",
+     "jmeno": "Roman",
+     "prijmeni": "Fabeš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 333,
+     "hlasy_proc": 8.82,
+     "titul_pred": "",
+     "jmeno": "Jindřich",
+     "prijmeni": "Kaupa",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T18:55:00"
+}

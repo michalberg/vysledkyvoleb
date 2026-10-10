@@ -1,0 +1,114 @@
+{
+ "kod": "554481",
+ "nazev": "Cheb",
+ "typ": "OBEC",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 32,
+  "okrsky_zprac": 30,
+  "okrsky_zprac_proc": 93.75,
+  "zapsani_volici": 20451,
+  "vydane_obalky": 7231,
+  "ucast_proc": 35.36,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 7219,
+  "platne_listky": null,
+  "platne_hlasy": 188218
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 59980,
+   "hlasy_proc": 31.87,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 53,
+   "hlasy": 13677,
+   "hlasy_proc": 7.27,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 3,
+   "vstrana": 470,
+   "hlasy": 41100,
+   "hlasy_proc": 21.84,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "VOLBA PRO MĚSTO CHEB"
+  },
+  {
+   "por": 4,
+   "vstrana": 720,
+   "hlasy": 7025,
+   "hlasy_proc": 3.73,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 5,
+   "vstrana": 47,
+   "hlasy": 8834,
+   "hlasy_proc": 4.69,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 6,
+   "vstrana": 1118,
+   "hlasy": 18703,
+   "hlasy_proc": 9.94,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Volba pro kraj"
+  },
+  {
+   "por": 7,
+   "vstrana": 1114,
+   "hlasy": 19447,
+   "hlasy_proc": 10.33,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 8,
+   "vstrana": 482,
+   "hlasy": 210,
+   "hlasy_proc": 0.11,
+   "kandidatu": 2,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených – ZA PRÁVA ZVÍŘAT — sdružení DSZ – ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 9,
+   "vstrana": 1344,
+   "hlasy": 19242,
+   "hlasy_proc": 10.22,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koalice pro Cheb"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

@@ -1,0 +1,174 @@
+{
+ "kod": "569810",
+ "nazev": "Hradec Králové",
+ "typ": "OBEC",
+ "voleno": 37,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 85,
+  "okrsky_zprac": 77,
+  "okrsky_zprac_proc": 90.59,
+  "zapsani_volici": 64783,
+  "vydane_obalky": 26989,
+  "ucast_proc": 41.66,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 26973,
+  "platne_listky": null,
+  "platne_hlasy": 929616
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1590,
+   "hlasy": 29134,
+   "hlasy_proc": 3.13,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "HRADEC ROZUMEM"
+  },
+  {
+   "por": 2,
+   "vstrana": 371,
+   "hlasy": 17170,
+   "hlasy_proc": 1.85,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická s podporou nezávislých"
+  },
+  {
+   "por": 3,
+   "vstrana": 1252,
+   "hlasy": 2972,
+   "hlasy_proc": 0.32,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ROMA LUMA"
+  },
+  {
+   "por": 4,
+   "vstrana": 1256,
+   "hlasy": 24078,
+   "hlasy_proc": 2.59,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "HRADEČÁCI"
+  },
+  {
+   "por": 5,
+   "vstrana": 1114,
+   "hlasy": 62246,
+   "hlasy_proc": 6.7,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 6,
+   "vstrana": 457,
+   "hlasy": 40219,
+   "hlasy_proc": 4.33,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hradečtí kantoři a Nestraníci"
+  },
+  {
+   "por": 7,
+   "vstrana": 166,
+   "hlasy": 31656,
+   "hlasy_proc": 3.41,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 8,
+   "vstrana": 1530,
+   "hlasy": 125193,
+   "hlasy_proc": 13.47,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hradecký demokratický klub a TOP 09 s podporou Hradeckých patriotů a LES"
+  },
+  {
+   "por": 9,
+   "vstrana": 364,
+   "hlasy": 52136,
+   "hlasy_proc": 5.61,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Změna pro Hradec a Zelení"
+  },
+  {
+   "por": 10,
+   "vstrana": 47,
+   "hlasy": 28504,
+   "hlasy_proc": 3.07,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 11,
+   "vstrana": 768,
+   "hlasy": 230782,
+   "hlasy_proc": 24.83,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 12,
+   "vstrana": 53,
+   "hlasy": 95871,
+   "hlasy_proc": 10.31,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 13,
+   "vstrana": 1564,
+   "hlasy": 63961,
+   "hlasy_proc": 6.88,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ROZVÍJÍME HRADEC - NOVÁ HRADECKÁ OBČANSKÁ KANDIDÁTKA"
+  },
+  {
+   "por": 14,
+   "vstrana": 720,
+   "hlasy": 81725,
+   "hlasy_proc": 8.79,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 15,
+   "vstrana": 355,
+   "hlasy": 43969,
+   "hlasy_proc": 4.73,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koalice pro Hradec"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

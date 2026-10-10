@@ -1,0 +1,154 @@
+{
+ "kod": "554804",
+ "nazev": "Ústí nad Labem",
+ "typ": "OBEC",
+ "voleno": 37,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 97,
+  "okrsky_zprac": 73,
+  "okrsky_zprac_proc": 75.26,
+  "zapsani_volici": 51792,
+  "vydane_obalky": 17268,
+  "ucast_proc": 33.34,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 17153,
+  "platne_listky": null,
+  "platne_hlasy": 541588
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1012,
+   "hlasy": 42207,
+   "hlasy_proc": 7.79,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ÚSTECKÉ FÓRUM OBČANŮ"
+  },
+  {
+   "por": 2,
+   "vstrana": 1128,
+   "hlasy": 47153,
+   "hlasy_proc": 8.71,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Vaše Ústí"
+  },
+  {
+   "por": 3,
+   "vstrana": 53,
+   "hlasy": 45231,
+   "hlasy_proc": 8.35,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 166,
+   "hlasy": 17513,
+   "hlasy_proc": 3.23,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 5,
+   "vstrana": 1616,
+   "hlasy": 7371,
+   "hlasy_proc": 1.36,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Aliance pro Ústí"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 159856,
+   "hlasy_proc": 29.52,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 7,
+   "vstrana": 785,
+   "hlasy": 19122,
+   "hlasy_proc": 3.53,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zdraví Sport Prosperita"
+  },
+  {
+   "por": 8,
+   "vstrana": 1487,
+   "hlasy": 61102,
+   "hlasy_proc": 11.28,
+   "kandidatu": 36,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou politické strany Trikolora"
+  },
+  {
+   "por": 9,
+   "vstrana": 1195,
+   "hlasy": 9069,
+   "hlasy_proc": 1.67,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Za lepší Střekov"
+  },
+  {
+   "por": 10,
+   "vstrana": 529,
+   "hlasy": 86772,
+   "hlasy_proc": 16.02,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO! Ústí"
+  },
+  {
+   "por": 11,
+   "vstrana": 47,
+   "hlasy": 15316,
+   "hlasy_proc": 2.83,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 12,
+   "vstrana": 540,
+   "hlasy": 22942,
+   "hlasy_proc": 4.24,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ Ústí nad Labem"
+  },
+  {
+   "por": 13,
+   "vstrana": 1245,
+   "hlasy": 7934,
+   "hlasy_proc": 1.46,
+   "kandidatu": 36,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

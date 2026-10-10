@@ -1,0 +1,154 @@
+{
+ "kod": "554286",
+ "nazev": "Mariánské Hory a Hulváky",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:15:00",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 22.22,
+  "zapsani_volici": 1912,
+  "vydane_obalky": 504,
+  "ucast_proc": 26.36,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 504,
+  "platne_listky": null,
+  "platne_hlasy": 6952
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 1364,
+   "hlasy_proc": 19.62,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 371,
+   "hlasy": 54,
+   "hlasy_proc": 0.78,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO NAŠE MARIÁNKY A HULVÁKY"
+  },
+  {
+   "por": 3,
+   "vstrana": 1376,
+   "hlasy": 473,
+   "hlasy_proc": 6.8,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občané pro Mariánské Hory a Hulváky"
+  },
+  {
+   "por": 4,
+   "vstrana": 401,
+   "hlasy": 1930,
+   "hlasy_proc": 27.76,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTA PATRIK HUJDUS A NEZÁVISLÍ"
+  },
+  {
+   "por": 5,
+   "vstrana": 785,
+   "hlasy": 274,
+   "hlasy_proc": 3.94,
+   "kandidatu": 14,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zdraví Sport Prosperita"
+  },
+  {
+   "por": 6,
+   "vstrana": 1327,
+   "hlasy": 481,
+   "hlasy_proc": 6.92,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koalice SPOLU (Občanská demokratická strana, KDU-ČSL, TOP 09)"
+  },
+  {
+   "por": 7,
+   "vstrana": 720,
+   "hlasy": 294,
+   "hlasy_proc": 4.23,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 8,
+   "vstrana": 1191,
+   "hlasy": 304,
+   "hlasy_proc": 4.37,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LEČO – LEPŠÍ A ČISTÁ OSTRAVA"
+  },
+  {
+   "por": 9,
+   "vstrana": 755,
+   "hlasy": 463,
+   "hlasy_proc": 6.66,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Ostravak"
+  },
+  {
+   "por": 10,
+   "vstrana": 1114,
+   "hlasy": 843,
+   "hlasy_proc": 12.13,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  },
+  {
+   "por": 11,
+   "vstrana": 1245,
+   "hlasy": 131,
+   "hlasy_proc": 1.88,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 12,
+   "vstrana": 1521,
+   "hlasy": 233,
+   "hlasy_proc": 3.35,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Budoucnost MH a H"
+  },
+  {
+   "por": 13,
+   "vstrana": 47,
+   "hlasy": 108,
+   "hlasy_proc": 1.55,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  }
+ ],
+ "stazeno": "2022-09-24T19:15:00"
+}

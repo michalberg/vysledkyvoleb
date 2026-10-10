@@ -1,0 +1,164 @@
+{
+ "kod": "554791",
+ "nazev": "Plzeň",
+ "typ": "OBEC",
+ "voleno": 47,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 184,
+  "okrsky_zprac": 163,
+  "okrsky_zprac_proc": 88.59,
+  "zapsani_volici": 104345,
+  "vydane_obalky": 39126,
+  "ucast_proc": 37.5,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 39090,
+  "platne_listky": null,
+  "platne_hlasy": 1673490
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1014,
+   "hlasy": 155506,
+   "hlasy_proc": 9.29,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO PLZEŇ"
+  },
+  {
+   "por": 2,
+   "vstrana": 1327,
+   "hlasy": 446054,
+   "hlasy_proc": 26.65,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU – ODS, KDU-ČSL, TOP 09"
+  },
+  {
+   "por": 3,
+   "vstrana": 47,
+   "hlasy": 58938,
+   "hlasy_proc": 3.52,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 4,
+   "vstrana": 166,
+   "hlasy": 126882,
+   "hlasy_proc": 7.58,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 5,
+   "vstrana": 720,
+   "hlasy": 135279,
+   "hlasy_proc": 8.08,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 55,
+   "hlasy": 7171,
+   "hlasy_proc": 0.43,
+   "kandidatu": 38,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)"
+  },
+  {
+   "por": 7,
+   "vstrana": 482,
+   "hlasy": 5073,
+   "hlasy_proc": 0.3,
+   "kandidatu": 21,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT — sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 8,
+   "vstrana": 600,
+   "hlasy": 5661,
+   "hlasy_proc": 0.34,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČESKÁ PLZEŇ A BEZPEČNÉ ULICE"
+  },
+  {
+   "por": 9,
+   "vstrana": 1265,
+   "hlasy": 34663,
+   "hlasy_proc": 2.07,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Právo Respekt Odbornost"
+  },
+  {
+   "por": 10,
+   "vstrana": 532,
+   "hlasy": 476966,
+   "hlasy_proc": 28.5,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011 a nezávislí"
+  },
+  {
+   "por": 11,
+   "vstrana": 1245,
+   "hlasy": 29419,
+   "hlasy_proc": 1.76,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA - občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 12,
+   "vstrana": 371,
+   "hlasy": 50800,
+   "hlasy_proc": 3.04,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Plzeň v srdci - ČSSD a nezávislí kandidáti"
+  },
+  {
+   "por": 13,
+   "vstrana": 497,
+   "hlasy": 12609,
+   "hlasy_proc": 0.75,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Ta Pravá Plzeň"
+  },
+  {
+   "por": 14,
+   "vstrana": 1114,
+   "hlasy": 128469,
+   "hlasy_proc": 7.68,
+   "kandidatu": 47,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD)"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

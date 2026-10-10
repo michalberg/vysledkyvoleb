@@ -1,0 +1,124 @@
+{
+ "kod": "569810",
+ "nazev": "Hradec Králové",
+ "typ": "OBEC",
+ "voleno": 37,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:40",
+ "ucast": {
+  "okrsky_celkem": 85,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 231,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hradecká levice"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 1350,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PIRÁTI a STAROSTOVÉ"
+  },
+  {
+   "por": 5,
+   "vstrana": 1812,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 36,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Motoristé sobě, Trikolora a nezávislí"
+  },
+  {
+   "por": 6,
+   "vstrana": 479,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Změna pro Hradec, Zelení a KDU-ČSL"
+  },
+  {
+   "por": 7,
+   "vstrana": 1899,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NÁŠ HRADEC: koalice Naše Česko, MY, ROZVÍJÍME HRADEC, HRADEČTÍ PATRIOTI, Volba pro město"
+  },
+  {
+   "por": 8,
+   "vstrana": 1858,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO Právo Respekt Odbornost, Svobodní, PŘÍSAHA občanské hnutí"
+  },
+  {
+   "por": 9,
+   "vstrana": 1859,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hradecký demokratický klub a TOP 09 s podporou Hradeckých kantorů a nestraníků"
+  },
+  {
+   "por": 10,
+   "vstrana": 1738,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 37,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SALON REPUBLIKY 21"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

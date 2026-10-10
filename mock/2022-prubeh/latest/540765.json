@@ -1,0 +1,229 @@
+{
+ "kod": "540765",
+ "nazev": "Mníšek pod Brdy",
+ "typ": "OBEC",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T18:30:00",
+ "ucast": {
+  "okrsky_celkem": 5,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 4496,
+  "vydane_obalky": 2247,
+  "ucast_proc": 49.98,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2247,
+  "platne_listky": null,
+  "platne_hlasy": 31183
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 166,
+   "hlasy": 7159,
+   "hlasy_proc": 22.95,
+   "kandidatu": 15,
+   "zastupitele": 4,
+   "zastupitele_proc": 26.67,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 542,
+     "hlasy_proc": 7.57,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Digrin",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 559,
+     "hlasy_proc": 7.8,
+     "titul_pred": "Bc.",
+     "jmeno": "Marie",
+     "prijmeni": "Šretrová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 556,
+     "hlasy_proc": 7.76,
+     "titul_pred": "Bc.",
+     "jmeno": "Milan",
+     "prijmeni": "Kotouč",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 630,
+     "hlasy_proc": 8.8,
+     "titul_pred": "MUDr.",
+     "jmeno": "Markéta",
+     "prijmeni": "Nováková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 463,
+   "hlasy": 3793,
+   "hlasy_proc": 12.16,
+   "kandidatu": 15,
+   "zastupitele": 2,
+   "zastupitele_proc": 13.33,
+   "nazev": "Sdružení nestraníků",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 369,
+     "hlasy_proc": 9.72,
+     "titul_pred": "Ing.",
+     "jmeno": "Hana",
+     "prijmeni": "Kotoučová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 357,
+     "hlasy_proc": 9.41,
+     "titul_pred": "Bc.",
+     "jmeno": "Bohumila",
+     "prijmeni": "Minaříková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 1327,
+   "hlasy": 4975,
+   "hlasy_proc": 15.95,
+   "kandidatu": 15,
+   "zastupitele": 2,
+   "zastupitele_proc": 13.33,
+   "nazev": "SPOLU",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 446,
+     "hlasy_proc": 8.96,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Trkan",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 427,
+     "hlasy_proc": 8.58,
+     "titul_pred": "Ing.",
+     "jmeno": "Radko",
+     "prijmeni": "Sáblík",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 427,
+   "hlasy": 5285,
+   "hlasy_proc": 16.94,
+   "kandidatu": 15,
+   "zastupitele": 3,
+   "zastupitele_proc": 20.0,
+   "nazev": "Mníšek – Město pro rodinu",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 466,
+     "hlasy_proc": 8.81,
+     "titul_pred": "",
+     "jmeno": "Daniela",
+     "prijmeni": "Páterová",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 382,
+     "hlasy_proc": 7.22,
+     "titul_pred": "",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Vyskočil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 406,
+     "hlasy_proc": 7.68,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Solnička",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 529,
+   "hlasy": 8676,
+   "hlasy_proc": 27.82,
+   "kandidatu": 15,
+   "zastupitele": 4,
+   "zastupitele_proc": 26.67,
+   "nazev": "Společně pro Mníšek – koalice Zelených, Pirátů a nezávislých",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 743,
+     "hlasy_proc": 8.56,
+     "titul_pred": "Mgr.",
+     "jmeno": "Magdaléna",
+     "prijmeni": "Davis",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 708,
+     "hlasy_proc": 8.16,
+     "titul_pred": "Ing.",
+     "jmeno": "Dana",
+     "prijmeni": "Dalešická",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 585,
+     "hlasy_proc": 6.74,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Kroutil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 649,
+     "hlasy_proc": 7.48,
+     "titul_pred": "Mgr.",
+     "jmeno": "Luboš",
+     "prijmeni": "Kožíšek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 524,
+   "hlasy": 1295,
+   "hlasy_proc": 4.15,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Mníšečtí patrioti"
+  }
+ ],
+ "stazeno": "2022-09-24T18:30:00"
+}

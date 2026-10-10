@@ -1,0 +1,104 @@
+{
+ "kod": "567027",
+ "nazev": "Most",
+ "typ": "OBEC",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-10T15:17:02",
+ "ucast": {
+  "okrsky_celkem": 60,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 3.33,
+  "zapsani_volici": 1458,
+  "vydane_obalky": 144,
+  "ucast_proc": 9.88,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 144,
+  "platne_listky": 134,
+  "platne_hlasy": 5557
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 907,
+   "hlasy_proc": 16.32,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 1175,
+   "hlasy": 2767,
+   "hlasy_proc": 49.79,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ProMOST"
+  },
+  {
+   "por": 3,
+   "vstrana": 1743,
+   "hlasy": 1352,
+   "hlasy_proc": 24.33,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "VIZE pro Most"
+  },
+  {
+   "por": 4,
+   "vstrana": 482,
+   "hlasy": 2,
+   "hlasy_proc": 0.04,
+   "kandidatu": 7,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených - ZA PRÁVA ZVÍŘAT, sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 139,
+   "hlasy_proc": 2.5,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 1894,
+   "hlasy": 62,
+   "hlasy_proc": 1.12,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti, Zelení a Starostové"
+  },
+  {
+   "por": 7,
+   "vstrana": 1813,
+   "hlasy": 236,
+   "hlasy_proc": 4.25,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a Motoristé sobě"
+  },
+  {
+   "por": 8,
+   "vstrana": 1298,
+   "hlasy": 92,
+   "hlasy_proc": 1.66,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Stačilo!"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

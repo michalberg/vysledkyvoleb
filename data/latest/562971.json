@@ -1,0 +1,134 @@
+{
+ "kod": "562971",
+ "nazev": "Chomutov",
+ "typ": "OBEC",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:37",
+ "ucast": {
+  "okrsky_celkem": 40,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1721,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "MÁME RÁDI CHOMUTOV"
+  },
+  {
+   "por": 2,
+   "vstrana": 1861,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "CHOMUTOVSKÁ KOALICE-NAŠE ČESKO-SPRÁVNÁ VOLBA PRO ZDRAVÍ A SPORT"
+  },
+  {
+   "por": 3,
+   "vstrana": 1323,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 34,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ S PODPOROU ODS"
+  },
+  {
+   "por": 4,
+   "vstrana": 1935,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Vize 2042 Chomutov"
+  },
+  {
+   "por": 5,
+   "vstrana": 1825,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "JsmePRO! Chomutov"
+  },
+  {
+   "por": 6,
+   "vstrana": 1497,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Lepší Chomutov"
+  },
+  {
+   "por": 7,
+   "vstrana": 1960,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO CHOMUTOV"
+  },
+  {
+   "por": 8,
+   "vstrana": 1687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD + MOTORISTÉ + PRO = CHOMUTOV SOBĚ"
+  },
+  {
+   "por": 9,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 10,
+   "vstrana": 1298,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Stačilo!"
+  },
+  {
+   "por": 11,
+   "vstrana": 1017,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NOVÝ SEVER"
+  }
+ ],
+ "stazeno": "2026-10-10T15:22:20+02:00"
+}

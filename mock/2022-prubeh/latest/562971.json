@@ -1,0 +1,134 @@
+{
+ "kod": "562971",
+ "nazev": "Chomutov",
+ "typ": "OBEC",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:05:00",
+ "ucast": {
+  "okrsky_celkem": 40,
+  "okrsky_zprac": 36,
+  "okrsky_zprac_proc": 90.0,
+  "zapsani_volici": 33107,
+  "vydane_obalky": 10071,
+  "ucast_proc": 30.42,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 10066,
+  "platne_listky": null,
+  "platne_hlasy": 324787
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1063,
+   "hlasy": 3723,
+   "hlasy_proc": 1.15,
+   "kandidatu": 16,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Moderní společnost"
+  },
+  {
+   "por": 2,
+   "vstrana": 1497,
+   "hlasy": 18998,
+   "hlasy_proc": 5.85,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "CHOMUTOVSKÁ KOALICE"
+  },
+  {
+   "por": 3,
+   "vstrana": 1535,
+   "hlasy": 43757,
+   "hlasy_proc": 13.47,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou PRO"
+  },
+  {
+   "por": 4,
+   "vstrana": 1493,
+   "hlasy": 49247,
+   "hlasy_proc": 15.16,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO Chomutov"
+  },
+  {
+   "por": 5,
+   "vstrana": 1568,
+   "hlasy": 3734,
+   "hlasy_proc": 1.15,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ZA BEZPEČNÝ DOMOV"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 97305,
+   "hlasy_proc": 29.96,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 7,
+   "vstrana": 1269,
+   "hlasy": 14732,
+   "hlasy_proc": 4.54,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Správná volba PRO Zdraví a Sport"
+  },
+  {
+   "por": 8,
+   "vstrana": 1017,
+   "hlasy": 39797,
+   "hlasy_proc": 12.25,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NOVÝ SEVER"
+  },
+  {
+   "por": 9,
+   "vstrana": 53,
+   "hlasy": 14209,
+   "hlasy_proc": 4.37,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 10,
+   "vstrana": 47,
+   "hlasy": 19141,
+   "hlasy_proc": 5.89,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 11,
+   "vstrana": 166,
+   "hlasy": 20144,
+   "hlasy_proc": 6.2,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  }
+ ],
+ "stazeno": "2022-09-24T19:05:00"
+}

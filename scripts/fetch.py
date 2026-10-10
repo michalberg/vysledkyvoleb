@@ -208,7 +208,7 @@ def write_index(data_dir, config, updated):
     write_json(data_dir / "index.json", index)
 
 
-CONFIGS = ("config.json", "config-mesta.json", "config-praha.json")
+CONFIGS = ("config.json", "config-mesta.json", "config-praha.json", "config-mesta2.json")
 
 
 def load_config():

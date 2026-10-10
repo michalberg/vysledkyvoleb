@@ -1,0 +1,387 @@
+{
+ "kod": "554481",
+ "nazev": "Cheb",
+ "typ": "OBEC",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T20:30:00",
+ "ucast": {
+  "okrsky_celkem": 32,
+  "okrsky_zprac": 32,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 23202,
+  "vydane_obalky": 8171,
+  "ucast_proc": 35.22,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 8159,
+  "platne_listky": null,
+  "platne_hlasy": 212652
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 67417,
+   "hlasy_proc": 31.7,
+   "kandidatu": 29,
+   "zastupitele": 11,
+   "zastupitele_proc": 37.93,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2534,
+     "hlasy_proc": 3.75,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Vrba",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2488,
+     "hlasy_proc": 3.69,
+     "titul_pred": "",
+     "jmeno": "Gabriela",
+     "prijmeni": "Dostálová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2483,
+     "hlasy_proc": 3.68,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Hrkal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2413,
+     "hlasy_proc": 3.57,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Bauer",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2436,
+     "hlasy_proc": 3.61,
+     "titul_pred": "Ing.",
+     "jmeno": "Leoš",
+     "prijmeni": "Horčička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2481,
+     "hlasy_proc": 3.68,
+     "titul_pred": "Bc.",
+     "jmeno": "Petr",
+     "prijmeni": "Truhlář",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2403,
+     "hlasy_proc": 3.56,
+     "titul_pred": "Ing.",
+     "jmeno": "Lucie",
+     "prijmeni": "Pixová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2404,
+     "hlasy_proc": 3.56,
+     "titul_pred": "",
+     "jmeno": "Eva",
+     "prijmeni": "Horná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2386,
+     "hlasy_proc": 3.53,
+     "titul_pred": "Ing.",
+     "jmeno": "Růžena",
+     "prijmeni": "Vrbová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 2367,
+     "hlasy_proc": 3.51,
+     "titul_pred": "Ing.",
+     "jmeno": "Tibor",
+     "prijmeni": "Dobrovolný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 2366,
+     "hlasy_proc": 3.5,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Homolka",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 53,
+   "hlasy": 15934,
+   "hlasy_proc": 7.49,
+   "kandidatu": 29,
+   "zastupitele": 2,
+   "zastupitele_proc": 6.9,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 746,
+     "hlasy_proc": 4.68,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Pospíšil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 14,
+     "hlasy": 675,
+     "hlasy_proc": 4.23,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jan",
+     "prijmeni": "Svoboda",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 470,
+   "hlasy": 45440,
+   "hlasy_proc": 21.36,
+   "kandidatu": 29,
+   "zastupitele": 7,
+   "zastupitele_proc": 24.14,
+   "nazev": "VOLBA PRO MĚSTO CHEB",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1857,
+     "hlasy_proc": 4.08,
+     "titul_pred": "Mgr.",
+     "jmeno": "Antonín",
+     "prijmeni": "Jalovec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1745,
+     "hlasy_proc": 3.84,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Černý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1739,
+     "hlasy_proc": 3.82,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Ladislav",
+     "prijmeni": "Hrubý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1877,
+     "hlasy_proc": 4.13,
+     "titul_pred": "prof. Dr. Ing.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Plevný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1697,
+     "hlasy_proc": 3.73,
+     "titul_pred": "Mgr.",
+     "jmeno": "Markéta",
+     "prijmeni": "Mašková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1771,
+     "hlasy_proc": 3.89,
+     "titul_pred": "MUDr.",
+     "jmeno": "Ilja",
+     "prijmeni": "Horník",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1659,
+     "hlasy_proc": 3.65,
+     "titul_pred": "Mgr.",
+     "jmeno": "Milan",
+     "prijmeni": "Kůtek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 720,
+   "hlasy": 7986,
+   "hlasy_proc": 4.03,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 5,
+   "vstrana": 47,
+   "hlasy": 9857,
+   "hlasy_proc": 4.63,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 6,
+   "vstrana": 1118,
+   "hlasy": 21326,
+   "hlasy_proc": 10.02,
+   "kandidatu": 29,
+   "zastupitele": 3,
+   "zastupitele_proc": 10.34,
+   "nazev": "Volba pro kraj",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1151,
+     "hlasy_proc": 5.39,
+     "titul_pred": "Mgr.",
+     "jmeno": "Štěpánka",
+     "prijmeni": "Černá",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 924,
+     "hlasy_proc": 4.33,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Petr",
+     "prijmeni": "Ptáček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1115,
+     "hlasy_proc": 5.22,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Pagáč",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 1114,
+   "hlasy": 22936,
+   "hlasy_proc": 10.78,
+   "kandidatu": 29,
+   "zastupitele": 3,
+   "zastupitele_proc": 10.34,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 925,
+     "hlasy_proc": 4.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Parajňáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 863,
+     "hlasy_proc": 3.76,
+     "titul_pred": "",
+     "jmeno": "Daniel",
+     "prijmeni": "Pálko",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 816,
+     "hlasy_proc": 3.55,
+     "titul_pred": "",
+     "jmeno": "Mirko",
+     "prijmeni": "Majer",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 482,
+   "hlasy": 243,
+   "hlasy_proc": 1.65,
+   "kandidatu": 2,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Demokratická strana zelených – ZA PRÁVA ZVÍŘAT — sdružení DSZ – ZA PRÁVA ZVÍŘAT a NK"
+  },
+  {
+   "por": 9,
+   "vstrana": 1344,
+   "hlasy": 21513,
+   "hlasy_proc": 10.11,
+   "kandidatu": 29,
+   "zastupitele": 3,
+   "zastupitele_proc": 10.34,
+   "nazev": "Koalice pro Cheb",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1478,
+     "hlasy_proc": 6.87,
+     "titul_pred": "MUDr.",
+     "jmeno": "Karel",
+     "prijmeni": "Tyrpekl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 999,
+     "hlasy_proc": 4.64,
+     "titul_pred": "Ing.",
+     "jmeno": "Miloslav",
+     "prijmeni": "Šverdík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 15,
+     "hlasy": 900,
+     "hlasy_proc": 4.18,
+     "titul_pred": "",
+     "jmeno": "Jindřich",
+     "prijmeni": "Skopec",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T20:30:00"
+}
