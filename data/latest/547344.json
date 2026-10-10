@@ -5,25 +5,25 @@
  "voleno": 19,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:57:01",
+ "generovano": "2026-10-10T21:28:01",
  "ucast": {
   "okrsky_celkem": 6,
-  "okrsky_zprac": 3,
-  "okrsky_zprac_proc": 50.0,
-  "zapsani_volici": 2467,
-  "vydane_obalky": 1500,
-  "ucast_proc": 60.8,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 66.67,
+  "zapsani_volici": 3678,
+  "vydane_obalky": 2162,
+  "ucast_proc": 58.78,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1499,
-  "platne_listky": 1440,
-  "platne_hlasy": 26247
+  "odevzdane_obalky": 2161,
+  "platne_listky": 2072,
+  "platne_hlasy": 37780
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 1374,
-   "hlasy_proc": 5.23,
+   "hlasy": 2190,
+   "hlasy_proc": 5.8,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 90,
-   "hlasy": 12264,
-   "hlasy_proc": 46.73,
+   "hlasy": 16691,
+   "hlasy_proc": 44.18,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 355,
-   "hlasy": 7895,
-   "hlasy_proc": 30.08,
+   "hlasy": 12279,
+   "hlasy_proc": 32.5,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1695,
-   "hlasy": 1007,
-   "hlasy_proc": 3.84,
+   "hlasy": 1304,
+   "hlasy_proc": 3.45,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 867,
-   "hlasy_proc": 3.3,
+   "hlasy": 1195,
+   "hlasy_proc": 3.16,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1944,
-   "hlasy": 2840,
-   "hlasy_proc": 10.82,
+   "hlasy": 4121,
+   "hlasy_proc": 10.91,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Maják pro Kbely"
   }
  ],
- "stazeno": "2026-10-10T20:57:22+02:00"
+ "stazeno": "2026-10-10T21:28:20+02:00"
 }
