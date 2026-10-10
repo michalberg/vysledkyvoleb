@@ -5,25 +5,25 @@
  "voleno": 55,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T22:25:01",
+ "generovano": "2026-10-10T22:26:00",
  "ucast": {
   "okrsky_celkem": 353,
-  "okrsky_zprac": 304,
-  "okrsky_zprac_proc": 86.12,
-  "zapsani_volici": 259173,
-  "vydane_obalky": 110159,
-  "ucast_proc": 42.5,
+  "okrsky_zprac": 306,
+  "okrsky_zprac_proc": 86.69,
+  "zapsani_volici": 260913,
+  "vydane_obalky": 111112,
+  "ucast_proc": 42.59,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 110027,
-  "platne_listky": 105265,
-  "platne_hlasy": 5457429
+  "odevzdane_obalky": 110979,
+  "platne_listky": 106201,
+  "platne_hlasy": 5505452
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 371,
-   "hlasy": 47248,
-   "hlasy_proc": 0.87,
+   "hlasy": 47276,
+   "hlasy_proc": 0.86,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 340,
-   "hlasy": 1491134,
-   "hlasy_proc": 27.32,
+   "hlasy": 1506946,
+   "hlasy_proc": 27.37,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1869,
-   "hlasy": 490644,
-   "hlasy_proc": 8.99,
+   "hlasy": 492915,
+   "hlasy_proc": 8.95,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 961318,
-   "hlasy_proc": 17.61,
+   "hlasy": 968792,
+   "hlasy_proc": 17.6,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1710,
-   "hlasy": 286504,
-   "hlasy_proc": 5.25,
+   "hlasy": 288630,
+   "hlasy_proc": 5.24,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 523,
-   "hlasy": 1004837,
-   "hlasy_proc": 18.41,
+   "hlasy": 1015012,
+   "hlasy_proc": 18.44,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1832,
-   "hlasy": 83647,
-   "hlasy_proc": 1.53,
+   "hlasy": 84558,
+   "hlasy_proc": 1.54,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1711,
-   "hlasy": 103065,
-   "hlasy_proc": 1.89,
+   "hlasy": 103520,
+   "hlasy_proc": 1.88,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1178,
-   "hlasy": 149225,
-   "hlasy_proc": 2.73,
+   "hlasy": 151003,
+   "hlasy_proc": 2.74,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 482,
-   "hlasy": 1550,
+   "hlasy": 1552,
    "hlasy_proc": 0.03,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -122,7 +122,7 @@
   {
    "por": 11,
    "vstrana": 1901,
-   "hlasy": 16347,
+   "hlasy": 16418,
    "hlasy_proc": 0.3,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -132,7 +132,7 @@
   {
    "por": 12,
    "vstrana": 1245,
-   "hlasy": 60655,
+   "hlasy": 61342,
    "hlasy_proc": 1.11,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -142,8 +142,8 @@
   {
    "por": 13,
    "vstrana": 1693,
-   "hlasy": 63762,
-   "hlasy_proc": 1.17,
+   "hlasy": 64066,
+   "hlasy_proc": 1.16,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -152,8 +152,8 @@
   {
    "por": 14,
    "vstrana": 1730,
-   "hlasy": 125633,
-   "hlasy_proc": 2.3,
+   "hlasy": 126159,
+   "hlasy_proc": 2.29,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -162,8 +162,8 @@
   {
    "por": 15,
    "vstrana": 1870,
-   "hlasy": 361453,
-   "hlasy_proc": 6.62,
+   "hlasy": 364756,
+   "hlasy_proc": 6.63,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -172,7 +172,7 @@
   {
    "por": 16,
    "vstrana": 1305,
-   "hlasy": 210407,
+   "hlasy": 212507,
    "hlasy_proc": 3.86,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -180,5 +180,5 @@
    "nazev": "SPD a nezávislí"
   }
  ],
- "stazeno": "2026-10-10T22:25:26+02:00"
+ "stazeno": "2026-10-10T22:26:20+02:00"
 }
