@@ -5,25 +5,25 @@
  "voleno": 35,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:10:01",
+ "generovano": "2026-10-10T21:35:01",
  "ucast": {
   "okrsky_celkem": 52,
-  "okrsky_zprac": 23,
-  "okrsky_zprac_proc": 44.23,
-  "zapsani_volici": 20002,
-  "vydane_obalky": 8419,
-  "ucast_proc": 42.09,
+  "okrsky_zprac": 25,
+  "okrsky_zprac_proc": 48.08,
+  "zapsani_volici": 22276,
+  "vydane_obalky": 9369,
+  "ucast_proc": 42.06,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 8415,
-  "platne_listky": 8211,
-  "platne_hlasy": 276115
+  "odevzdane_obalky": 9365,
+  "platne_listky": 9125,
+  "platne_hlasy": 307065
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1888,
-   "hlasy": 42428,
-   "hlasy_proc": 15.37,
+   "hlasy": 47135,
+   "hlasy_proc": 15.35,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 31580,
-   "hlasy_proc": 11.44,
+   "hlasy": 34816,
+   "hlasy_proc": 11.34,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1879,
-   "hlasy": 11293,
-   "hlasy_proc": 4.09,
+   "hlasy": 12269,
+   "hlasy_proc": 4.0,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1887,
-   "hlasy": 8694,
-   "hlasy_proc": 3.15,
+   "hlasy": 9255,
+   "hlasy_proc": 3.01,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 659,
-   "hlasy": 123800,
-   "hlasy_proc": 44.84,
+   "hlasy": 139309,
+   "hlasy_proc": 45.37,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1154,
-   "hlasy": 28359,
-   "hlasy_proc": 10.27,
+   "hlasy": 31430,
+   "hlasy_proc": 10.24,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 5,
-   "hlasy": 19756,
-   "hlasy_proc": 7.15,
+   "hlasy": 21701,
+   "hlasy_proc": 7.07,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,7 +92,7 @@
   {
    "por": 8,
    "vstrana": 47,
-   "hlasy": 740,
+   "hlasy": 822,
    "hlasy_proc": 0.27,
    "kandidatu": 17,
    "zastupitele": 0,
@@ -102,13 +102,13 @@
   {
    "por": 9,
    "vstrana": 1487,
-   "hlasy": 9465,
-   "hlasy_proc": 3.43,
+   "hlasy": 10328,
+   "hlasy_proc": 3.36,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPD, Trikolora a nezávislí kandidáti pro Prahu 3 s podporou strany PRO a Přísahy"
   }
  ],
- "stazeno": "2026-10-10T21:10:36+02:00"
+ "stazeno": "2026-10-10T21:35:28+02:00"
 }

@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T21:34:20+02:00",
+ "aktualizovano": "2026-10-10T21:35:28+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 250,
+   "okrsky_zprac": 252,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T21:34:01"
+   "generovano": "2026-10-10T21:35:01"
   },
   {
    "kod": "551198",
@@ -35,9 +35,9 @@
    "nazev": "Brno-Komín",
    "voleno": 17,
    "je_spocteno": false,
-   "okrsky_zprac": 4,
+   "okrsky_zprac": 5,
    "okrsky_celkem": 6,
-   "generovano": "2026-10-10T21:33:01"
+   "generovano": "2026-10-10T21:35:01"
   },
   {
    "kod": "551007",
@@ -116,9 +116,9 @@
    "nazev": "Brno-střed",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 56,
+   "okrsky_zprac": 57,
    "okrsky_celkem": 70,
-   "generovano": "2026-10-10T21:34:01"
+   "generovano": "2026-10-10T21:35:01"
   },
   {
    "kod": "551279",
@@ -134,9 +134,9 @@
    "nazev": "Brno-Žabovřesky",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 18,
+   "okrsky_zprac": 19,
    "okrsky_celkem": 25,
-   "generovano": "2026-10-10T21:26:01"
+   "generovano": "2026-10-10T21:35:01"
   },
   {
    "kod": "551058",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 621,
+   "okrsky_zprac": 626,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T21:34:01"
+   "generovano": "2026-10-10T21:35:01"
   },
   {
    "kod": "500054",
@@ -224,9 +224,9 @@
    "nazev": "Praha 3",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 23,
+   "okrsky_zprac": 25,
    "okrsky_celkem": 52,
-   "generovano": "2026-10-10T21:10:01"
+   "generovano": "2026-10-10T21:35:01"
   },
   {
    "kod": "589250",
@@ -287,9 +287,9 @@
    "nazev": "Praha 4",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 87,
+   "okrsky_zprac": 88,
    "okrsky_celkem": 132,
-   "generovano": "2026-10-10T21:34:01"
+   "generovano": "2026-10-10T21:35:01"
   },
   {
    "kod": "500143",

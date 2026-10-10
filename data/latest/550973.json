@@ -5,25 +5,25 @@
  "voleno": 45,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:34:01",
+ "generovano": "2026-10-10T21:35:01",
  "ucast": {
   "okrsky_celkem": 70,
-  "okrsky_zprac": 56,
-  "okrsky_zprac_proc": 80.0,
-  "zapsani_volici": 62828,
-  "vydane_obalky": 14273,
-  "ucast_proc": 22.72,
+  "okrsky_zprac": 57,
+  "okrsky_zprac_proc": 81.43,
+  "zapsani_volici": 63417,
+  "vydane_obalky": 14613,
+  "ucast_proc": 23.04,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 14273,
-  "platne_listky": 13672,
-  "platne_hlasy": 585032
+  "odevzdane_obalky": 14613,
+  "platne_listky": 14002,
+  "platne_hlasy": 599115
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1711,
-   "hlasy": 19169,
-   "hlasy_proc": 3.28,
+   "hlasy": 19621,
+   "hlasy_proc": 3.27,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1901,
-   "hlasy": 3706,
-   "hlasy_proc": 0.63,
+   "hlasy": 3720,
+   "hlasy_proc": 0.62,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 768,
-   "hlasy": 78362,
-   "hlasy_proc": 13.39,
+   "hlasy": 80553,
+   "hlasy_proc": 13.45,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1305,
-   "hlasy": 31430,
-   "hlasy_proc": 5.37,
+   "hlasy": 32110,
+   "hlasy_proc": 5.36,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 340,
-   "hlasy": 155368,
-   "hlasy_proc": 26.56,
+   "hlasy": 158686,
+   "hlasy_proc": 26.49,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1903,
-   "hlasy": 102258,
-   "hlasy_proc": 17.48,
+   "hlasy": 104664,
+   "hlasy_proc": 17.47,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -83,7 +83,7 @@
    "por": 7,
    "vstrana": 1832,
    "hlasy": 7349,
-   "hlasy_proc": 1.26,
+   "hlasy_proc": 1.23,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 687,
-   "hlasy": 101213,
-   "hlasy_proc": 17.3,
+   "hlasy": 105110,
+   "hlasy_proc": 17.54,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1835,
-   "hlasy": 56296,
-   "hlasy_proc": 9.62,
+   "hlasy": 57067,
+   "hlasy_proc": 9.53,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,8 +112,8 @@
   {
    "por": 10,
    "vstrana": 1693,
-   "hlasy": 6516,
-   "hlasy_proc": 1.11,
+   "hlasy": 6687,
+   "hlasy_proc": 1.12,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -122,13 +122,13 @@
   {
    "por": 11,
    "vstrana": 1710,
-   "hlasy": 23365,
-   "hlasy_proc": 3.99,
+   "hlasy": 23548,
+   "hlasy_proc": 3.93,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Za Lužánky"
   }
  ],
- "stazeno": "2026-10-10T21:34:20+02:00"
+ "stazeno": "2026-10-10T21:35:28+02:00"
 }
