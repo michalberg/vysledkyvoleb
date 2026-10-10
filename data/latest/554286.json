@@ -4,26 +4,26 @@
  "typ": "MCMO",
  "voleno": 15,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T21:17:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T21:32:01",
  "ucast": {
   "okrsky_celkem": 9,
-  "okrsky_zprac": 8,
-  "okrsky_zprac_proc": 88.89,
-  "zapsani_volici": 8082,
-  "vydane_obalky": 2924,
-  "ucast_proc": 36.18,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 9140,
+  "vydane_obalky": 3220,
+  "ucast_proc": 35.23,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2924,
-  "platne_listky": 2783,
-  "platne_hlasy": 38284
+  "odevzdane_obalky": 3220,
+  "platne_listky": 3062,
+  "platne_hlasy": 42056
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1936,
-   "hlasy": 2029,
-   "hlasy_proc": 5.3,
+   "hlasy": 2118,
+   "hlasy_proc": 5.04,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 387,
-   "hlasy": 1022,
-   "hlasy_proc": 2.67,
+   "hlasy": 1136,
+   "hlasy_proc": 2.7,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,83 +42,234 @@
   {
    "por": 3,
    "vstrana": 389,
-   "hlasy": 3000,
-   "hlasy_proc": 7.84,
+   "hlasy": 3333,
+   "hlasy_proc": 7.93,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "srdcOVA - ODS a nezávislí kandidáti"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "srdcOVA - ODS a nezávislí kandidáti",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 288,
+     "hlasy_proc": 8.64,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Luzar",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 355,
-   "hlasy": 2475,
-   "hlasy_proc": 6.46,
+   "hlasy": 2639,
+   "hlasy_proc": 6.27,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Lidovci"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Lidovci",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 294,
+     "hlasy_proc": 11.14,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Pagáč",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 1114,
-   "hlasy": 2239,
-   "hlasy_proc": 5.85,
+   "hlasy": 2302,
+   "hlasy_proc": 5.47,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Svoboda a přímá demokracie (SPD)"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 210,
+     "hlasy_proc": 9.12,
+     "titul_pred": "Ing.",
+     "jmeno": "Filip",
+     "prijmeni": "Čmiel",
+     "titul_za": "Ph.D."
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 1837,
-   "hlasy": 2133,
-   "hlasy_proc": 5.57,
+   "hlasy": 2373,
+   "hlasy_proc": 5.64,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "MOTORISTÉ a přátelé exstarostky Liany Janáčkové - Mariánské Hory a Hulváky SOBĚ"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "MOTORISTÉ a přátelé exstarostky Liany Janáčkové - Mariánské Hory a Hulváky SOBĚ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 211,
+     "hlasy_proc": 8.89,
+     "titul_pred": "Ing. Arch.",
+     "jmeno": "Liana",
+     "prijmeni": "Janáčková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 768,
-   "hlasy": 5583,
-   "hlasy_proc": 14.58,
+   "hlasy": 6405,
+   "hlasy_proc": 15.23,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 2,
+   "zastupitele_proc": 13.33,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 484,
+     "hlasy_proc": 7.55,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Vávra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 454,
+     "hlasy_proc": 7.08,
+     "titul_pred": "",
+     "jmeno": "Rostislav",
+     "prijmeni": "Slušný",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 401,
-   "hlasy": 14351,
-   "hlasy_proc": 37.49,
+   "hlasy": 15944,
+   "hlasy_proc": 37.91,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTA PATRIK HUJDUS A NEZÁVISLÍ"
+   "zastupitele": 7,
+   "zastupitele_proc": 46.67,
+   "nazev": "STAROSTA PATRIK HUJDUS A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1306,
+     "hlasy_proc": 8.19,
+     "titul_pred": "Mgr.",
+     "jmeno": "Patrik",
+     "prijmeni": "Hujdus",
+     "titul_za": "LL.M."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1098,
+     "hlasy_proc": 6.88,
+     "titul_pred": "Bc.",
+     "jmeno": "Hana",
+     "prijmeni": "Franková",
+     "titul_za": "MPA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1099,
+     "hlasy_proc": 6.89,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Šrámek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1076,
+     "hlasy_proc": 6.74,
+     "titul_pred": "MUDr.",
+     "jmeno": "Ivana",
+     "prijmeni": "Chudobová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1091,
+     "hlasy_proc": 6.84,
+     "titul_pred": "",
+     "jmeno": "Lukáš",
+     "prijmeni": "Mikula",
+     "titul_za": "MPA"
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1078,
+     "hlasy_proc": 6.76,
+     "titul_pred": "Mgr.",
+     "jmeno": "Richard",
+     "prijmeni": "Váňa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1068,
+     "hlasy_proc": 6.69,
+     "titul_pred": "",
+     "jmeno": "Renata",
+     "prijmeni": "Burešová",
+     "titul_za": "MBA"
+    }
+   ]
   },
   {
    "por": 9,
    "vstrana": 1376,
-   "hlasy": 3073,
-   "hlasy_proc": 8.03,
+   "hlasy": 3279,
+   "hlasy_proc": 7.8,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "OBČANÉ PRO NAŠE MARIÁNSKÉ HORY A HULVÁKY !!!"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "OBČANÉ PRO NAŠE MARIÁNSKÉ HORY A HULVÁKY !!!",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 279,
+     "hlasy_proc": 8.5,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Sucharda",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 10,
    "vstrana": 755,
-   "hlasy": 2379,
-   "hlasy_proc": 6.21,
+   "hlasy": 2527,
+   "hlasy_proc": 6.01,
    "kandidatu": 13,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Ostravak"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Ostravak",
+   "zvoleni": [
+    {
+     "poradi": 3,
+     "hlasy": 241,
+     "hlasy_proc": 9.53,
+     "titul_pred": "Bc.",
+     "jmeno": "David",
+     "prijmeni": "Kaszper",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T21:17:19+02:00"
+ "stazeno": "2026-10-10T21:32:57+02:00"
 }
