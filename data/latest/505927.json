@@ -5,25 +5,25 @@
  "voleno": 39,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T17:48:02",
+ "generovano": "2026-10-10T18:01:02",
  "ucast": {
   "okrsky_celkem": 59,
-  "okrsky_zprac": 35,
-  "okrsky_zprac_proc": 59.32,
-  "zapsani_volici": 22195,
-  "vydane_obalky": 9450,
-  "ucast_proc": 42.58,
+  "okrsky_zprac": 36,
+  "okrsky_zprac_proc": 61.02,
+  "zapsani_volici": 24443,
+  "vydane_obalky": 9780,
+  "ucast_proc": 40.01,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 9450,
-  "platne_listky": 9367,
-  "platne_hlasy": 338431
+  "odevzdane_obalky": 9780,
+  "platne_listky": 9695,
+  "platne_hlasy": 349986
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 364,
-   "hlasy": 19950,
-   "hlasy_proc": 5.89,
+   "hlasy": 20526,
+   "hlasy_proc": 5.86,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1807,
-   "hlasy": 99265,
-   "hlasy_proc": 29.33,
+   "hlasy": 103301,
+   "hlasy_proc": 29.52,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 389,
-   "hlasy": 35948,
-   "hlasy_proc": 10.62,
+   "hlasy": 37062,
+   "hlasy_proc": 10.59,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 231,
-   "hlasy": 7224,
-   "hlasy_proc": 2.13,
+   "hlasy": 7376,
+   "hlasy_proc": 2.11,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 768,
-   "hlasy": 131746,
-   "hlasy_proc": 38.93,
+   "hlasy": 135940,
+   "hlasy_proc": 38.84,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1,
-   "hlasy": 15258,
-   "hlasy_proc": 4.51,
+   "hlasy": 15550,
+   "hlasy_proc": 4.44,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1331,
-   "hlasy": 12843,
-   "hlasy_proc": 3.79,
+   "hlasy": 13241,
+   "hlasy_proc": 3.78,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1305,
-   "hlasy": 8870,
-   "hlasy_proc": 2.62,
+   "hlasy": 9511,
+   "hlasy_proc": 2.72,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,13 +102,13 @@
   {
    "por": 9,
    "vstrana": 1188,
-   "hlasy": 7327,
-   "hlasy_proc": 2.16,
+   "hlasy": 7479,
+   "hlasy_proc": 2.14,
    "kandidatu": 39,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Občané městských částí Opavy"
   }
  ],
- "stazeno": "2026-10-10T17:52:40+02:00"
+ "stazeno": "2026-10-10T18:01:19+02:00"
 }
