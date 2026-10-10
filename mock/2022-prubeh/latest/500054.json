@@ -1,0 +1,114 @@
+{
+ "kod": "500054",
+ "nazev": "Praha 1",
+ "typ": "MCMO",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:30:00",
+ "ucast": {
+  "okrsky_celkem": 21,
+  "okrsky_zprac": 3,
+  "okrsky_zprac_proc": 14.29,
+  "zapsani_volici": 2581,
+  "vydane_obalky": 988,
+  "ucast_proc": 38.28,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 988,
+  "platne_listky": null,
+  "platne_hlasy": 25294
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 371,
+   "hlasy": 1720,
+   "hlasy_proc": 6.8,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "REZIDENTI 1"
+  },
+  {
+   "por": 2,
+   "vstrana": 541,
+   "hlasy": 3261,
+   "hlasy_proc": 12.89,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a občané z Prahy 1"
+  },
+  {
+   "por": 3,
+   "vstrana": 532,
+   "hlasy": 3154,
+   "hlasy_proc": 12.47,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše PRAHA 1 - ANO 2011, Staroměstská lípa – sdružení občanů a přátel Starého Města a Josefova v Praze, B’nai B’rith…"
+  },
+  {
+   "por": 4,
+   "vstrana": 524,
+   "hlasy": 1426,
+   "hlasy_proc": 5.64,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PATRIOTI PRO PRAHU 1"
+  },
+  {
+   "por": 5,
+   "vstrana": 1373,
+   "hlasy": 6211,
+   "hlasy_proc": 24.56,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 1 SOBĚ"
+  },
+  {
+   "por": 6,
+   "vstrana": 1104,
+   "hlasy": 2983,
+   "hlasy_proc": 11.79,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "My, co tady žijeme - Starostové a nezávislí, KDU-ČSL, Iniciativa občanů"
+  },
+  {
+   "por": 7,
+   "vstrana": 721,
+   "hlasy": 1624,
+   "hlasy_proc": 6.42,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09"
+  },
+  {
+   "por": 8,
+   "vstrana": 427,
+   "hlasy": 537,
+   "hlasy_proc": 2.12,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Radnice pro občany"
+  },
+  {
+   "por": 9,
+   "vstrana": 53,
+   "hlasy": 4378,
+   "hlasy_proc": 17.31,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  }
+ ],
+ "stazeno": "2022-09-24T19:30:00"
+}

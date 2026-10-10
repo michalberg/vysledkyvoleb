@@ -167,6 +167,16 @@
    "Nezávislý kandidát"
   ]
  },
+ "401": {
+  "nazev": "Sdružení NEZ, NK",
+  "zkratka": "Sdružení NEZ, NK",
+  "zkratka8": "NEZ+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "NEZÁVISLÍ"
+  ]
+ },
  "411": {
   "nazev": "Sdružení VPM, NK",
   "zkratka": "Sdružení VPM, NK",
@@ -279,6 +289,16 @@
    "Strana zelených",
    "Nezávislý kandidát",
    "Česká pirátská strana"
+  ]
+ },
+ "532": {
+  "nazev": "Sdružení ANO 2011, NK",
+  "zkratka": "Sdružení ANO 2011, NK",
+  "zkratka8": "ANO+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "ANO 2011"
   ]
  },
  "540": {
@@ -414,6 +434,17 @@
    "ANO 2011"
   ]
  },
+ "1104": {
+  "nazev": "Koalice KDU-ČSL, IO a STAN",
+  "zkratka": "Koalice KDU-ČSL, IO a STAN",
+  "zkratka8": "KDU-ČSL+IO+STAN",
+  "typ": "koalice",
+  "slozeni": [
+   "KDU-ČSL",
+   "Iniciativa občanů",
+   "STAROSTOVÉ A NEZÁVISLÍ"
+  ]
+ },
  "1114": {
   "nazev": "Svoboda a přímá demokracie (SPD)",
   "zkratka": "Svoboda a př. demokracie (SPD)",
@@ -494,6 +525,15 @@
   "typ": "strana/hnutí",
   "slozeni": [
    "Hnutí pro Žabiny"
+  ]
+ },
+ "1297": {
+  "nazev": "GEN",
+  "zkratka": "GEN",
+  "zkratka8": "GEN",
+  "typ": "strana/hnutí",
+  "slozeni": [
+   "GEN"
   ]
  },
  "1305": {
@@ -727,6 +767,16 @@
    "Naše Česko"
   ]
  },
+ "1697": {
+  "nazev": "Koalice Svobodní a AUTO",
+  "zkratka": "Koalice Svobodní, AUTO",
+  "zkratka8": "Svobodní+AUTO",
+  "typ": "koalice",
+  "slozeni": [
+   "Svobodní",
+   "Motoristé sobě"
+  ]
+ },
  "1699": {
   "nazev": "Sdružení HR, NK",
   "zkratka": "Sdružení HR, NK",
@@ -831,6 +881,16 @@
    "Nezávislý kandidát",
    "Svoboda a př. demokracie (SPD)",
    "PRO Právo Respekt Odbornost"
+  ]
+ },
+ "1816": {
+  "nazev": "Sdružení Rebelové, NK",
+  "zkratka": "Sdružení Rebelové, NK",
+  "zkratka8": "Rebelové+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "Rebelové"
   ]
  },
  "1818": {
@@ -1158,6 +1218,16 @@
   "slozeni": [
    "Nezávislý kandidát",
    "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY"
+  ]
+ },
+ "1924": {
+  "nazev": "Sdružení PRO NÁŠ KRAJ, NK",
+  "zkratka": "Sdružení PRO NÁŠ KRAJ, NK",
+  "zkratka8": "PRO NÁŠ KRAJ+NK",
+  "typ": "sdružení s nezávislými",
+  "slozeni": [
+   "Nezávislý kandidát",
+   "PRO NÁŠ KRAJ"
   ]
  },
  "1926": {

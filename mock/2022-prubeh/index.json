@@ -157,6 +157,15 @@
    "generovano": "2022-09-24T19:40:00"
   },
   {
+   "kod": "500054",
+   "nazev": "Praha 1",
+   "voleno": 27,
+   "je_spocteno": false,
+   "okrsky_zprac": 3,
+   "okrsky_celkem": 21,
+   "generovano": "2022-09-24T19:30:00"
+  },
+  {
    "kod": "500097",
    "nazev": "Praha 3",
    "voleno": 35,

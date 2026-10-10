@@ -1,0 +1,164 @@
+{
+ "kod": "500054",
+ "nazev": "Praha 1",
+ "typ": "MCMO",
+ "voleno": 27,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:35",
+ "ucast": {
+  "okrsky_celkem": 21,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 401,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NEZÁVISLÍ z Jedničky Kateřiny Klasnové a Davida Bodečka"
+  },
+  {
+   "por": 3,
+   "vstrana": 1373,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 1 SOBĚ"
+  },
+  {
+   "por": 4,
+   "vstrana": 1924,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "MODRÁ pro jedničku"
+  },
+  {
+   "por": 5,
+   "vstrana": 532,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Praha 1 - ANO 2011 a nezávislí, Staroměstská lípa - sdružení občanů a přátel Starého Města a Josefova v Praze, spolek"
+  },
+  {
+   "por": 6,
+   "vstrana": 1688,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 26,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Rozhodujme společně"
+  },
+  {
+   "por": 7,
+   "vstrana": 1697,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Motoristé sobě a Svobodní"
+  },
+  {
+   "por": 8,
+   "vstrana": 480,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09 – Srdce Prahy"
+  },
+  {
+   "por": 9,
+   "vstrana": 1816,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "REZIDENTI 1"
+  },
+  {
+   "por": 10,
+   "vstrana": 524,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Patrioti pro Prahu 1"
+  },
+  {
+   "por": 11,
+   "vstrana": 1297,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "GEN a sousedé z Prahy 1"
+  },
+  {
+   "por": 12,
+   "vstrana": 1104,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Starostové, KDU-ČSL s podporou Iniciativy občanů (My, co tady žijeme)"
+  },
+  {
+   "por": 13,
+   "vstrana": 541,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a nezávislí pro Prahu 1"
+  },
+  {
+   "por": 14,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 27,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD pro Prahu 1 s podporou PRO, Trikolory, Přísahy, \"sirotků sociální demokracie (1878)\" a místních obyvatel"
+  }
+ ],
+ "stazeno": "2026-10-10T14:48:42+02:00"
+}
