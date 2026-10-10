@@ -4,76 +4,221 @@
  "typ": "OBEC",
  "voleno": 25,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T21:31:00",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T21:45:01",
  "ucast": {
   "okrsky_celkem": 39,
-  "okrsky_zprac": 38,
-  "okrsky_zprac_proc": 97.44,
-  "zapsani_volici": 23981,
-  "vydane_obalky": 9345,
-  "ucast_proc": 38.97,
+  "okrsky_zprac": 39,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 24884,
+  "vydane_obalky": 9859,
+  "ucast_proc": 39.62,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 9275,
-  "platne_listky": 9179,
-  "platne_hlasy": 207084
+  "odevzdane_obalky": 9788,
+  "platne_listky": 9686,
+  "platne_hlasy": 218889
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 529,
-   "hlasy": 33338,
-   "hlasy_proc": 16.1,
+   "hlasy": 36130,
+   "hlasy_proc": 16.51,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Příbram zdola - sdružení Pirátů, Zelených a nezávislých kandidátů"
+   "zastupitele": 4,
+   "zastupitele_proc": 16.0,
+   "nazev": "Příbram zdola - sdružení Pirátů, Zelených a nezávislých kandidátů",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2080,
+     "hlasy_proc": 5.75,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Albrechtová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1804,
+     "hlasy_proc": 4.99,
+     "titul_pred": "Mgr.",
+     "jmeno": "Simona",
+     "prijmeni": "Luftová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1627,
+     "hlasy_proc": 4.5,
+     "titul_pred": "Mgr.",
+     "jmeno": "Antonín",
+     "prijmeni": "Schejbal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1634,
+     "hlasy_proc": 4.52,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Mígl",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 1535,
-   "hlasy": 14402,
-   "hlasy_proc": 6.95,
+   "hlasy": 14932,
+   "hlasy_proc": 6.82,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Svoboda a přímá demokracie (SPD) s podporou PRO Právo Respekt Odbornost"
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou PRO Právo Respekt Odbornost",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 794,
+     "hlasy_proc": 5.31,
+     "titul_pred": "Bc.",
+     "jmeno": "Petra",
+     "prijmeni": "Novotná",
+     "titul_za": "Dis."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 762,
+     "hlasy_proc": 5.1,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Novotný",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 389,
-   "hlasy": 15282,
-   "hlasy_proc": 7.38,
+   "hlasy": 16388,
+   "hlasy_proc": 7.49,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Příbramští patrioté ODS"
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Příbramští patrioté ODS",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1082,
+     "hlasy_proc": 6.6,
+     "titul_pred": "",
+     "jmeno": "Miroslav",
+     "prijmeni": "Peterka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 807,
+     "hlasy_proc": 4.92,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jitka",
+     "prijmeni": "Charyparová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 495,
-   "hlasy": 47343,
-   "hlasy_proc": 22.86,
+   "hlasy": 50548,
+   "hlasy_proc": 23.09,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SPOJENCI"
+   "zastupitele": 6,
+   "zastupitele_proc": 24.0,
+   "nazev": "SPOJENCI",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2486,
+     "hlasy_proc": 4.91,
+     "titul_pred": "Mgr.",
+     "jmeno": "Markéta",
+     "prijmeni": "Škodová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2383,
+     "hlasy_proc": 4.71,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marek",
+     "prijmeni": "Školoud",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2489,
+     "hlasy_proc": 4.92,
+     "titul_pred": "Mgr.",
+     "jmeno": "Václav",
+     "prijmeni": "Švenda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2206,
+     "hlasy_proc": 4.36,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Šprysl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2098,
+     "hlasy_proc": 4.15,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Svěchota",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2185,
+     "hlasy_proc": 4.32,
+     "titul_pred": "MUDr.",
+     "jmeno": "Michal",
+     "prijmeni": "Janek",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 449,
-   "hlasy": 12887,
-   "hlasy_proc": 6.22,
+   "hlasy": 14075,
+   "hlasy_proc": 6.43,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Příbramáci pro Příbram"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.0,
+   "nazev": "Příbramáci pro Příbram",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 874,
+     "hlasy_proc": 6.2,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Kareš",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 47,
-   "hlasy": 3708,
-   "hlasy_proc": 1.79,
+   "hlasy": 3763,
+   "hlasy_proc": 1.72,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +227,8 @@
   {
    "por": 7,
    "vstrana": 355,
-   "hlasy": 7259,
-   "hlasy_proc": 3.51,
+   "hlasy": 7377,
+   "hlasy_proc": 3.37,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,23 +237,117 @@
   {
    "por": 8,
    "vstrana": 1695,
-   "hlasy": 15313,
-   "hlasy_proc": 7.39,
+   "hlasy": 15920,
+   "hlasy_proc": 7.27,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Šance pro Příbram - Naše Česko"
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Šance pro Příbram - Naše Česko",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 972,
+     "hlasy_proc": 6.1,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Král",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 916,
+     "hlasy_proc": 5.75,
+     "titul_pred": "Mgr.",
+     "jmeno": "Josef",
+     "prijmeni": "Strejc",
+     "titul_za": "MBA"
+    }
+   ]
   },
   {
    "por": 9,
    "vstrana": 768,
-   "hlasy": 57552,
-   "hlasy_proc": 27.79,
+   "hlasy": 59756,
+   "hlasy_proc": 27.3,
    "kandidatu": 25,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 8,
+   "zastupitele_proc": 32.0,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2749,
+     "hlasy_proc": 4.6,
+     "titul_pred": "Bc.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Karpíšek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2546,
+     "hlasy_proc": 4.26,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Rotter",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2507,
+     "hlasy_proc": 4.19,
+     "titul_pred": "Bc.",
+     "jmeno": "Denisa",
+     "prijmeni": "Kotková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2469,
+     "hlasy_proc": 4.13,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Dvořáček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2513,
+     "hlasy_proc": 4.2,
+     "titul_pred": "MUDr.",
+     "jmeno": "Ivana",
+     "prijmeni": "Hlaváčová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2443,
+     "hlasy_proc": 4.08,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Hrudka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2446,
+     "hlasy_proc": 4.09,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Voborský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2464,
+     "hlasy_proc": 4.12,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Pulgret",
+     "titul_za": "LLM., DBA"
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T21:30:56+02:00"
+ "stazeno": "2026-10-10T21:45:36+02:00"
 }
