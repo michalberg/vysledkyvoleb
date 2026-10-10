@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T22:12:22+02:00",
+ "aktualizovano": "2026-10-10T22:13:17+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 291,
+   "okrsky_zprac": 292,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T22:11:00"
+   "generovano": "2026-10-10T22:13:00"
   },
   {
    "kod": "551198",
@@ -224,9 +224,9 @@
    "nazev": "Praha 3",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 26,
+   "okrsky_zprac": 27,
    "okrsky_celkem": 52,
-   "generovano": "2026-10-10T22:00:00"
+   "generovano": "2026-10-10T22:13:00"
   },
   {
    "kod": "589250",
