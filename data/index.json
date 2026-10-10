@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T18:48:38+02:00",
+ "aktualizovano": "2026-10-10T18:52:43+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 54,
+   "okrsky_zprac": 61,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T18:48:02"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "551198",
@@ -71,9 +71,9 @@
    "nazev": "Brno-Medlánky",
    "voleno": 15,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 5,
-   "generovano": "2026-10-08T16:40:28"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "551112",
@@ -98,18 +98,18 @@
    "nazev": "Brno-sever",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 6,
+   "okrsky_zprac": 8,
    "okrsky_celkem": 45,
-   "generovano": "2026-10-10T18:47:02"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "551091",
    "nazev": "Brno-Starý Lískovec",
    "voleno": 21,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 4,
    "okrsky_celkem": 12,
-   "generovano": "2026-10-10T18:44:01"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "550973",
@@ -161,18 +161,18 @@
    "nazev": "Jeseník",
    "voleno": 21,
    "je_spocteno": false,
-   "okrsky_zprac": 7,
+   "okrsky_zprac": 8,
    "okrsky_celkem": 11,
-   "generovano": "2026-10-10T18:35:01"
+   "generovano": "2026-10-10T18:53:02"
   },
   {
    "kod": "563889",
    "nazev": "Liberec",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 51,
+   "okrsky_zprac": 55,
    "okrsky_celkem": 87,
-   "generovano": "2026-10-10T18:49:02"
+   "generovano": "2026-10-10T18:53:02"
   },
   {
    "kod": "535419",
@@ -188,27 +188,27 @@
    "nazev": "Nový Jičín",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 12,
+   "okrsky_zprac": 14,
    "okrsky_celkem": 22,
-   "generovano": "2026-10-10T18:48:02"
+   "generovano": "2026-10-10T18:51:02"
   },
   {
    "kod": "505927",
    "nazev": "Opava",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 45,
+   "okrsky_zprac": 47,
    "okrsky_celkem": 59,
-   "generovano": "2026-10-10T18:48:02"
+   "generovano": "2026-10-10T18:53:02"
   },
   {
    "kod": "554782",
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 92,
+   "okrsky_zprac": 100,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T18:49:02"
+   "generovano": "2026-10-10T18:53:02"
   },
   {
    "kod": "500054",
@@ -260,36 +260,36 @@
    "nazev": "Třebíč",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 28,
+   "okrsky_zprac": 29,
    "okrsky_celkem": 39,
-   "generovano": "2026-10-10T18:49:02"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "541630",
    "nazev": "Vsetín",
    "voleno": 21,
    "je_spocteno": false,
-   "okrsky_zprac": 20,
+   "okrsky_zprac": 21,
    "okrsky_celkem": 25,
-   "generovano": "2026-10-10T18:40:02"
+   "generovano": "2026-10-10T18:51:02"
   },
   {
    "kod": "500089",
    "nazev": "Praha 2",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 41,
-   "generovano": "2026-10-10T18:29:02"
+   "generovano": "2026-10-10T18:53:02"
   },
   {
    "kod": "500119",
    "nazev": "Praha 4",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 23,
+   "okrsky_zprac": 24,
    "okrsky_celkem": 132,
-   "generovano": "2026-10-10T18:48:02"
+   "generovano": "2026-10-10T18:53:02"
   },
   {
    "kod": "500143",
@@ -305,9 +305,9 @@
    "nazev": "Praha 6",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 4,
    "okrsky_celkem": 104,
-   "generovano": "2026-10-10T18:17:02"
+   "generovano": "2026-10-10T18:51:02"
   },
   {
    "kod": "500186",
@@ -323,9 +323,9 @@
    "nazev": "Praha 8",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 20,
+   "okrsky_zprac": 22,
    "okrsky_celkem": 106,
-   "generovano": "2026-10-10T18:49:02"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "500216",
@@ -341,9 +341,9 @@
    "nazev": "Praha 10",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 17,
+   "okrsky_zprac": 19,
    "okrsky_celkem": 109,
-   "generovano": "2026-10-10T18:49:02"
+   "generovano": "2026-10-10T18:51:02"
   },
   {
    "kod": "547034",
@@ -359,9 +359,9 @@
    "nazev": "Praha 12",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 50,
-   "generovano": "2026-10-10T18:43:02"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "539694",
@@ -404,9 +404,9 @@
    "nazev": "Praha 17",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 18,
-   "generovano": "2026-10-10T18:12:02"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "547417",
@@ -467,27 +467,27 @@
    "nazev": "České Budějovice",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 65,
+   "okrsky_zprac": 66,
    "okrsky_celkem": 90,
-   "generovano": "2026-10-10T18:47:02"
+   "generovano": "2026-10-10T18:53:02"
   },
   {
    "kod": "569810",
    "nazev": "Hradec Králové",
    "voleno": 37,
    "je_spocteno": false,
-   "okrsky_zprac": 42,
+   "okrsky_zprac": 43,
    "okrsky_celkem": 85,
-   "generovano": "2026-10-10T18:49:02"
+   "generovano": "2026-10-10T18:52:02"
   },
   {
    "kod": "554481",
    "nazev": "Cheb",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 10,
+   "okrsky_zprac": 11,
    "okrsky_celkem": 33,
-   "generovano": "2026-10-10T18:48:02"
+   "generovano": "2026-10-10T18:51:02"
   },
   {
    "kod": "562971",
@@ -584,9 +584,9 @@
    "nazev": "Pardubice",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 44,
+   "okrsky_zprac": 45,
    "okrsky_celkem": 92,
-   "generovano": "2026-10-10T18:49:02"
+   "generovano": "2026-10-10T18:54:01"
   },
   {
    "kod": "549240",
@@ -602,9 +602,9 @@
    "nazev": "Plzeň",
    "voleno": 47,
    "je_spocteno": false,
-   "okrsky_zprac": 88,
+   "okrsky_zprac": 91,
    "okrsky_celkem": 174,
-   "generovano": "2026-10-10T18:50:02"
+   "generovano": "2026-10-10T18:54:01"
   },
   {
    "kod": "588024",
@@ -619,19 +619,19 @@
    "kod": "567442",
    "nazev": "Teplice",
    "voleno": 27,
-   "je_spocteno": false,
-   "okrsky_zprac": 36,
+   "je_spocteno": true,
+   "okrsky_zprac": 37,
    "okrsky_celkem": 37,
-   "generovano": "2026-10-10T18:39:01"
+   "generovano": "2026-10-10T18:51:02"
   },
   {
    "kod": "554804",
    "nazev": "Ústí nad Labem",
    "voleno": 37,
    "je_spocteno": false,
-   "okrsky_zprac": 81,
+   "okrsky_zprac": 83,
    "okrsky_celkem": 97,
-   "generovano": "2026-10-10T18:50:02"
+   "generovano": "2026-10-10T18:53:02"
   }
  ]
 }
