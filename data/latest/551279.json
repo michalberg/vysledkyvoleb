@@ -5,25 +5,25 @@
  "voleno": 21,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:35:01",
+ "generovano": "2026-10-10T19:48:01",
  "ucast": {
   "okrsky_celkem": 10,
-  "okrsky_zprac": 7,
-  "okrsky_zprac_proc": 70.0,
-  "zapsani_volici": 6487,
-  "vydane_obalky": 3030,
-  "ucast_proc": 46.71,
+  "okrsky_zprac": 8,
+  "okrsky_zprac_proc": 80.0,
+  "zapsani_volici": 7360,
+  "vydane_obalky": 3404,
+  "ucast_proc": 46.25,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 3029,
-  "platne_listky": 2981,
-  "platne_hlasy": 59765
+  "odevzdane_obalky": 3403,
+  "platne_listky": 3344,
+  "platne_hlasy": 67110
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1216,
-   "hlasy": 7842,
-   "hlasy_proc": 13.12,
+   "hlasy": 8579,
+   "hlasy_proc": 12.78,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 9244,
-   "hlasy_proc": 15.47,
+   "hlasy": 10257,
+   "hlasy_proc": 15.28,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1884,
-   "hlasy": 3393,
-   "hlasy_proc": 5.68,
+   "hlasy": 3832,
+   "hlasy_proc": 5.71,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 90,
-   "hlasy": 4334,
-   "hlasy_proc": 7.25,
+   "hlasy": 4874,
+   "hlasy_proc": 7.26,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1900,
-   "hlasy": 6052,
-   "hlasy_proc": 10.13,
+   "hlasy": 6817,
+   "hlasy_proc": 10.16,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1327,
-   "hlasy": 16333,
-   "hlasy_proc": 27.33,
+   "hlasy": 17854,
+   "hlasy_proc": 26.6,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1500,
-   "hlasy": 1769,
-   "hlasy_proc": 2.96,
+   "hlasy": 1840,
+   "hlasy_proc": 2.74,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1868,
-   "hlasy": 3319,
-   "hlasy_proc": 5.55,
+   "hlasy": 3733,
+   "hlasy_proc": 5.56,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 470,
-   "hlasy": 7420,
-   "hlasy_proc": 12.42,
+   "hlasy": 9263,
+   "hlasy_proc": 13.8,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,13 +112,13 @@
   {
    "por": 10,
    "vstrana": 1832,
-   "hlasy": 59,
-   "hlasy_proc": 0.1,
+   "hlasy": 61,
+   "hlasy_proc": 0.09,
    "kandidatu": 2,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Restart pro Brno"
   }
  ],
- "stazeno": "2026-10-10T19:35:08+02:00"
+ "stazeno": "2026-10-10T19:49:51+02:00"
 }

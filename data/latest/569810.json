@@ -5,25 +5,25 @@
  "voleno": 37,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:48:01",
+ "generovano": "2026-10-10T19:50:01",
  "ucast": {
   "okrsky_celkem": 85,
-  "okrsky_zprac": 61,
-  "okrsky_zprac_proc": 71.76,
-  "zapsani_volici": 48110,
-  "vydane_obalky": 21867,
-  "ucast_proc": 45.45,
+  "okrsky_zprac": 63,
+  "okrsky_zprac_proc": 74.12,
+  "zapsani_volici": 49871,
+  "vydane_obalky": 22733,
+  "ucast_proc": 45.58,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 21811,
-  "platne_listky": 21603,
-  "platne_hlasy": 735109
+  "odevzdane_obalky": 22676,
+  "platne_listky": 22457,
+  "platne_hlasy": 763952
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 231,
-   "hlasy": 17290,
-   "hlasy_proc": 2.35,
+   "hlasy": 17814,
+   "hlasy_proc": 2.33,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 171737,
-   "hlasy_proc": 23.36,
+   "hlasy": 177253,
+   "hlasy_proc": 23.2,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 53,
-   "hlasy": 74835,
-   "hlasy_proc": 10.18,
+   "hlasy": 77889,
+   "hlasy_proc": 10.2,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1350,
-   "hlasy": 104886,
-   "hlasy_proc": 14.27,
+   "hlasy": 108753,
+   "hlasy_proc": 14.24,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1812,
-   "hlasy": 34530,
-   "hlasy_proc": 4.7,
+   "hlasy": 35773,
+   "hlasy_proc": 4.68,
    "kandidatu": 36,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 479,
-   "hlasy": 55314,
-   "hlasy_proc": 7.52,
+   "hlasy": 58320,
+   "hlasy_proc": 7.63,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1899,
-   "hlasy": 60029,
-   "hlasy_proc": 8.17,
+   "hlasy": 62084,
+   "hlasy_proc": 8.13,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1858,
-   "hlasy": 18121,
-   "hlasy_proc": 2.47,
+   "hlasy": 18750,
+   "hlasy_proc": 2.45,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1859,
-   "hlasy": 180762,
-   "hlasy_proc": 24.59,
+   "hlasy": 188901,
+   "hlasy_proc": 24.73,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,13 +112,13 @@
   {
    "por": 10,
    "vstrana": 1738,
-   "hlasy": 17605,
-   "hlasy_proc": 2.39,
+   "hlasy": 18415,
+   "hlasy_proc": 2.41,
    "kandidatu": 37,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SALON REPUBLIKY 21"
   }
  ],
- "stazeno": "2026-10-10T19:47:32+02:00"
+ "stazeno": "2026-10-10T19:49:51+02:00"
 }
