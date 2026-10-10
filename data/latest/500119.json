@@ -5,18 +5,18 @@
  "voleno": 45,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-11T00:14:00",
+ "generovano": "2026-10-11T00:23:00",
  "ucast": {
   "okrsky_celkem": 132,
-  "okrsky_zprac": 126,
-  "okrsky_zprac_proc": 95.45,
-  "zapsani_volici": 87758,
-  "vydane_obalky": 38275,
-  "ucast_proc": 43.61,
+  "okrsky_zprac": 127,
+  "okrsky_zprac_proc": 96.21,
+  "zapsani_volici": 88348,
+  "vydane_obalky": 38599,
+  "ucast_proc": 43.69,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 38267,
-  "platne_listky": 37332,
-  "platne_hlasy": 1610486
+  "odevzdane_obalky": 38591,
+  "platne_listky": 37650,
+  "platne_hlasy": 1624264
  },
  "strany": [
   {
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 720,
-   "hlasy": 187778,
-   "hlasy_proc": 11.66,
+   "hlasy": 188974,
+   "hlasy_proc": 11.63,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1697,
-   "hlasy": 50880,
-   "hlasy_proc": 3.16,
+   "hlasy": 51700,
+   "hlasy_proc": 3.18,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1305,
-   "hlasy": 63019,
-   "hlasy_proc": 3.91,
+   "hlasy": 63226,
+   "hlasy_proc": 3.89,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,7 +62,7 @@
   {
    "por": 5,
    "vstrana": 768,
-   "hlasy": 241367,
+   "hlasy": 243492,
    "hlasy_proc": 14.99,
    "kandidatu": 45,
    "zastupitele": 0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 687,
-   "hlasy": 540754,
-   "hlasy_proc": 33.58,
+   "hlasy": 545889,
+   "hlasy_proc": 33.61,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,13 +82,13 @@
   {
    "por": 7,
    "vstrana": 1814,
-   "hlasy": 523169,
-   "hlasy_proc": 32.49,
+   "hlasy": 527464,
+   "hlasy_proc": 32.47,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPOLEČNĚ PRO ZMĚNU – KOALICE STAROSTOVÉ, PRAHA SOBĚ, LIDOVCI A ZELENÍ"
   }
  ],
- "stazeno": "2026-10-11T00:14:20+02:00"
+ "stazeno": "2026-10-11T00:23:18+02:00"
 }
