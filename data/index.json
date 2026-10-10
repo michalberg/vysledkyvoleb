@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-11T01:01:11+02:00",
+ "aktualizovano": "2026-10-11T01:02:49+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -628,10 +628,10 @@
    "kod": "554804",
    "nazev": "Ústí nad Labem",
    "voleno": 37,
-   "je_spocteno": false,
-   "okrsky_zprac": 96,
+   "je_spocteno": true,
+   "okrsky_zprac": 97,
    "okrsky_celkem": 97,
-   "generovano": "2026-10-10T23:56:00"
+   "generovano": "2026-10-11T01:03:01"
   }
  ]
 }
