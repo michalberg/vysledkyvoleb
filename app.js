@@ -26,7 +26,7 @@ const S = {
   ref: {},            // kod -> výsledky 2022 (pro celky bez dat)
   meta: {},           // kod -> {src, failed, lastOk}
   active: 0, elapsed: 0, intervalMs: 12000,
-  view: "res", showAll: false,
+  view: "res", showAll: false, paused: load("vv-paused", false),
   coal: load("vv-coal", {}),
   theme: document.documentElement.dataset.theme || "light",
 };
@@ -408,12 +408,13 @@ function renderStage() {
   document.querySelectorAll(".seg button").forEach(b => b.classList.toggle("on", b.dataset.view === S.view));
   if (S.view === "res") renderResults(v);
   else { $("detail")._scope = null; renderCoal($("detail"), v); }
-  $("footLeft").innerHTML = S.view === "coal" ? `<b>Automatické přepínání pozastaveno</b>`
+  $("footLeft").innerHTML = S.view === "coal" || S.paused ? `<b>Automatické přepínání pozastaveno</b>`
     : isMain(S.active) ? `<button type="button" class="pill-small fg" id="toDistricts">Městské části →</button>`
     : `Linka pod názvem = podíl sečtených okrsků`;
   $("footLeft").insertAdjacentHTML("beforeend", pagesHtml());
   $("seatNote").innerHTML = `${SEAT} = mandát · ` + (v.isRef ? "rok 2022, oficiální" : v.official ? "oficiální výsledek" : v.hasLive ? "přibližný výpočet dle současných výsledků" : "");
   $("themeBtn").textContent = S.theme === "dark" ? "Světlý režim" : "Tmavý režim";
+  $("pauseBtn").textContent = S.paused ? "Spustit přepínání" : "Zastavit přepínání";
   tick(0);
 }
 
@@ -459,12 +460,13 @@ function render() {
 }
 
 function tick(dt) {
-  if (S.view === "coal") { S.elapsed = 0; }
+  const stopped = S.view === "coal" || S.paused;
+  if (stopped) { S.elapsed = 0; }
   else {
     S.elapsed += dt;
     if (S.elapsed >= S.intervalMs) { S.elapsed = 0; S.active = (S.active + 1) % S.units.length; render(); return; }
   }
-  $("countdown").style.width = (S.view === "coal" ? 0 : S.elapsed / S.intervalMs * 100) + "%";
+  $("countdown").style.width = (stopped ? 0 : S.elapsed / S.intervalMs * 100) + "%";
 }
 
 function select(i) { S.active = i; S.elapsed = 0; render(); }
@@ -485,6 +487,8 @@ function bind() {
     S.view = b.dataset.view; S.elapsed = 0; render();
   });
   $("footLeft").addEventListener("click", e => { if (e.target.id === "toDistricts") select(1); });
+  $("themeBtn").insertAdjacentHTML("beforebegin", `<button id="pauseBtn" class="pill-small" type="button"></button>`);
+  $("pauseBtn").onclick = () => { S.paused = !S.paused; S.elapsed = 0; save("vv-paused", S.paused); render(); };
   $("themeBtn").onclick = $("mTheme").onclick = () => setTheme(S.theme === "dark" ? "light" : "dark");
   $("mUnits").addEventListener("click", e => {
     const c = e.target.closest("[data-coal]");
