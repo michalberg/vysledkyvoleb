@@ -5,25 +5,25 @@
  "voleno": 25,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:49:03",
+ "generovano": "2026-10-10T16:55:02",
  "ucast": {
   "okrsky_celkem": 44,
-  "okrsky_zprac": 13,
-  "okrsky_zprac_proc": 29.55,
-  "zapsani_volici": 5530,
-  "vydane_obalky": 1860,
-  "ucast_proc": 33.63,
+  "okrsky_zprac": 17,
+  "okrsky_zprac_proc": 38.64,
+  "zapsani_volici": 7464,
+  "vydane_obalky": 2527,
+  "ucast_proc": 33.86,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1856,
-  "platne_listky": 1835,
-  "platne_hlasy": 41901
+  "odevzdane_obalky": 2522,
+  "platne_listky": 2495,
+  "platne_hlasy": 56929
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1114,
-   "hlasy": 2336,
-   "hlasy_proc": 5.58,
+   "hlasy": 3307,
+   "hlasy_proc": 5.81,
    "kandidatu": 24,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 14949,
-   "hlasy_proc": 35.68,
+   "hlasy": 19881,
+   "hlasy_proc": 34.92,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1509,
-   "hlasy": 1048,
-   "hlasy_proc": 2.5,
+   "hlasy": 1523,
+   "hlasy_proc": 2.68,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 53,
-   "hlasy": 3337,
-   "hlasy_proc": 7.96,
+   "hlasy": 4817,
+   "hlasy_proc": 8.46,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 475,
-   "hlasy": 14906,
-   "hlasy_proc": 35.57,
+   "hlasy": 20238,
+   "hlasy_proc": 35.55,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1928,
-   "hlasy": 746,
-   "hlasy_proc": 1.78,
+   "hlasy": 1183,
+   "hlasy_proc": 2.08,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1854,
-   "hlasy": 3247,
-   "hlasy_proc": 7.75,
+   "hlasy": 4139,
+   "hlasy_proc": 7.27,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 1066,
-   "hlasy": 1332,
-   "hlasy_proc": 3.18,
+   "hlasy": 1841,
+   "hlasy_proc": 3.23,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Piráti a Zelení"
   }
  ],
- "stazeno": "2026-10-10T16:48:25+02:00"
+ "stazeno": "2026-10-10T16:54:01+02:00"
 }
