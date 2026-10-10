@@ -4,46 +4,122 @@
  "typ": "OBEC",
  "voleno": 33,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T20:07:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T20:10:01",
  "ucast": {
   "okrsky_celkem": 44,
-  "okrsky_zprac": 43,
-  "okrsky_zprac_proc": 97.73,
-  "zapsani_volici": 27630,
-  "vydane_obalky": 10498,
-  "ucast_proc": 37.99,
+  "okrsky_zprac": 44,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 28510,
+  "vydane_obalky": 11013,
+  "ucast_proc": 38.63,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 10491,
-  "platne_listky": 10383,
-  "platne_hlasy": 311925
+  "odevzdane_obalky": 11006,
+  "platne_listky": 10895,
+  "platne_hlasy": 326243
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 411,
-   "hlasy": 28360,
-   "hlasy_proc": 9.09,
+   "hlasy": 29340,
+   "hlasy_proc": 8.99,
    "kandidatu": 33,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Hlas pro Boleslav"
+   "zastupitele": 3,
+   "zastupitele_proc": 9.09,
+   "nazev": "Hlas pro Boleslav",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1254,
+     "hlasy_proc": 4.27,
+     "titul_pred": "",
+     "jmeno": "Robin",
+     "prijmeni": "Povšík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1248,
+     "hlasy_proc": 4.25,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Irain",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1234,
+     "hlasy_proc": 4.2,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Zahrada",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 523,
-   "hlasy": 48290,
-   "hlasy_proc": 15.48,
+   "hlasy": 50950,
+   "hlasy_proc": 15.62,
    "kandidatu": 33,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ODS s podporou TOP 09 a nezávislých"
+   "zastupitele": 5,
+   "zastupitele_proc": 15.15,
+   "nazev": "ODS s podporou TOP 09 a nezávislých",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1868,
+     "hlasy_proc": 3.66,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Koliáš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1775,
+     "hlasy_proc": 3.48,
+     "titul_pred": "Mgr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Slabý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1787,
+     "hlasy_proc": 3.5,
+     "titul_pred": "Mgr.",
+     "jmeno": "Miroslava",
+     "prijmeni": "Kašpárková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1712,
+     "hlasy_proc": 3.36,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Volfová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1718,
+     "hlasy_proc": 3.37,
+     "titul_pred": "PaedDr.",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Kuhnová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1838,
-   "hlasy": 6663,
-   "hlasy_proc": 2.14,
+   "hlasy": 7085,
+   "hlasy_proc": 2.17,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,38 +128,206 @@
   {
    "por": 4,
    "vstrana": 1370,
-   "hlasy": 55018,
-   "hlasy_proc": 17.64,
+   "hlasy": 57470,
+   "hlasy_proc": 17.62,
    "kandidatu": 33,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Šance pro Mladou Boleslav"
+   "zastupitele": 6,
+   "zastupitele_proc": 18.18,
+   "nazev": "Šance pro Mladou Boleslav",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2364,
+     "hlasy_proc": 4.11,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Krumpholcová",
+     "titul_za": "MSc."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2023,
+     "hlasy_proc": 3.52,
+     "titul_pred": "Bc.",
+     "jmeno": "Michal",
+     "prijmeni": "Javůrek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1982,
+     "hlasy_proc": 3.44,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Milda",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2322,
+     "hlasy_proc": 4.04,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radek",
+     "prijmeni": "Kotlaba",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1995,
+     "hlasy_proc": 3.47,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Vedral",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 1954,
+     "hlasy_proc": 3.4,
+     "titul_pred": "",
+     "jmeno": "Jana",
+     "prijmeni": "Zbíralová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 1114,
-   "hlasy": 19184,
-   "hlasy_proc": 6.15,
+   "hlasy": 19726,
+   "hlasy_proc": 6.05,
    "kandidatu": 33,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Svoboda a přímá demokracie (SPD)"
+   "zastupitele": 2,
+   "zastupitele_proc": 6.06,
+   "nazev": "Svoboda a přímá demokracie (SPD)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 884,
+     "hlasy_proc": 4.48,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Gaudin",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 712,
+     "hlasy_proc": 3.6,
+     "titul_pred": "",
+     "jmeno": "Leoš",
+     "prijmeni": "Vacek",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 1071,
-   "hlasy": 87115,
-   "hlasy_proc": 27.93,
+   "hlasy": 90956,
+   "hlasy_proc": 27.88,
    "kandidatu": 33,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011 + Volba pro Mladou Boleslav"
+   "zastupitele": 10,
+   "zastupitele_proc": 30.3,
+   "nazev": "ANO 2011 + Volba pro Mladou Boleslav",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3648,
+     "hlasy_proc": 4.01,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Bouška",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2978,
+     "hlasy_proc": 3.27,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Servus",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3106,
+     "hlasy_proc": 3.41,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Mašek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2834,
+     "hlasy_proc": 3.11,
+     "titul_pred": "Ing.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Starý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2867,
+     "hlasy_proc": 3.15,
+     "titul_pred": "",
+     "jmeno": "Bohumil",
+     "prijmeni": "Rosenkranz",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2860,
+     "hlasy_proc": 3.14,
+     "titul_pred": "Ing.",
+     "jmeno": "František",
+     "prijmeni": "Petrtýl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2821,
+     "hlasy_proc": 3.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Jakub",
+     "prijmeni": "Starý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2804,
+     "hlasy_proc": 3.08,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Novák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2833,
+     "hlasy_proc": 3.11,
+     "titul_pred": "Bc.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Rambousek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 2879,
+     "hlasy_proc": 3.16,
+     "titul_pred": "",
+     "jmeno": "Václav",
+     "prijmeni": "Laurýn",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 1178,
-   "hlasy": 8467,
-   "hlasy_proc": 2.71,
+   "hlasy": 8646,
+   "hlasy_proc": 2.65,
    "kandidatu": 33,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +336,78 @@
   {
    "por": 8,
    "vstrana": 166,
-   "hlasy": 58828,
-   "hlasy_proc": 18.86,
+   "hlasy": 62070,
+   "hlasy_proc": 19.03,
    "kandidatu": 33,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+   "zastupitele": 7,
+   "zastupitele_proc": 21.21,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2282,
+     "hlasy_proc": 3.67,
+     "titul_pred": "Mgr.",
+     "jmeno": "Daniel",
+     "prijmeni": "Marek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2490,
+     "hlasy_proc": 4.01,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Dostál",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2381,
+     "hlasy_proc": 3.83,
+     "titul_pred": "MUDr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Nechanický",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2256,
+     "hlasy_proc": 3.63,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Laurýnová",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2132,
+     "hlasy_proc": 3.43,
+     "titul_pred": "",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Šebek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2135,
+     "hlasy_proc": 3.43,
+     "titul_pred": "",
+     "jmeno": "Luboš",
+     "prijmeni": "Dvořák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2218,
+     "hlasy_proc": 3.57,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Herrmann",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T20:07:37+02:00"
+ "stazeno": "2026-10-10T20:11:03+02:00"
 }
