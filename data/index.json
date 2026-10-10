@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T16:07:28+02:00",
+ "aktualizovano": "2026-10-10T16:09:58+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -179,27 +179,27 @@
    "nazev": "Mladá Boleslav",
    "voleno": 33,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T16:00:03"
+   "generovano": "2026-10-10T16:09:02"
   },
   {
    "kod": "599191",
    "nazev": "Nový Jičín",
    "voleno": 29,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 22,
-   "generovano": "2026-10-08T16:40:23"
+   "generovano": "2026-10-10T16:09:02"
   },
   {
    "kod": "505927",
    "nazev": "Opava",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 4,
    "okrsky_celkem": 59,
-   "generovano": "2026-10-10T15:44:02"
+   "generovano": "2026-10-10T16:09:03"
   },
   {
    "kod": "554782",
@@ -521,9 +521,9 @@
    "nazev": "Litvínov",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 8,
+   "okrsky_zprac": 9,
    "okrsky_celkem": 28,
-   "generovano": "2026-10-10T16:04:02"
+   "generovano": "2026-10-10T16:10:02"
   },
   {
    "kod": "565229",
@@ -548,9 +548,9 @@
    "nazev": "Most",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 17,
+   "okrsky_zprac": 18,
    "okrsky_celkem": 60,
-   "generovano": "2026-10-10T16:06:02"
+   "generovano": "2026-10-10T16:09:03"
   },
   {
    "kod": "573868",
