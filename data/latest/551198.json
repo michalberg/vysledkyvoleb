@@ -4,26 +4,26 @@
  "typ": "MCMO",
  "voleno": 27,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T20:50:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T20:53:01",
  "ucast": {
   "okrsky_celkem": 24,
-  "okrsky_zprac": 23,
-  "okrsky_zprac_proc": 95.83,
-  "zapsani_volici": 17438,
-  "vydane_obalky": 8181,
-  "ucast_proc": 46.91,
+  "okrsky_zprac": 24,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 18295,
+  "vydane_obalky": 8567,
+  "ucast_proc": 46.83,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 8178,
-  "platne_listky": 8047,
-  "platne_hlasy": 203147
+  "odevzdane_obalky": 8564,
+  "platne_listky": 8428,
+  "platne_hlasy": 213014
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1749,
-   "hlasy": 6810,
-   "hlasy_proc": 3.35,
+   "hlasy": 7153,
+   "hlasy_proc": 3.36,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,48 +32,227 @@
   {
    "por": 2,
    "vstrana": 364,
-   "hlasy": 17177,
-   "hlasy_proc": 8.46,
+   "hlasy": 17816,
+   "hlasy_proc": 8.36,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Zelená pro Bystrc"
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "Zelená pro Bystrc",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 830,
+     "hlasy_proc": 4.65,
+     "titul_pred": "Mgr.",
+     "jmeno": "Matouš",
+     "prijmeni": "Vencálek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 776,
+     "hlasy_proc": 4.35,
+     "titul_pred": "Mgr.",
+     "jmeno": "Eva",
+     "prijmeni": "Dittingerová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1683,
-   "hlasy": 35269,
-   "hlasy_proc": 17.36,
+   "hlasy": 37030,
+   "hlasy_proc": 17.38,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Volím Bystrc"
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "Volím Bystrc",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1729,
+     "hlasy_proc": 4.66,
+     "titul_pred": "JUDr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Kratochvíl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1479,
+     "hlasy_proc": 3.99,
+     "titul_pred": "",
+     "jmeno": "Veronika",
+     "prijmeni": "Antonínová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1451,
+     "hlasy_proc": 3.91,
+     "titul_pred": "Mgr.",
+     "jmeno": "Veronika",
+     "prijmeni": "Jurůjová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1408,
+     "hlasy_proc": 3.8,
+     "titul_pred": "",
+     "jmeno": "Štefan",
+     "prijmeni": "Kandalec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1391,
+     "hlasy_proc": 3.75,
+     "titul_pred": "Ing.",
+     "jmeno": "Tom",
+     "prijmeni": "Kratochvíl",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 340,
-   "hlasy": 57810,
-   "hlasy_proc": 28.46,
+   "hlasy": 60658,
+   "hlasy_proc": 28.48,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "BYSTRC BLÍŽ LIDEM (LIDOVCI A STAROSTOVÉ)"
+   "zastupitele": 9,
+   "zastupitele_proc": 33.33,
+   "nazev": "BYSTRC BLÍŽ LIDEM (LIDOVCI A STAROSTOVÉ)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2493,
+     "hlasy_proc": 4.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Brauner",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2431,
+     "hlasy_proc": 4.0,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Suchý",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2332,
+     "hlasy_proc": 3.84,
+     "titul_pred": "Mgr.",
+     "jmeno": "Terezie",
+     "prijmeni": "Vyškovská",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2493,
+     "hlasy_proc": 4.1,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Ilja",
+     "prijmeni": "Kašík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2333,
+     "hlasy_proc": 3.84,
+     "titul_pred": "Mgr.",
+     "jmeno": "Monika",
+     "prijmeni": "Křížová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2312,
+     "hlasy_proc": 3.81,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Cajzl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2311,
+     "hlasy_proc": 3.8,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ivana",
+     "prijmeni": "Kudělová",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2291,
+     "hlasy_proc": 3.77,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Priessnitz",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2281,
+     "hlasy_proc": 3.76,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Nováček",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 20827,
-   "hlasy_proc": 10.25,
+   "hlasy": 21651,
+   "hlasy_proc": 10.16,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Občanská demokratická strana"
+   "zastupitele": 3,
+   "zastupitele_proc": 11.11,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 988,
+     "hlasy_proc": 4.56,
+     "titul_pred": " Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Jára",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 878,
+     "hlasy_proc": 4.05,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Kaláb",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 934,
+     "hlasy_proc": 4.31,
+     "titul_pred": "Ing.",
+     "jmeno": "Eva",
+     "prijmeni": "Harangiová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 1693,
-   "hlasy": 3850,
-   "hlasy_proc": 1.9,
+   "hlasy": 4135,
+   "hlasy_proc": 1.94,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,18 +261,47 @@
   {
    "por": 7,
    "vstrana": 1831,
-   "hlasy": 22722,
-   "hlasy_proc": 11.19,
+   "hlasy": 24046,
+   "hlasy_proc": 11.29,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Bystrčáci, Piráti, TOP 09 a nezávislí pro Bystrc"
+   "zastupitele": 3,
+   "zastupitele_proc": 11.11,
+   "nazev": "Bystrčáci, Piráti, TOP 09 a nezávislí pro Bystrc",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1082,
+     "hlasy_proc": 4.49,
+     "titul_pred": "Ing.",
+     "jmeno": "Hana",
+     "prijmeni": "Jindrová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1042,
+     "hlasy_proc": 4.33,
+     "titul_pred": "Ing.",
+     "jmeno": "Antonino",
+     "prijmeni": "Milicia",
+     "titul_za": "Ph.D., MBA"
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1065,
+     "hlasy_proc": 4.42,
+     "titul_pred": "Ing.",
+     "jmeno": "Luboš",
+     "prijmeni": "Raus",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 1305,
-   "hlasy": 7417,
-   "hlasy_proc": 3.65,
+   "hlasy": 7951,
+   "hlasy_proc": 3.73,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +310,8 @@
   {
    "por": 9,
    "vstrana": 1832,
-   "hlasy": 1219,
-   "hlasy_proc": 0.6,
+   "hlasy": 1318,
+   "hlasy_proc": 0.62,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,13 +320,60 @@
   {
    "por": 10,
    "vstrana": 768,
-   "hlasy": 30046,
-   "hlasy_proc": 14.79,
+   "hlasy": 31256,
+   "hlasy_proc": 14.67,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 5,
+   "zastupitele_proc": 18.52,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1302,
+     "hlasy_proc": 4.16,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Hejl",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1219,
+     "hlasy_proc": 3.9,
+     "titul_pred": "Ing.",
+     "jmeno": "Denisa",
+     "prijmeni": "Kocmánková",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1190,
+     "hlasy_proc": 3.8,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Doupovec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1195,
+     "hlasy_proc": 3.82,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Fuka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1187,
+     "hlasy_proc": 3.79,
+     "titul_pred": "",
+     "jmeno": "Petra",
+     "prijmeni": "Kaiserová",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T20:50:35+02:00"
+ "stazeno": "2026-10-10T20:53:17+02:00"
 }
