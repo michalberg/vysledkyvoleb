@@ -4,26 +4,26 @@
  "typ": "MCMO",
  "voleno": 29,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T23:10:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T23:14:01",
  "ucast": {
   "okrsky_celkem": 19,
-  "okrsky_zprac": 18,
-  "okrsky_zprac_proc": 94.74,
-  "zapsani_volici": 14570,
-  "vydane_obalky": 6524,
-  "ucast_proc": 44.78,
+  "okrsky_zprac": 19,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 15407,
+  "vydane_obalky": 6952,
+  "ucast_proc": 45.12,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 6521,
-  "platne_listky": 6301,
-  "platne_hlasy": 172521
+  "odevzdane_obalky": 6949,
+  "platne_listky": 6722,
+  "platne_hlasy": 184027
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1693,
-   "hlasy": 4134,
-   "hlasy_proc": 2.4,
+   "hlasy": 4481,
+   "hlasy_proc": 2.43,
    "kandidatu": 22,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,28 +32,104 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 27139,
-   "hlasy_proc": 15.73,
+   "hlasy": 29334,
+   "hlasy_proc": 15.94,
    "kandidatu": 29,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 5,
+   "zastupitele_proc": 17.24,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1130,
+     "hlasy_proc": 3.85,
+     "titul_pred": "Mgr.",
+     "jmeno": "René",
+     "prijmeni": "Novotný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1126,
+     "hlasy_proc": 3.83,
+     "titul_pred": "MVDr. Ing.",
+     "jmeno": "Václav",
+     "prijmeni": "Trojan",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1049,
+     "hlasy_proc": 3.57,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Procházka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1076,
+     "hlasy_proc": 3.66,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Martenek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1035,
+     "hlasy_proc": 3.52,
+     "titul_pred": "",
+     "jmeno": "Bořivoj",
+     "prijmeni": "Nakládal",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 15630,
-   "hlasy_proc": 9.06,
+   "hlasy": 16685,
+   "hlasy_proc": 9.07,
    "kandidatu": 29,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Židenice-dobrá-adresa.cz (ODS, TOP 09 a nestraníci)"
+   "zastupitele": 3,
+   "zastupitele_proc": 10.34,
+   "nazev": "Židenice-dobrá-adresa.cz (ODS, TOP 09 a nestraníci)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 665,
+     "hlasy_proc": 3.98,
+     "titul_pred": "Ing.",
+     "jmeno": "Roman",
+     "prijmeni": "Vašina",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 677,
+     "hlasy_proc": 4.05,
+     "titul_pred": "MUDr.",
+     "jmeno": "Dagmar",
+     "prijmeni": "Seidlová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 605,
+     "hlasy_proc": 3.62,
+     "titul_pred": "",
+     "jmeno": "Roman",
+     "prijmeni": "Čáp",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 1832,
-   "hlasy": 4243,
-   "hlasy_proc": 2.46,
+   "hlasy": 4566,
+   "hlasy_proc": 2.48,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,37 +138,232 @@
   {
    "por": 5,
    "vstrana": 1404,
-   "hlasy": 46902,
-   "hlasy_proc": 27.19,
+   "hlasy": 49803,
+   "hlasy_proc": 27.06,
    "kandidatu": 29,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Lidovci a Starostové Blíž lidem (KDU-ČSL s podporou Starostů a nezávislých)"
+   "zastupitele": 9,
+   "zastupitele_proc": 31.03,
+   "nazev": "Lidovci a Starostové Blíž lidem (KDU-ČSL s podporou Starostů a nezávislých)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2269,
+     "hlasy_proc": 4.55,
+     "titul_pred": "Bc.",
+     "jmeno": "Štěpán",
+     "prijmeni": "Juránek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2062,
+     "hlasy_proc": 4.14,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Grůzová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1796,
+     "hlasy_proc": 3.6,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Přikryl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1776,
+     "hlasy_proc": 3.56,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Pavlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1783,
+     "hlasy_proc": 3.58,
+     "titul_pred": "Ing.",
+     "jmeno": "Viktor",
+     "prijmeni": "Šulc",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1756,
+     "hlasy_proc": 3.52,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Katrňáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1732,
+     "hlasy_proc": 3.47,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Komárek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1786,
+     "hlasy_proc": 3.58,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Petra",
+     "prijmeni": "Klumparová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1727,
+     "hlasy_proc": 3.46,
+     "titul_pred": "",
+     "jmeno": "Josef",
+     "prijmeni": "Komárek",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 1500,
-   "hlasy": 55862,
-   "hlasy_proc": 32.38,
+   "hlasy": 59408,
+   "hlasy_proc": 32.28,
    "kandidatu": 29,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "PETR KUNC – HLAS PRO ŽIDENICE"
+   "zastupitele": 10,
+   "zastupitele_proc": 34.48,
+   "nazev": "PETR KUNC – HLAS PRO ŽIDENICE",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2415,
+     "hlasy_proc": 4.06,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Kunc",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2306,
+     "hlasy_proc": 3.88,
+     "titul_pred": "",
+     "jmeno": "Jana",
+     "prijmeni": "Šťastná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2178,
+     "hlasy_proc": 3.66,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Skála",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2120,
+     "hlasy_proc": 3.56,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Ando",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2102,
+     "hlasy_proc": 3.53,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Jedlička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2127,
+     "hlasy_proc": 3.58,
+     "titul_pred": "",
+     "jmeno": "Magdaléna",
+     "prijmeni": "Kratochvílová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2134,
+     "hlasy_proc": 3.59,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marek",
+     "prijmeni": "Sláma",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2110,
+     "hlasy_proc": 3.55,
+     "titul_pred": "Mgr.",
+     "jmeno": "Hana",
+     "prijmeni": "Fasurová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2118,
+     "hlasy_proc": 3.56,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kamila",
+     "prijmeni": "Réblová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 10,
+     "hlasy": 2070,
+     "hlasy_proc": 3.48,
+     "titul_pred": "",
+     "jmeno": "Alvin",
+     "prijmeni": "Korčák",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 7,
    "vstrana": 1913,
-   "hlasy": 10343,
-   "hlasy_proc": 6.0,
+   "hlasy": 10930,
+   "hlasy_proc": 5.94,
    "kandidatu": 29,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Piráti a Fakt Brno TU! pro Židenice"
+   "zastupitele": 2,
+   "zastupitele_proc": 6.9,
+   "nazev": "Piráti a Fakt Brno TU! pro Židenice",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 490,
+     "hlasy_proc": 4.48,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Monika",
+     "prijmeni": "Lukášová Spilková",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 464,
+     "hlasy_proc": 4.24,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Nikola",
+     "prijmeni": "Jurková Ille",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 1305,
-   "hlasy": 8268,
+   "hlasy": 8820,
    "hlasy_proc": 4.79,
    "kandidatu": 29,
    "zastupitele": 0,
@@ -100,5 +371,5 @@
    "nazev": "SPD a nezávislí kandidáti za zelenou pro Židenice"
   }
  ],
- "stazeno": "2026-10-10T23:10:39+02:00"
+ "stazeno": "2026-10-10T23:14:20+02:00"
 }
