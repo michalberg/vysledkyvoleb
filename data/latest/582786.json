@@ -5,25 +5,25 @@
  "voleno": 55,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-08T16:40:34",
+ "generovano": "2026-10-10T16:39:02",
  "ucast": {
   "okrsky_celkem": 353,
-  "okrsky_zprac": 0,
-  "okrsky_zprac_proc": 0.0,
-  "zapsani_volici": 0,
-  "vydane_obalky": 0,
-  "ucast_proc": 0.0,
+  "okrsky_zprac": 1,
+  "okrsky_zprac_proc": 0.28,
+  "zapsani_volici": 480,
+  "vydane_obalky": 163,
+  "ucast_proc": 33.96,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 0,
-  "platne_listky": 0,
-  "platne_hlasy": 0
+  "odevzdane_obalky": 163,
+  "platne_listky": 161,
+  "platne_hlasy": 8329
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 371,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 60,
+   "hlasy_proc": 0.72,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 340,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 2119,
+   "hlasy_proc": 25.44,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1869,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 1068,
+   "hlasy_proc": 12.82,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 1507,
+   "hlasy_proc": 18.09,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1710,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 483,
+   "hlasy_proc": 5.8,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 523,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 1069,
+   "hlasy_proc": 12.83,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1832,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 76,
+   "hlasy_proc": 0.91,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1711,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 262,
+   "hlasy_proc": 3.15,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1178,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 386,
+   "hlasy_proc": 4.63,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,8 +112,8 @@
   {
    "por": 10,
    "vstrana": 482,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 4,
+   "hlasy_proc": 0.05,
    "kandidatu": 3,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -122,8 +122,8 @@
   {
    "por": 11,
    "vstrana": 1901,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 17,
+   "hlasy_proc": 0.2,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -132,8 +132,8 @@
   {
    "por": 12,
    "vstrana": 1245,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 115,
+   "hlasy_proc": 1.38,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -142,8 +142,8 @@
   {
    "por": 13,
    "vstrana": 1693,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 129,
+   "hlasy_proc": 1.55,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -152,8 +152,8 @@
   {
    "por": 14,
    "vstrana": 1730,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 233,
+   "hlasy_proc": 2.8,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -162,8 +162,8 @@
   {
    "por": 15,
    "vstrana": 1870,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 279,
+   "hlasy_proc": 3.35,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -172,13 +172,13 @@
   {
    "por": 16,
    "vstrana": 1305,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 522,
+   "hlasy_proc": 6.27,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPD a nezávislí"
   }
  ],
- "stazeno": "2026-10-10T01:11:38+02:00"
+ "stazeno": "2026-10-10T16:39:48+02:00"
 }

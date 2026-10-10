@@ -5,25 +5,25 @@
  "voleno": 21,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:32:03",
+ "generovano": "2026-10-10T16:41:03",
  "ucast": {
   "okrsky_celkem": 10,
-  "okrsky_zprac": 3,
-  "okrsky_zprac_proc": 30.0,
-  "zapsani_volici": 1849,
-  "vydane_obalky": 655,
-  "ucast_proc": 35.42,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 40.0,
+  "zapsani_volici": 2335,
+  "vydane_obalky": 880,
+  "ucast_proc": 37.69,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 654,
-  "platne_listky": 648,
-  "platne_hlasy": 12697
+  "odevzdane_obalky": 879,
+  "platne_listky": 866,
+  "platne_hlasy": 16918
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 470,
-   "hlasy": 1539,
-   "hlasy_proc": 12.12,
+   "hlasy": 1964,
+   "hlasy_proc": 11.61,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 90,
-   "hlasy": 5064,
-   "hlasy_proc": 39.88,
+   "hlasy": 7123,
+   "hlasy_proc": 42.1,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1114,
-   "hlasy": 445,
-   "hlasy_proc": 3.5,
+   "hlasy": 572,
+   "hlasy_proc": 3.38,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 4507,
-   "hlasy_proc": 35.5,
+   "hlasy": 5695,
+   "hlasy_proc": 33.66,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 353,
-   "hlasy": 932,
-   "hlasy_proc": 7.34,
+   "hlasy": 1249,
+   "hlasy_proc": 7.38,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 47,
-   "hlasy": 194,
-   "hlasy_proc": 1.53,
+   "hlasy": 290,
+   "hlasy_proc": 1.71,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,13 +82,13 @@
   {
    "por": 7,
    "vstrana": 5,
-   "hlasy": 16,
-   "hlasy_proc": 0.13,
+   "hlasy": 25,
+   "hlasy_proc": 0.15,
    "kandidatu": 1,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Strana zelených"
   }
  ],
- "stazeno": "2026-10-10T16:32:31+02:00"
+ "stazeno": "2026-10-10T16:39:48+02:00"
 }
