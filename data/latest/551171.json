@@ -4,61 +4,204 @@
  "typ": "MCMO",
  "voleno": 15,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T23:31:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-11T00:49:01",
  "ucast": {
   "okrsky_celkem": 4,
-  "okrsky_zprac": 3,
-  "okrsky_zprac_proc": 75.0,
-  "zapsani_volici": 2735,
-  "vydane_obalky": 1570,
-  "ucast_proc": 57.4,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 3582,
+  "vydane_obalky": 2114,
+  "ucast_proc": 59.02,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1562,
-  "platne_listky": 1504,
-  "platne_hlasy": 21082
+  "odevzdane_obalky": 2106,
+  "platne_listky": 2046,
+  "platne_hlasy": 28562
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1305,
-   "hlasy": 1465,
-   "hlasy_proc": 6.95,
+   "hlasy": 1956,
+   "hlasy_proc": 6.85,
    "kandidatu": 13,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SPD a nezávislí kandidáti"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "SPD a nezávislí kandidáti",
+   "zvoleni": [
+    {
+     "poradi": 13,
+     "hlasy": 175,
+     "hlasy_proc": 8.94,
+     "titul_pred": "Doc. JUDr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Koudelka",
+     "titul_za": "Ph.D."
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 364,
-   "hlasy": 7058,
-   "hlasy_proc": 33.48,
+   "hlasy": 9752,
+   "hlasy_proc": 34.14,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Zelená pro Jundrov"
+   "zastupitele": 5,
+   "zastupitele_proc": 33.33,
+   "nazev": "Zelená pro Jundrov",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 719,
+     "hlasy_proc": 7.37,
+     "titul_pred": "",
+     "jmeno": "Ivana",
+     "prijmeni": "Fajnorová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 665,
+     "hlasy_proc": 6.81,
+     "titul_pred": "Ing.",
+     "jmeno": "Aleš",
+     "prijmeni": "Bém",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 803,
+     "hlasy_proc": 8.23,
+     "titul_pred": "",
+     "jmeno": "Irena",
+     "prijmeni": "Koláčná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 680,
+     "hlasy_proc": 6.97,
+     "titul_pred": "Mgr.",
+     "jmeno": "Renata",
+     "prijmeni": "Hejnová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 639,
+     "hlasy_proc": 6.55,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martina",
+     "prijmeni": "Žídková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 6968,
-   "hlasy_proc": 33.05,
+   "hlasy": 9405,
+   "hlasy_proc": 32.93,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Společně pro Jundrov (ODS+nestraníci s podporou TOP 09)"
+   "zastupitele": 5,
+   "zastupitele_proc": 33.33,
+   "nazev": "Společně pro Jundrov (ODS+nestraníci s podporou TOP 09)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 798,
+     "hlasy_proc": 8.48,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Vitula",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 640,
+     "hlasy_proc": 6.8,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Chládek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 648,
+     "hlasy_proc": 6.88,
+     "titul_pred": "Ing.",
+     "jmeno": "Adam",
+     "prijmeni": "Staněk",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 624,
+     "hlasy_proc": 6.63,
+     "titul_pred": "",
+     "jmeno": "Zora",
+     "prijmeni": "Číhalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 633,
+     "hlasy_proc": 6.73,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Kuba",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 738,
-   "hlasy": 5591,
-   "hlasy_proc": 26.52,
+   "hlasy": 7449,
+   "hlasy_proc": 26.08,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Jundrováci"
+   "zastupitele": 4,
+   "zastupitele_proc": 26.67,
+   "nazev": "Jundrováci",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 525,
+     "hlasy_proc": 7.04,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Šťastník",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 546,
+     "hlasy_proc": 7.32,
+     "titul_pred": "Mgr.",
+     "jmeno": "Richard",
+     "prijmeni": "Hubl",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 545,
+     "hlasy_proc": 7.31,
+     "titul_pred": "Ing.",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Lenomar",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 532,
+     "hlasy_proc": 7.14,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Franců",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T23:32:26+02:00"
+ "stazeno": "2026-10-11T00:49:17+02:00"
 }
