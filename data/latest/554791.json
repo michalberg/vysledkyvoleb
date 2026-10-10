@@ -5,24 +5,24 @@
  "voleno": 47,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:24:01",
+ "generovano": "2026-10-10T20:26:01",
  "ucast": {
   "okrsky_celkem": 174,
-  "okrsky_zprac": 153,
-  "okrsky_zprac_proc": 87.93,
-  "zapsani_volici": 104947,
-  "vydane_obalky": 42098,
-  "ucast_proc": 40.11,
+  "okrsky_zprac": 154,
+  "okrsky_zprac_proc": 88.51,
+  "zapsani_volici": 105673,
+  "vydane_obalky": 42375,
+  "ucast_proc": 40.1,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 41973,
-  "platne_listky": 40601,
-  "platne_hlasy": 1753609
+  "odevzdane_obalky": 42250,
+  "platne_listky": 40858,
+  "platne_hlasy": 1764974
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 482,
-   "hlasy": 4506,
+   "hlasy": 4532,
    "hlasy_proc": 0.26,
    "kandidatu": 14,
    "zastupitele": 0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1639,
-   "hlasy": 81499,
-   "hlasy_proc": 4.65,
+   "hlasy": 82512,
+   "hlasy_proc": 4.67,
    "kandidatu": 47,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,7 +42,7 @@
   {
    "por": 3,
    "vstrana": 55,
-   "hlasy": 3318,
+   "hlasy": 3358,
    "hlasy_proc": 0.19,
    "kandidatu": 19,
    "zastupitele": 0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 532,
-   "hlasy": 569381,
-   "hlasy_proc": 32.47,
+   "hlasy": 572506,
+   "hlasy_proc": 32.44,
    "kandidatu": 47,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 166,
-   "hlasy": 300876,
-   "hlasy_proc": 17.16,
+   "hlasy": 302454,
+   "hlasy_proc": 17.14,
    "kandidatu": 47,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,7 +72,7 @@
   {
    "por": 6,
    "vstrana": 1661,
-   "hlasy": 198929,
+   "hlasy": 200097,
    "hlasy_proc": 11.34,
    "kandidatu": 47,
    "zastupitele": 0,
@@ -82,7 +82,7 @@
   {
    "por": 7,
    "vstrana": 371,
-   "hlasy": 13674,
+   "hlasy": 13815,
    "hlasy_proc": 0.78,
    "kandidatu": 47,
    "zastupitele": 0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 53,
-   "hlasy": 265447,
-   "hlasy_proc": 15.14,
+   "hlasy": 267343,
+   "hlasy_proc": 15.15,
    "kandidatu": 47,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,7 +102,7 @@
   {
    "por": 9,
    "vstrana": 47,
-   "hlasy": 26846,
+   "hlasy": 27034,
    "hlasy_proc": 1.53,
    "kandidatu": 47,
    "zastupitele": 0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 1298,
-   "hlasy": 9408,
+   "hlasy": 9502,
    "hlasy_proc": 0.54,
    "kandidatu": 46,
    "zastupitele": 0,
@@ -122,8 +122,8 @@
   {
    "por": 11,
    "vstrana": 720,
-   "hlasy": 86900,
-   "hlasy_proc": 4.96,
+   "hlasy": 87862,
+   "hlasy_proc": 4.98,
    "kandidatu": 47,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -132,8 +132,8 @@
   {
    "por": 12,
    "vstrana": 501,
-   "hlasy": 158045,
-   "hlasy_proc": 9.01,
+   "hlasy": 158886,
+   "hlasy_proc": 9.0,
    "kandidatu": 47,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -142,13 +142,13 @@
   {
    "por": 13,
    "vstrana": 1697,
-   "hlasy": 34780,
-   "hlasy_proc": 1.98,
+   "hlasy": 35073,
+   "hlasy_proc": 1.99,
    "kandidatu": 47,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Motoristé sobě + Svobodní"
   }
  ],
- "stazeno": "2026-10-10T20:24:18+02:00"
+ "stazeno": "2026-10-10T20:26:22+02:00"
 }
