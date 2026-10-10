@@ -5,24 +5,24 @@
  "voleno": 55,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:22:02",
+ "generovano": "2026-10-10T19:35:02",
  "ucast": {
   "okrsky_celkem": 353,
-  "okrsky_zprac": 93,
-  "okrsky_zprac_proc": 26.35,
-  "zapsani_volici": 93634,
-  "vydane_obalky": 28313,
-  "ucast_proc": 30.24,
+  "okrsky_zprac": 106,
+  "okrsky_zprac_proc": 30.03,
+  "zapsani_volici": 102869,
+  "vydane_obalky": 32606,
+  "ucast_proc": 31.7,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 28297,
-  "platne_listky": 27058,
-  "platne_hlasy": 1399057
+  "odevzdane_obalky": 32588,
+  "platne_listky": 31203,
+  "platne_hlasy": 1613329
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 371,
-   "hlasy": 11472,
+   "hlasy": 13236,
    "hlasy_proc": 0.82,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 340,
-   "hlasy": 355133,
-   "hlasy_proc": 25.38,
+   "hlasy": 413538,
+   "hlasy_proc": 25.63,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1869,
-   "hlasy": 123653,
-   "hlasy_proc": 8.84,
+   "hlasy": 144232,
+   "hlasy_proc": 8.94,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 263755,
-   "hlasy_proc": 18.85,
+   "hlasy": 301402,
+   "hlasy_proc": 18.68,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1710,
-   "hlasy": 76069,
-   "hlasy_proc": 5.44,
+   "hlasy": 87667,
+   "hlasy_proc": 5.43,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 523,
-   "hlasy": 248020,
-   "hlasy_proc": 17.73,
+   "hlasy": 285598,
+   "hlasy_proc": 17.7,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,7 +82,7 @@
   {
    "por": 7,
    "vstrana": 1832,
-   "hlasy": 26099,
+   "hlasy": 30127,
    "hlasy_proc": 1.87,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1711,
-   "hlasy": 23837,
-   "hlasy_proc": 1.7,
+   "hlasy": 27070,
+   "hlasy_proc": 1.68,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1178,
-   "hlasy": 42286,
-   "hlasy_proc": 3.02,
+   "hlasy": 47867,
+   "hlasy_proc": 2.97,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 482,
-   "hlasy": 411,
+   "hlasy": 451,
    "hlasy_proc": 0.03,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -122,8 +122,8 @@
   {
    "por": 11,
    "vstrana": 1901,
-   "hlasy": 5545,
-   "hlasy_proc": 0.4,
+   "hlasy": 6264,
+   "hlasy_proc": 0.39,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -132,8 +132,8 @@
   {
    "por": 12,
    "vstrana": 1245,
-   "hlasy": 15616,
-   "hlasy_proc": 1.12,
+   "hlasy": 18248,
+   "hlasy_proc": 1.13,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -142,8 +142,8 @@
   {
    "por": 13,
    "vstrana": 1693,
-   "hlasy": 17359,
-   "hlasy_proc": 1.24,
+   "hlasy": 20405,
+   "hlasy_proc": 1.26,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -152,8 +152,8 @@
   {
    "por": 14,
    "vstrana": 1730,
-   "hlasy": 32609,
-   "hlasy_proc": 2.33,
+   "hlasy": 37814,
+   "hlasy_proc": 2.34,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -162,8 +162,8 @@
   {
    "por": 15,
    "vstrana": 1870,
-   "hlasy": 100639,
-   "hlasy_proc": 7.19,
+   "hlasy": 114252,
+   "hlasy_proc": 7.08,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -172,7 +172,7 @@
   {
    "por": 16,
    "vstrana": 1305,
-   "hlasy": 56554,
+   "hlasy": 65158,
    "hlasy_proc": 4.04,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -180,5 +180,5 @@
    "nazev": "SPD a nezávislí"
   }
  ],
- "stazeno": "2026-10-10T19:22:19+02:00"
+ "stazeno": "2026-10-10T19:35:08+02:00"
 }

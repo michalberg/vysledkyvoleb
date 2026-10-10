@@ -5,25 +5,25 @@
  "voleno": 21,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T19:02:02",
+ "generovano": "2026-10-10T19:29:01",
  "ucast": {
   "okrsky_celkem": 25,
-  "okrsky_zprac": 23,
-  "okrsky_zprac_proc": 92.0,
-  "zapsani_volici": 18555,
-  "vydane_obalky": 8131,
-  "ucast_proc": 43.82,
+  "okrsky_zprac": 24,
+  "okrsky_zprac_proc": 96.0,
+  "zapsani_volici": 19365,
+  "vydane_obalky": 8481,
+  "ucast_proc": 43.8,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 8127,
-  "platne_listky": 8054,
-  "platne_hlasy": 151382
+  "odevzdane_obalky": 8476,
+  "platne_listky": 8402,
+  "platne_hlasy": 158019
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 53,
-   "hlasy": 10195,
-   "hlasy_proc": 6.73,
+   "hlasy": 10552,
+   "hlasy_proc": 6.68,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1695,
-   "hlasy": 7763,
-   "hlasy_proc": 5.13,
+   "hlasy": 8188,
+   "hlasy_proc": 5.18,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 768,
-   "hlasy": 18413,
-   "hlasy_proc": 12.16,
+   "hlasy": 19417,
+   "hlasy_proc": 12.29,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1818,
-   "hlasy": 4788,
-   "hlasy_proc": 3.16,
+   "hlasy": 4981,
+   "hlasy_proc": 3.15,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 90,
-   "hlasy": 61481,
-   "hlasy_proc": 40.61,
+   "hlasy": 64419,
+   "hlasy_proc": 40.77,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,7 +72,7 @@
   {
    "por": 6,
    "vstrana": 364,
-   "hlasy": 12185,
+   "hlasy": 12718,
    "hlasy_proc": 8.05,
    "kandidatu": 21,
    "zastupitele": 0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 355,
-   "hlasy": 24774,
-   "hlasy_proc": 16.37,
+   "hlasy": 25523,
+   "hlasy_proc": 16.15,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 721,
-   "hlasy": 1457,
-   "hlasy_proc": 0.96,
+   "hlasy": 1550,
+   "hlasy_proc": 0.98,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,13 +102,13 @@
   {
    "por": 9,
    "vstrana": 470,
-   "hlasy": 10326,
-   "hlasy_proc": 6.82,
+   "hlasy": 10671,
+   "hlasy_proc": 6.75,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "PROBUĎME VSETÍN!"
   }
  ],
- "stazeno": "2026-10-10T19:01:25+02:00"
+ "stazeno": "2026-10-10T19:35:08+02:00"
 }
