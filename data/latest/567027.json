@@ -5,25 +5,25 @@
  "voleno": 45,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:33:02",
+ "generovano": "2026-10-10T16:37:02",
  "ucast": {
   "okrsky_celkem": 60,
-  "okrsky_zprac": 28,
-  "okrsky_zprac_proc": 46.67,
-  "zapsani_volici": 23299,
-  "vydane_obalky": 5630,
-  "ucast_proc": 24.16,
+  "okrsky_zprac": 30,
+  "okrsky_zprac_proc": 50.0,
+  "zapsani_volici": 24704,
+  "vydane_obalky": 6095,
+  "ucast_proc": 24.67,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 5629,
-  "platne_listky": 5563,
-  "platne_hlasy": 235010
+  "odevzdane_obalky": 6094,
+  "platne_listky": 6026,
+  "platne_hlasy": 254891
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 39009,
-   "hlasy_proc": 16.6,
+   "hlasy": 42032,
+   "hlasy_proc": 16.49,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,7 +32,7 @@
   {
    "por": 2,
    "vstrana": 1175,
-   "hlasy": 104315,
+   "hlasy": 113146,
    "hlasy_proc": 44.39,
    "kandidatu": 45,
    "zastupitele": 0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1743,
-   "hlasy": 52525,
-   "hlasy_proc": 22.35,
+   "hlasy": 57118,
+   "hlasy_proc": 22.41,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,7 +52,7 @@
   {
    "por": 4,
    "vstrana": 482,
-   "hlasy": 279,
+   "hlasy": 300,
    "hlasy_proc": 0.12,
    "kandidatu": 7,
    "zastupitele": 0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 8870,
-   "hlasy_proc": 3.77,
+   "hlasy": 9558,
+   "hlasy_proc": 3.75,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1894,
-   "hlasy": 11168,
-   "hlasy_proc": 4.75,
+   "hlasy": 12151,
+   "hlasy_proc": 4.77,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1813,
-   "hlasy": 12034,
-   "hlasy_proc": 5.12,
+   "hlasy": 13224,
+   "hlasy_proc": 5.19,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 1298,
-   "hlasy": 6810,
-   "hlasy_proc": 2.9,
+   "hlasy": 7362,
+   "hlasy_proc": 2.89,
    "kandidatu": 45,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Stačilo!"
   }
  ],
- "stazeno": "2026-10-10T16:32:31+02:00"
+ "stazeno": "2026-10-10T16:36:08+02:00"
 }

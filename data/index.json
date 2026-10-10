@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T16:32:31+02:00",
+ "aktualizovano": "2026-10-10T16:36:08+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -179,9 +179,9 @@
    "nazev": "Mladá Boleslav",
    "voleno": 33,
    "je_spocteno": false,
-   "okrsky_zprac": 6,
+   "okrsky_zprac": 9,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T16:27:02"
+   "generovano": "2026-10-10T16:36:02"
   },
   {
    "kod": "599191",
@@ -197,9 +197,9 @@
    "nazev": "Opava",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 7,
+   "okrsky_zprac": 10,
    "okrsky_celkem": 59,
-   "generovano": "2026-10-10T16:27:02"
+   "generovano": "2026-10-10T16:36:02"
   },
   {
    "kod": "554782",
@@ -467,9 +467,9 @@
    "nazev": "České Budějovice",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 6,
    "okrsky_celkem": 90,
-   "generovano": "2026-10-10T16:20:02"
+   "generovano": "2026-10-10T16:37:02"
   },
   {
    "kod": "569810",
@@ -521,9 +521,9 @@
    "nazev": "Litvínov",
    "voleno": 23,
    "je_spocteno": false,
-   "okrsky_zprac": 13,
+   "okrsky_zprac": 14,
    "okrsky_celkem": 28,
-   "generovano": "2026-10-10T16:26:02"
+   "generovano": "2026-10-10T16:35:02"
   },
   {
    "kod": "565229",
@@ -548,9 +548,9 @@
    "nazev": "Most",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 28,
+   "okrsky_zprac": 30,
    "okrsky_celkem": 60,
-   "generovano": "2026-10-10T16:33:02"
+   "generovano": "2026-10-10T16:37:02"
   },
   {
    "kod": "573868",
@@ -602,9 +602,9 @@
    "nazev": "Plzeň",
    "voleno": 47,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 5,
    "okrsky_celkem": 174,
-   "generovano": "2026-10-10T16:33:02"
+   "generovano": "2026-10-10T16:37:02"
   },
   {
    "kod": "588024",
@@ -620,18 +620,18 @@
    "nazev": "Teplice",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 4,
    "okrsky_celkem": 37,
-   "generovano": "2026-10-10T16:30:02"
+   "generovano": "2026-10-10T16:36:02"
   },
   {
    "kod": "554804",
    "nazev": "Ústí nad Labem",
    "voleno": 37,
    "je_spocteno": false,
-   "okrsky_zprac": 12,
+   "okrsky_zprac": 13,
    "okrsky_celkem": 97,
-   "generovano": "2026-10-10T16:32:03"
+   "generovano": "2026-10-10T16:37:02"
   }
  ]
 }
