@@ -5,25 +5,25 @@
  "voleno": 15,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:40:01",
+ "generovano": "2026-10-10T21:38:00",
  "ucast": {
   "okrsky_celkem": 4,
-  "okrsky_zprac": 1,
-  "okrsky_zprac_proc": 25.0,
-  "zapsani_volici": 1163,
-  "vydane_obalky": 605,
-  "ucast_proc": 52.02,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 50.0,
+  "zapsani_volici": 1912,
+  "vydane_obalky": 1069,
+  "ucast_proc": 55.91,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 602,
-  "platne_listky": 571,
-  "platne_hlasy": 8098
+  "odevzdane_obalky": 1065,
+  "platne_listky": 1011,
+  "platne_hlasy": 14324
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1305,
-   "hlasy": 720,
-   "hlasy_proc": 8.89,
+   "hlasy": 1014,
+   "hlasy_proc": 7.08,
    "kandidatu": 13,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 364,
-   "hlasy": 2582,
-   "hlasy_proc": 31.88,
+   "hlasy": 4594,
+   "hlasy_proc": 32.07,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 2995,
-   "hlasy_proc": 36.98,
+   "hlasy": 4839,
+   "hlasy_proc": 33.78,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,13 +52,13 @@
   {
    "por": 4,
    "vstrana": 738,
-   "hlasy": 1801,
-   "hlasy_proc": 22.24,
+   "hlasy": 3877,
+   "hlasy_proc": 27.07,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Jundrováci"
   }
  ],
- "stazeno": "2026-10-10T20:40:38+02:00"
+ "stazeno": "2026-10-10T21:38:19+02:00"
 }

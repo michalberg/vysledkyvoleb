@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T21:37:17+02:00",
+ "aktualizovano": "2026-10-10T21:38:19+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 253,
+   "okrsky_zprac": 256,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T21:36:01"
+   "generovano": "2026-10-10T21:38:00"
   },
   {
    "kod": "551198",
@@ -26,9 +26,9 @@
    "nazev": "Brno-Jundrov",
    "voleno": 15,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 4,
-   "generovano": "2026-10-10T20:40:01"
+   "generovano": "2026-10-10T21:38:00"
   },
   {
    "kod": "551228",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 633,
+   "okrsky_zprac": 634,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T21:37:01"
+   "generovano": "2026-10-10T21:38:00"
   },
   {
    "kod": "500054",
