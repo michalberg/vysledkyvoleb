@@ -5,25 +5,25 @@
  "voleno": 19,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-08T16:40:35",
+ "generovano": "2026-10-10T20:20:00",
  "ucast": {
   "okrsky_celkem": 6,
-  "okrsky_zprac": 0,
-  "okrsky_zprac_proc": 0.0,
-  "zapsani_volici": 0,
-  "vydane_obalky": 0,
-  "ucast_proc": 0.0,
+  "okrsky_zprac": 1,
+  "okrsky_zprac_proc": 16.67,
+  "zapsani_volici": 887,
+  "vydane_obalky": 576,
+  "ucast_proc": 64.94,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 0,
-  "platne_listky": 0,
-  "platne_hlasy": 0
+  "odevzdane_obalky": 576,
+  "platne_listky": 561,
+  "platne_hlasy": 10257
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 577,
+   "hlasy_proc": 5.63,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 90,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 4919,
+   "hlasy_proc": 47.96,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 355,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 2606,
+   "hlasy_proc": 25.41,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1695,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 374,
+   "hlasy_proc": 3.65,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 330,
+   "hlasy_proc": 3.22,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1944,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 1451,
+   "hlasy_proc": 14.15,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Maják pro Kbely"
   }
  ],
- "stazeno": "2026-10-10T15:10:34+02:00"
+ "stazeno": "2026-10-10T20:20:35+02:00"
 }
