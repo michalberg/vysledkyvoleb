@@ -4,56 +4,143 @@
  "typ": "OBEC",
  "voleno": 21,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T20:45:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T20:57:01",
  "ucast": {
   "okrsky_celkem": 11,
-  "okrsky_zprac": 10,
-  "okrsky_zprac_proc": 90.91,
-  "zapsani_volici": 7688,
-  "vydane_obalky": 3279,
-  "ucast_proc": 42.65,
+  "okrsky_zprac": 11,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 8701,
+  "vydane_obalky": 3747,
+  "ucast_proc": 43.06,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 3277,
-  "platne_listky": 3243,
-  "platne_hlasy": 61425
+  "odevzdane_obalky": 3745,
+  "platne_listky": 3707,
+  "platne_hlasy": 70214
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1482,
-   "hlasy": 3331,
-   "hlasy_proc": 5.42,
+   "hlasy": 3755,
+   "hlasy_proc": 5.35,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Náš Jeseník"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Náš Jeseník",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 380,
+     "hlasy_proc": 10.11,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Jelínek",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 477,
-   "hlasy": 3234,
-   "hlasy_proc": 5.26,
+   "hlasy": 3583,
+   "hlasy_proc": 5.1,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Nezávislí za Jeseník"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Nezávislí za Jeseník",
+   "zvoleni": [
+    {
+     "poradi": 3,
+     "hlasy": 298,
+     "hlasy_proc": 8.31,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Kubánek",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 90,
-   "hlasy": 17056,
-   "hlasy_proc": 27.77,
+   "hlasy": 19463,
+   "hlasy_proc": 27.72,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "PRO JESENÍK"
+   "zastupitele": 7,
+   "zastupitele_proc": 33.33,
+   "nazev": "PRO JESENÍK",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1058,
+     "hlasy_proc": 5.43,
+     "titul_pred": "",
+     "jmeno": "Dušan",
+     "prijmeni": "Antálek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1224,
+     "hlasy_proc": 6.28,
+     "titul_pred": "Ing.",
+     "jmeno": "Tibor",
+     "prijmeni": "Macík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1139,
+     "hlasy_proc": 5.85,
+     "titul_pred": "Ing.",
+     "jmeno": "Radomír",
+     "prijmeni": "Kuba",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1087,
+     "hlasy_proc": 5.58,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radek",
+     "prijmeni": "Ambrož",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 907,
+     "hlasy_proc": 4.66,
+     "titul_pred": "Ing.",
+     "jmeno": "Aleš",
+     "prijmeni": "Suchánek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 908,
+     "hlasy_proc": 4.66,
+     "titul_pred": "",
+     "jmeno": "Roman",
+     "prijmeni": "Štencl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 12,
+     "hlasy": 1051,
+     "hlasy_proc": 5.39,
+     "titul_pred": "MUDr.",
+     "jmeno": "Michal",
+     "prijmeni": "Žitňanský",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 7,
-   "hlasy": 844,
-   "hlasy_proc": 1.37,
+   "hlasy": 921,
+   "hlasy_proc": 1.31,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,18 +149,56 @@
   {
    "por": 5,
    "vstrana": 768,
-   "hlasy": 11898,
-   "hlasy_proc": 19.37,
+   "hlasy": 13210,
+   "hlasy_proc": 18.81,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 4,
+   "zastupitele_proc": 19.05,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 694,
+     "hlasy_proc": 5.25,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vendula",
+     "prijmeni": "Sukupová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 792,
+     "hlasy_proc": 5.99,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Juráš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 762,
+     "hlasy_proc": 5.76,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Konvičková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 759,
+     "hlasy_proc": 5.74,
+     "titul_pred": "Bc.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Táborský",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 1178,
-   "hlasy": 2174,
-   "hlasy_proc": 3.54,
+   "hlasy": 2584,
+   "hlasy_proc": 3.68,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,33 +207,109 @@
   {
    "por": 7,
    "vstrana": 480,
-   "hlasy": 16475,
-   "hlasy_proc": 26.82,
+   "hlasy": 19404,
+   "hlasy_proc": 27.64,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Jeseník srdcem"
+   "zastupitele": 7,
+   "zastupitele_proc": 33.33,
+   "nazev": "Jeseník srdcem",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1133,
+     "hlasy_proc": 5.83,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martina",
+     "prijmeni": "Seidlerová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1071,
+     "hlasy_proc": 5.51,
+     "titul_pred": "Mgr.",
+     "jmeno": "Tereza",
+     "prijmeni": "Vodáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1249,
+     "hlasy_proc": 6.43,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Blišťanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1048,
+     "hlasy_proc": 5.4,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Vlazlo",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1064,
+     "hlasy_proc": 5.48,
+     "titul_pred": "",
+     "jmeno": "Roman",
+     "prijmeni": "Kaderka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 947,
+     "hlasy_proc": 4.88,
+     "titul_pred": "Mgr.",
+     "jmeno": "David",
+     "prijmeni": "Dvořák",
+     "titul_za": "LL.M., Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 952,
+     "hlasy_proc": 4.9,
+     "titul_pred": "Ing. Bc.",
+     "jmeno": "Veronika",
+     "prijmeni": "Škodová",
+     "titul_za": "MBA"
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 355,
-   "hlasy": 3566,
-   "hlasy_proc": 5.81,
+   "hlasy": 4186,
+   "hlasy_proc": 5.96,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Občané Jeseníku"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Občané Jeseníku",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 502,
+     "hlasy_proc": 11.99,
+     "titul_pred": "",
+     "jmeno": "Václav",
+     "prijmeni": "Dvořák",
+     "titul_za": "dipl. um."
+    }
+   ]
   },
   {
    "por": 9,
    "vstrana": 1114,
-   "hlasy": 2847,
-   "hlasy_proc": 4.63,
+   "hlasy": 3108,
+   "hlasy_proc": 4.43,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Svoboda a přímá demokracie (SPD)"
   }
  ],
- "stazeno": "2026-10-10T20:45:38+02:00"
+ "stazeno": "2026-10-10T20:57:22+02:00"
 }

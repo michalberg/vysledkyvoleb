@@ -5,25 +5,25 @@
  "voleno": 55,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:55:01",
+ "generovano": "2026-10-10T20:57:01",
  "ucast": {
   "okrsky_celkem": 353,
-  "okrsky_zprac": 200,
-  "okrsky_zprac_proc": 56.66,
-  "zapsani_volici": 176045,
-  "vydane_obalky": 67469,
-  "ucast_proc": 38.32,
+  "okrsky_zprac": 202,
+  "okrsky_zprac_proc": 57.22,
+  "zapsani_volici": 177593,
+  "vydane_obalky": 68309,
+  "ucast_proc": 38.46,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 67419,
-  "platne_listky": 64378,
-  "platne_hlasy": 3334007
+  "odevzdane_obalky": 68259,
+  "platne_listky": 65181,
+  "platne_hlasy": 3375542
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 371,
-   "hlasy": 26657,
-   "hlasy_proc": 0.8,
+   "hlasy": 27688,
+   "hlasy_proc": 0.82,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 340,
-   "hlasy": 879708,
-   "hlasy_proc": 26.39,
+   "hlasy": 892267,
+   "hlasy_proc": 26.43,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1869,
-   "hlasy": 299224,
-   "hlasy_proc": 8.97,
+   "hlasy": 302523,
+   "hlasy_proc": 8.96,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 609366,
-   "hlasy_proc": 18.28,
+   "hlasy": 616131,
+   "hlasy_proc": 18.25,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1710,
-   "hlasy": 177721,
-   "hlasy_proc": 5.33,
+   "hlasy": 180219,
+   "hlasy_proc": 5.34,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 523,
-   "hlasy": 603620,
-   "hlasy_proc": 18.1,
+   "hlasy": 611699,
+   "hlasy_proc": 18.12,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1832,
-   "hlasy": 55947,
-   "hlasy_proc": 1.68,
+   "hlasy": 56398,
+   "hlasy_proc": 1.67,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1711,
-   "hlasy": 61034,
-   "hlasy_proc": 1.83,
+   "hlasy": 61598,
+   "hlasy_proc": 1.82,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1178,
-   "hlasy": 99552,
-   "hlasy_proc": 2.99,
+   "hlasy": 100442,
+   "hlasy_proc": 2.98,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 482,
-   "hlasy": 935,
+   "hlasy": 944,
    "hlasy_proc": 0.03,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -122,7 +122,7 @@
   {
    "por": 11,
    "vstrana": 1901,
-   "hlasy": 10728,
+   "hlasy": 10897,
    "hlasy_proc": 0.32,
    "kandidatu": 55,
    "zastupitele": 0,
@@ -132,8 +132,8 @@
   {
    "por": 12,
    "vstrana": 1245,
-   "hlasy": 36340,
-   "hlasy_proc": 1.09,
+   "hlasy": 36578,
+   "hlasy_proc": 1.08,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -142,8 +142,8 @@
   {
    "por": 13,
    "vstrana": 1693,
-   "hlasy": 42022,
-   "hlasy_proc": 1.26,
+   "hlasy": 42248,
+   "hlasy_proc": 1.25,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -152,8 +152,8 @@
   {
    "por": 14,
    "vstrana": 1730,
-   "hlasy": 74989,
-   "hlasy_proc": 2.25,
+   "hlasy": 75591,
+   "hlasy_proc": 2.24,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -162,8 +162,8 @@
   {
    "por": 15,
    "vstrana": 1870,
-   "hlasy": 223944,
-   "hlasy_proc": 6.72,
+   "hlasy": 225993,
+   "hlasy_proc": 6.7,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -172,13 +172,13 @@
   {
    "por": 16,
    "vstrana": 1305,
-   "hlasy": 132220,
-   "hlasy_proc": 3.97,
+   "hlasy": 134326,
+   "hlasy_proc": 3.98,
    "kandidatu": 55,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPD a nezávislí"
   }
  ],
- "stazeno": "2026-10-10T20:55:26+02:00"
+ "stazeno": "2026-10-10T20:57:22+02:00"
 }
