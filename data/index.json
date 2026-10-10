@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T16:27:27+02:00",
+ "aktualizovano": "2026-10-10T16:29:19+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -458,9 +458,9 @@
    "nazev": "Česká Lípa",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 6,
+   "okrsky_zprac": 7,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T16:27:02"
+   "generovano": "2026-10-10T16:29:03"
   },
   {
    "kod": "544256",
@@ -494,9 +494,9 @@
    "nazev": "Chomutov",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 40,
-   "generovano": "2026-10-10T16:20:02"
+   "generovano": "2026-10-10T16:30:02"
   },
   {
    "kod": "563129",
@@ -557,18 +557,18 @@
    "nazev": "Náchod",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 5,
+   "okrsky_zprac": 6,
    "okrsky_celkem": 25,
-   "generovano": "2026-10-10T16:25:02"
+   "generovano": "2026-10-10T16:30:02"
   },
   {
    "kod": "500496",
    "nazev": "Olomouc",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 96,
-   "generovano": "2026-10-10T16:07:02"
+   "generovano": "2026-10-10T16:30:02"
   },
   {
    "kod": "554286",
@@ -620,9 +620,9 @@
    "nazev": "Teplice",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 37,
-   "generovano": "2026-10-10T16:18:02"
+   "generovano": "2026-10-10T16:30:02"
   },
   {
    "kod": "554804",
