@@ -5,25 +5,25 @@
  "voleno": 15,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:10:01",
+ "generovano": "2026-10-10T20:16:01",
  "ucast": {
   "okrsky_celkem": 9,
-  "okrsky_zprac": 4,
-  "okrsky_zprac_proc": 44.44,
-  "zapsani_volici": 3978,
-  "vydane_obalky": 1413,
-  "ucast_proc": 35.52,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 55.56,
+  "zapsani_volici": 4951,
+  "vydane_obalky": 1809,
+  "ucast_proc": 36.54,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1413,
-  "platne_listky": 1350,
-  "platne_hlasy": 18513
+  "odevzdane_obalky": 1809,
+  "platne_listky": 1732,
+  "platne_hlasy": 23766
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1936,
-   "hlasy": 912,
-   "hlasy_proc": 4.93,
+   "hlasy": 1107,
+   "hlasy_proc": 4.66,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 387,
-   "hlasy": 386,
-   "hlasy_proc": 2.09,
+   "hlasy": 524,
+   "hlasy_proc": 2.2,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 389,
-   "hlasy": 1581,
-   "hlasy_proc": 8.54,
+   "hlasy": 2142,
+   "hlasy_proc": 9.01,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 355,
-   "hlasy": 1116,
-   "hlasy_proc": 6.03,
+   "hlasy": 1694,
+   "hlasy_proc": 7.13,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1114,
-   "hlasy": 971,
-   "hlasy_proc": 5.24,
+   "hlasy": 1216,
+   "hlasy_proc": 5.12,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1837,
-   "hlasy": 1002,
-   "hlasy_proc": 5.41,
+   "hlasy": 1242,
+   "hlasy_proc": 5.23,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 768,
-   "hlasy": 2607,
-   "hlasy_proc": 14.08,
+   "hlasy": 3524,
+   "hlasy_proc": 14.83,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 401,
-   "hlasy": 7361,
-   "hlasy_proc": 39.76,
+   "hlasy": 8916,
+   "hlasy_proc": 37.52,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1376,
-   "hlasy": 1316,
-   "hlasy_proc": 7.11,
+   "hlasy": 1732,
+   "hlasy_proc": 7.29,
    "kandidatu": 15,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,13 +112,13 @@
   {
    "por": 10,
    "vstrana": 755,
-   "hlasy": 1261,
-   "hlasy_proc": 6.81,
+   "hlasy": 1669,
+   "hlasy_proc": 7.02,
    "kandidatu": 13,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Ostravak"
   }
  ],
- "stazeno": "2026-10-10T20:11:03+02:00"
+ "stazeno": "2026-10-10T20:15:37+02:00"
 }
