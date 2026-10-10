@@ -4,56 +4,215 @@
  "typ": "MCMO",
  "voleno": 19,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T22:11:00",
+ "je_spocteno": true,
+ "generovano": "2026-10-11T00:07:01",
  "ucast": {
   "okrsky_celkem": 6,
-  "okrsky_zprac": 5,
-  "okrsky_zprac_proc": 83.33,
-  "zapsani_volici": 4244,
-  "vydane_obalky": 2471,
-  "ucast_proc": 58.22,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 5393,
+  "vydane_obalky": 3220,
+  "ucast_proc": 59.71,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2470,
-  "platne_listky": 2377,
-  "platne_hlasy": 43237
+  "odevzdane_obalky": 3218,
+  "platne_listky": 3118,
+  "platne_hlasy": 56517
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 2407,
-   "hlasy_proc": 5.57,
+   "hlasy": 3318,
+   "hlasy_proc": 5.87,
    "kandidatu": 19,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 1,
+   "zastupitele_proc": 5.26,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 229,
+     "hlasy_proc": 6.9,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Hrubčíková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 90,
-   "hlasy": 20248,
-   "hlasy_proc": 46.83,
+   "hlasy": 25683,
+   "hlasy_proc": 45.44,
    "kandidatu": 19,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Sdružení nezávislých kandidátů Kbely náš domov"
+   "zastupitele": 9,
+   "zastupitele_proc": 47.37,
+   "nazev": "Sdružení nezávislých kandidátů Kbely náš domov",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1489,
+     "hlasy_proc": 5.79,
+     "titul_pred": "",
+     "jmeno": "Ivana",
+     "prijmeni": "Šestáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1420,
+     "hlasy_proc": 5.52,
+     "titul_pred": "Ing.",
+     "jmeno": "Radek",
+     "prijmeni": "Petráň",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1389,
+     "hlasy_proc": 5.4,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Haniak",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1426,
+     "hlasy_proc": 5.55,
+     "titul_pred": "Ing.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Olmr",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1422,
+     "hlasy_proc": 5.53,
+     "titul_pred": "Mgr.",
+     "jmeno": "Denisa",
+     "prijmeni": "Chaloupecká",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1370,
+     "hlasy_proc": 5.33,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Váňa",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1389,
+     "hlasy_proc": 5.4,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Blažek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1370,
+     "hlasy_proc": 5.33,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marcela",
+     "prijmeni": "Holečková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1379,
+     "hlasy_proc": 5.36,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Hrnčíř",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 355,
-   "hlasy": 13389,
-   "hlasy_proc": 30.97,
+   "hlasy": 18519,
+   "hlasy_proc": 32.77,
    "kandidatu": 19,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "OK-19"
+   "zastupitele": 7,
+   "zastupitele_proc": 36.84,
+   "nazev": "OK-19",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1073,
+     "hlasy_proc": 5.79,
+     "titul_pred": "",
+     "jmeno": "Vítězslav",
+     "prijmeni": "Pavel",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1024,
+     "hlasy_proc": 5.52,
+     "titul_pred": "JUDr.",
+     "jmeno": "Martin",
+     "prijmeni": "Ridzoň",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1032,
+     "hlasy_proc": 5.57,
+     "titul_pred": "",
+     "jmeno": "Markéta",
+     "prijmeni": "Cacáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1125,
+     "hlasy_proc": 6.07,
+     "titul_pred": "MUDr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Janeček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1007,
+     "hlasy_proc": 5.43,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vladimíra",
+     "prijmeni": "Kolaříková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1043,
+     "hlasy_proc": 5.63,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jarmila",
+     "prijmeni": "Stejskalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 979,
+     "hlasy_proc": 5.28,
+     "titul_pred": "",
+     "jmeno": "Monika",
+     "prijmeni": "Klementová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 1695,
-   "hlasy": 1396,
-   "hlasy_proc": 3.23,
+   "hlasy": 1747,
+   "hlasy_proc": 3.09,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +221,8 @@
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 1341,
-   "hlasy_proc": 3.1,
+   "hlasy": 1900,
+   "hlasy_proc": 3.36,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +231,33 @@
   {
    "por": 6,
    "vstrana": 1944,
-   "hlasy": 4456,
-   "hlasy_proc": 10.31,
+   "hlasy": 5350,
+   "hlasy_proc": 9.47,
    "kandidatu": 19,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Maják pro Kbely"
+   "zastupitele": 2,
+   "zastupitele_proc": 10.53,
+   "nazev": "Maják pro Kbely",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 324,
+     "hlasy_proc": 6.05,
+     "titul_pred": "",
+     "jmeno": "Antonín",
+     "prijmeni": "Zámyslický",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 316,
+     "hlasy_proc": 5.9,
+     "titul_pred": "",
+     "jmeno": "Leoš",
+     "prijmeni": "Biskup",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T22:11:16+02:00"
+ "stazeno": "2026-10-11T00:07:17+02:00"
 }
