@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T16:18:09+02:00",
+ "aktualizovano": "2026-10-10T16:21:17+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -152,9 +152,9 @@
    "nazev": "Jablonec nad Nisou",
    "voleno": 30,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 31,
-   "generovano": "2026-10-08T16:40:29"
+   "generovano": "2026-10-10T16:21:03"
   },
   {
    "kod": "536385",
@@ -179,9 +179,9 @@
    "nazev": "Mladá Boleslav",
    "voleno": 33,
    "je_spocteno": false,
-   "okrsky_zprac": 4,
+   "okrsky_zprac": 5,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T16:17:02"
+   "generovano": "2026-10-10T16:21:03"
   },
   {
    "kod": "599191",
@@ -197,9 +197,9 @@
    "nazev": "Opava",
    "voleno": 39,
    "je_spocteno": false,
-   "okrsky_zprac": 5,
+   "okrsky_zprac": 6,
    "okrsky_celkem": 59,
-   "generovano": "2026-10-10T16:11:03"
+   "generovano": "2026-10-10T16:21:03"
   },
   {
    "kod": "554782",
@@ -233,9 +233,9 @@
    "nazev": "Prostějov",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T16:00:03"
+   "generovano": "2026-10-10T16:20:03"
   },
   {
    "kod": "539911",
@@ -251,9 +251,9 @@
    "nazev": "Tábor",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 4,
    "okrsky_celkem": 41,
-   "generovano": "2026-10-10T16:17:02"
+   "generovano": "2026-10-10T16:19:02"
   },
   {
    "kod": "590266",
@@ -458,18 +458,18 @@
    "nazev": "Česká Lípa",
    "voleno": 25,
    "je_spocteno": false,
-   "okrsky_zprac": 3,
+   "okrsky_zprac": 5,
    "okrsky_celkem": 44,
-   "generovano": "2026-10-10T15:59:03"
+   "generovano": "2026-10-10T16:22:03"
   },
   {
    "kod": "544256",
    "nazev": "České Budějovice",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 90,
-   "generovano": "2026-10-10T16:15:01"
+   "generovano": "2026-10-10T16:20:02"
   },
   {
    "kod": "569810",
@@ -494,9 +494,9 @@
    "nazev": "Chomutov",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 1,
+   "okrsky_zprac": 2,
    "okrsky_celkem": 40,
-   "generovano": "2026-10-10T15:53:02"
+   "generovano": "2026-10-10T16:20:02"
   },
   {
    "kod": "563129",
@@ -512,9 +512,9 @@
    "nazev": "Litoměřice",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 5,
+   "okrsky_zprac": 6,
    "okrsky_celkem": 30,
-   "generovano": "2026-10-10T16:15:01"
+   "generovano": "2026-10-10T16:21:03"
   },
   {
    "kod": "567256",
@@ -557,9 +557,9 @@
    "nazev": "Náchod",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 2,
+   "okrsky_zprac": 3,
    "okrsky_celkem": 25,
-   "generovano": "2026-10-10T16:14:03"
+   "generovano": "2026-10-10T16:21:03"
   },
   {
    "kod": "500496",
