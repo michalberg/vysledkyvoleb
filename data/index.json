@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T20:30:57+02:00",
+ "aktualizovano": "2026-10-10T20:32:36+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
    "je_spocteno": false,
-   "okrsky_zprac": 170,
+   "okrsky_zprac": 171,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-10T20:30:01"
+   "generovano": "2026-10-10T20:32:00"
   },
   {
    "kod": "551198",
@@ -161,9 +161,9 @@
    "nazev": "Jeseník",
    "voleno": 21,
    "je_spocteno": false,
-   "okrsky_zprac": 8,
+   "okrsky_zprac": 9,
    "okrsky_celkem": 11,
-   "generovano": "2026-10-10T18:53:02"
+   "generovano": "2026-10-10T20:32:00"
   },
   {
    "kod": "563889",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 381,
+   "okrsky_zprac": 384,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-10T20:31:01"
+   "generovano": "2026-10-10T20:32:00"
   },
   {
    "kod": "500054",
@@ -278,9 +278,9 @@
    "nazev": "Praha 2",
    "voleno": 35,
    "je_spocteno": false,
-   "okrsky_zprac": 14,
+   "okrsky_zprac": 15,
    "okrsky_celkem": 41,
-   "generovano": "2026-10-10T20:29:01"
+   "generovano": "2026-10-10T20:32:00"
   },
   {
    "kod": "500119",
