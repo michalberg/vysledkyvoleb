@@ -5,25 +5,25 @@
  "voleno": 29,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-11T01:24:01",
+ "generovano": "2026-10-11T01:31:01",
  "ucast": {
   "okrsky_celkem": 36,
-  "okrsky_zprac": 32,
-  "okrsky_zprac_proc": 88.89,
-  "zapsani_volici": 26519,
-  "vydane_obalky": 13415,
-  "ucast_proc": 50.59,
+  "okrsky_zprac": 33,
+  "okrsky_zprac_proc": 91.67,
+  "zapsani_volici": 28566,
+  "vydane_obalky": 14009,
+  "ucast_proc": 49.04,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 13350,
-  "platne_listky": 12738,
-  "platne_hlasy": 352297
+  "odevzdane_obalky": 13918,
+  "platne_listky": 13295,
+  "platne_hlasy": 368071
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 90,
-   "hlasy": 202243,
-   "hlasy_proc": 57.41,
+   "hlasy": 211023,
+   "hlasy_proc": 57.33,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1843,
-   "hlasy": 3008,
-   "hlasy_proc": 0.85,
+   "hlasy": 3190,
+   "hlasy_proc": 0.87,
    "kandidatu": 28,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 64133,
-   "hlasy_proc": 18.2,
+   "hlasy": 67204,
+   "hlasy_proc": 18.26,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 532,
-   "hlasy": 31635,
-   "hlasy_proc": 8.98,
+   "hlasy": 32751,
+   "hlasy_proc": 8.9,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 10380,
-   "hlasy_proc": 2.95,
+   "hlasy": 10943,
+   "hlasy_proc": 2.97,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 1350,
-   "hlasy": 40898,
-   "hlasy_proc": 11.61,
+   "hlasy": 42960,
+   "hlasy_proc": 11.67,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Piráti a Starostové"
   }
  ],
- "stazeno": "2026-10-11T01:24:20+02:00"
+ "stazeno": "2026-10-11T01:30:53+02:00"
 }
