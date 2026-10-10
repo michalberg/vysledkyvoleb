@@ -397,7 +397,7 @@ function renderStage() {
   $("footLeft").innerHTML = S.view === "coal" ? `<b>Automatické přepínání pozastaveno</b>`
     : S.active === 0 ? `<button type="button" class="pill-small fg" id="toDistricts">Městské části →</button>`
     : `Linka pod názvem = podíl sečtených okrsků`;
-  $("seatNote").innerHTML = `${SEAT} = mandát · ` + (v.isRef ? "rok 2022, oficiální" : v.official ? "oficiální výsledek" : v.hasLive ? "odhad (D'Hondt, 5 %)" : "");
+  $("seatNote").innerHTML = `${SEAT} = mandát · ` + (v.isRef ? "rok 2022, oficiální" : v.official ? "oficiální výsledek" : v.hasLive ? "přibližný výpočet dle současných výsledků" : "");
   $("themeBtn").textContent = S.theme === "dark" ? "Světlý režim" : "Tmavý režim";
   tick(0);
 }
@@ -430,7 +430,7 @@ function renderMobile() {
         ${u.kod !== S.units[0].kod ? `<button type="button" class="sec" data-all>${S.showAll ? "Jen strany nad 3 %" : "Všechny strany"}</button>` : ""}
       </div>`;
   }, "m");
-  $("mSeatNote").innerHTML = SEAT + " = mandát. Mandáty jsou do sečtení všech okrsků odhad (D'Hondt, 5% klauzule). Celky bez sečteného okrsku ukazují šedě výsledky 2022.";
+  $("mSeatNote").innerHTML = SEAT + " = mandát. Do sečtení všech okrsků jde o přibližný výpočet dle současných výsledků. Celky bez sečteného okrsku ukazují šedě výsledky 2022.";
   if (!$("mCoal").hidden) renderCoal($("mCoalBody"), view(S.units.find(u => u.kod === S.mCoalKod)));
 }
 
