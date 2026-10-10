@@ -1,0 +1,104 @@
+{
+ "kod": "547174",
+ "nazev": "Praha 17",
+ "typ": "MCMO",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:40",
+ "ucast": {
+  "okrsky_celkem": 18,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 389,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "sdružení Občanské demokratické strany a nezávislých kandidátů"
+  },
+  {
+   "por": 2,
+   "vstrana": 449,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ŘEPY SOBĚ"
+  },
+  {
+   "por": 3,
+   "vstrana": 1,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL"
+  },
+  {
+   "por": 4,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 5,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD pro Prahu 17 s podporou Trikolory, Manifest a PRO"
+  },
+  {
+   "por": 6,
+   "vstrana": 47,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 7,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 7,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 8,
+   "vstrana": 1737,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Řepští sousedé"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

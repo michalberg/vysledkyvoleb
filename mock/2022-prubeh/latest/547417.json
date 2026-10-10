@@ -1,0 +1,104 @@
+{
+ "kod": "547417",
+ "nazev": "Praha 18",
+ "typ": "MCMO",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:00:01",
+ "ucast": {
+  "okrsky_celkem": 12,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 33.33,
+  "zapsani_volici": 3743,
+  "vydane_obalky": 1634,
+  "ucast_proc": 43.65,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 1633,
+  "platne_listky": null,
+  "platne_hlasy": 34668
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1537,
+   "hlasy": 2654,
+   "hlasy_proc": 7.66,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA – občanské hnutí Roberta Šlachty a Náš Domov Letňany s podporou Patriotů České republiky"
+  },
+  {
+   "por": 2,
+   "vstrana": 541,
+   "hlasy": 3743,
+   "hlasy_proc": 10.8,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a nezávislí občané"
+  },
+  {
+   "por": 3,
+   "vstrana": 53,
+   "hlasy": 5132,
+   "hlasy_proc": 14.8,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 1583,
+   "hlasy": 7996,
+   "hlasy_proc": 23.06,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zdravé Letňany"
+  },
+  {
+   "por": 5,
+   "vstrana": 1487,
+   "hlasy": 2640,
+   "hlasy_proc": 7.62,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Letňany pro život - Svoboda a přímá demokracie (SPD) a Trikolora"
+  },
+  {
+   "por": 6,
+   "vstrana": 721,
+   "hlasy": 2650,
+   "hlasy_proc": 7.64,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09"
+  },
+  {
+   "por": 7,
+   "vstrana": 1399,
+   "hlasy": 1238,
+   "hlasy_proc": 3.57,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KRÁSNÉ LETŇANY"
+  },
+  {
+   "por": 8,
+   "vstrana": 768,
+   "hlasy": 8615,
+   "hlasy_proc": 24.85,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2022-09-24T19:00:01"
+}

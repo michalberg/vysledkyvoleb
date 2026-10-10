@@ -1,0 +1,245 @@
+{
+ "kod": "538949",
+ "nazev": "Praha 21",
+ "typ": "MCMO",
+ "voleno": 17,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T22:45:00",
+ "ucast": {
+  "okrsky_celkem": 8,
+  "okrsky_zprac": 8,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 7722,
+  "vydane_obalky": 4005,
+  "ucast_proc": 51.86,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 4004,
+  "platne_listky": null,
+  "platne_hlasy": 62944
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1498,
+   "hlasy": 2259,
+   "hlasy_proc": 3.58,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická + Zdraví Sport Prosperita + nezávislí kandidáti"
+  },
+  {
+   "por": 2,
+   "vstrana": 1602,
+   "hlasy": 3855,
+   "hlasy_proc": 6.5,
+   "kandidatu": 16,
+   "zastupitele": 1,
+   "zastupitele_proc": 5.88,
+   "nazev": "Otevřený Újezd, KDU-ČSL, Soukromníci a Zelení",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 298,
+     "hlasy_proc": 7.73,
+     "titul_pred": "RNDr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Roušar",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 10127,
+   "hlasy_proc": 16.08,
+   "kandidatu": 17,
+   "zastupitele": 3,
+   "zastupitele_proc": 17.65,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 650,
+     "hlasy_proc": 6.41,
+     "titul_pred": "JUDr.",
+     "jmeno": "Hana",
+     "prijmeni": "Pelčáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 654,
+     "hlasy_proc": 6.45,
+     "titul_pred": "",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Růžička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 604,
+     "hlasy_proc": 5.96,
+     "titul_pred": "Mgr.",
+     "jmeno": "Yvona",
+     "prijmeni": "Trčalová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 687,
+   "hlasy": 35725,
+   "hlasy_proc": 56.75,
+   "kandidatu": 17,
+   "zastupitele": 11,
+   "zastupitele_proc": 64.71,
+   "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2303,
+     "hlasy_proc": 6.44,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Samec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2160,
+     "hlasy_proc": 6.04,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Hazdra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2149,
+     "hlasy_proc": 6.01,
+     "titul_pred": "Ing.",
+     "jmeno": "Alena",
+     "prijmeni": "Motejlová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2140,
+     "hlasy_proc": 5.99,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Filipinská",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2120,
+     "hlasy_proc": 5.93,
+     "titul_pred": "Mgr.",
+     "jmeno": "Libor",
+     "prijmeni": "Václavík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2114,
+     "hlasy_proc": 5.91,
+     "titul_pred": "Ing.",
+     "jmeno": "Richard",
+     "prijmeni": "Koza",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2137,
+     "hlasy_proc": 5.98,
+     "titul_pred": "MUDr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Bláhová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 2102,
+     "hlasy_proc": 5.88,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Vojta",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 2131,
+     "hlasy_proc": 5.96,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Frey",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 2114,
+     "hlasy_proc": 5.91,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Sedlák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 2078,
+     "hlasy_proc": 5.81,
+     "titul_pred": "Ing.",
+     "jmeno": "Patrik",
+     "prijmeni": "Bláha",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1483,
+   "hlasy": 8449,
+   "hlasy_proc": 13.42,
+   "kandidatu": 17,
+   "zastupitele": 2,
+   "zastupitele_proc": 11.76,
+   "nazev": "ÚJEZD ŽIJE",
+   "zvoleni": [
+    {
+     "poradi": 3,
+     "hlasy": 582,
+     "hlasy_proc": 6.88,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Doležalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 592,
+     "hlasy_proc": 7.0,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Petr",
+     "prijmeni": "Kučera",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 1550,
+   "hlasy": 2529,
+   "hlasy_proc": 4.01,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Patrioti - Trikolora - Přísaha"
+  }
+ ],
+ "stazeno": "2022-09-24T22:45:00"
+}

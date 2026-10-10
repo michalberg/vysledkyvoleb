@@ -1,0 +1,114 @@
+{
+ "kod": "547034",
+ "nazev": "Praha 11",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 62,
+  "okrsky_zprac": 7,
+  "okrsky_zprac_proc": 11.29,
+  "zapsani_volici": 5710,
+  "vydane_obalky": 2251,
+  "ucast_proc": 39.42,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2248,
+  "platne_listky": null,
+  "platne_hlasy": 70652
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1373,
+   "hlasy": 8357,
+   "hlasy_proc": 11.83,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 11 SOBĚ"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 19850,
+   "hlasy_proc": 28.1,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 361,
+   "hlasy": 2443,
+   "hlasy_proc": 3.46,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Robert Vašíček – MY CO TU ŽIJEME: Prosadíme pořádek! Čisté a bezpečné ulice! Zeleň namísto betonu! Úspory namísto…"
+  },
+  {
+   "por": 4,
+   "vstrana": 1628,
+   "hlasy": 2531,
+   "hlasy_proc": 3.58,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koalice pro důstojný život na Jižním Městě"
+  },
+  {
+   "por": 5,
+   "vstrana": 195,
+   "hlasy": 15068,
+   "hlasy_proc": 21.33,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí pro Prahu 11"
+  },
+  {
+   "por": 6,
+   "vstrana": 659,
+   "hlasy": 5312,
+   "hlasy_proc": 7.52,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09 a Starostové a nezávislí"
+  },
+  {
+   "por": 7,
+   "vstrana": 720,
+   "hlasy": 6425,
+   "hlasy_proc": 9.09,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 8,
+   "vstrana": 389,
+   "hlasy": 9175,
+   "hlasy_proc": 12.99,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Prahu 11 - ODS a nezávislí kandidáti"
+  },
+  {
+   "por": 9,
+   "vstrana": 387,
+   "hlasy": 1491,
+   "hlasy_proc": 2.11,
+   "kandidatu": 34,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sdružení pro Jižní Město - sociální demokraté, KSČM a nezávislí kandidáti"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

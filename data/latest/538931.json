@@ -1,0 +1,104 @@
+{
+ "kod": "538931",
+ "nazev": "Praha 22",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:23",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1970,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "DvacetDvojka"
+  },
+  {
+   "por": 2,
+   "vstrana": 477,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše 22 – Spolky, Svobodní a Patrioti"
+  },
+  {
+   "por": 3,
+   "vstrana": 540,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TADY 22 – hlas místních"
+  },
+  {
+   "por": 4,
+   "vstrana": 720,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 7,
+   "vstrana": 1373,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "OK22 s podporou PRAHA SOBĚ"
+  },
+  {
+   "por": 8,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

@@ -1,0 +1,114 @@
+{
+ "kod": "547361",
+ "nazev": "Praha 14",
+ "typ": "MCMO",
+ "voleno": 31,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:40",
+ "ucast": {
+  "okrsky_celkem": 32,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie pro Prahu 14 s podporou občanského hnutí Přísaha, České strany národně sociální a nezávislých kandidátů"
+  },
+  {
+   "por": 2,
+   "vstrana": 355,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SRDCEM PRO PRAHU 14 - NEZÁVISLÍ A NOVÍ LIDOVCI"
+  },
+  {
+   "por": 3,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 4,
+   "vstrana": 714,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 30,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní"
+  },
+  {
+   "por": 5,
+   "vstrana": 1210,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NAŠE Čtrnáctka"
+  },
+  {
+   "por": 6,
+   "vstrana": 474,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká levice"
+  },
+  {
+   "por": 7,
+   "vstrana": 1905,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "MY pro Prahu 14 - Piráti, Praha 14 sobě, Zelení"
+  },
+  {
+   "por": 8,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS SPOLU s TOP 09 a Sousedy pro Prahu 14"
+  },
+  {
+   "por": 9,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

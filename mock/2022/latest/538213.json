@@ -1,0 +1,341 @@
+{
+ "kod": "538213",
+ "nazev": "Praha 20",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T00:45:00",
+ "ucast": {
+  "okrsky_celkem": 12,
+  "okrsky_zprac": 12,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 11184,
+  "vydane_obalky": 4995,
+  "ucast_proc": 44.66,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 4993,
+  "platne_listky": null,
+  "platne_hlasy": 110630
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 524,
+   "hlasy": 21670,
+   "hlasy_proc": 19.58,
+   "kandidatu": 25,
+   "zastupitele": 5,
+   "zastupitele_proc": 20.0,
+   "nazev": "ŠANCE pro Počernice",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 995,
+     "hlasy_proc": 4.59,
+     "titul_pred": "",
+     "jmeno": "Hana",
+     "prijmeni": "Markulinec Moravcová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 973,
+     "hlasy_proc": 4.49,
+     "titul_pred": "Bc.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Kočí",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 907,
+     "hlasy_proc": 4.18,
+     "titul_pred": "Ing.",
+     "jmeno": "Alexandra",
+     "prijmeni": "Janáčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 978,
+     "hlasy_proc": 4.51,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Wágner",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 956,
+     "hlasy_proc": 4.41,
+     "titul_pred": "MVDr.",
+     "jmeno": "Klára",
+     "prijmeni": "Bonková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 1316,
+   "hlasy": 11390,
+   "hlasy_proc": 10.29,
+   "kandidatu": 25,
+   "zastupitele": 3,
+   "zastupitele_proc": 12.0,
+   "nazev": "SPOLEČNĚ PRO POČERNICE",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 565,
+     "hlasy_proc": 4.96,
+     "titul_pred": "Mgr.",
+     "jmeno": "Josef",
+     "prijmeni": "Beránek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 580,
+     "hlasy_proc": 5.09,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Herian",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 553,
+     "hlasy_proc": 4.85,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Beneda",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 401,
+   "hlasy": 27581,
+   "hlasy_proc": 24.93,
+   "kandidatu": 25,
+   "zastupitele": 7,
+   "zastupitele_proc": 28.0,
+   "nazev": "Hnutí Občanů Počernic, PRO Počernice a NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1293,
+     "hlasy_proc": 4.68,
+     "titul_pred": "Mgr.",
+     "jmeno": "Alena",
+     "prijmeni": "Štrobová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1236,
+     "hlasy_proc": 4.48,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Růžička",
+     "titul_za": "DiS., MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1154,
+     "hlasy_proc": 4.18,
+     "titul_pred": "",
+     "jmeno": "Daria",
+     "prijmeni": "Češpivová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1138,
+     "hlasy_proc": 4.12,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Šebek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1158,
+     "hlasy_proc": 4.19,
+     "titul_pred": "Mgr.",
+     "jmeno": "Hana",
+     "prijmeni": "Štěpánková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1141,
+     "hlasy_proc": 4.13,
+     "titul_pred": "",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Mucha",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1106,
+     "hlasy_proc": 4.01,
+     "titul_pred": "",
+     "jmeno": "Jakub",
+     "prijmeni": "Češpivo",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 497,
+   "hlasy": 3986,
+   "hlasy_proc": 3.6,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "POČERŇÁCI A SOUKROMNÍCI"
+  },
+  {
+   "por": 5,
+   "vstrana": 47,
+   "hlasy": 673,
+   "hlasy_proc": 3.8,
+   "kandidatu": 4,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 6,
+   "vstrana": 566,
+   "hlasy": 7159,
+   "hlasy_proc": 6.47,
+   "kandidatu": 25,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.0,
+   "nazev": "Místní pro Horní Počernice",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 385,
+     "hlasy_proc": 5.37,
+     "titul_pred": "",
+     "jmeno": "Jana",
+     "prijmeni": "Hájková",
+     "titul_za": "BBA"
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 687,
+   "hlasy": 26933,
+   "hlasy_proc": 24.34,
+   "kandidatu": 25,
+   "zastupitele": 7,
+   "zastupitele_proc": 28.0,
+   "nazev": "ODS a TOP 09 s podporou nezávislých kandidátů Horních Počernic",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1263,
+     "hlasy_proc": 4.68,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Měšťan",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1143,
+     "hlasy_proc": 4.24,
+     "titul_pred": "",
+     "jmeno": "Richard",
+     "prijmeni": "Stára",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1129,
+     "hlasy_proc": 4.19,
+     "titul_pred": "Ing.",
+     "jmeno": "Jindřich",
+     "prijmeni": "Jukl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1131,
+     "hlasy_proc": 4.19,
+     "titul_pred": "PhDr.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Foglarová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1132,
+     "hlasy_proc": 4.2,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Žídek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1090,
+     "hlasy_proc": 4.04,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Lodrová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1112,
+     "hlasy_proc": 4.12,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Ciboch",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 90,
+   "hlasy": 11238,
+   "hlasy_proc": 10.15,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Počernice JINAK",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 573,
+     "hlasy_proc": 5.09,
+     "titul_pred": "prof. ak. mal. Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Velíšek",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 515,
+     "hlasy_proc": 4.58,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ladislav",
+     "prijmeni": "Stýblo",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T00:45:00"
+}

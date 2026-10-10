@@ -1,0 +1,525 @@
+{
+ "kod": "500143",
+ "nazev": "Praha 5",
+ "typ": "MCMO",
+ "voleno": 41,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T02:45:01",
+ "ucast": {
+  "okrsky_celkem": 81,
+  "okrsky_zprac": 81,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 60242,
+  "vydane_obalky": 25540,
+  "ucast_proc": 42.4,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 25520,
+  "platne_listky": null,
+  "platne_hlasy": 978054
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1547,
+   "hlasy": 27935,
+   "hlasy_proc": 2.85,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "„Solidarita pro Prahu 5“ Koalice ČSSD a Živá Praha 5, Společnosti pro ochranu Prokopského a Dalejského údolí a nez. kan."
+  },
+  {
+   "por": 2,
+   "vstrana": 1305,
+   "hlasy": 46819,
+   "hlasy_proc": 4.78,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD) s podporou Trikolory"
+  },
+  {
+   "por": 3,
+   "vstrana": 166,
+   "hlasy": 68285,
+   "hlasy_proc": 6.98,
+   "kandidatu": 41,
+   "zastupitele": 3,
+   "zastupitele_proc": 7.32,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2068,
+     "hlasy_proc": 3.02,
+     "titul_pred": "MgA.",
+     "jmeno": "David",
+     "prijmeni": "Dušek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2129,
+     "hlasy_proc": 3.11,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Hamanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2019,
+     "hlasy_proc": 2.95,
+     "titul_pred": "JUDr.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Homola",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 90,
+   "hlasy": 209131,
+   "hlasy_proc": 21.38,
+   "kandidatu": 41,
+   "zastupitele": 10,
+   "zastupitele_proc": 24.39,
+   "nazev": "PRAHA 5 SOBĚ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 5689,
+     "hlasy_proc": 2.72,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Pašmik",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 5532,
+     "hlasy_proc": 2.64,
+     "titul_pred": "Bc.",
+     "jmeno": "Alena",
+     "prijmeni": "Janďourková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 5358,
+     "hlasy_proc": 2.56,
+     "titul_pred": "PhDr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Světlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 5522,
+     "hlasy_proc": 2.64,
+     "titul_pred": "Ing.",
+     "jmeno": "Jolana",
+     "prijmeni": "Dočekalová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 5586,
+     "hlasy_proc": 2.67,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Radek",
+     "prijmeni": "Janoušek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 5328,
+     "hlasy_proc": 2.54,
+     "titul_pred": "JUDr.",
+     "jmeno": "Milan",
+     "prijmeni": "Kostohryz",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 5376,
+     "hlasy_proc": 2.57,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lucie",
+     "prijmeni": "Boudová",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 8,
+     "hlasy": 5309,
+     "hlasy_proc": 2.53,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Kočandrle",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 5274,
+     "hlasy_proc": 2.52,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radka",
+     "prijmeni": "Šimková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 5376,
+     "hlasy_proc": 2.57,
+     "titul_pred": "Bc.",
+     "jmeno": "Václav",
+     "prijmeni": "Kučera",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 303,
+   "hlasy": 41873,
+   "hlasy_proc": 4.28,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL, Zelení a Nezávislí"
+  },
+  {
+   "por": 6,
+   "vstrana": 1546,
+   "hlasy": 105102,
+   "hlasy_proc": 11.01,
+   "kandidatu": 40,
+   "zastupitele": 5,
+   "zastupitele_proc": 12.2,
+   "nazev": "Koalice SEN 21 pro Prahu 5 se senátorem Václavem Láskou a Společnosti proti developerské výstavbě v Prokopském údolí",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3159,
+     "hlasy_proc": 3.0,
+     "titul_pred": "",
+     "jmeno": "Monika",
+     "prijmeni": "Shaw Salajová",
+     "titul_za": "M.Sc."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3867,
+     "hlasy_proc": 3.67,
+     "titul_pred": "Mgr.",
+     "jmeno": "Václav",
+     "prijmeni": "Láska",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2805,
+     "hlasy_proc": 2.66,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Vrkoč",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2820,
+     "hlasy_proc": 2.68,
+     "titul_pred": "",
+     "jmeno": "Svatopluk",
+     "prijmeni": "Bartoň",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2720,
+     "hlasy_proc": 2.58,
+     "titul_pred": "",
+     "jmeno": "Henryk Josef",
+     "prijmeni": "Tietjen",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 687,
+   "hlasy": 208605,
+   "hlasy_proc": 21.32,
+   "kandidatu": 41,
+   "zastupitele": 10,
+   "zastupitele_proc": 24.39,
+   "nazev": "SPOLEČNĚ PRO PRAHU 5 (ODS, TOP 09)",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 5259,
+     "hlasy_proc": 2.52,
+     "titul_pred": "Mgr.",
+     "jmeno": "Renáta",
+     "prijmeni": "Zajíčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 5370,
+     "hlasy_proc": 2.57,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Kavalírek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 5346,
+     "hlasy_proc": 2.56,
+     "titul_pred": "Bc.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Herold",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 5311,
+     "hlasy_proc": 2.54,
+     "titul_pred": "Bc.",
+     "jmeno": "Martin",
+     "prijmeni": "Damašek",
+     "titul_za": "M.A."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 5298,
+     "hlasy_proc": 2.53,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Doležal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 5246,
+     "hlasy_proc": 2.51,
+     "titul_pred": "Ing.",
+     "jmeno": "Savina",
+     "prijmeni": "Finardi",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 5244,
+     "hlasy_proc": 2.51,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Panenka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 5202,
+     "hlasy_proc": 2.49,
+     "titul_pred": "Ing.",
+     "jmeno": "David",
+     "prijmeni": "Nechvátal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 5205,
+     "hlasy_proc": 2.49,
+     "titul_pred": "RNDr.",
+     "jmeno": "Radomír",
+     "prijmeni": "Palovský",
+     "titul_za": "CSc."
+    },
+    {
+     "poradi": 10,
+     "hlasy": 5106,
+     "hlasy_proc": 2.44,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Poláková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 720,
+   "hlasy": 114871,
+   "hlasy_proc": 11.74,
+   "kandidatu": 41,
+   "zastupitele": 6,
+   "zastupitele_proc": 14.63,
+   "nazev": "Česká pirátská strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3301,
+     "hlasy_proc": 2.87,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Kryl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3165,
+     "hlasy_proc": 2.75,
+     "titul_pred": "Ing.",
+     "jmeno": "Štěpán",
+     "prijmeni": "Rattay",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3001,
+     "hlasy_proc": 2.61,
+     "titul_pred": "",
+     "jmeno": "Karel",
+     "prijmeni": "Bauer",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2987,
+     "hlasy_proc": 2.6,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Krátký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3031,
+     "hlasy_proc": 2.63,
+     "titul_pred": "Ing.",
+     "jmeno": "Filip",
+     "prijmeni": "Karel",
+     "titul_za": "PhD."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2951,
+     "hlasy_proc": 2.56,
+     "titul_pred": "",
+     "jmeno": "Linda",
+     "prijmeni": "Neubergová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 714,
+   "hlasy": 8502,
+   "hlasy_proc": 1.14,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní"
+  },
+  {
+   "por": 10,
+   "vstrana": 1516,
+   "hlasy": 5149,
+   "hlasy_proc": 0.61,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA BEZ CHAOSU"
+  },
+  {
+   "por": 11,
+   "vstrana": 1537,
+   "hlasy": 6337,
+   "hlasy_proc": 0.64,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA a SNOP 5"
+  },
+  {
+   "por": 12,
+   "vstrana": 768,
+   "hlasy": 135445,
+   "hlasy_proc": 13.84,
+   "kandidatu": 41,
+   "zastupitele": 7,
+   "zastupitele_proc": 17.07,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3545,
+     "hlasy_proc": 2.61,
+     "titul_pred": "JUDr.",
+     "jmeno": "Petr",
+     "prijmeni": "Lachnit",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3394,
+     "hlasy_proc": 2.5,
+     "titul_pred": "Ing.",
+     "jmeno": "Lubomír",
+     "prijmeni": "Brož",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3395,
+     "hlasy_proc": 2.5,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marta",
+     "prijmeni": "Gellová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3377,
+     "hlasy_proc": 2.49,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Mysliveček",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3353,
+     "hlasy_proc": 2.47,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Klusoň",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3348,
+     "hlasy_proc": 2.47,
+     "titul_pred": "",
+     "jmeno": "Josef",
+     "prijmeni": "Endal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 3350,
+     "hlasy_proc": 2.47,
+     "titul_pred": "Bc.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Hron",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T02:45:01"
+}

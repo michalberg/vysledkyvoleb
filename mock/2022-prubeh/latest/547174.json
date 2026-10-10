@@ -1,0 +1,124 @@
+{
+ "kod": "547174",
+ "nazev": "Praha 17",
+ "typ": "MCMO",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T18:30:00",
+ "ucast": {
+  "okrsky_celkem": 18,
+  "okrsky_zprac": 1,
+  "okrsky_zprac_proc": 5.56,
+  "zapsani_volici": 596,
+  "vydane_obalky": 261,
+  "ucast_proc": 43.79,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 261,
+  "platne_listky": null,
+  "platne_hlasy": 5512
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 480,
+   "hlasy": 1413,
+   "hlasy_proc": 25.63,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Řepští sousedé"
+  },
+  {
+   "por": 2,
+   "vstrana": 470,
+   "hlasy": 707,
+   "hlasy_proc": 12.83,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ PRO ŘEPY"
+  },
+  {
+   "por": 3,
+   "vstrana": 1548,
+   "hlasy": 342,
+   "hlasy_proc": 6.2,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Náš hlas pro Řepy – Sdružení za rozvoj Řep"
+  },
+  {
+   "por": 4,
+   "vstrana": 1516,
+   "hlasy": 339,
+   "hlasy_proc": 6.15,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ŘEPY SOBĚ"
+  },
+  {
+   "por": 5,
+   "vstrana": 7,
+   "hlasy": 68,
+   "hlasy_proc": 1.23,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická"
+  },
+  {
+   "por": 6,
+   "vstrana": 53,
+   "hlasy": 1033,
+   "hlasy_proc": 18.74,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 7,
+   "vstrana": 724,
+   "hlasy": 3,
+   "hlasy_proc": 0.05,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Strana Práv Občanů ZEMANOVCI"
+  },
+  {
+   "por": 8,
+   "vstrana": 47,
+   "hlasy": 96,
+   "hlasy_proc": 1.74,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 9,
+   "vstrana": 1490,
+   "hlasy": 361,
+   "hlasy_proc": 6.55,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KDU-ČSL + PLUS"
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 1150,
+   "hlasy_proc": 20.86,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2022-09-24T18:30:00"
+}

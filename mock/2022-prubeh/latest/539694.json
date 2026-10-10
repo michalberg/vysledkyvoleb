@@ -1,0 +1,134 @@
+{
+ "kod": "539694",
+ "nazev": "Praha 13",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:30:00",
+ "ucast": {
+  "okrsky_celkem": 58,
+  "okrsky_zprac": 16,
+  "okrsky_zprac_proc": 27.59,
+  "zapsani_volici": 11240,
+  "vydane_obalky": 4136,
+  "ucast_proc": 36.8,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 4133,
+  "platne_listky": null,
+  "platne_hlasy": 134253
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 53,
+   "hlasy": 37366,
+   "hlasy_proc": 27.83,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 714,
+   "hlasy": 1438,
+   "hlasy_proc": 1.07,
+   "kandidatu": 22,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní"
+  },
+  {
+   "por": 3,
+   "vstrana": 1546,
+   "hlasy": 10788,
+   "hlasy_proc": 8.04,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SEN 21 pro Prahu 13 a Společnost proti developerské výstavbě v Prokopském údolí s podporou senátora Václava Lásky"
+  },
+  {
+   "por": 4,
+   "vstrana": 768,
+   "hlasy": 22736,
+   "hlasy_proc": 16.94,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 5,
+   "vstrana": 47,
+   "hlasy": 1175,
+   "hlasy_proc": 0.88,
+   "kandidatu": 16,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 6,
+   "vstrana": 1489,
+   "hlasy": 2733,
+   "hlasy_proc": 2.04,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 13 BEZ CHAOSU"
+  },
+  {
+   "por": 7,
+   "vstrana": 1066,
+   "hlasy": 18903,
+   "hlasy_proc": 14.08,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelení a Piráti pro 13"
+  },
+  {
+   "por": 8,
+   "vstrana": 166,
+   "hlasy": 7175,
+   "hlasy_proc": 5.34,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 9,
+   "vstrana": 1373,
+   "hlasy": 16457,
+   "hlasy_proc": 12.26,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 13 SOBĚ"
+  },
+  {
+   "por": 10,
+   "vstrana": 1058,
+   "hlasy": 6801,
+   "hlasy_proc": 5.07,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Prahu 13 - TOP 09 a KDU-ČSL"
+  },
+  {
+   "por": 11,
+   "vstrana": 1491,
+   "hlasy": 8681,
+   "hlasy_proc": 6.47,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Trikolora a nezávislí kandidáti pro Prahu 13"
+  }
+ ],
+ "stazeno": "2022-09-24T19:30:00"
+}

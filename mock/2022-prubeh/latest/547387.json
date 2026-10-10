@@ -1,0 +1,94 @@
+{
+ "kod": "547387",
+ "nazev": "Praha 15",
+ "typ": "MCMO",
+ "voleno": 31,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:00:01",
+ "ucast": {
+  "okrsky_celkem": 23,
+  "okrsky_zprac": 1,
+  "okrsky_zprac_proc": 4.35,
+  "zapsani_volici": 611,
+  "vydane_obalky": 271,
+  "ucast_proc": 44.35,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 271,
+  "platne_listky": null,
+  "platne_hlasy": 7396
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 47,
+   "hlasy": 62,
+   "hlasy_proc": 0.84,
+   "kandidatu": 12,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 2,
+   "vstrana": 687,
+   "hlasy": 1721,
+   "hlasy_proc": 23.27,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Prahu 15"
+  },
+  {
+   "por": 3,
+   "vstrana": 1305,
+   "hlasy": 433,
+   "hlasy_proc": 5.85,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí pro Prahu 15"
+  },
+  {
+   "por": 4,
+   "vstrana": 88,
+   "hlasy": 421,
+   "hlasy_proc": 5.69,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NEZÁVISLÍ"
+  },
+  {
+   "por": 5,
+   "vstrana": 541,
+   "hlasy": 664,
+   "hlasy_proc": 8.98,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a občané Prahy 15"
+  },
+  {
+   "por": 6,
+   "vstrana": 1499,
+   "hlasy": 2910,
+   "hlasy_proc": 39.35,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Patnáctka náš domov – KDU-ČSL, Strana zelených, Naše Obec a nezávislí kandidáti"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 1185,
+   "hlasy_proc": 16.02,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2022-09-24T19:00:01"
+}

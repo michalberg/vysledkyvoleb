@@ -44,6 +44,8 @@ const seatsHtml = n => n > 0 ? `${n}${SEAT}` : "";
 // Hlavní celek (Brno) má vlastní řádek nahoře a ukazuje všechny strany; stránka měst ho nemá.
 const isMain = i => !!S.cfg.hlavni && i === 0;
 const isMainKod = kod => !!S.cfg.hlavni && kod === S.units[0].kod;
+// Hlavní celek ukazuje všechny strany (Brno); u Prahy s 24 kandidátkami jen nad 3 % jako ostatní.
+const allForMain = () => S.cfg.hlavni_vsechny_strany !== false;
 const short = n => S.zkratky[n] || n;
 const plMand = n => n === 1 ? "mandát" : n >= 2 && n <= 4 ? "mandáty" : "mandátů";
 
@@ -232,7 +234,7 @@ function renderBrnoRow() {
   const cells = shown(v, false);
   el.innerHTML = `
     <div class="brno-meta">
-      <a href="${esc(v.u.odkaz)}" target="_blank" rel="noopener">Brno ↗</a>
+      <a href="${esc(v.u.odkaz)}" target="_blank" rel="noopener">${esc(v.u.zobrazit)} ↗</a>
       <div class="rows">
         <div>Okrsky <b>${d ? d.zprac + " / " + d.celkem : "–"}</b> ${d && d.celkem ? "(" + fmt(d.zprac / d.celkem * 100) + ")" : ""}</div>
         <div>Účast <b>${v.hasLive ? fmt(d.ucast) : "–"}</b></div>
@@ -300,7 +302,7 @@ function renderResults(v) {
       <div class="plot" id="plot"><div class="five" id="five"><span>5 %</span></div></div><div class="labels" id="labels"></div>`;
     wrap._built = true;
   }
-  const bars = shown(v, isMain(S.active) || S.showAll);
+  const bars = shown(v, (isMain(S.active) && allForMain()) || S.showAll);
   const dense = bars.length > 10;
   wrap.classList.toggle("dense", dense);
   const scale = Math.max(...bars.map(p => p.pct), 10) / 0.82;
@@ -391,7 +393,7 @@ function renderStage() {
   const v = view(u);
   renderBrnoRow();
   renderSide();
-  $("allBtn").hidden = !(S.view === "res" && !isMain(S.active));
+  $("allBtn").hidden = !(S.view === "res" && !(isMain(S.active) && allForMain()));
   $("allBtn").classList.toggle("on", S.showAll);
   document.querySelectorAll(".seg button").forEach(b => b.classList.toggle("on", b.dataset.view === S.view));
   if (S.view === "res") renderResults(v);
@@ -415,7 +417,7 @@ function renderMobile() {
     const v = view(u);
     const d = v.live;
     const cp = d && d.celkem ? d.zprac / d.celkem * 100 : 0;
-    const list = shown(v, isMainKod(u.kod) || S.showAll);
+    const list = shown(v, (isMainKod(u.kod) && allForMain()) || S.showAll);
     const max = Math.max(...list.map(p => p.pct), 10);
     el.innerHTML = `
       <h2><a href="${esc(u.odkaz)}" target="_blank" rel="noopener">${esc(u.zobrazit)} <span>↗</span></a></h2>
@@ -430,7 +432,7 @@ function renderMobile() {
         : `<div class="m-empty"><b>Čekáme na data</b><span>Zatím nebyl sečten žádný okrsek</span></div>`}
       <div class="m-actions">
         ${v.hasLive ? `<button type="button" data-coal="${u.kod}">Sestavit koalici</button>` : ""}
-        ${!isMainKod(u.kod) ? `<button type="button" class="sec" data-all>${S.showAll ? "Jen strany nad 3 %" : "Všechny strany"}</button>` : ""}
+        ${!(isMainKod(u.kod) && allForMain()) ? `<button type="button" class="sec" data-all>${S.showAll ? "Jen strany nad 3 %" : "Všechny strany"}</button>` : ""}
       </div>`;
   }, "m");
   $("mSeatNote").innerHTML = SEAT + " = mandát. Do sečtení všech okrsků jde o přibližný výpočet dle současných výsledků. Celky bez sečteného okrsku ukazují šedě výsledky 2022.";

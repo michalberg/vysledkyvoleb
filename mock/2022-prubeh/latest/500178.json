@@ -1,0 +1,124 @@
+{
+ "kod": "500178",
+ "nazev": "Praha 6",
+ "typ": "MCMO",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 104,
+  "okrsky_zprac": 11,
+  "okrsky_zprac_proc": 10.58,
+  "zapsani_volici": 6695,
+  "vydane_obalky": 3356,
+  "ucast_proc": 50.13,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3352,
+  "platne_listky": null,
+  "platne_hlasy": 139002
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 720,
+   "hlasy": 19996,
+   "hlasy_proc": 14.39,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 1491,
+   "hlasy": 6272,
+   "hlasy_proc": 4.51,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Trikolora, hnutí SPD a nezávislí kandidáti pro Prahu 6"
+  },
+  {
+   "por": 3,
+   "vstrana": 47,
+   "hlasy": 1695,
+   "hlasy_proc": 1.22,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 4,
+   "vstrana": 1373,
+   "hlasy": 18563,
+   "hlasy_proc": 13.35,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 6 SOBĚ"
+  },
+  {
+   "por": 5,
+   "vstrana": 233,
+   "hlasy": 3030,
+   "hlasy_proc": 2.18,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Solidarita pro Prahu 6 – koalice ČSSD, strany Levice a nestraníků"
+  },
+  {
+   "por": 6,
+   "vstrana": 210,
+   "hlasy": 30129,
+   "hlasy_proc": 21.68,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koalice ODS a KDU-ČSL"
+  },
+  {
+   "por": 7,
+   "vstrana": 1584,
+   "hlasy": 2586,
+   "hlasy_proc": 1.86,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PATRIOTI PRO PRAHU 6"
+  },
+  {
+   "por": 8,
+   "vstrana": 721,
+   "hlasy": 20226,
+   "hlasy_proc": 14.55,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09"
+  },
+  {
+   "por": 9,
+   "vstrana": 1585,
+   "hlasy": 20707,
+   "hlasy_proc": 14.9,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAN s podporou Zelených"
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 15798,
+   "hlasy_proc": 11.37,
+   "kandidatu": 43,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

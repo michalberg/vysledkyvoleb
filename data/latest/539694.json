@@ -1,0 +1,114 @@
+{
+ "kod": "539694",
+ "nazev": "Praha 13",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:37",
+ "ucast": {
+  "okrsky_celkem": 58,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 34,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a nezávislí kandidáti pro Prahu 13 s podporou tradičních sociálních demokratů"
+  },
+  {
+   "por": 2,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 3,
+   "vstrana": 1373,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 13 SOBĚ"
+  },
+  {
+   "por": 4,
+   "vstrana": 1058,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Prahu 13 - TOP 09 a KDU-ČSL"
+  },
+  {
+   "por": 5,
+   "vstrana": 1066,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Zelení a Piráti pro 13"
+  },
+  {
+   "por": 6,
+   "vstrana": 1855,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SEN PRO PRAHU 13 s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí"
+  },
+  {
+   "por": 7,
+   "vstrana": 1908,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Změna pro Prahu 13 - Národní hnutí"
+  },
+  {
+   "por": 8,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 9,
+   "vstrana": 389,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS s podporou nezávislých"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

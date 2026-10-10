@@ -1,0 +1,217 @@
+{
+ "kod": "547344",
+ "nazev": "Praha 19",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T20:55:01",
+ "ucast": {
+  "okrsky_celkem": 6,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 4938,
+  "vydane_obalky": 2715,
+  "ucast_proc": 54.98,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2715,
+  "platne_listky": null,
+  "platne_hlasy": 38070
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1516,
+   "hlasy": 589,
+   "hlasy_proc": 2.9,
+   "kandidatu": 8,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Změna pro Kbely"
+  },
+  {
+   "por": 2,
+   "vstrana": 90,
+   "hlasy": 24019,
+   "hlasy_proc": 63.09,
+   "kandidatu": 15,
+   "zastupitele": 10,
+   "zastupitele_proc": 66.67,
+   "nazev": "Sdružení nezávislých kandidátů Kbely náš domov",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1676,
+     "hlasy_proc": 6.97,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Žďárský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1650,
+     "hlasy_proc": 6.86,
+     "titul_pred": "Ing.",
+     "jmeno": "Vladimír",
+     "prijmeni": "Olmr",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1659,
+     "hlasy_proc": 6.9,
+     "titul_pred": "",
+     "jmeno": "Ivana",
+     "prijmeni": "Šestáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1610,
+     "hlasy_proc": 6.7,
+     "titul_pred": "",
+     "jmeno": "Leoš",
+     "prijmeni": "Biskup",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1627,
+     "hlasy_proc": 6.77,
+     "titul_pred": "Ing.",
+     "jmeno": "Radek",
+     "prijmeni": "Petráň",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1626,
+     "hlasy_proc": 6.76,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Haniak",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1618,
+     "hlasy_proc": 6.73,
+     "titul_pred": "",
+     "jmeno": "Marian",
+     "prijmeni": "Kadlec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1616,
+     "hlasy_proc": 6.72,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Blažek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1586,
+     "hlasy_proc": 6.6,
+     "titul_pred": "",
+     "jmeno": "Sylvia",
+     "prijmeni": "Bělová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1589,
+     "hlasy_proc": 6.61,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Váňa",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 2452,
+   "hlasy_proc": 6.44,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 199,
+     "hlasy_proc": 8.11,
+     "titul_pred": "",
+     "jmeno": "Kateřina",
+     "prijmeni": "Březinová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 687,
+   "hlasy": 2345,
+   "hlasy_proc": 6.15,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "SPOLEČNĚ pro Kbely",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 189,
+     "hlasy_proc": 8.05,
+     "titul_pred": "",
+     "jmeno": "Karel",
+     "prijmeni": "Kučera",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 355,
+   "hlasy": 8665,
+   "hlasy_proc": 22.76,
+   "kandidatu": 15,
+   "zastupitele": 3,
+   "zastupitele_proc": 20.0,
+   "nazev": "OK-19",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 612,
+     "hlasy_proc": 7.06,
+     "titul_pred": "Ing. Mgr.",
+     "jmeno": "Luboš",
+     "prijmeni": "Lauer",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 597,
+     "hlasy_proc": 6.88,
+     "titul_pred": "",
+     "jmeno": "Markéta",
+     "prijmeni": "Cacáková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 609,
+     "hlasy_proc": 7.02,
+     "titul_pred": "",
+     "jmeno": "Vítězslav",
+     "prijmeni": "Pavel",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T20:55:01"
+}

@@ -1,0 +1,134 @@
+{
+ "kod": "547107",
+ "nazev": "Praha 12",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:37",
+ "ucast": {
+  "okrsky_celkem": 50,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 480,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09 & SOUSEDÉ PRO DVANÁCTKU"
+  },
+  {
+   "por": 2,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 3,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 4,
+   "vstrana": 1479,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Dvanáctka"
+  },
+  {
+   "por": 5,
+   "vstrana": 714,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 9,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní"
+  },
+  {
+   "por": 6,
+   "vstrana": 1919,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "OBČANÉ DVANÁCTKY"
+  },
+  {
+   "por": 7,
+   "vstrana": 1968,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD pro Prahu 12 s podporou Sociální demokracie a PŘÍSAHA občanské hnutí"
+  },
+  {
+   "por": 8,
+   "vstrana": 1878,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Starostové se Změnou pro Prahu 12"
+  },
+  {
+   "por": 9,
+   "vstrana": 541,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti Praha 12"
+  },
+  {
+   "por": 10,
+   "vstrana": 1178,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Motoristé sobě"
+  },
+  {
+   "por": 11,
+   "vstrana": 1373,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 12 SOBĚ"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

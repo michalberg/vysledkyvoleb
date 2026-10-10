@@ -148,6 +148,60 @@
    "generovano": "2022-09-24T21:20:00"
   },
   {
+   "kod": "563510",
+   "nazev": "Jablonec nad Nisou",
+   "voleno": 30,
+   "je_spocteno": true,
+   "okrsky_zprac": 49,
+   "okrsky_celkem": 49,
+   "generovano": "2022-09-24T20:50:00"
+  },
+  {
+   "kod": "536385",
+   "nazev": "Jeseník",
+   "voleno": 21,
+   "je_spocteno": true,
+   "okrsky_zprac": 11,
+   "okrsky_celkem": 11,
+   "generovano": "2022-09-24T20:15:00"
+  },
+  {
+   "kod": "563889",
+   "nazev": "Liberec",
+   "voleno": 39,
+   "je_spocteno": true,
+   "okrsky_zprac": 87,
+   "okrsky_celkem": 87,
+   "generovano": "2022-09-24T23:55:00"
+  },
+  {
+   "kod": "535419",
+   "nazev": "Mladá Boleslav",
+   "voleno": 33,
+   "je_spocteno": true,
+   "okrsky_zprac": 44,
+   "okrsky_celkem": 44,
+   "generovano": "2022-09-24T22:15:00"
+  },
+  {
+   "kod": "599191",
+   "nazev": "Nový Jičín",
+   "voleno": 29,
+   "je_spocteno": true,
+   "okrsky_zprac": 22,
+   "okrsky_celkem": 22,
+   "generovano": "2022-09-24T22:35:00"
+  },
+  {
+   "kod": "505927",
+   "nazev": "Opava",
+   "voleno": 39,
+   "je_spocteno": true,
+   "okrsky_zprac": 59,
+   "okrsky_celkem": 59,
+   "generovano": "2022-09-24T21:30:00"
+  },
+  {
    "kod": "554782",
    "nazev": "Praha",
    "voleno": 65,
@@ -175,42 +229,6 @@
    "generovano": "2022-09-25T02:40:00"
   },
   {
-   "kod": "541630",
-   "nazev": "Vsetín",
-   "voleno": 21,
-   "je_spocteno": true,
-   "okrsky_zprac": 25,
-   "okrsky_celkem": 25,
-   "generovano": "2022-09-24T19:25:00"
-  },
-  {
-   "kod": "505927",
-   "nazev": "Opava",
-   "voleno": 39,
-   "je_spocteno": true,
-   "okrsky_zprac": 59,
-   "okrsky_celkem": 59,
-   "generovano": "2022-09-24T21:30:00"
-  },
-  {
-   "kod": "599191",
-   "nazev": "Nový Jičín",
-   "voleno": 29,
-   "je_spocteno": true,
-   "okrsky_zprac": 22,
-   "okrsky_celkem": 22,
-   "generovano": "2022-09-24T22:35:00"
-  },
-  {
-   "kod": "563510",
-   "nazev": "Jablonec nad Nisou",
-   "voleno": 30,
-   "je_spocteno": true,
-   "okrsky_zprac": 49,
-   "okrsky_celkem": 49,
-   "generovano": "2022-09-24T20:50:00"
-  },
-  {
    "kod": "589250",
    "nazev": "Prostějov",
    "voleno": 35,
@@ -218,24 +236,6 @@
    "okrsky_zprac": 44,
    "okrsky_celkem": 44,
    "generovano": "2022-09-24T19:25:00"
-  },
-  {
-   "kod": "536385",
-   "nazev": "Jeseník",
-   "voleno": 21,
-   "je_spocteno": true,
-   "okrsky_zprac": 11,
-   "okrsky_celkem": 11,
-   "generovano": "2022-09-24T20:15:00"
-  },
-  {
-   "kod": "552046",
-   "nazev": "Tábor",
-   "voleno": 27,
-   "je_spocteno": true,
-   "okrsky_zprac": 41,
-   "okrsky_celkem": 41,
-   "generovano": "2022-09-24T20:50:00"
   },
   {
    "kod": "539911",
@@ -247,13 +247,13 @@
    "generovano": "2022-09-24T23:00:00"
   },
   {
-   "kod": "535419",
-   "nazev": "Mladá Boleslav",
-   "voleno": 33,
+   "kod": "552046",
+   "nazev": "Tábor",
+   "voleno": 27,
    "je_spocteno": true,
-   "okrsky_zprac": 44,
-   "okrsky_celkem": 44,
-   "generovano": "2022-09-24T22:15:00"
+   "okrsky_zprac": 41,
+   "okrsky_celkem": 41,
+   "generovano": "2022-09-24T20:50:00"
   },
   {
    "kod": "590266",
@@ -265,13 +265,193 @@
    "generovano": "2022-09-24T21:35:00"
   },
   {
-   "kod": "563889",
-   "nazev": "Liberec",
-   "voleno": 39,
+   "kod": "541630",
+   "nazev": "Vsetín",
+   "voleno": 21,
    "je_spocteno": true,
-   "okrsky_zprac": 87,
-   "okrsky_celkem": 87,
-   "generovano": "2022-09-24T23:55:00"
+   "okrsky_zprac": 25,
+   "okrsky_celkem": 25,
+   "generovano": "2022-09-24T19:25:00"
+  },
+  {
+   "kod": "500089",
+   "nazev": "Praha 2",
+   "voleno": 35,
+   "je_spocteno": true,
+   "okrsky_zprac": 45,
+   "okrsky_celkem": 45,
+   "generovano": "2022-09-25T02:45:01"
+  },
+  {
+   "kod": "500119",
+   "nazev": "Praha 4",
+   "voleno": 45,
+   "je_spocteno": true,
+   "okrsky_zprac": 132,
+   "okrsky_celkem": 132,
+   "generovano": "2022-09-25T03:05:00"
+  },
+  {
+   "kod": "500143",
+   "nazev": "Praha 5",
+   "voleno": 41,
+   "je_spocteno": true,
+   "okrsky_zprac": 81,
+   "okrsky_celkem": 81,
+   "generovano": "2022-09-25T02:45:01"
+  },
+  {
+   "kod": "500178",
+   "nazev": "Praha 6",
+   "voleno": 45,
+   "je_spocteno": true,
+   "okrsky_zprac": 104,
+   "okrsky_celkem": 104,
+   "generovano": "2022-09-25T05:30:00"
+  },
+  {
+   "kod": "500186",
+   "nazev": "Praha 7",
+   "voleno": 29,
+   "je_spocteno": true,
+   "okrsky_zprac": 36,
+   "okrsky_celkem": 36,
+   "generovano": "2022-09-25T00:05:00"
+  },
+  {
+   "kod": "500208",
+   "nazev": "Praha 8",
+   "voleno": 45,
+   "je_spocteno": true,
+   "okrsky_zprac": 108,
+   "okrsky_celkem": 108,
+   "generovano": "2022-09-25T02:35:00"
+  },
+  {
+   "kod": "500216",
+   "nazev": "Praha 9",
+   "voleno": 33,
+   "je_spocteno": true,
+   "okrsky_zprac": 42,
+   "okrsky_celkem": 42,
+   "generovano": "2022-09-25T00:25:00"
+  },
+  {
+   "kod": "500224",
+   "nazev": "Praha 10",
+   "voleno": 45,
+   "je_spocteno": true,
+   "okrsky_zprac": 109,
+   "okrsky_celkem": 109,
+   "generovano": "2022-09-25T06:10:00"
+  },
+  {
+   "kod": "547034",
+   "nazev": "Praha 11",
+   "voleno": 35,
+   "je_spocteno": true,
+   "okrsky_zprac": 62,
+   "okrsky_celkem": 62,
+   "generovano": "2022-09-25T03:00:00"
+  },
+  {
+   "kod": "547107",
+   "nazev": "Praha 12",
+   "voleno": 35,
+   "je_spocteno": true,
+   "okrsky_zprac": 50,
+   "okrsky_celkem": 50,
+   "generovano": "2022-09-25T02:05:00"
+  },
+  {
+   "kod": "539694",
+   "nazev": "Praha 13",
+   "voleno": 35,
+   "je_spocteno": true,
+   "okrsky_zprac": 58,
+   "okrsky_celkem": 58,
+   "generovano": "2022-09-25T00:00:01"
+  },
+  {
+   "kod": "547361",
+   "nazev": "Praha 14",
+   "voleno": 31,
+   "je_spocteno": true,
+   "okrsky_zprac": 32,
+   "okrsky_celkem": 32,
+   "generovano": "2022-09-25T01:40:00"
+  },
+  {
+   "kod": "547387",
+   "nazev": "Praha 15",
+   "voleno": 31,
+   "je_spocteno": true,
+   "okrsky_zprac": 23,
+   "okrsky_celkem": 23,
+   "generovano": "2022-09-25T01:45:00"
+  },
+  {
+   "kod": "539601",
+   "nazev": "Praha 16",
+   "voleno": 15,
+   "je_spocteno": true,
+   "okrsky_zprac": 8,
+   "okrsky_celkem": 8,
+   "generovano": "2022-09-24T19:50:01"
+  },
+  {
+   "kod": "547174",
+   "nazev": "Praha 17",
+   "voleno": 23,
+   "je_spocteno": true,
+   "okrsky_zprac": 18,
+   "okrsky_celkem": 18,
+   "generovano": "2022-09-25T01:05:00"
+  },
+  {
+   "kod": "547417",
+   "nazev": "Praha 18",
+   "voleno": 23,
+   "je_spocteno": true,
+   "okrsky_zprac": 12,
+   "okrsky_celkem": 12,
+   "generovano": "2022-09-25T00:35:00"
+  },
+  {
+   "kod": "547344",
+   "nazev": "Praha 19",
+   "voleno": 15,
+   "je_spocteno": true,
+   "okrsky_zprac": 6,
+   "okrsky_celkem": 6,
+   "generovano": "2022-09-24T20:55:01"
+  },
+  {
+   "kod": "538213",
+   "nazev": "Praha 20",
+   "voleno": 25,
+   "je_spocteno": true,
+   "okrsky_zprac": 12,
+   "okrsky_celkem": 12,
+   "generovano": "2022-09-25T00:45:00"
+  },
+  {
+   "kod": "538949",
+   "nazev": "Praha 21",
+   "voleno": 17,
+   "je_spocteno": true,
+   "okrsky_zprac": 8,
+   "okrsky_celkem": 8,
+   "generovano": "2022-09-24T22:45:00"
+  },
+  {
+   "kod": "538931",
+   "nazev": "Praha 22",
+   "voleno": 25,
+   "je_spocteno": true,
+   "okrsky_zprac": 9,
+   "okrsky_celkem": 9,
+   "generovano": "2022-09-24T23:40:00"
   }
  ]
 }

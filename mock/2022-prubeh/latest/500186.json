@@ -1,0 +1,104 @@
+{
+ "kod": "500186",
+ "nazev": "Praha 7",
+ "typ": "MCMO",
+ "voleno": 29,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:20:00",
+ "ucast": {
+  "okrsky_celkem": 36,
+  "okrsky_zprac": 3,
+  "okrsky_zprac_proc": 8.33,
+  "zapsani_volici": 2630,
+  "vydane_obalky": 1097,
+  "ucast_proc": 41.71,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 1097,
+  "platne_listky": null,
+  "platne_hlasy": 29883
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 364,
+   "hlasy": 962,
+   "hlasy_proc": 3.22,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ZELENÍ a nezávislí"
+  },
+  {
+   "por": 2,
+   "vstrana": 720,
+   "hlasy": 2549,
+   "hlasy_proc": 8.53,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 4640,
+   "hlasy_proc": 15.53,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 90,
+   "hlasy": 15204,
+   "hlasy_proc": 50.88,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 7 SOBĚ"
+  },
+  {
+   "por": 5,
+   "vstrana": 687,
+   "hlasy": 5287,
+   "hlasy_proc": 17.69,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ PRO PRAHU 7 (ODS A TOP 09)"
+  },
+  {
+   "por": 6,
+   "vstrana": 166,
+   "hlasy": 970,
+   "hlasy_proc": 3.25,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 7,
+   "vstrana": 7,
+   "hlasy": 96,
+   "hlasy_proc": 0.32,
+   "kandidatu": 11,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická"
+  },
+  {
+   "por": 8,
+   "vstrana": 47,
+   "hlasy": 175,
+   "hlasy_proc": 0.59,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  }
+ ],
+ "stazeno": "2022-09-24T19:20:00"
+}

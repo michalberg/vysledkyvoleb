@@ -1,0 +1,124 @@
+{
+ "kod": "500224",
+ "nazev": "Praha 10",
+ "typ": "MCMO",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:32",
+ "ucast": {
+  "okrsky_celkem": 109,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1846,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "JSME PRAHA 10"
+  },
+  {
+   "por": 2,
+   "vstrana": 480,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09 SPOLU S OSOBNOSTMI PRAHY 10"
+  },
+  {
+   "por": 3,
+   "vstrana": 1690,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SDRUŽENÍ PŘÁTEL PRAHY 10"
+  },
+  {
+   "por": 4,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD pro Prahu 10 s podporou PRO, Trikolory, Přísahy a Svobodných"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 1898,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Praha 10"
+  },
+  {
+   "por": 7,
+   "vstrana": 720,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 8,
+   "vstrana": 1404,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Starostové, Vlasta a Lidovci"
+  },
+  {
+   "por": 9,
+   "vstrana": 389,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Prahu 10 (Nejlepší město na světě - ODS a lokální osobnosti)"
+  },
+  {
+   "por": 10,
+   "vstrana": 1918,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 10 SOBĚ"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

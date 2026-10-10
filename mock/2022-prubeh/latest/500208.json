@@ -1,0 +1,144 @@
+{
+ "kod": "500208",
+ "nazev": "Praha 8",
+ "typ": "MCMO",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 108,
+  "okrsky_zprac": 29,
+  "okrsky_zprac_proc": 26.85,
+  "zapsani_volici": 13562,
+  "vydane_obalky": 5322,
+  "ucast_proc": 39.24,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 5318,
+  "platne_listky": null,
+  "platne_hlasy": 221907
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 53,
+   "hlasy": 42108,
+   "hlasy_proc": 18.98,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 1487,
+   "hlasy": 12748,
+   "hlasy_proc": 5.74,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD a Trikolora pro Osmičku"
+  },
+  {
+   "por": 3,
+   "vstrana": 1572,
+   "hlasy": 321,
+   "hlasy_proc": 0.14,
+   "kandidatu": 5,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LEPŠÍ OSMIČKA PRO LIDI A ZVÍŘATA"
+  },
+  {
+   "por": 4,
+   "vstrana": 768,
+   "hlasy": 30480,
+   "hlasy_proc": 13.74,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 5,
+   "vstrana": 720,
+   "hlasy": 29568,
+   "hlasy_proc": 13.32,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 659,
+   "hlasy": 25305,
+   "hlasy_proc": 11.4,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Prahu 8 - TOP 09 a Starostové a nezávislí"
+  },
+  {
+   "por": 7,
+   "vstrana": 699,
+   "hlasy": 8473,
+   "hlasy_proc": 3.82,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD, KDU-ČSL a Zelení s podporou Osmičky sobě"
+  },
+  {
+   "por": 8,
+   "vstrana": 1260,
+   "hlasy": 16529,
+   "hlasy_proc": 7.45,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Libeňský mourek"
+  },
+  {
+   "por": 9,
+   "vstrana": 566,
+   "hlasy": 1674,
+   "hlasy_proc": 0.75,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Praha 8 bez chaosu s krizovými manažery"
+  },
+  {
+   "por": 10,
+   "vstrana": 47,
+   "hlasy": 1862,
+   "hlasy_proc": 0.84,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 11,
+   "vstrana": 1586,
+   "hlasy": 39707,
+   "hlasy_proc": 17.89,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "8ŽIJE a PRAHA SOBĚ, kandidáti podpoření podpisy občanů"
+  },
+  {
+   "por": 12,
+   "vstrana": 1549,
+   "hlasy": 13132,
+   "hlasy_proc": 5.92,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PATRIOTI PRO PRAHU 8"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

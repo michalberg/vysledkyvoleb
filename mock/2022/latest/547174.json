@@ -1,0 +1,343 @@
+{
+ "kod": "547174",
+ "nazev": "Praha 17",
+ "typ": "MCMO",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T01:05:00",
+ "ucast": {
+  "okrsky_celkem": 18,
+  "okrsky_zprac": 18,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 17474,
+  "vydane_obalky": 7064,
+  "ucast_proc": 40.43,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 7036,
+  "platne_listky": null,
+  "platne_hlasy": 147629
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 480,
+   "hlasy": 38460,
+   "hlasy_proc": 26.05,
+   "kandidatu": 23,
+   "zastupitele": 7,
+   "zastupitele_proc": 30.43,
+   "nazev": "Řepští sousedé",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1914,
+     "hlasy_proc": 4.97,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Michal",
+     "prijmeni": "Štěpař",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1833,
+     "hlasy_proc": 4.76,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lukáš",
+     "prijmeni": "Pokorný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1752,
+     "hlasy_proc": 4.55,
+     "titul_pred": "Mgr.",
+     "jmeno": "Mahulena",
+     "prijmeni": "Vodárková",
+     "titul_za": "Dis."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1732,
+     "hlasy_proc": 4.5,
+     "titul_pred": "Bc.",
+     "jmeno": "Jiří",
+     "prijmeni": "Krejzar",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1800,
+     "hlasy_proc": 4.68,
+     "titul_pred": "Bc.",
+     "jmeno": "Martin",
+     "prijmeni": "Štěpař",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1754,
+     "hlasy_proc": 4.56,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Hradičková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1698,
+     "hlasy_proc": 4.41,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Jaroš",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 470,
+   "hlasy": 14565,
+   "hlasy_proc": 9.86,
+   "kandidatu": 23,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.7,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ PRO ŘEPY",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 835,
+     "hlasy_proc": 5.73,
+     "titul_pred": "PhDr.",
+     "jmeno": "Jitka",
+     "prijmeni": "Synková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 767,
+     "hlasy_proc": 5.26,
+     "titul_pred": "Ing.",
+     "jmeno": "Lenka",
+     "prijmeni": "Malinkovičová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 1548,
+   "hlasy": 7319,
+   "hlasy_proc": 4.95,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Náš hlas pro Řepy – Sdružení za rozvoj Řep"
+  },
+  {
+   "por": 4,
+   "vstrana": 1516,
+   "hlasy": 8831,
+   "hlasy_proc": 5.98,
+   "kandidatu": 23,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.35,
+   "nazev": "ŘEPY SOBĚ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 533,
+     "hlasy_proc": 6.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Bořek",
+     "prijmeni": "Černovský",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 7,
+   "hlasy": 2729,
+   "hlasy_proc": 1.84,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická"
+  },
+  {
+   "por": 6,
+   "vstrana": 53,
+   "hlasy": 32297,
+   "hlasy_proc": 21.87,
+   "kandidatu": 23,
+   "zastupitele": 6,
+   "zastupitele_proc": 26.09,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1632,
+     "hlasy_proc": 5.05,
+     "titul_pred": "Mgr.",
+     "jmeno": "Alena",
+     "prijmeni": "Kopejtková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1472,
+     "hlasy_proc": 4.55,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Marek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1432,
+     "hlasy_proc": 4.43,
+     "titul_pred": "",
+     "jmeno": "Pavel",
+     "prijmeni": "Maxa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1432,
+     "hlasy_proc": 4.43,
+     "titul_pred": "",
+     "jmeno": "David",
+     "prijmeni": "Števík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1472,
+     "hlasy_proc": 4.55,
+     "titul_pred": "Mgr.",
+     "jmeno": "Václav",
+     "prijmeni": "Soukup",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1548,
+     "hlasy_proc": 4.79,
+     "titul_pred": "Mgr.",
+     "jmeno": "Monika",
+     "prijmeni": "Čermáková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 724,
+   "hlasy": 302,
+   "hlasy_proc": 0.2,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Strana Práv Občanů ZEMANOVCI"
+  },
+  {
+   "por": 8,
+   "vstrana": 47,
+   "hlasy": 4409,
+   "hlasy_proc": 2.98,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 9,
+   "vstrana": 1490,
+   "hlasy": 8843,
+   "hlasy_proc": 5.99,
+   "kandidatu": 23,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.35,
+   "nazev": "KDU-ČSL + PLUS",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 694,
+     "hlasy_proc": 7.84,
+     "titul_pred": "MUDr.",
+     "jmeno": "Antoine",
+     "prijmeni": "Katra",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 29874,
+   "hlasy_proc": 20.23,
+   "kandidatu": 23,
+   "zastupitele": 6,
+   "zastupitele_proc": 26.09,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1451,
+     "hlasy_proc": 4.85,
+     "titul_pred": "Mgr.",
+     "jmeno": "Martin",
+     "prijmeni": "Benkovič",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1378,
+     "hlasy_proc": 4.61,
+     "titul_pred": "JUDr.",
+     "jmeno": "Věra",
+     "prijmeni": "Havlíčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1374,
+     "hlasy_proc": 4.59,
+     "titul_pred": "Mgr.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Šoukal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1358,
+     "hlasy_proc": 4.54,
+     "titul_pred": "Ing.",
+     "jmeno": "Marek",
+     "prijmeni": "Francl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1318,
+     "hlasy_proc": 4.41,
+     "titul_pred": "Mgr.",
+     "jmeno": "Štefan",
+     "prijmeni": "Klučka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1293,
+     "hlasy_proc": 4.32,
+     "titul_pred": "",
+     "jmeno": "Peter",
+     "prijmeni": "Mrázek",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T01:05:00"
+}

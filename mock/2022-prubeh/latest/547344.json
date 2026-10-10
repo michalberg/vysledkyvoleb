@@ -1,0 +1,74 @@
+{
+ "kod": "547344",
+ "nazev": "Praha 19",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 6,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 66.67,
+  "zapsani_volici": 2606,
+  "vydane_obalky": 1442,
+  "ucast_proc": 55.33,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 1442,
+  "platne_listky": null,
+  "platne_hlasy": 20142
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1516,
+   "hlasy": 393,
+   "hlasy_proc": 1.95,
+   "kandidatu": 8,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Změna pro Kbely"
+  },
+  {
+   "por": 2,
+   "vstrana": 90,
+   "hlasy": 13524,
+   "hlasy_proc": 67.14,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Sdružení nezávislých kandidátů Kbely náš domov"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 1030,
+   "hlasy_proc": 5.11,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 687,
+   "hlasy": 1203,
+   "hlasy_proc": 5.97,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ pro Kbely"
+  },
+  {
+   "por": 5,
+   "vstrana": 355,
+   "hlasy": 3992,
+   "hlasy_proc": 19.82,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "OK-19"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

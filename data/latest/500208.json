@@ -1,0 +1,114 @@
+{
+ "kod": "500208",
+ "nazev": "Praha 8",
+ "typ": "MCMO",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:21",
+ "ucast": {
+  "okrsky_celkem": 106,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1586,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "8žije, Praha sobě a Zelení"
+  },
+  {
+   "por": 2,
+   "vstrana": 1843,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 39,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Spojená levice pro Prahu (KSČM - ČSSD)"
+  },
+  {
+   "por": 3,
+   "vstrana": 524,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PATRIOTI PRO PRAHU 8"
+  },
+  {
+   "por": 4,
+   "vstrana": 210,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS s podporou KDU-ČSL"
+  },
+  {
+   "por": 5,
+   "vstrana": 1844,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Mourek s podporou SEN PRO PRAHU s Václavem Láskou"
+  },
+  {
+   "por": 6,
+   "vstrana": 720,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 7,
+   "vstrana": 659,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ + TOP 09 – Společně pro Prahu 8"
+  },
+  {
+   "por": 8,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD pro Prahu 8 s podporou Česká párty, PRO a Svobodní"
+  },
+  {
+   "por": 9,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 44,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

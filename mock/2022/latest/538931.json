@@ -1,0 +1,341 @@
+{
+ "kod": "538931",
+ "nazev": "Praha 22",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T23:40:00",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 8237,
+  "vydane_obalky": 4041,
+  "ucast_proc": 49.06,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 4037,
+  "platne_listky": null,
+  "platne_hlasy": 92013
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 17201,
+   "hlasy_proc": 18.69,
+   "kandidatu": 25,
+   "zastupitele": 5,
+   "zastupitele_proc": 20.0,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 877,
+     "hlasy_proc": 5.09,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Kaněra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 746,
+     "hlasy_proc": 4.33,
+     "titul_pred": "Bc.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Roth",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 705,
+     "hlasy_proc": 4.09,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Procházka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 700,
+     "hlasy_proc": 4.06,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Straka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 747,
+     "hlasy_proc": 4.34,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Klich",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 477,
+   "hlasy": 15764,
+   "hlasy_proc": 17.13,
+   "kandidatu": 25,
+   "zastupitele": 5,
+   "zastupitele_proc": 20.0,
+   "nazev": "DvacetDvojka + SVOBODNÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 712,
+     "hlasy_proc": 4.51,
+     "titul_pred": "Bc.",
+     "jmeno": "Hana",
+     "prijmeni": "Vagenknechtová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 784,
+     "hlasy_proc": 4.97,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Turnovský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 631,
+     "hlasy_proc": 4.0,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Konopásek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 750,
+     "hlasy_proc": 4.75,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jitka",
+     "prijmeni": "Rothová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 732,
+     "hlasy_proc": 4.64,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ivana",
+     "prijmeni": "Vodičková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 210,
+   "hlasy": 15397,
+   "hlasy_proc": 16.73,
+   "kandidatu": 25,
+   "zastupitele": 5,
+   "zastupitele_proc": 20.0,
+   "nazev": "Společně pro Prahu 22",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 724,
+     "hlasy_proc": 4.7,
+     "titul_pred": "doc. MUDr. Ing.",
+     "jmeno": "Daniel",
+     "prijmeni": "Smutek",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 640,
+     "hlasy_proc": 4.15,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Langmajer",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 660,
+     "hlasy_proc": 4.28,
+     "titul_pred": "Ing. Arch.",
+     "jmeno": "Stanislav",
+     "prijmeni": "Běhal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 673,
+     "hlasy_proc": 4.37,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Semecký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 638,
+     "hlasy_proc": 4.14,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Veselá",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 166,
+   "hlasy": 20648,
+   "hlasy_proc": 22.44,
+   "kandidatu": 25,
+   "zastupitele": 6,
+   "zastupitele_proc": 24.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 899,
+     "hlasy_proc": 4.35,
+     "titul_pred": "",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Zelenka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 915,
+     "hlasy_proc": 4.43,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Kosař",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 916,
+     "hlasy_proc": 4.43,
+     "titul_pred": "Mgr. Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Lagner",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 4,
+     "hlasy": 930,
+     "hlasy_proc": 4.5,
+     "titul_pred": "Mgr.",
+     "jmeno": "Veronika",
+     "prijmeni": "Špalková Kuželová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 871,
+     "hlasy_proc": 4.21,
+     "titul_pred": "Mgr.",
+     "jmeno": "Silvie",
+     "prijmeni": "Štěpánková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 865,
+     "hlasy_proc": 4.18,
+     "titul_pred": "Bc.",
+     "jmeno": "Jana",
+     "prijmeni": "Kabilová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1331,
+   "hlasy": 6522,
+   "hlasy_proc": 7.08,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Praha 22. Naše město.",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 319,
+     "hlasy_proc": 4.89,
+     "titul_pred": "Bc.",
+     "jmeno": "Filip",
+     "prijmeni": "Musil",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 352,
+     "hlasy_proc": 5.39,
+     "titul_pred": "",
+     "jmeno": "Ondřej",
+     "prijmeni": "Kallasch",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 1542,
+   "hlasy": 4427,
+   "hlasy_proc": 4.81,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Šance 22 s podporou hnutí HLAS"
+  },
+  {
+   "por": 7,
+   "vstrana": 524,
+   "hlasy": 3451,
+   "hlasy_proc": 3.75,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Patrioti PRO PRAHU 22"
+  },
+  {
+   "por": 8,
+   "vstrana": 90,
+   "hlasy": 8603,
+   "hlasy_proc": 9.34,
+   "kandidatu": 25,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.0,
+   "nazev": "Občanská kandidátka 22",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 433,
+     "hlasy_proc": 5.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Straková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 426,
+     "hlasy_proc": 4.95,
+     "titul_pred": "Ing.",
+     "jmeno": "Radka",
+     "prijmeni": "Motlochová",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T23:40:00"
+}

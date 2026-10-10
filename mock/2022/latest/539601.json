@@ -1,0 +1,195 @@
+{
+ "kod": "539601",
+ "nazev": "Praha 16",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-24T19:50:01",
+ "ucast": {
+  "okrsky_celkem": 8,
+  "okrsky_zprac": 8,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 6200,
+  "vydane_obalky": 3284,
+  "ucast_proc": 52.97,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3284,
+  "platne_listky": null,
+  "platne_hlasy": 44541
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 541,
+   "hlasy": 4726,
+   "hlasy_proc": 10.61,
+   "kandidatu": 15,
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Piráti a nezávislí kandidáti",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 441,
+     "hlasy_proc": 9.33,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Zelený",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 53,
+   "hlasy": 27200,
+   "hlasy_proc": 61.06,
+   "kandidatu": 15,
+   "zastupitele": 10,
+   "zastupitele_proc": 66.67,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1999,
+     "hlasy_proc": 7.34,
+     "titul_pred": "Mgr.",
+     "jmeno": "Karel",
+     "prijmeni": "Hanzlík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1880,
+     "hlasy_proc": 6.91,
+     "titul_pred": "Mgr.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Knotek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1934,
+     "hlasy_proc": 7.11,
+     "titul_pred": "",
+     "jmeno": "Simona",
+     "prijmeni": "Baráková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1812,
+     "hlasy_proc": 6.66,
+     "titul_pred": "Ing.",
+     "jmeno": "Viktor",
+     "prijmeni": "Krištof",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1801,
+     "hlasy_proc": 6.62,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Šiška",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1776,
+     "hlasy_proc": 6.52,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Fleischner",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1869,
+     "hlasy_proc": 6.87,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jakub",
+     "prijmeni": "Mareš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1788,
+     "hlasy_proc": 6.57,
+     "titul_pred": "Ing.",
+     "jmeno": "Irena",
+     "prijmeni": "Farníková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1776,
+     "hlasy_proc": 6.52,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Farník",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1783,
+     "hlasy_proc": 6.55,
+     "titul_pred": "Mgr.",
+     "jmeno": "Sabina",
+     "prijmeni": "Krejčí",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 1344,
+   "hlasy": 12615,
+   "hlasy_proc": 28.32,
+   "kandidatu": 15,
+   "zastupitele": 4,
+   "zastupitele_proc": 26.67,
+   "nazev": "Společně pro Radotín",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1044,
+     "hlasy_proc": 8.27,
+     "titul_pred": "",
+     "jmeno": "Jan-Matěj",
+     "prijmeni": "Rak",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 919,
+     "hlasy_proc": 7.28,
+     "titul_pred": "Ing.",
+     "jmeno": "Lucie",
+     "prijmeni": "Malátová",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 889,
+     "hlasy_proc": 7.04,
+     "titul_pred": "Mgr.",
+     "jmeno": "Matěj",
+     "prijmeni": "Pomahač",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 825,
+     "hlasy_proc": 6.53,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Šatra",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-24T19:50:01"
+}

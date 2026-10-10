@@ -1,0 +1,84 @@
+{
+ "kod": "500216",
+ "nazev": "Praha 9",
+ "typ": "MCMO",
+ "voleno": 33,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 42,
+  "okrsky_zprac": 17,
+  "okrsky_zprac_proc": 40.48,
+  "zapsani_volici": 12665,
+  "vydane_obalky": 5068,
+  "ucast_proc": 40.02,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 5062,
+  "platne_listky": null,
+  "platne_hlasy": 155206
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 90,
+   "hlasy": 19456,
+   "hlasy_proc": 12.54,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 9 SOBĚ"
+  },
+  {
+   "por": 2,
+   "vstrana": 1452,
+   "hlasy": 31681,
+   "hlasy_proc": 20.41,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011 (s podporou ČSSD)"
+  },
+  {
+   "por": 3,
+   "vstrana": 687,
+   "hlasy": 64168,
+   "hlasy_proc": 41.34,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ pro DEVÍTKU"
+  },
+  {
+   "por": 4,
+   "vstrana": 340,
+   "hlasy": 10911,
+   "hlasy_proc": 7.03,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NAŠE DEVÍTKA - STAROSTOVÉ A NEZÁVISLÍ S PODPOROU KDU-ČSL"
+  },
+  {
+   "por": 5,
+   "vstrana": 720,
+   "hlasy": 18385,
+   "hlasy_proc": 11.85,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 1486,
+   "hlasy": 10605,
+   "hlasy_proc": 6.83,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, Svobodní a Trikolora pro Prahu 9"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

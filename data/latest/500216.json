@@ -1,0 +1,104 @@
+{
+ "kod": "500216",
+ "nazev": "Praha 9",
+ "typ": "MCMO",
+ "voleno": 33,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:27",
+ "ucast": {
+  "okrsky_celkem": 43,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1682,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svoboda a přímá demokracie (SPD) a Svobodní pro Prahu 9"
+  },
+  {
+   "por": 2,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 3,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU PRO PRAHU 9 (ODS a TOP 09) s podporou nestraníků"
+  },
+  {
+   "por": 4,
+   "vstrana": 1500,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ZMĚNA s podporou SEN pro Prahu"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 121,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 2,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "LEPŠÍ ŽIVOT PRO LIDI – zrušení daně z nemovitostí, min. mzda 50.000 Kč, min. důchod 30.000 Kč, návrat cen energií na ceny z roku 2019, v obchodech zboží nejvyšší kvality za ceny dostupné pro každého, STOP válce"
+  },
+  {
+   "por": 7,
+   "vstrana": 720,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 8,
+   "vstrana": 1373,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 9 SOBĚ"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

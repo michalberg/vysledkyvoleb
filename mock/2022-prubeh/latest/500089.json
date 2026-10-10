@@ -1,0 +1,104 @@
+{
+ "kod": "500089",
+ "nazev": "Praha 2",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:30:00",
+ "ucast": {
+  "okrsky_celkem": 45,
+  "okrsky_zprac": 10,
+  "okrsky_zprac_proc": 22.22,
+  "zapsani_volici": 5943,
+  "vydane_obalky": 2506,
+  "ucast_proc": 42.17,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2505,
+  "platne_listky": null,
+  "platne_hlasy": 81754
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 720,
+   "hlasy": 14754,
+   "hlasy_proc": 18.05,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 2,
+   "vstrana": 699,
+   "hlasy": 3731,
+   "hlasy_proc": 4.56,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Dvojka solidární a zelená"
+  },
+  {
+   "por": 3,
+   "vstrana": 687,
+   "hlasy": 28907,
+   "hlasy_proc": 35.36,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO Prahu 2"
+  },
+  {
+   "por": 4,
+   "vstrana": 1373,
+   "hlasy": 14574,
+   "hlasy_proc": 17.83,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 2 SOBĚ"
+  },
+  {
+   "por": 5,
+   "vstrana": 1305,
+   "hlasy": 4459,
+   "hlasy_proc": 5.45,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí SPD pro Prahu 2 s podporou Trikolory a nezávislých kandidátů"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 11444,
+   "hlasy_proc": 14.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 7,
+   "vstrana": 166,
+   "hlasy": 3478,
+   "hlasy_proc": 4.25,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 8,
+   "vstrana": 47,
+   "hlasy": 407,
+   "hlasy_proc": 0.5,
+   "kandidatu": 24,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  }
+ ],
+ "stazeno": "2022-09-24T19:30:00"
+}

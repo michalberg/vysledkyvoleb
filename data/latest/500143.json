@@ -1,0 +1,144 @@
+{
+ "kod": "500143",
+ "nazev": "Praha 5",
+ "typ": "MCMO",
+ "voleno": 41,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:24",
+ "ucast": {
+  "okrsky_celkem": 81,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD pro Prahu 5 s podporou PRO a nezávislých kandidátů"
+  },
+  {
+   "por": 2,
+   "vstrana": 1058,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP Lidovci a Nezávislí"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 1373,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 5 SOBĚ"
+  },
+  {
+   "por": 5,
+   "vstrana": 53,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 6,
+   "vstrana": 1697,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Motoristé sobě a Svobodní"
+  },
+  {
+   "por": 7,
+   "vstrana": 1898,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Naše Praha 5"
+  },
+  {
+   "por": 8,
+   "vstrana": 720,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 9,
+   "vstrana": 1713,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana asociálů"
+  },
+  {
+   "por": 10,
+   "vstrana": 371,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "REZIDENTI 5P"
+  },
+  {
+   "por": 11,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 12,
+   "vstrana": 1855,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 41,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SEN PRO PRAHU 5 s podporou senátora Václava Lásky a Společnosti na ochranu Prokopského údolí"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

@@ -1,0 +1,463 @@
+{
+ "kod": "539694",
+ "nazev": "Praha 13",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T00:00:01",
+ "ucast": {
+  "okrsky_celkem": 58,
+  "okrsky_zprac": 58,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 41942,
+  "vydane_obalky": 18140,
+  "ucast_proc": 43.25,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 18122,
+  "platne_listky": null,
+  "platne_hlasy": 585248
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 53,
+   "hlasy": 162280,
+   "hlasy_proc": 27.72,
+   "kandidatu": 35,
+   "zastupitele": 11,
+   "zastupitele_proc": 31.43,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 5563,
+     "hlasy_proc": 3.42,
+     "titul_pred": "Ing.",
+     "jmeno": "David",
+     "prijmeni": "Vodrážka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 4898,
+     "hlasy_proc": 3.01,
+     "titul_pred": "",
+     "jmeno": "David",
+     "prijmeni": "Zelený",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 4854,
+     "hlasy_proc": 2.99,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Zeman",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 4759,
+     "hlasy_proc": 2.93,
+     "titul_pred": "",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Pastrňák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 4825,
+     "hlasy_proc": 2.97,
+     "titul_pred": "Ing.",
+     "jmeno": "Vít",
+     "prijmeni": "Bobysud",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 4736,
+     "hlasy_proc": 2.91,
+     "titul_pred": "",
+     "jmeno": "Ludmila",
+     "prijmeni": "Tichá",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 4831,
+     "hlasy_proc": 2.97,
+     "titul_pred": "Mgr.",
+     "jmeno": "Šárka",
+     "prijmeni": "Skopalíková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 4767,
+     "hlasy_proc": 2.93,
+     "titul_pred": "Ing.",
+     "jmeno": "Petra",
+     "prijmeni": "Dymlová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 4712,
+     "hlasy_proc": 2.9,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Vávra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 4749,
+     "hlasy_proc": 2.92,
+     "titul_pred": "Ing.",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Provazník",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 4702,
+     "hlasy_proc": 2.89,
+     "titul_pred": "",
+     "jmeno": "Rudolf",
+     "prijmeni": "Weyda",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 714,
+   "hlasy": 6496,
+   "hlasy_proc": 1.76,
+   "kandidatu": 22,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní"
+  },
+  {
+   "por": 3,
+   "vstrana": 1546,
+   "hlasy": 55799,
+   "hlasy_proc": 9.53,
+   "kandidatu": 35,
+   "zastupitele": 4,
+   "zastupitele_proc": 11.43,
+   "nazev": "SEN 21 pro Prahu 13 a Společnost proti developerské výstavbě v Prokopském údolí s podporou senátora Václava Lásky",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1889,
+     "hlasy_proc": 3.38,
+     "titul_pred": "",
+     "jmeno": "Barbora",
+     "prijmeni": "Bero",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1863,
+     "hlasy_proc": 3.33,
+     "titul_pred": "",
+     "jmeno": "Karel",
+     "prijmeni": "Vítek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1810,
+     "hlasy_proc": 3.24,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Nitra",
+     "titul_za": "MSc"
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1853,
+     "hlasy_proc": 3.32,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Prosmanová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 768,
+   "hlasy": 94653,
+   "hlasy_proc": 16.17,
+   "kandidatu": 35,
+   "zastupitele": 6,
+   "zastupitele_proc": 17.14,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2998,
+     "hlasy_proc": 3.16,
+     "titul_pred": "RNDr.",
+     "jmeno": "Marcela",
+     "prijmeni": "Plesníková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2868,
+     "hlasy_proc": 3.03,
+     "titul_pred": "Ing.",
+     "jmeno": "Michal",
+     "prijmeni": "Drábek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2870,
+     "hlasy_proc": 3.03,
+     "titul_pred": "Mgr.",
+     "jmeno": "Yveta",
+     "prijmeni": "Kvapilová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2796,
+     "hlasy_proc": 2.95,
+     "titul_pred": "Ing.",
+     "jmeno": "Josef",
+     "prijmeni": "Zobal",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2829,
+     "hlasy_proc": 2.98,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Prokeš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2758,
+     "hlasy_proc": 2.91,
+     "titul_pred": "Ing.",
+     "jmeno": "Milada",
+     "prijmeni": "Staňková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 47,
+   "hlasy": 4652,
+   "hlasy_proc": 1.73,
+   "kandidatu": 16,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 6,
+   "vstrana": 1489,
+   "hlasy": 11125,
+   "hlasy_proc": 1.9,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 13 BEZ CHAOSU"
+  },
+  {
+   "por": 7,
+   "vstrana": 1066,
+   "hlasy": 88287,
+   "hlasy_proc": 15.08,
+   "kandidatu": 35,
+   "zastupitele": 6,
+   "zastupitele_proc": 17.14,
+   "nazev": "Zelení a Piráti pro 13",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2845,
+     "hlasy_proc": 3.22,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Murňák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2801,
+     "hlasy_proc": 3.17,
+     "titul_pred": "Mgr. Bc.",
+     "jmeno": "Václav",
+     "prijmeni": "Mucala",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2786,
+     "hlasy_proc": 3.15,
+     "titul_pred": "Mgr.",
+     "jmeno": "Václav",
+     "prijmeni": "Hrdlička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2777,
+     "hlasy_proc": 3.14,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Horká",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2667,
+     "hlasy_proc": 3.02,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Krejčí",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2683,
+     "hlasy_proc": 3.03,
+     "titul_pred": "",
+     "jmeno": "Adam",
+     "prijmeni": "Kopetzký",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 166,
+   "hlasy": 28553,
+   "hlasy_proc": 4.87,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 9,
+   "vstrana": 1373,
+   "hlasy": 64494,
+   "hlasy_proc": 11.01,
+   "kandidatu": 35,
+   "zastupitele": 4,
+   "zastupitele_proc": 11.43,
+   "nazev": "PRAHA 13 SOBĚ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2174,
+     "hlasy_proc": 3.37,
+     "titul_pred": "Mgr.",
+     "jmeno": "Pavel",
+     "prijmeni": "Podzemský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2158,
+     "hlasy_proc": 3.34,
+     "titul_pred": "Ing.",
+     "jmeno": "Lenka",
+     "prijmeni": "Pachmanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2033,
+     "hlasy_proc": 3.15,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Večeřílek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2072,
+     "hlasy_proc": 3.21,
+     "titul_pred": "Ing.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Kratochvílová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 10,
+   "vstrana": 1058,
+   "hlasy": 34250,
+   "hlasy_proc": 5.85,
+   "kandidatu": 35,
+   "zastupitele": 2,
+   "zastupitele_proc": 5.71,
+   "nazev": "Společně pro Prahu 13 - TOP 09 a KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 3,
+     "hlasy": 1189,
+     "hlasy_proc": 3.47,
+     "titul_pred": "",
+     "jmeno": "Ivana",
+     "prijmeni": "Todlová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1173,
+     "hlasy_proc": 3.42,
+     "titul_pred": "doc. Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Praus",
+     "titul_za": "CSc."
+    }
+   ]
+  },
+  {
+   "por": 11,
+   "vstrana": 1491,
+   "hlasy": 34659,
+   "hlasy_proc": 5.92,
+   "kandidatu": 35,
+   "zastupitele": 2,
+   "zastupitele_proc": 5.71,
+   "nazev": "SPD, Trikolora a nezávislí kandidáti pro Prahu 13",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1125,
+     "hlasy_proc": 3.24,
+     "titul_pred": "JUDr.",
+     "jmeno": "Vladimíra",
+     "prijmeni": "Bondarenková",
+     "titul_za": "D.E.A., MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1101,
+     "hlasy_proc": 3.17,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Trmota",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T00:00:01"
+}

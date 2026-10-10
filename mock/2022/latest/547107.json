@@ -1,0 +1,421 @@
+{
+ "kod": "547107",
+ "nazev": "Praha 12",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T02:05:00",
+ "ucast": {
+  "okrsky_celkem": 50,
+  "okrsky_zprac": 50,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 41632,
+  "vydane_obalky": 17680,
+  "ucast_proc": 42.47,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 17669,
+  "platne_listky": null,
+  "platne_hlasy": 569661
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 138749,
+   "hlasy_proc": 24.35,
+   "kandidatu": 35,
+   "zastupitele": 9,
+   "zastupitele_proc": 25.71,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 4188,
+     "hlasy_proc": 3.01,
+     "titul_pred": "",
+     "jmeno": "Milan",
+     "prijmeni": "Maruštík",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 4147,
+     "hlasy_proc": 2.98,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Vedralová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 4057,
+     "hlasy_proc": 2.92,
+     "titul_pred": "",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Zvonař",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 4048,
+     "hlasy_proc": 2.91,
+     "titul_pred": "",
+     "jmeno": "Vítězslav",
+     "prijmeni": "Svoboda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 4034,
+     "hlasy_proc": 2.9,
+     "titul_pred": "",
+     "jmeno": "Jakub",
+     "prijmeni": "Němec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 4027,
+     "hlasy_proc": 2.9,
+     "titul_pred": "",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Hrozek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 4026,
+     "hlasy_proc": 2.9,
+     "titul_pred": "",
+     "jmeno": "Martin",
+     "prijmeni": "Švejda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 4025,
+     "hlasy_proc": 2.9,
+     "titul_pred": "",
+     "jmeno": "Iva",
+     "prijmeni": "Koudelková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 4037,
+     "hlasy_proc": 2.9,
+     "titul_pred": "",
+     "jmeno": "František",
+     "prijmeni": "Fejgl",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 541,
+   "hlasy": 120194,
+   "hlasy_proc": 21.09,
+   "kandidatu": 35,
+   "zastupitele": 8,
+   "zastupitele_proc": 22.86,
+   "nazev": "Piráti Praha 12",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 3835,
+     "hlasy_proc": 3.19,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Adamec",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 3992,
+     "hlasy_proc": 3.32,
+     "titul_pred": "Ing.",
+     "jmeno": "Eva",
+     "prijmeni": "Tylová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 3637,
+     "hlasy_proc": 3.02,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Brůžek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 3536,
+     "hlasy_proc": 2.94,
+     "titul_pred": "Bc.",
+     "jmeno": "Michal",
+     "prijmeni": "Macek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 3574,
+     "hlasy_proc": 2.97,
+     "titul_pred": "",
+     "jmeno": "Václav",
+     "prijmeni": "Šístek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 3513,
+     "hlasy_proc": 2.92,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petri",
+     "prijmeni": "Mališů",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 3584,
+     "hlasy_proc": 2.98,
+     "titul_pred": "Ing.",
+     "jmeno": "Ivan",
+     "prijmeni": "Štěpka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 3526,
+     "hlasy_proc": 2.93,
+     "titul_pred": "Ing.",
+     "jmeno": "Matěj",
+     "prijmeni": "Mlčoch",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 387,
+   "hlasy": 32656,
+   "hlasy_proc": 5.73,
+   "kandidatu": 35,
+   "zastupitele": 2,
+   "zastupitele_proc": 5.71,
+   "nazev": "OBČANÉ DVANÁCTKY, sdružení nezávislých kandidátů a KSČM",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1028,
+     "hlasy_proc": 3.14,
+     "titul_pred": "",
+     "jmeno": "Vladimír",
+     "prijmeni": "Vaněk",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1020,
+     "hlasy_proc": 3.12,
+     "titul_pred": "Ing.",
+     "jmeno": "Svatopluk",
+     "prijmeni": "Semecký",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1245,
+   "hlasy": 17881,
+   "hlasy_proc": 3.32,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA – občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 5,
+   "vstrana": 1620,
+   "hlasy": 52434,
+   "hlasy_proc": 9.2,
+   "kandidatu": 35,
+   "zastupitele": 3,
+   "zastupitele_proc": 8.57,
+   "nazev": "ZMĚNA PRO PRAHU 12 – KOALICE STRAN a NK: hnutí ZMĚNA PRO PRAHU 12, KDU-ČSL,hnutí STAN, KONZER. STRANA-VE VAŠICH SLUŽBÁCH",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 1735,
+     "hlasy_proc": 3.3,
+     "titul_pred": "PhDr. Bc.",
+     "jmeno": "Daniela",
+     "prijmeni": "Rázková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1708,
+     "hlasy_proc": 3.25,
+     "titul_pred": "Prof. Ing.",
+     "jmeno": "Michael",
+     "prijmeni": "Valášek",
+     "titul_za": "DrSc."
+    },
+    {
+     "poradi": 15,
+     "hlasy": 1692,
+     "hlasy_proc": 3.22,
+     "titul_pred": "MUDr.",
+     "jmeno": "Tom",
+     "prijmeni": "Philipp",
+     "titul_za": "Ph.D., MBA"
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 687,
+   "hlasy": 144028,
+   "hlasy_proc": 25.28,
+   "kandidatu": 35,
+   "zastupitele": 9,
+   "zastupitele_proc": 25.71,
+   "nazev": "ODS a TOP 09 společně pro Prahu 12",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 4472,
+     "hlasy_proc": 3.1,
+     "titul_pred": "Ing.",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Kos",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 4373,
+     "hlasy_proc": 3.03,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Šula",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 4216,
+     "hlasy_proc": 2.92,
+     "titul_pred": "",
+     "jmeno": "Michaela",
+     "prijmeni": "Černá",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 4258,
+     "hlasy_proc": 2.95,
+     "titul_pred": "Mgr.",
+     "jmeno": "Petr",
+     "prijmeni": "Prchal",
+     "titul_za": "MPA"
+    },
+    {
+     "poradi": 5,
+     "hlasy": 4153,
+     "hlasy_proc": 2.88,
+     "titul_pred": "",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Mikoláš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 4187,
+     "hlasy_proc": 2.9,
+     "titul_pred": "Bc.",
+     "jmeno": "Jan",
+     "prijmeni": "Chalupný",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 4262,
+     "hlasy_proc": 2.95,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zlatuše",
+     "prijmeni": "Rybářová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 4175,
+     "hlasy_proc": 2.89,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marek",
+     "prijmeni": "Tamchyna",
+     "titul_za": ""
+    },
+    {
+     "poradi": 9,
+     "hlasy": 4213,
+     "hlasy_proc": 2.92,
+     "titul_pred": "Prof. RNDr.",
+     "jmeno": "Radan",
+     "prijmeni": "Huth",
+     "titul_za": "DrSc."
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 1373,
+   "hlasy": 63719,
+   "hlasy_proc": 11.18,
+   "kandidatu": 35,
+   "zastupitele": 4,
+   "zastupitele_proc": 11.43,
+   "nazev": "PRAHA 12 SOBĚ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2044,
+     "hlasy_proc": 3.2,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Hůla",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1958,
+     "hlasy_proc": 3.07,
+     "titul_pred": "Bc.",
+     "jmeno": "Verona",
+     "prijmeni": "Ballay",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2039,
+     "hlasy_proc": 3.19,
+     "titul_pred": "Ing.",
+     "jmeno": "Ladislav",
+     "prijmeni": "Pelcl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2070,
+     "hlasy_proc": 3.24,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Běťák",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T02:05:00"
+}

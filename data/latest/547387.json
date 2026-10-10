@@ -1,0 +1,134 @@
+{
+ "kod": "547387",
+ "nazev": "Praha 15",
+ "typ": "MCMO",
+ "voleno": 31,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:35",
+ "ucast": {
+  "okrsky_celkem": 23,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1804,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD, PRO a nezávislí kandidáti pro Prahu 15"
+  },
+  {
+   "por": 2,
+   "vstrana": 90,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Patnáctka náš domov"
+  },
+  {
+   "por": 3,
+   "vstrana": 1714,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ"
+  },
+  {
+   "por": 4,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 5,
+   "vstrana": 55,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)"
+  },
+  {
+   "por": 6,
+   "vstrana": 47,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 10,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 7,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Prahu 15 (Občanská demokratická strana, TOP 09 a nezávislí kandidáti)"
+  },
+  {
+   "por": 8,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 9,
+   "vstrana": 1922,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a Praha 15 sobě"
+  },
+  {
+   "por": 10,
+   "vstrana": 1713,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 1,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana asociálů"
+  },
+  {
+   "por": 11,
+   "vstrana": 88,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "NEZÁVISLÍ"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

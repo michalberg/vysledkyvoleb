@@ -1,0 +1,54 @@
+{
+ "kod": "539601",
+ "nazev": "Praha 16",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 8,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 75.0,
+  "zapsani_volici": 4570,
+  "vydane_obalky": 2423,
+  "ucast_proc": 53.02,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 2423,
+  "platne_listky": null,
+  "platne_hlasy": 32810
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 541,
+   "hlasy": 3474,
+   "hlasy_proc": 10.59,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a nezávislí kandidáti"
+  },
+  {
+   "por": 2,
+   "vstrana": 53,
+   "hlasy": 20326,
+   "hlasy_proc": 61.95,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana"
+  },
+  {
+   "por": 3,
+   "vstrana": 1344,
+   "hlasy": 9010,
+   "hlasy_proc": 27.46,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Radotín"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

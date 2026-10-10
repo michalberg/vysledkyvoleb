@@ -4,6 +4,7 @@ Průběžné výsledky voleb do zastupitelstev obcí (9.–10. 10. 2026) pro Brn
 a 15 městských částí, s přibližným výpočtem mandátů a skládáním koalic.
 
 **Web:** https://michalberg.github.io/vysledkyvoleb/ (Brno)
+a https://michalberg.github.io/vysledkyvoleb/praha.html (Praha + MČ Praha 1–22)
 a https://michalberg.github.io/vysledkyvoleb/mesta.html (další města)
 
 Zdroj: otevřená data [volby.gov.cz](https://volby.gov.cz/opendata/kv2026/KV2026_XML.htm).
@@ -58,10 +59,11 @@ může prohlížeč držet až 10 minut (Cmd + Shift + R).
 | Stránka | Konfigurace | Obsah |
 |---|---|---|
 | `index.html` | `config.json` (`hlavni: true`) | Brno + 15 MČ; Brno má řádek nahoře a ukazuje všechny strany |
-| `mesta.html` | `config-mesta.json` | Praha, Praha 3, Vsetín, Opava, Nový Jičín, Jablonec n. N., Prostějov, Jeseník, Tábor, Příbram, Mladá Boleslav, Třebíč, Liberec |
+| `praha.html` | `config-praha.json` (`hlavni: true`, `hlavni_vsechny_strany: false`) | Praha + 22 MČ; Praha nahoře, strany nad 3 % |
+| `mesta.html` | `config-mesta.json` | Brno, Praha, Praha 1, Praha 3, Vsetín, Opava, Nový Jičín, Jablonec n. N., Prostějov, Jeseník, Tábor, Příbram, Mladá Boleslav, Třebíč, Liberec |
 
 Obě stránky sdílejí `app.js`; stránka si konfiguraci bere z `<body data-config>`.
-Stahovací skript čte obě konfigurace a ukládá všechno do `data/`.
+Stahovací skript čte všechny tři konfigurace a ukládá všechno do `data/`.
 
 ## Konfigurace
 

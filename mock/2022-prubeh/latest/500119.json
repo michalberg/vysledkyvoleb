@@ -1,0 +1,114 @@
+{
+ "kod": "500119",
+ "nazev": "Praha 4",
+ "typ": "MCMO",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 132,
+  "okrsky_zprac": 37,
+  "okrsky_zprac_proc": 28.03,
+  "zapsani_volici": 26411,
+  "vydane_obalky": 9787,
+  "ucast_proc": 37.06,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 9786,
+  "platne_listky": null,
+  "platne_hlasy": 401345
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 524,
+   "hlasy": 11754,
+   "hlasy_proc": 2.93,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Svobodní Patrioti pro Prahu 4"
+  },
+  {
+   "por": 2,
+   "vstrana": 371,
+   "hlasy": 10862,
+   "hlasy_proc": 2.71,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD a nezávislí: Solidarita pro Prahu 4"
+  },
+  {
+   "por": 3,
+   "vstrana": 340,
+   "hlasy": 49545,
+   "hlasy_proc": 12.34,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ PRO PRAHU 4 – STAROSTOVÉ A NEZÁVISLÍ A KDU - ČSL"
+  },
+  {
+   "por": 4,
+   "vstrana": 47,
+   "hlasy": 5604,
+   "hlasy_proc": 1.4,
+   "kandidatu": 29,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KOMUNISTICKÁ STRANA ČECH A MORAVY"
+  },
+  {
+   "por": 5,
+   "vstrana": 1545,
+   "hlasy": 18400,
+   "hlasy_proc": 4.58,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Pražská čtyřka (P4)"
+  },
+  {
+   "por": 6,
+   "vstrana": 768,
+   "hlasy": 79473,
+   "hlasy_proc": 19.8,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 7,
+   "vstrana": 364,
+   "hlasy": 65631,
+   "hlasy_proc": 16.35,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Praha 4 sobě – sousedé a nezávislí"
+  },
+  {
+   "por": 8,
+   "vstrana": 687,
+   "hlasy": 97776,
+   "hlasy_proc": 24.36,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ ODS a TOP 09"
+  },
+  {
+   "por": 9,
+   "vstrana": 541,
+   "hlasy": 62300,
+   "hlasy_proc": 15.52,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a nezávislí"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

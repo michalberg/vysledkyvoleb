@@ -1,0 +1,267 @@
+{
+  "volby": "kv2026",
+  "datum": "20261009",
+  "interval_s": 12,
+  "nadpis": "Městská část",
+  "hlavni": true,
+  "dalsi_stranka": {
+    "text": "Další města →",
+    "href": "mesta.html"
+  },
+  "obce": [
+    {
+      "kod": "554782",
+      "nazev": "Praha",
+      "zobrazit": "Praha",
+      "kratky": "Praha",
+      "nase": {
+        "2026": 5,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500054",
+      "nazev": "Praha 1",
+      "zobrazit": "Praha 1",
+      "kratky": "Praha 1",
+      "nase": {
+        "2026": 3,
+        "2022": 5
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500089",
+      "nazev": "Praha 2",
+      "zobrazit": "Praha 2",
+      "kratky": "Praha 2",
+      "nase": {
+        "2026": 1,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500097",
+      "nazev": "Praha 3",
+      "zobrazit": "Praha 3",
+      "kratky": "Praha 3",
+      "nase": {
+        "2026": 7,
+        "2022": 10
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500119",
+      "nazev": "Praha 4",
+      "zobrazit": "Praha 4",
+      "kratky": "Praha 4",
+      "nase": {
+        "2026": 7,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500143",
+      "nazev": "Praha 5",
+      "zobrazit": "Praha 5",
+      "kratky": "Praha 5",
+      "nase": {
+        "2026": 4,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500178",
+      "nazev": "Praha 6",
+      "zobrazit": "Praha 6",
+      "kratky": "Praha 6",
+      "nase": {
+        "2026": 6,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500186",
+      "nazev": "Praha 7",
+      "zobrazit": "Praha 7",
+      "kratky": "Praha 7",
+      "nase": {
+        "2026": 1,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500208",
+      "nazev": "Praha 8",
+      "zobrazit": "Praha 8",
+      "kratky": "Praha 8",
+      "nase": {
+        "2026": 1,
+        "2022": 7
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500216",
+      "nazev": "Praha 9",
+      "zobrazit": "Praha 9",
+      "kratky": "Praha 9",
+      "nase": {
+        "2026": 8,
+        "2022": 1
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "500224",
+      "nazev": "Praha 10",
+      "zobrazit": "Praha 10",
+      "kratky": "Praha 10",
+      "nase": {
+        "2026": 10,
+        "2022": 5
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "547034",
+      "nazev": "Praha 11",
+      "zobrazit": "Praha 11",
+      "kratky": "Praha 11",
+      "nase": {
+        "2026": 4,
+        "2022": 1
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "547107",
+      "nazev": "Praha 12",
+      "zobrazit": "Praha 12",
+      "kratky": "Praha 12",
+      "nase": {
+        "2026": 11,
+        "2022": 7
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "539694",
+      "nazev": "Praha 13",
+      "zobrazit": "Praha 13",
+      "kratky": "Praha 13",
+      "nase": {
+        "2026": 5,
+        "2022": 7
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "547361",
+      "nazev": "Praha 14",
+      "zobrazit": "Praha 14",
+      "kratky": "Praha 14",
+      "nase": {
+        "2026": 7,
+        "2022": 2
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "547387",
+      "nazev": "Praha 15",
+      "zobrazit": "Praha 15",
+      "kratky": "Praha 15",
+      "nase": {
+        "2026": 9,
+        "2022": 6
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "539601",
+      "nazev": "Praha 16",
+      "zobrazit": "Praha 16",
+      "kratky": "Praha 16",
+      "nase": {
+        "2026": 1,
+        "2022": 3
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "547174",
+      "nazev": "Praha 17",
+      "zobrazit": "Praha 17",
+      "kratky": "Praha 17",
+      "nase": {
+        "2026": 2,
+        "2022": 4
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "547417",
+      "nazev": "Praha 18",
+      "zobrazit": "Praha 18",
+      "kratky": "Praha 18",
+      "nase": {
+        "2026": 6,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "547344",
+      "nazev": "Praha 19",
+      "zobrazit": "Praha 19",
+      "kratky": "Praha 19",
+      "nase": {
+        "2026": null,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "538213",
+      "nazev": "Praha 20",
+      "zobrazit": "Praha 20",
+      "kratky": "Praha 20",
+      "nase": {
+        "2026": null,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "538949",
+      "nazev": "Praha 21",
+      "zobrazit": "Praha 21",
+      "kratky": "Praha 21",
+      "nase": {
+        "2026": 4,
+        "2022": 2
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    },
+    {
+      "kod": "538931",
+      "nazev": "Praha 22",
+      "zobrazit": "Praha 22",
+      "kratky": "Praha 22",
+      "nase": {
+        "2026": 7,
+        "2022": null
+      },
+      "odkaz": "https://volby.gov.cz/app/kv2026/cs/20261009/results"
+    }
+  ],
+  "hlavni_vsechny_strany": false
+}

@@ -1,0 +1,103 @@
+{
+ "kod": "538213",
+ "nazev": "Praha 20",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 12,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 0,
+  "platne_listky": null,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 524,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ŠANCE pro Počernice"
+  },
+  {
+   "por": 2,
+   "vstrana": 1316,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ PRO POČERNICE"
+  },
+  {
+   "por": 3,
+   "vstrana": 401,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí Občanů Počernic, PRO Počernice a NEZÁVISLÍ"
+  },
+  {
+   "por": 4,
+   "vstrana": 497,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "POČERŇÁCI A SOUKROMNÍCI"
+  },
+  {
+   "por": 5,
+   "vstrana": 47,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 4,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 6,
+   "vstrana": 566,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Místní pro Horní Počernice"
+  },
+  {
+   "por": 7,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS a TOP 09 s podporou nezávislých kandidátů Horních Počernic"
+  },
+  {
+   "por": 8,
+   "vstrana": 90,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Počernice JINAK"
+  }
+ ]
+}

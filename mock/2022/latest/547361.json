@@ -1,0 +1,419 @@
+{
+ "kod": "547361",
+ "nazev": "Praha 14",
+ "typ": "MCMO",
+ "voleno": 31,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T01:40:00",
+ "ucast": {
+  "okrsky_celkem": 32,
+  "okrsky_zprac": 32,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 31964,
+  "vydane_obalky": 11899,
+  "ucast_proc": 37.23,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 11892,
+  "platne_listky": null,
+  "platne_hlasy": 342874
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 90,
+   "hlasy": 37810,
+   "hlasy_proc": 11.02,
+   "kandidatu": 31,
+   "zastupitele": 4,
+   "zastupitele_proc": 12.9,
+   "nazev": "PRAHA 14 SOBĚ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1492,
+     "hlasy_proc": 3.94,
+     "titul_pred": "",
+     "jmeno": "Petr",
+     "prijmeni": "Zeman",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1349,
+     "hlasy_proc": 3.56,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Habartová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1367,
+     "hlasy_proc": 3.61,
+     "titul_pred": "Mgr.",
+     "jmeno": "Vít",
+     "prijmeni": "Zeman",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1235,
+     "hlasy_proc": 3.26,
+     "titul_pred": "",
+     "jmeno": "Karolína",
+     "prijmeni": "Šlajsová",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 529,
+   "hlasy": 32173,
+   "hlasy_proc": 9.38,
+   "kandidatu": 31,
+   "zastupitele": 3,
+   "zastupitele_proc": 9.68,
+   "nazev": "Piráti a nezávislí s podporou Zelených",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1240,
+     "hlasy_proc": 3.85,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Hukal",
+     "titul_za": "DiS., Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1138,
+     "hlasy_proc": 3.53,
+     "titul_pred": "",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Verner",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1110,
+     "hlasy_proc": 3.45,
+     "titul_pred": "Mgr.",
+     "jmeno": "Aneta",
+     "prijmeni": "Krátká",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 340,
+   "hlasy": 22706,
+   "hlasy_proc": 6.62,
+   "kandidatu": 31,
+   "zastupitele": 2,
+   "zastupitele_proc": 6.45,
+   "nazev": "SRDCEM PRO PRAHU 14 - STAROSTOVÉ A NEZÁVISLÍ, KDU-ČSL",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1023,
+     "hlasy_proc": 4.5,
+     "titul_pred": "PhDr.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Jelenová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 852,
+     "hlasy_proc": 3.75,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Liška",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 389,
+   "hlasy": 70153,
+   "hlasy_proc": 20.46,
+   "kandidatu": 31,
+   "zastupitele": 7,
+   "zastupitele_proc": 22.58,
+   "nazev": "ODS SPOLU S NEZÁVISLÝMI KANDIDÁTY",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2523,
+     "hlasy_proc": 3.59,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Zajac",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2329,
+     "hlasy_proc": 3.31,
+     "titul_pred": "MUDr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Pavlíčková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 2346,
+     "hlasy_proc": 3.34,
+     "titul_pred": "",
+     "jmeno": "Josef",
+     "prijmeni": "Kutmon",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2303,
+     "hlasy_proc": 3.28,
+     "titul_pred": "Bc.",
+     "jmeno": "Žofie",
+     "prijmeni": "Zemanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 2329,
+     "hlasy_proc": 3.31,
+     "titul_pred": "",
+     "jmeno": "Jaromír",
+     "prijmeni": "Krátký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 2324,
+     "hlasy_proc": 3.31,
+     "titul_pred": "JUDr.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Jemelka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2323,
+     "hlasy_proc": 3.31,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jozef",
+     "prijmeni": "Baláž",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1544,
+   "hlasy": 6984,
+   "hlasy_proc": 2.03,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ČSSD + PŘÍSAHA – občanské hnutí Roberta Šlachty s podporou hnutí Zdraví Sport Prosperita a SNK Evropští demokraté"
+  },
+  {
+   "por": 6,
+   "vstrana": 47,
+   "hlasy": 6473,
+   "hlasy_proc": 1.88,
+   "kandidatu": 31,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Komunistická strana Čech a Moravy"
+  },
+  {
+   "por": 7,
+   "vstrana": 1210,
+   "hlasy": 34062,
+   "hlasy_proc": 9.93,
+   "kandidatu": 31,
+   "zastupitele": 3,
+   "zastupitele_proc": 9.68,
+   "nazev": "NAŠE Čtrnáctka",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1323,
+     "hlasy_proc": 3.88,
+     "titul_pred": "",
+     "jmeno": "Soňa",
+     "prijmeni": "Tománková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1192,
+     "hlasy_proc": 3.49,
+     "titul_pred": "",
+     "jmeno": "Vladimír",
+     "prijmeni": "Diviš",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1171,
+     "hlasy_proc": 3.43,
+     "titul_pred": "PharmDr.",
+     "jmeno": "Margita",
+     "prijmeni": "Klusáková",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 8,
+   "vstrana": 480,
+   "hlasy": 53056,
+   "hlasy_proc": 15.47,
+   "kandidatu": 31,
+   "zastupitele": 5,
+   "zastupitele_proc": 16.13,
+   "nazev": "Sousedé pro Prahu 14",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2043,
+     "hlasy_proc": 3.85,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radek",
+     "prijmeni": "Vondra",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1943,
+     "hlasy_proc": 3.66,
+     "titul_pred": "Mgr.",
+     "jmeno": "Irena",
+     "prijmeni": "Kolmanová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1771,
+     "hlasy_proc": 3.33,
+     "titul_pred": "",
+     "jmeno": "Romana",
+     "prijmeni": "Kubásková Špádová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1778,
+     "hlasy_proc": 3.35,
+     "titul_pred": "MUDr.",
+     "jmeno": "Lubomír",
+     "prijmeni": "Kulíšek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1746,
+     "hlasy_proc": 3.29,
+     "titul_pred": "",
+     "jmeno": "Klára",
+     "prijmeni": "Holá",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 9,
+   "vstrana": 1491,
+   "hlasy": 22877,
+   "hlasy_proc": 6.67,
+   "kandidatu": 31,
+   "zastupitele": 2,
+   "zastupitele_proc": 6.45,
+   "nazev": "SPD a Trikolora s podporou nezávislých kandidátů pro Prahu 14",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 807,
+     "hlasy_proc": 3.52,
+     "titul_pred": "Mgr.",
+     "jmeno": "Marcela",
+     "prijmeni": "Vydrová",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 790,
+     "hlasy_proc": 3.45,
+     "titul_pred": "RNDr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Vyhnalík",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 56580,
+   "hlasy_proc": 16.5,
+   "kandidatu": 31,
+   "zastupitele": 5,
+   "zastupitele_proc": 16.13,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1923,
+     "hlasy_proc": 3.39,
+     "titul_pred": "Mgr.",
+     "jmeno": "Mária",
+     "prijmeni": "Ševčíková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1908,
+     "hlasy_proc": 3.37,
+     "titul_pred": "Ing.",
+     "jmeno": "Karel",
+     "prijmeni": "Med",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1904,
+     "hlasy_proc": 3.36,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Adámek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1864,
+     "hlasy_proc": 3.29,
+     "titul_pred": "",
+     "jmeno": "Aneta",
+     "prijmeni": "Hejrovská",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1889,
+     "hlasy_proc": 3.33,
+     "titul_pred": "Bc.",
+     "jmeno": "Miroslav",
+     "prijmeni": "Šubrt",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T01:40:00"
+}

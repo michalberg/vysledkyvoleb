@@ -1,0 +1,84 @@
+{
+ "kod": "538949",
+ "nazev": "Praha 21",
+ "typ": "MCMO",
+ "voleno": 17,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 8,
+  "okrsky_zprac": 4,
+  "okrsky_zprac_proc": 50.0,
+  "zapsani_volici": 3604,
+  "vydane_obalky": 1732,
+  "ucast_proc": 48.06,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 1731,
+  "platne_listky": null,
+  "platne_hlasy": 27210
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1498,
+   "hlasy": 1041,
+   "hlasy_proc": 3.83,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká strana sociálně demokratická + Zdraví Sport Prosperita + nezávislí kandidáti"
+  },
+  {
+   "por": 2,
+   "vstrana": 1602,
+   "hlasy": 1390,
+   "hlasy_proc": 5.11,
+   "kandidatu": 16,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Otevřený Újezd, KDU-ČSL, Soukromníci a Zelení"
+  },
+  {
+   "por": 3,
+   "vstrana": 768,
+   "hlasy": 5033,
+   "hlasy_proc": 18.5,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 4,
+   "vstrana": 687,
+   "hlasy": 14991,
+   "hlasy_proc": 55.09,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD"
+  },
+  {
+   "por": 5,
+   "vstrana": 1483,
+   "hlasy": 3536,
+   "hlasy_proc": 13.0,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ÚJEZD ŽIJE"
+  },
+  {
+   "por": 6,
+   "vstrana": 1550,
+   "hlasy": 1219,
+   "hlasy_proc": 4.48,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Patrioti - Trikolora - Přísaha"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

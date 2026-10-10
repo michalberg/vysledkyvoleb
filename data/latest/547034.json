@@ -1,0 +1,124 @@
+{
+ "kod": "547034",
+ "nazev": "Praha 11",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:32",
+ "ucast": {
+  "okrsky_celkem": 62,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1697,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Motoristé sobě a Svobodní"
+  },
+  {
+   "por": 2,
+   "vstrana": 659,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "TOP 09 a Starostové a nezávislí"
+  },
+  {
+   "por": 3,
+   "vstrana": 1297,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "GEN"
+  },
+  {
+   "por": 4,
+   "vstrana": 1373,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 11 SOBĚ"
+  },
+  {
+   "por": 5,
+   "vstrana": 389,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Spolu pro Prahu 11"
+  },
+  {
+   "por": 6,
+   "vstrana": 720,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 7,
+   "vstrana": 1830,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Výzva pro Prahu 11"
+  },
+  {
+   "por": 8,
+   "vstrana": 195,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí pro Prahu 11"
+  },
+  {
+   "por": 9,
+   "vstrana": 1491,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD pro Prahu 11 s podporou Trikolora, PRO, Přísahy a nezávislých kandidátů"
+  },
+  {
+   "por": 10,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

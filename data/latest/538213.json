@@ -1,0 +1,104 @@
+{
+ "kod": "538213",
+ "nazev": "Praha 20",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:40",
+ "ucast": {
+  "okrsky_celkem": 12,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 401,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí Občanů Počernic a NEZÁVISLÍ"
+  },
+  {
+   "por": 2,
+   "vstrana": 166,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 3,
+   "vstrana": 1695,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRO Počernice – Naše Česko"
+  },
+  {
+   "por": 4,
+   "vstrana": 449,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Místní pro Horní Počernice"
+  },
+  {
+   "por": 5,
+   "vstrana": 1716,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Hnutí Šance pro Počernice"
+  },
+  {
+   "por": 6,
+   "vstrana": 566,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Počernice JINAK"
+  },
+  {
+   "por": 7,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 8,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU (ODS a TOP09 s podporou nezávislých kandidátů Horních Počernic)"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

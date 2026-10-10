@@ -1,0 +1,104 @@
+{
+ "kod": "538931",
+ "nazev": "Praha 22",
+ "typ": "MCMO",
+ "voleno": 25,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:35:00",
+ "ucast": {
+  "okrsky_celkem": 9,
+  "okrsky_zprac": 1,
+  "okrsky_zprac_proc": 11.11,
+  "zapsani_volici": 478,
+  "vydane_obalky": 275,
+  "ucast_proc": 57.53,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 275,
+  "platne_listky": null,
+  "platne_hlasy": 6430
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 1145,
+   "hlasy_proc": 17.81,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 477,
+   "hlasy": 1616,
+   "hlasy_proc": 25.13,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "DvacetDvojka + SVOBODNÍ"
+  },
+  {
+   "por": 3,
+   "vstrana": 210,
+   "hlasy": 741,
+   "hlasy_proc": 11.52,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Prahu 22"
+  },
+  {
+   "por": 4,
+   "vstrana": 166,
+   "hlasy": 790,
+   "hlasy_proc": 12.29,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+  },
+  {
+   "por": 5,
+   "vstrana": 1331,
+   "hlasy": 677,
+   "hlasy_proc": 10.53,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Praha 22. Naše město."
+  },
+  {
+   "por": 6,
+   "vstrana": 1542,
+   "hlasy": 164,
+   "hlasy_proc": 2.55,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Šance 22 s podporou hnutí HLAS"
+  },
+  {
+   "por": 7,
+   "vstrana": 524,
+   "hlasy": 1053,
+   "hlasy_proc": 16.38,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Patrioti PRO PRAHU 22"
+  },
+  {
+   "por": 8,
+   "vstrana": 90,
+   "hlasy": 244,
+   "hlasy_proc": 3.79,
+   "kandidatu": 25,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská kandidátka 22"
+  }
+ ],
+ "stazeno": "2022-09-24T19:35:00"
+}

@@ -1,0 +1,74 @@
+{
+ "kod": "538949",
+ "nazev": "Praha 21",
+ "typ": "MCMO",
+ "voleno": 17,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:40",
+ "ucast": {
+  "okrsky_celkem": 8,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 470,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ – ÚJEZD ŽIJE"
+  },
+  {
+   "por": 3,
+   "vstrana": 90,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ÚJEZD21"
+  },
+  {
+   "por": 4,
+   "vstrana": 1602,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Otevřený Újezd – pro dobrý život bez planých slibů"
+  },
+  {
+   "por": 5,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 17,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS a TOP 09 - SPOLEČNĚ PRO ÚJEZD"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

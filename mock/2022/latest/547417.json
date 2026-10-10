@@ -1,0 +1,325 @@
+{
+ "kod": "547417",
+ "nazev": "Praha 18",
+ "typ": "MCMO",
+ "voleno": 23,
+ "pocet_obvodu": 1,
+ "je_spocteno": true,
+ "generovano": "2022-09-25T00:35:00",
+ "ucast": {
+  "okrsky_celkem": 12,
+  "okrsky_zprac": 12,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 13323,
+  "vydane_obalky": 5708,
+  "ucast_proc": 42.84,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 5705,
+  "platne_listky": null,
+  "platne_hlasy": 120354
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1537,
+   "hlasy": 8176,
+   "hlasy_proc": 6.79,
+   "kandidatu": 23,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.35,
+   "nazev": "PŘÍSAHA – občanské hnutí Roberta Šlachty a Náš Domov Letňany s podporou Patriotů České republiky",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 454,
+     "hlasy_proc": 5.55,
+     "titul_pred": "Mgr.",
+     "jmeno": "David",
+     "prijmeni": "Červenka",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 2,
+   "vstrana": 541,
+   "hlasy": 12017,
+   "hlasy_proc": 9.98,
+   "kandidatu": 23,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.7,
+   "nazev": "Piráti a nezávislí občané",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 613,
+     "hlasy_proc": 5.1,
+     "titul_pred": "",
+     "jmeno": "Eduard",
+     "prijmeni": "Horák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 604,
+     "hlasy_proc": 5.02,
+     "titul_pred": "Mgr.",
+     "jmeno": "Lenka",
+     "prijmeni": "Příplatová",
+     "titul_za": "Ph.D."
+    }
+   ]
+  },
+  {
+   "por": 3,
+   "vstrana": 53,
+   "hlasy": 20014,
+   "hlasy_proc": 16.62,
+   "kandidatu": 23,
+   "zastupitele": 4,
+   "zastupitele_proc": 17.39,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1001,
+     "hlasy_proc": 5.0,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Lněnička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1003,
+     "hlasy_proc": 5.01,
+     "titul_pred": "Mgr.",
+     "jmeno": "Irena",
+     "prijmeni": "Šípová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 926,
+     "hlasy_proc": 4.62,
+     "titul_pred": "Ing.",
+     "jmeno": "Milan",
+     "prijmeni": "Bušek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 904,
+     "hlasy_proc": 4.51,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Halama",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 4,
+   "vstrana": 1583,
+   "hlasy": 29811,
+   "hlasy_proc": 24.76,
+   "kandidatu": 23,
+   "zastupitele": 7,
+   "zastupitele_proc": 30.43,
+   "nazev": "Zdravé Letňany",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1434,
+     "hlasy_proc": 4.81,
+     "titul_pred": "PhDr.",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Walter",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1384,
+     "hlasy_proc": 4.64,
+     "titul_pred": "Ing.",
+     "jmeno": "Martin",
+     "prijmeni": "Krejčí",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1417,
+     "hlasy_proc": 4.75,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radek",
+     "prijmeni": "Čermák",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1357,
+     "hlasy_proc": 4.55,
+     "titul_pred": "",
+     "jmeno": "Olaf",
+     "prijmeni": "Deutsch",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1398,
+     "hlasy_proc": 4.68,
+     "titul_pred": "Ing.",
+     "jmeno": "Ondřej",
+     "prijmeni": "Miffek",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1375,
+     "hlasy_proc": 4.61,
+     "titul_pred": "Ing.",
+     "jmeno": "Tomáš",
+     "prijmeni": "Raška",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1313,
+     "hlasy_proc": 4.4,
+     "titul_pred": "Mgr.",
+     "jmeno": "Dušan",
+     "prijmeni": "Mourek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 5,
+   "vstrana": 1487,
+   "hlasy": 7572,
+   "hlasy_proc": 6.29,
+   "kandidatu": 23,
+   "zastupitele": 1,
+   "zastupitele_proc": 4.35,
+   "nazev": "Letňany pro život - Svoboda a přímá demokracie (SPD) a Trikolora",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 374,
+     "hlasy_proc": 4.93,
+     "titul_pred": "",
+     "jmeno": "Oldřich",
+     "prijmeni": "Miffek",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 6,
+   "vstrana": 721,
+   "hlasy": 10189,
+   "hlasy_proc": 8.46,
+   "kandidatu": 23,
+   "zastupitele": 2,
+   "zastupitele_proc": 8.7,
+   "nazev": "TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 666,
+     "hlasy_proc": 6.53,
+     "titul_pred": "",
+     "jmeno": "Iveta",
+     "prijmeni": "Lojková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 576,
+     "hlasy_proc": 5.65,
+     "titul_pred": "Mgr.",
+     "jmeno": "Ivan",
+     "prijmeni": "Kabický",
+     "titul_za": ""
+    }
+   ]
+  },
+  {
+   "por": 7,
+   "vstrana": 1399,
+   "hlasy": 4092,
+   "hlasy_proc": 3.39,
+   "kandidatu": 23,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "KRÁSNÉ LETŇANY"
+  },
+  {
+   "por": 8,
+   "vstrana": 768,
+   "hlasy": 28483,
+   "hlasy_proc": 23.66,
+   "kandidatu": 23,
+   "zastupitele": 6,
+   "zastupitele_proc": 26.09,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1528,
+     "hlasy_proc": 5.36,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Kučera",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1306,
+     "hlasy_proc": 4.58,
+     "titul_pred": "",
+     "jmeno": "Stanislav",
+     "prijmeni": "Nekolný",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1302,
+     "hlasy_proc": 4.57,
+     "titul_pred": "",
+     "jmeno": "Helena",
+     "prijmeni": "Lukešová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1295,
+     "hlasy_proc": 4.54,
+     "titul_pred": "",
+     "jmeno": "Karel",
+     "prijmeni": "Slavata",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1269,
+     "hlasy_proc": 4.45,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jan",
+     "prijmeni": "Krátký",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1248,
+     "hlasy_proc": 4.38,
+     "titul_pred": "",
+     "jmeno": "Tomáš",
+     "prijmeni": "Hudec",
+     "titul_za": ""
+    }
+   ]
+  }
+ ],
+ "stazeno": "2022-09-25T00:35:00"
+}

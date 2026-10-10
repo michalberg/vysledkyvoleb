@@ -1,0 +1,94 @@
+{
+ "kod": "547107",
+ "nazev": "Praha 12",
+ "typ": "MCMO",
+ "voleno": 35,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2022-09-24T19:40:00",
+ "ucast": {
+  "okrsky_celkem": 50,
+  "okrsky_zprac": 11,
+  "okrsky_zprac_proc": 22.0,
+  "zapsani_volici": 8853,
+  "vydane_obalky": 3535,
+  "ucast_proc": 39.93,
+  "volicske_prukazy": null,
+  "odevzdane_obalky": 3535,
+  "platne_listky": null,
+  "platne_hlasy": 112966
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 768,
+   "hlasy": 29200,
+   "hlasy_proc": 25.85,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 2,
+   "vstrana": 541,
+   "hlasy": 24026,
+   "hlasy_proc": 21.27,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti Praha 12"
+  },
+  {
+   "por": 3,
+   "vstrana": 387,
+   "hlasy": 5829,
+   "hlasy_proc": 5.16,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "OBČANÉ DVANÁCTKY, sdružení nezávislých kandidátů a KSČM"
+  },
+  {
+   "por": 4,
+   "vstrana": 1245,
+   "hlasy": 3913,
+   "hlasy_proc": 3.46,
+   "kandidatu": 33,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PŘÍSAHA – občanské hnutí Roberta Šlachty"
+  },
+  {
+   "por": 5,
+   "vstrana": 1620,
+   "hlasy": 11670,
+   "hlasy_proc": 10.33,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ZMĚNA PRO PRAHU 12 – KOALICE STRAN a NK: hnutí ZMĚNA PRO PRAHU 12, KDU-ČSL,hnutí STAN, KONZER. STRANA-VE VAŠICH SLUŽBÁCH"
+  },
+  {
+   "por": 6,
+   "vstrana": 687,
+   "hlasy": 25147,
+   "hlasy_proc": 22.26,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ODS a TOP 09 společně pro Prahu 12"
+  },
+  {
+   "por": 7,
+   "vstrana": 1373,
+   "hlasy": 13181,
+   "hlasy_proc": 11.67,
+   "kandidatu": 35,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "PRAHA 12 SOBĚ"
+  }
+ ],
+ "stazeno": "2022-09-24T19:40:00"
+}

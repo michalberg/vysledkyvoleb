@@ -1,0 +1,94 @@
+{
+ "kod": "500119",
+ "nazev": "Praha 4",
+ "typ": "MCMO",
+ "voleno": 45,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:32",
+ "ucast": {
+  "okrsky_celkem": 132,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1843,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 13,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Spojená levice pro Prahu 4"
+  },
+  {
+   "por": 2,
+   "vstrana": 720,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Česká pirátská strana"
+  },
+  {
+   "por": 3,
+   "vstrana": 1697,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Motoristé sobě a Svobodní"
+  },
+  {
+   "por": 4,
+   "vstrana": 1305,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPD pro Prahu 4 s podporou PRO, Sociálních demokratů, Trikolory a nezávislých kandidátů"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  },
+  {
+   "por": 6,
+   "vstrana": 687,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLU pro PRAHU 4"
+  },
+  {
+   "por": 7,
+   "vstrana": 1814,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 45,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "SPOLEČNĚ PRO ZMĚNU – KOALICE STAROSTOVÉ, PRAHA SOBĚ, LIDOVCI A ZELENÍ"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}

@@ -1,0 +1,74 @@
+{
+ "kod": "539601",
+ "nazev": "Praha 16",
+ "typ": "MCMO",
+ "voleno": 15,
+ "pocet_obvodu": 1,
+ "je_spocteno": false,
+ "generovano": "2026-10-08T16:40:32",
+ "ucast": {
+  "okrsky_celkem": 8,
+  "okrsky_zprac": 0,
+  "okrsky_zprac_proc": 0.0,
+  "zapsani_volici": 0,
+  "vydane_obalky": 0,
+  "ucast_proc": 0.0,
+  "volicske_prukazy": 0,
+  "odevzdane_obalky": 0,
+  "platne_listky": 0,
+  "platne_hlasy": 0
+ },
+ "strany": [
+  {
+   "por": 1,
+   "vstrana": 1822,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Společně pro Radotín"
+  },
+  {
+   "por": 2,
+   "vstrana": 389,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Občanská demokratická strana Radotín"
+  },
+  {
+   "por": 3,
+   "vstrana": 1806,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "GEN"
+  },
+  {
+   "por": 4,
+   "vstrana": 541,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 15,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "Piráti a nezávislí kandidáti"
+  },
+  {
+   "por": 5,
+   "vstrana": 768,
+   "hlasy": 0,
+   "hlasy_proc": 0.0,
+   "kandidatu": 14,
+   "zastupitele": 0,
+   "zastupitele_proc": 0.0,
+   "nazev": "ANO 2011"
+  }
+ ],
+ "stazeno": "2026-10-10T15:10:34+02:00"
+}
