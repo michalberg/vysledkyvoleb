@@ -4,46 +4,167 @@
  "typ": "OBEC",
  "voleno": 21,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T17:46:02",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T18:04:03",
  "ucast": {
   "okrsky_celkem": 10,
-  "okrsky_zprac": 9,
-  "okrsky_zprac_proc": 90.0,
-  "zapsani_volici": 5906,
-  "vydane_obalky": 2570,
-  "ucast_proc": 43.52,
+  "okrsky_zprac": 10,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 6603,
+  "vydane_obalky": 2901,
+  "ucast_proc": 43.93,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2565,
-  "platne_listky": 2531,
-  "platne_hlasy": 49103
+  "odevzdane_obalky": 2896,
+  "platne_listky": 2857,
+  "platne_hlasy": 55482
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 470,
-   "hlasy": 6067,
-   "hlasy_proc": 12.36,
+   "hlasy": 6863,
+   "hlasy_proc": 12.37,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTOVÉ A NEZÁVISLÍ LOVOSICE"
+   "zastupitele": 3,
+   "zastupitele_proc": 14.29,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ LOVOSICE",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 599,
+     "hlasy_proc": 8.72,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Motl",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 597,
+     "hlasy_proc": 8.69,
+     "titul_pred": "Mgr.",
+     "jmeno": "Andrea",
+     "prijmeni": "Červenková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 11,
+     "hlasy": 420,
+     "hlasy_proc": 6.11,
+     "titul_pred": "",
+     "jmeno": "Ondřej",
+     "prijmeni": "Pšenička",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 90,
-   "hlasy": 22457,
-   "hlasy_proc": 45.73,
+   "hlasy": 24811,
+   "hlasy_proc": 44.72,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "PRO Lovosice"
+   "zastupitele": 10,
+   "zastupitele_proc": 47.62,
+   "nazev": "PRO Lovosice",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1451,
+     "hlasy_proc": 5.84,
+     "titul_pred": "Ing.",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Krejčí",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1361,
+     "hlasy_proc": 5.48,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Hopp",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1262,
+     "hlasy_proc": 5.08,
+     "titul_pred": "Mgr.",
+     "jmeno": "Jana",
+     "prijmeni": "Nováková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1310,
+     "hlasy_proc": 5.27,
+     "titul_pred": "Ing.",
+     "jmeno": "Jiří",
+     "prijmeni": "Cimr",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1278,
+     "hlasy_proc": 5.15,
+     "titul_pred": "Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Sýkora",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1262,
+     "hlasy_proc": 5.08,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Heřmanovský",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 1236,
+     "hlasy_proc": 4.98,
+     "titul_pred": "Ing.",
+     "jmeno": "Jana",
+     "prijmeni": "Kovaříková",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 1216,
+     "hlasy_proc": 4.9,
+     "titul_pred": "Bc.",
+     "jmeno": "Lukáš William",
+     "prijmeni": "Šmíd",
+     "titul_za": "MBA"
+    },
+    {
+     "poradi": 9,
+     "hlasy": 1182,
+     "hlasy_proc": 4.76,
+     "titul_pred": "",
+     "jmeno": "Jiří",
+     "prijmeni": "Gramblička",
+     "titul_za": ""
+    },
+    {
+     "poradi": 10,
+     "hlasy": 1196,
+     "hlasy_proc": 4.82,
+     "titul_pred": "Bc.",
+     "jmeno": "Barbara",
+     "prijmeni": "Johnová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1114,
-   "hlasy": 1201,
-   "hlasy_proc": 2.45,
+   "hlasy": 1431,
+   "hlasy_proc": 2.58,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,28 +173,104 @@
   {
    "por": 4,
    "vstrana": 768,
-   "hlasy": 15321,
-   "hlasy_proc": 31.2,
+   "hlasy": 17600,
+   "hlasy_proc": 31.72,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 7,
+   "zastupitele_proc": 33.33,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 941,
+     "hlasy_proc": 5.34,
+     "titul_pred": "",
+     "jmeno": "Vladimír",
+     "prijmeni": "Šuma",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 916,
+     "hlasy_proc": 5.2,
+     "titul_pred": "Ing.",
+     "jmeno": "Jan",
+     "prijmeni": "Landa",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 961,
+     "hlasy_proc": 5.46,
+     "titul_pred": "MUDr.",
+     "jmeno": "Jiří",
+     "prijmeni": "Hernych",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 863,
+     "hlasy_proc": 4.9,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zuzana",
+     "prijmeni": "Drobná",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 851,
+     "hlasy_proc": 4.83,
+     "titul_pred": "",
+     "jmeno": "Vladimír",
+     "prijmeni": "Hieke",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 848,
+     "hlasy_proc": 4.81,
+     "titul_pred": "",
+     "jmeno": "Michal",
+     "prijmeni": "Moučka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 872,
+     "hlasy_proc": 4.95,
+     "titul_pred": "",
+     "jmeno": "Přemysl",
+     "prijmeni": "Živný",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 353,
-   "hlasy": 3023,
-   "hlasy_proc": 6.16,
+   "hlasy": 3501,
+   "hlasy_proc": 6.31,
    "kandidatu": 21,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Lovosičtí Demokraté"
+   "zastupitele": 1,
+   "zastupitele_proc": 4.76,
+   "nazev": "Lovosičtí Demokraté",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 249,
+     "hlasy_proc": 7.11,
+     "titul_pred": "Mgr.",
+     "jmeno": "Patrik",
+     "prijmeni": "Zeman",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 47,
-   "hlasy": 950,
-   "hlasy_proc": 1.93,
+   "hlasy": 1178,
+   "hlasy_proc": 2.12,
    "kandidatu": 17,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,13 +279,13 @@
   {
    "por": 7,
    "vstrana": 5,
-   "hlasy": 84,
-   "hlasy_proc": 0.17,
+   "hlasy": 98,
+   "hlasy_proc": 0.18,
    "kandidatu": 1,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Strana zelených"
   }
  ],
- "stazeno": "2026-10-10T17:45:42+02:00"
+ "stazeno": "2026-10-10T18:05:28+02:00"
 }

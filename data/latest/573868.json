@@ -5,25 +5,25 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T18:01:02",
+ "generovano": "2026-10-10T18:06:02",
  "ucast": {
   "okrsky_celkem": 25,
-  "okrsky_zprac": 21,
-  "okrsky_zprac_proc": 84.0,
-  "zapsani_volici": 12400,
-  "vydane_obalky": 5659,
-  "ucast_proc": 45.64,
+  "okrsky_zprac": 24,
+  "okrsky_zprac_proc": 96.0,
+  "zapsani_volici": 14229,
+  "vydane_obalky": 6573,
+  "ucast_proc": 46.19,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 5657,
-  "platne_listky": 5605,
-  "platne_hlasy": 131237
+  "odevzdane_obalky": 6571,
+  "platne_listky": 6508,
+  "platne_hlasy": 152497
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1454,
-   "hlasy": 16591,
-   "hlasy_proc": 12.64,
+   "hlasy": 18302,
+   "hlasy_proc": 12.0,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 13471,
-   "hlasy_proc": 10.26,
+   "hlasy": 16214,
+   "hlasy_proc": 10.63,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1264,
-   "hlasy": 15575,
-   "hlasy_proc": 11.87,
+   "hlasy": 17915,
+   "hlasy_proc": 11.75,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1804,
-   "hlasy": 5200,
-   "hlasy_proc": 3.96,
+   "hlasy": 5951,
+   "hlasy_proc": 3.9,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1523,
-   "hlasy": 33490,
-   "hlasy_proc": 25.52,
+   "hlasy": 38702,
+   "hlasy_proc": 25.38,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 371,
-   "hlasy": 46910,
-   "hlasy_proc": 35.74,
+   "hlasy": 55413,
+   "hlasy_proc": 36.34,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "JAN BIRKE PRO NÁCHOD"
   }
  ],
- "stazeno": "2026-10-10T18:01:19+02:00"
+ "stazeno": "2026-10-10T18:05:28+02:00"
 }

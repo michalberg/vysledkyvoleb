@@ -5,25 +5,25 @@
  "voleno": 30,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T17:55:02",
+ "generovano": "2026-10-10T18:05:02",
  "ucast": {
   "okrsky_celkem": 31,
-  "okrsky_zprac": 11,
-  "okrsky_zprac_proc": 35.48,
-  "zapsani_volici": 10197,
-  "vydane_obalky": 4165,
-  "ucast_proc": 40.85,
+  "okrsky_zprac": 16,
+  "okrsky_zprac_proc": 51.61,
+  "zapsani_volici": 17105,
+  "vydane_obalky": 5984,
+  "ucast_proc": 34.98,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 4164,
-  "platne_listky": 4131,
-  "platne_hlasy": 113592
+  "odevzdane_obalky": 5982,
+  "platne_listky": 5930,
+  "platne_hlasy": 162702
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 30076,
-   "hlasy_proc": 26.48,
+   "hlasy": 43948,
+   "hlasy_proc": 27.01,
    "kandidatu": 30,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1114,
-   "hlasy": 7534,
-   "hlasy_proc": 6.63,
+   "hlasy": 10808,
+   "hlasy_proc": 6.64,
    "kandidatu": 30,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1537,
-   "hlasy": 3493,
-   "hlasy_proc": 3.08,
+   "hlasy": 4997,
+   "hlasy_proc": 3.07,
    "kandidatu": 30,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 541,
-   "hlasy": 11727,
-   "hlasy_proc": 10.32,
+   "hlasy": 16947,
+   "hlasy_proc": 10.42,
    "kandidatu": 30,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,7 +62,7 @@
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 16327,
+   "hlasy": 23375,
    "hlasy_proc": 14.37,
    "kandidatu": 30,
    "zastupitele": 0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 479,
-   "hlasy": 12867,
-   "hlasy_proc": 11.33,
+   "hlasy": 17639,
+   "hlasy_proc": 10.84,
    "kandidatu": 30,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1892,
-   "hlasy": 6807,
-   "hlasy_proc": 5.99,
+   "hlasy": 9988,
+   "hlasy_proc": 6.14,
    "kandidatu": 30,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 703,
-   "hlasy": 24761,
-   "hlasy_proc": 21.8,
+   "hlasy": 35000,
+   "hlasy_proc": 21.51,
    "kandidatu": 30,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Starostové pro Liberecký kraj"
   }
  ],
- "stazeno": "2026-10-10T17:57:16+02:00"
+ "stazeno": "2026-10-10T18:05:28+02:00"
 }
