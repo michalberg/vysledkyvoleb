@@ -5,25 +5,25 @@
  "voleno": 31,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T18:28:02",
+ "generovano": "2026-10-10T19:22:02",
  "ucast": {
   "okrsky_celkem": 23,
-  "okrsky_zprac": 1,
-  "okrsky_zprac_proc": 4.35,
-  "zapsani_volici": 878,
-  "vydane_obalky": 406,
-  "ucast_proc": 46.24,
+  "okrsky_zprac": 2,
+  "okrsky_zprac_proc": 8.7,
+  "zapsani_volici": 1933,
+  "vydane_obalky": 889,
+  "ucast_proc": 45.99,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 406,
-  "platne_listky": 401,
-  "platne_hlasy": 12163
+  "odevzdane_obalky": 889,
+  "platne_listky": 876,
+  "platne_hlasy": 26490
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1804,
-   "hlasy": 447,
-   "hlasy_proc": 3.68,
+   "hlasy": 1201,
+   "hlasy_proc": 4.53,
    "kandidatu": 31,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 90,
-   "hlasy": 6200,
-   "hlasy_proc": 50.97,
+   "hlasy": 12972,
+   "hlasy_proc": 48.97,
    "kandidatu": 31,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1714,
-   "hlasy": 351,
-   "hlasy_proc": 2.89,
+   "hlasy": 535,
+   "hlasy_proc": 2.02,
    "kandidatu": 31,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 166,
-   "hlasy": 1285,
-   "hlasy_proc": 10.56,
+   "hlasy": 3132,
+   "hlasy_proc": 11.82,
    "kandidatu": 31,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,7 +62,7 @@
   {
    "por": 5,
    "vstrana": 55,
-   "hlasy": 0,
+   "hlasy": 1,
    "hlasy_proc": 0.0,
    "kandidatu": 1,
    "zastupitele": 0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 47,
-   "hlasy": 1,
-   "hlasy_proc": 0.01,
+   "hlasy": 36,
+   "hlasy_proc": 0.14,
    "kandidatu": 10,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 687,
-   "hlasy": 1433,
-   "hlasy_proc": 11.78,
+   "hlasy": 3467,
+   "hlasy_proc": 13.09,
    "kandidatu": 31,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 768,
-   "hlasy": 1244,
-   "hlasy_proc": 10.23,
+   "hlasy": 2849,
+   "hlasy_proc": 10.76,
    "kandidatu": 31,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1922,
-   "hlasy": 606,
-   "hlasy_proc": 4.98,
+   "hlasy": 1603,
+   "hlasy_proc": 6.05,
    "kandidatu": 31,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 1713,
-   "hlasy": 2,
+   "hlasy": 5,
    "hlasy_proc": 0.02,
    "kandidatu": 1,
    "zastupitele": 0,
@@ -122,13 +122,13 @@
   {
    "por": 11,
    "vstrana": 88,
-   "hlasy": 594,
-   "hlasy_proc": 4.88,
+   "hlasy": 689,
+   "hlasy_proc": 2.6,
    "kandidatu": 31,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "NEZÁVISLÍ"
   }
  ],
- "stazeno": "2026-10-10T18:31:12+02:00"
+ "stazeno": "2026-10-10T19:22:19+02:00"
 }

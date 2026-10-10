@@ -5,25 +5,25 @@
  "voleno": 25,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-08T16:40:40",
+ "generovano": "2026-10-10T19:23:02",
  "ucast": {
   "okrsky_celkem": 12,
-  "okrsky_zprac": 0,
-  "okrsky_zprac_proc": 0.0,
-  "zapsani_volici": 0,
-  "vydane_obalky": 0,
-  "ucast_proc": 0.0,
+  "okrsky_zprac": 1,
+  "okrsky_zprac_proc": 8.33,
+  "zapsani_volici": 1299,
+  "vydane_obalky": 417,
+  "ucast_proc": 32.1,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 0,
-  "platne_listky": 0,
-  "platne_hlasy": 0
+  "odevzdane_obalky": 417,
+  "platne_listky": 391,
+  "platne_hlasy": 9340
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 401,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 2542,
+   "hlasy_proc": 27.22,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 166,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 875,
+   "hlasy_proc": 9.37,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1695,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 670,
+   "hlasy_proc": 7.17,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 449,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 568,
+   "hlasy_proc": 6.08,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1716,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 874,
+   "hlasy_proc": 9.36,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 566,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 488,
+   "hlasy_proc": 5.22,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 768,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 1527,
+   "hlasy_proc": 16.35,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 687,
-   "hlasy": 0,
-   "hlasy_proc": 0.0,
+   "hlasy": 1796,
+   "hlasy_proc": 19.23,
    "kandidatu": 25,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPOLU (ODS a TOP09 s podporou nezávislých kandidátů Horních Počernic)"
   }
  ],
- "stazeno": "2026-10-10T15:10:34+02:00"
+ "stazeno": "2026-10-10T19:22:19+02:00"
 }
