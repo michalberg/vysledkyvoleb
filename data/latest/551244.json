@@ -5,25 +5,25 @@
  "voleno": 23,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:23:01",
+ "generovano": "2026-10-10T21:29:01",
  "ucast": {
   "okrsky_celkem": 14,
-  "okrsky_zprac": 8,
-  "okrsky_zprac_proc": 57.14,
-  "zapsani_volici": 6140,
-  "vydane_obalky": 3083,
-  "ucast_proc": 50.21,
+  "okrsky_zprac": 9,
+  "okrsky_zprac_proc": 64.29,
+  "zapsani_volici": 6896,
+  "vydane_obalky": 3529,
+  "ucast_proc": 51.17,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 3079,
-  "platne_listky": 3003,
-  "platne_hlasy": 65219
+  "odevzdane_obalky": 3521,
+  "platne_listky": 3426,
+  "platne_hlasy": 74733
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1684,
-   "hlasy": 20357,
-   "hlasy_proc": 31.21,
+   "hlasy": 23096,
+   "hlasy_proc": 30.9,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 523,
-   "hlasy": 4763,
-   "hlasy_proc": 7.3,
+   "hlasy": 5531,
+   "hlasy_proc": 7.4,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 768,
-   "hlasy": 7667,
-   "hlasy_proc": 11.76,
+   "hlasy": 8644,
+   "hlasy_proc": 11.57,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 355,
-   "hlasy": 9638,
-   "hlasy_proc": 14.78,
+   "hlasy": 11433,
+   "hlasy_proc": 15.3,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1305,
-   "hlasy": 2389,
-   "hlasy_proc": 3.66,
+   "hlasy": 2530,
+   "hlasy_proc": 3.39,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1885,
-   "hlasy": 2343,
-   "hlasy_proc": 3.59,
+   "hlasy": 2609,
+   "hlasy_proc": 3.49,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 166,
-   "hlasy": 4207,
-   "hlasy_proc": 6.45,
+   "hlasy": 4935,
+   "hlasy_proc": 6.6,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1832,
-   "hlasy": 9,
-   "hlasy_proc": 0.01,
+   "hlasy": 13,
+   "hlasy_proc": 0.02,
    "kandidatu": 1,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,13 +102,13 @@
   {
    "por": 9,
    "vstrana": 1902,
-   "hlasy": 13846,
-   "hlasy_proc": 21.23,
+   "hlasy": 15942,
+   "hlasy_proc": 21.33,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Spolek Za zdravé Řečkovice a Sdružení nestraníků"
   }
  ],
- "stazeno": "2026-10-10T21:23:16+02:00"
+ "stazeno": "2026-10-10T21:29:16+02:00"
 }

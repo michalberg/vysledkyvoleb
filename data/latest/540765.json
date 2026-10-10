@@ -4,81 +4,228 @@
  "typ": "OBEC",
  "voleno": 15,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-10T20:06:01",
+ "je_spocteno": true,
+ "generovano": "2026-10-10T21:29:02",
  "ucast": {
   "okrsky_celkem": 5,
-  "okrsky_zprac": 4,
-  "okrsky_zprac_proc": 80.0,
-  "zapsani_volici": 3520,
-  "vydane_obalky": 1871,
-  "ucast_proc": 53.15,
+  "okrsky_zprac": 5,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 4613,
+  "vydane_obalky": 2440,
+  "ucast_proc": 52.89,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1869,
-  "platne_listky": 1832,
-  "platne_hlasy": 25645
+  "odevzdane_obalky": 2436,
+  "platne_listky": 2393,
+  "platne_hlasy": 33555
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 540,
-   "hlasy": 2709,
-   "hlasy_proc": 10.56,
+   "hlasy": 3373,
+   "hlasy_proc": 10.05,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SPOLU MNÍŠEK - KDU-ČSL, TOP 09 a NEZÁVISLÍ"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "SPOLU MNÍŠEK - KDU-ČSL, TOP 09 a NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 426,
+     "hlasy_proc": 12.62,
+     "titul_pred": "",
+     "jmeno": "Libor",
+     "prijmeni": "Kálmán",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 449,
-   "hlasy": 2188,
-   "hlasy_proc": 8.53,
+   "hlasy": 2891,
+   "hlasy_proc": 8.62,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "SDRUŽENÍ NESTRANÍKŮ MNÍŠEK POD BRDY"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "SDRUŽENÍ NESTRANÍKŮ MNÍŠEK POD BRDY",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 400,
+     "hlasy_proc": 13.83,
+     "titul_pred": "Ing.",
+     "jmeno": "Hana",
+     "prijmeni": "Kotoučová",
+     "titul_za": "Ph.D."
+    }
+   ]
   },
   {
    "por": 3,
    "vstrana": 1500,
-   "hlasy": 3839,
-   "hlasy_proc": 14.97,
+   "hlasy": 5346,
+   "hlasy_proc": 15.93,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Mníšek – Město pro rodinu s podporou SEN"
+   "zastupitele": 3,
+   "zastupitele_proc": 20.0,
+   "nazev": "Mníšek – Město pro rodinu s podporou SEN",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 596,
+     "hlasy_proc": 11.14,
+     "titul_pred": "",
+     "jmeno": "Daniela",
+     "prijmeni": "Páterová",
+     "titul_za": "DiS."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 453,
+     "hlasy_proc": 8.47,
+     "titul_pred": "",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Vyskočil",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 458,
+     "hlasy_proc": 8.56,
+     "titul_pred": "Mgr.",
+     "jmeno": "Kateřina",
+     "prijmeni": "Vojkůvková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 53,
-   "hlasy": 2285,
-   "hlasy_proc": 8.91,
+   "hlasy": 3065,
+   "hlasy_proc": 9.13,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Občanská demokratická strana"
+   "zastupitele": 1,
+   "zastupitele_proc": 6.67,
+   "nazev": "Občanská demokratická strana",
+   "zvoleni": [
+    {
+     "poradi": 2,
+     "hlasy": 406,
+     "hlasy_proc": 13.24,
+     "titul_pred": "Ing.",
+     "jmeno": "Dana",
+     "prijmeni": "Dalešická",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 364,
-   "hlasy": 5480,
-   "hlasy_proc": 21.37,
+   "hlasy": 7119,
+   "hlasy_proc": 21.22,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Společně pro Mníšek"
+   "zastupitele": 3,
+   "zastupitele_proc": 20.0,
+   "nazev": "Společně pro Mníšek",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 730,
+     "hlasy_proc": 10.25,
+     "titul_pred": "Mgr.",
+     "jmeno": "Magdaléna",
+     "prijmeni": "Davis",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 713,
+     "hlasy_proc": 10.01,
+     "titul_pred": "Mgr.",
+     "jmeno": "Luboš",
+     "prijmeni": "Kožíšek",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 518,
+     "hlasy_proc": 7.27,
+     "titul_pred": "",
+     "jmeno": "Tereza",
+     "prijmeni": "Zvolánková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 166,
-   "hlasy": 9144,
-   "hlasy_proc": 35.66,
+   "hlasy": 11761,
+   "hlasy_proc": 35.05,
    "kandidatu": 15,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "STAROSTOVÉ A NEZÁVISLÍ"
+   "zastupitele": 6,
+   "zastupitele_proc": 40.0,
+   "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 977,
+     "hlasy_proc": 8.3,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Digrin",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 2,
+     "hlasy": 825,
+     "hlasy_proc": 7.01,
+     "titul_pred": "Bc.",
+     "jmeno": "Marie",
+     "prijmeni": "Šretrová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 837,
+     "hlasy_proc": 7.11,
+     "titul_pred": "Ing. Bc.",
+     "jmeno": "Klára",
+     "prijmeni": "Cihlová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 966,
+     "hlasy_proc": 8.21,
+     "titul_pred": "MUDr.",
+     "jmeno": "Vojtěch",
+     "prijmeni": "Novák",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 7,
+     "hlasy": 875,
+     "hlasy_proc": 7.43,
+     "titul_pred": "Bc.",
+     "jmeno": "Luboš",
+     "prijmeni": "Tomiska",
+     "titul_za": ""
+    },
+    {
+     "poradi": 8,
+     "hlasy": 976,
+     "hlasy_proc": 8.29,
+     "titul_pred": "MUDr.",
+     "jmeno": "Markéta",
+     "prijmeni": "Nováková",
+     "titul_za": ""
+    }
+   ]
   }
  ],
- "stazeno": "2026-10-10T20:07:37+02:00"
+ "stazeno": "2026-10-10T21:29:16+02:00"
 }
