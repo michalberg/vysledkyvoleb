@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-10T15:40:37+02:00",
+ "aktualizovano": "2026-10-10T15:41:16+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -260,9 +260,9 @@
    "nazev": "Třebíč",
    "voleno": 27,
    "je_spocteno": false,
-   "okrsky_zprac": 0,
+   "okrsky_zprac": 1,
    "okrsky_celkem": 39,
-   "generovano": "2026-10-08T16:40:29"
+   "generovano": "2026-10-10T15:41:02"
   },
   {
    "kod": "541630",
@@ -548,9 +548,9 @@
    "nazev": "Most",
    "voleno": 45,
    "je_spocteno": false,
-   "okrsky_zprac": 6,
+   "okrsky_zprac": 7,
    "okrsky_celkem": 60,
-   "generovano": "2026-10-10T15:40:02"
+   "generovano": "2026-10-10T15:41:02"
   },
   {
    "kod": "573868",
