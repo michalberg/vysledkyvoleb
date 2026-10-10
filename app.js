@@ -18,7 +18,7 @@ const MOCK = params.get("mock");
 const YEAR = MOCK ? "2022" : "2026";
 
 const S = {
-  cfg: null, barvy: null,
+  cfg: null, barvy: null, zkratky: {},
   units: [],          // konfigurace celků v pořadí rotace
   data: {},           // kod -> normalizovaná data
   ref: {},            // kod -> výsledky 2022 (pro celky bez dat)
@@ -36,6 +36,7 @@ const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;",
 const num2 = v => v.toFixed(2).replace(".", ",");
 const fmt = v => num2(v) + " %";
 const pctHtml = v => `${num2(v)}<small>%</small>`;
+const short = n => S.zkratky[n] || n;
 const plMand = n => n === 1 ? "mandát" : n >= 2 && n <= 4 ? "mandáty" : "mandátů";
 
 /* ---------------- data ---------------- */
@@ -222,8 +223,8 @@ function renderBrnoRow() {
       </div>
     </div>
     <div class="cells">${cells.map(p => `
-      <div class="cell${p.ours && !v.isRef ? " ours" : ""}" style="border-top-color:${p.color}">
-        <div class="n">${esc(p.nazev)}</div>
+      <div class="cell${p.ours && !v.isRef ? " ours" : ""}" style="border-top-color:${p.color}" title="${esc(p.nazev)}">
+        <div class="n">${esc(short(p.nazev))}</div>
         <div class="p">${pctHtml(p.pct)}</div>
         <div class="s">${p.seats} mand.</div>
       </div>`).join("")}
@@ -275,7 +276,7 @@ function renderResults(v) {
     return;
   }
   if (!wrap._built) {
-    wrap.innerHTML = `${v.isRef ? `<div class="ref-note"><b>Výsledky 2022</b> · zatím nebyl sečten žádný okrsek</div>` : ""}
+    wrap.innerHTML = `${v.isRef ? `<div class="ref-note"><b>Zobrazuji výsledky 2022</b>, zatím nebyl sečten žádný okrsek</div>` : ""}
       <div class="plot" id="plot"><div class="five" id="five"><span>5 %</span></div></div><div class="labels" id="labels"></div>`;
     wrap._built = true;
   }
@@ -296,7 +297,8 @@ function renderResults(v) {
   keyed($("labels"), bars, p => p.por,
     () => h(`<div class="lab"><div class="n"></div><div class="s"></div><div class="u3">pod 3 %</div></div>`),
     (el, p) => {
-      el.children[0].textContent = p.nazev;
+      el.children[0].textContent = short(p.nazev);
+      el.title = p.nazev;
       el.children[0].className = "n" + (p.ours ? " ours" : "");
       el.children[1].textContent = p.seats + " mand.";
       el.children[2].hidden = !(p.ours && p.pct < 3);
@@ -346,7 +348,8 @@ function renderCoal(container, v) {
       const on = sel.includes(p.por);
       el.className = "card" + (on ? " on" : "") + (p.ours ? " ours" : "");
       el.querySelector(".top").style.background = p.color;
-      el.querySelector(".n").textContent = p.nazev;
+      el.querySelector(".n").textContent = short(p.nazev);
+      el.title = p.nazev;
       el.querySelector(".s").innerHTML = `${p.seats}<small>mand.</small>`;
       const a = el.querySelector(".a");
       a.textContent = on ? "Odebrat" : "+ Přidat";
@@ -399,7 +402,7 @@ function renderMobile() {
       <div class="m-meta"><span>Okrsky <b>${d ? d.zprac + " / " + d.celkem : "–"}</b> ${d ? "(" + fmt(cp) + ")" : ""}</span>
         <span>Účast <b>${v.hasLive ? fmt(d.ucast) : "–"}</b></span><span>Aktualizováno <b>${timeTxt(v)}</b>${warnHtml(v)}</span></div>
       <div class="m-prog"><div style="width:${cp}%"></div></div>
-      ${v.isRef ? `<div class="ref-note" style="margin-bottom:10px"><b>Výsledky 2022</b> · zatím nebyl sečten žádný okrsek</div>` : ""}
+      ${v.isRef ? `<div class="ref-note" style="margin-bottom:10px"><b>Zobrazuji výsledky 2022</b>, zatím nebyl sečten žádný okrsek</div>` : ""}
       ${v.d ? `<div class="hbars">${list.map(p => `
         <div class="hrow"><div class="n${p.ours ? " ours" : ""}">${esc(p.nazev)}</div>
           <div class="v">${fmt(p.pct)}<small>${p.seats} mand.</small></div>
@@ -461,8 +464,8 @@ function bind() {
 }
 
 async function init() {
-  const [cfg, barvy] = await Promise.all([get("config.json", "json"), get("barvy.json", "json")]);
-  S.cfg = cfg; S.barvy = barvy; S.units = cfg.obce;
+  const [cfg, barvy, zkratky] = await Promise.all([get("config.json", "json"), get("barvy.json", "json"), get("zkratky.json", "json").catch(() => ({}))]);
+  S.cfg = cfg; S.barvy = barvy; S.units = cfg.obce; S.zkratky = zkratky.nazvy || {};
   S.intervalMs = (Number(params.get("interval")) || cfg.interval_s || 12) * 1000;
   await Promise.all(S.units.map(async u => {
     try { S.ref[u.kod] = fromJson(await get(`mock/2022/latest/${u.kod}.json`, "json")); } catch (e) {}

@@ -91,10 +91,11 @@ button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-off
 .col .bar{height:0;border-radius:4px 4px 0 0;transition:height .6s ease}
 .labels{display:flex;gap:10px;align-items:flex-start}
 .lab{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;gap:4px;text-align:center}
-.lab .n{font-size:15px;font-weight:600;line-height:1.15;max-height:52px;overflow:hidden;padding:3px 0;overflow-wrap:anywhere}
+.lab .n{font-size:15px;font-weight:600;line-height:1.15;padding:3px 4px;height:calc(2.3em + 6px);max-width:100%;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;hyphens:auto;overflow-wrap:break-word}
 .dense .lab .n{font-size:13px}
-.lab .n.ours{font-weight:800;background:var(--accent);color:var(--on-accent);padding:3px 6px;border-radius:4px;max-height:58px}
-.lab .s{font-size:18px;font-weight:800}
+.lab .n.ours{font-weight:800;background:var(--accent);color:var(--on-accent);border-radius:4px}
+.lab .s{font-size:18px;font-weight:800;white-space:nowrap}
+.dense .lab .s{font-size:15px}
 .lab .u3{font-size:13px;font-weight:600;color:var(--muted)}
 
 .empty{flex:1;min-height:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;border:2px dashed var(--line);border-radius:8px}
