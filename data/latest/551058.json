@@ -5,24 +5,24 @@
  "voleno": 29,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T21:18:01",
+ "generovano": "2026-10-10T21:22:01",
  "ucast": {
   "okrsky_celkem": 19,
-  "okrsky_zprac": 13,
-  "okrsky_zprac_proc": 68.42,
-  "zapsani_volici": 10411,
-  "vydane_obalky": 4512,
-  "ucast_proc": 43.34,
+  "okrsky_zprac": 14,
+  "okrsky_zprac_proc": 73.68,
+  "zapsani_volici": 11138,
+  "vydane_obalky": 4796,
+  "ucast_proc": 43.06,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 4512,
-  "platne_listky": 4370,
-  "platne_hlasy": 119392
+  "odevzdane_obalky": 4795,
+  "platne_listky": 4645,
+  "platne_hlasy": 126749
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1693,
-   "hlasy": 3383,
+   "hlasy": 3585,
    "hlasy_proc": 2.83,
    "kandidatu": 22,
    "zastupitele": 0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 18578,
-   "hlasy_proc": 15.56,
+   "hlasy": 20401,
+   "hlasy_proc": 16.1,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 687,
-   "hlasy": 11258,
-   "hlasy_proc": 9.43,
+   "hlasy": 12126,
+   "hlasy_proc": 9.57,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,7 +52,7 @@
   {
    "por": 4,
    "vstrana": 1832,
-   "hlasy": 3256,
+   "hlasy": 3464,
    "hlasy_proc": 2.73,
    "kandidatu": 27,
    "zastupitele": 0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1404,
-   "hlasy": 32174,
-   "hlasy_proc": 26.95,
+   "hlasy": 33785,
+   "hlasy_proc": 26.66,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1500,
-   "hlasy": 37850,
-   "hlasy_proc": 31.7,
+   "hlasy": 39597,
+   "hlasy_proc": 31.24,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1913,
-   "hlasy": 7054,
-   "hlasy_proc": 5.91,
+   "hlasy": 7562,
+   "hlasy_proc": 5.97,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,13 +92,13 @@
   {
    "por": 8,
    "vstrana": 1305,
-   "hlasy": 5839,
-   "hlasy_proc": 4.89,
+   "hlasy": 6229,
+   "hlasy_proc": 4.91,
    "kandidatu": 29,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPD a nezávislí kandidáti za zelenou pro Židenice"
   }
  ],
- "stazeno": "2026-10-10T21:18:21+02:00"
+ "stazeno": "2026-10-10T21:22:20+02:00"
 }

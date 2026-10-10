@@ -5,25 +5,25 @@
  "voleno": 23,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T20:59:01",
+ "generovano": "2026-10-10T21:22:01",
  "ucast": {
   "okrsky_celkem": 12,
-  "okrsky_zprac": 5,
-  "okrsky_zprac_proc": 41.67,
-  "zapsani_volici": 4784,
-  "vydane_obalky": 2105,
-  "ucast_proc": 44.0,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 50.0,
+  "zapsani_volici": 6133,
+  "vydane_obalky": 2755,
+  "ucast_proc": 44.92,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2105,
-  "platne_listky": 2068,
-  "platne_hlasy": 44535
+  "odevzdane_obalky": 2755,
+  "platne_listky": 2702,
+  "platne_hlasy": 58388
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1178,
-   "hlasy": 1250,
-   "hlasy_proc": 2.81,
+   "hlasy": 1691,
+   "hlasy_proc": 2.9,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 166,
-   "hlasy": 4184,
-   "hlasy_proc": 9.39,
+   "hlasy": 5288,
+   "hlasy_proc": 9.06,
    "kandidatu": 19,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1334,
-   "hlasy": 6832,
-   "hlasy_proc": 15.34,
+   "hlasy": 9042,
+   "hlasy_proc": 15.49,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 524,
-   "hlasy": 6124,
-   "hlasy_proc": 13.75,
+   "hlasy": 7546,
+   "hlasy_proc": 12.92,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1722,
-   "hlasy": 1409,
-   "hlasy_proc": 3.16,
+   "hlasy": 2528,
+   "hlasy_proc": 4.33,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1823,
-   "hlasy": 10599,
-   "hlasy_proc": 23.8,
+   "hlasy": 14152,
+   "hlasy_proc": 24.24,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1305,
-   "hlasy": 1798,
-   "hlasy_proc": 4.04,
+   "hlasy": 2228,
+   "hlasy_proc": 3.82,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,7 +92,7 @@
   {
    "por": 8,
    "vstrana": 1713,
-   "hlasy": 13,
+   "hlasy": 18,
    "hlasy_proc": 0.03,
    "kandidatu": 1,
    "zastupitele": 0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 768,
-   "hlasy": 8634,
-   "hlasy_proc": 19.39,
+   "hlasy": 10520,
+   "hlasy_proc": 18.02,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,8 +112,8 @@
   {
    "por": 10,
    "vstrana": 1846,
-   "hlasy": 3144,
-   "hlasy_proc": 7.06,
+   "hlasy": 4631,
+   "hlasy_proc": 7.93,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -122,13 +122,13 @@
   {
    "por": 11,
    "vstrana": 1399,
-   "hlasy": 548,
-   "hlasy_proc": 1.23,
+   "hlasy": 744,
+   "hlasy_proc": 1.27,
    "kandidatu": 23,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "KRÁSNÉ LETŇANY"
   }
  ],
- "stazeno": "2026-10-10T20:59:16+02:00"
+ "stazeno": "2026-10-10T21:22:20+02:00"
 }
