@@ -5,25 +5,25 @@
  "voleno": 21,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:49:03",
+ "generovano": "2026-10-10T17:13:03",
  "ucast": {
   "okrsky_celkem": 11,
-  "okrsky_zprac": 5,
-  "okrsky_zprac_proc": 45.45,
-  "zapsani_volici": 4562,
-  "vydane_obalky": 1457,
-  "ucast_proc": 31.94,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 54.55,
+  "zapsani_volici": 5453,
+  "vydane_obalky": 1688,
+  "ucast_proc": 30.96,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 1456,
-  "platne_listky": 1442,
-  "platne_hlasy": 27725
+  "odevzdane_obalky": 1687,
+  "platne_listky": 1669,
+  "platne_hlasy": 32202
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 768,
-   "hlasy": 6756,
-   "hlasy_proc": 24.37,
+   "hlasy": 8299,
+   "hlasy_proc": 25.77,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1939,
-   "hlasy": 3396,
-   "hlasy_proc": 12.25,
+   "hlasy": 3703,
+   "hlasy_proc": 11.5,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 785,
-   "hlasy": 3734,
-   "hlasy_proc": 13.47,
+   "hlasy": 4399,
+   "hlasy_proc": 13.66,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 470,
-   "hlasy": 10586,
-   "hlasy_proc": 38.18,
+   "hlasy": 12114,
+   "hlasy_proc": 37.62,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,13 +62,13 @@
   {
    "por": 5,
    "vstrana": 1500,
-   "hlasy": 3253,
-   "hlasy_proc": 11.73,
+   "hlasy": 3687,
+   "hlasy_proc": 11.45,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SEN pro Klášterec nad Ohří s podporou Zelených"
   }
  ],
- "stazeno": "2026-10-10T16:48:25+02:00"
+ "stazeno": "2026-10-10T17:11:23+02:00"
 }

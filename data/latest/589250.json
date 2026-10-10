@@ -5,25 +5,25 @@
  "voleno": 35,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T17:02:02",
+ "generovano": "2026-10-10T17:12:03",
  "ucast": {
   "okrsky_celkem": 44,
-  "okrsky_zprac": 12,
-  "okrsky_zprac_proc": 27.27,
-  "zapsani_volici": 7914,
-  "vydane_obalky": 2925,
-  "ucast_proc": 36.96,
+  "okrsky_zprac": 15,
+  "okrsky_zprac_proc": 34.09,
+  "zapsani_volici": 10314,
+  "vydane_obalky": 3987,
+  "ucast_proc": 38.66,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2923,
-  "platne_listky": 2895,
-  "platne_hlasy": 92642
+  "odevzdane_obalky": 3985,
+  "platne_listky": 3950,
+  "platne_hlasy": 126524
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 541,
-   "hlasy": 4193,
-   "hlasy_proc": 4.53,
+   "hlasy": 5598,
+   "hlasy_proc": 4.42,
    "kandidatu": 28,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1114,
-   "hlasy": 6472,
-   "hlasy_proc": 6.99,
+   "hlasy": 8970,
+   "hlasy_proc": 7.09,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1,
-   "hlasy": 3926,
-   "hlasy_proc": 4.24,
+   "hlasy": 5794,
+   "hlasy_proc": 4.58,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 7,
-   "hlasy": 660,
-   "hlasy_proc": 0.71,
+   "hlasy": 806,
+   "hlasy_proc": 0.64,
    "kandidatu": 16,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 768,
-   "hlasy": 24410,
-   "hlasy_proc": 26.35,
+   "hlasy": 31836,
+   "hlasy_proc": 25.16,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1627,
-   "hlasy": 3579,
-   "hlasy_proc": 3.86,
+   "hlasy": 4477,
+   "hlasy_proc": 3.54,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1020,
-   "hlasy": 8400,
-   "hlasy_proc": 9.07,
+   "hlasy": 11495,
+   "hlasy_proc": 9.09,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 389,
-   "hlasy": 13262,
-   "hlasy_proc": 14.32,
+   "hlasy": 19183,
+   "hlasy_proc": 15.16,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 1612,
-   "hlasy": 27505,
-   "hlasy_proc": 29.69,
+   "hlasy": 38065,
+   "hlasy_proc": 30.09,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,13 +112,13 @@
   {
    "por": 10,
    "vstrana": 55,
-   "hlasy": 235,
-   "hlasy_proc": 0.25,
+   "hlasy": 300,
+   "hlasy_proc": 0.24,
    "kandidatu": 13,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)"
   }
  ],
- "stazeno": "2026-10-10T17:02:23+02:00"
+ "stazeno": "2026-10-10T17:11:23+02:00"
 }

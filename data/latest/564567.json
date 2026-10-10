@@ -5,25 +5,25 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:55:02",
+ "generovano": "2026-10-10T17:13:03",
  "ucast": {
   "okrsky_celkem": 30,
-  "okrsky_zprac": 11,
-  "okrsky_zprac_proc": 36.67,
-  "zapsani_volici": 5188,
-  "vydane_obalky": 2097,
-  "ucast_proc": 40.42,
+  "okrsky_zprac": 14,
+  "okrsky_zprac_proc": 46.67,
+  "zapsani_volici": 6759,
+  "vydane_obalky": 2692,
+  "ucast_proc": 39.83,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 2097,
-  "platne_listky": 2088,
-  "platne_hlasy": 50504
+  "odevzdane_obalky": 2692,
+  "platne_listky": 2677,
+  "platne_hlasy": 64719
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 53,
-   "hlasy": 13490,
-   "hlasy_proc": 26.71,
+   "hlasy": 17145,
+   "hlasy_proc": 26.49,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 10910,
-   "hlasy_proc": 21.6,
+   "hlasy": 14169,
+   "hlasy_proc": 21.89,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 355,
-   "hlasy": 1760,
-   "hlasy_proc": 3.48,
+   "hlasy": 2278,
+   "hlasy_proc": 3.52,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 492,
-   "hlasy": 2708,
-   "hlasy_proc": 5.36,
+   "hlasy": 3460,
+   "hlasy_proc": 5.35,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1800,
-   "hlasy": 5534,
-   "hlasy_proc": 10.96,
+   "hlasy": 7040,
+   "hlasy_proc": 10.88,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,7 +72,7 @@
   {
    "por": 6,
    "vstrana": 482,
-   "hlasy": 85,
+   "hlasy": 108,
    "hlasy_proc": 0.17,
    "kandidatu": 2,
    "zastupitele": 0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 470,
-   "hlasy": 4531,
-   "hlasy_proc": 8.97,
+   "hlasy": 5691,
+   "hlasy_proc": 8.79,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 449,
-   "hlasy": 5528,
-   "hlasy_proc": 10.95,
+   "hlasy": 7316,
+   "hlasy_proc": 11.3,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,13 +102,13 @@
   {
    "por": 9,
    "vstrana": 1500,
-   "hlasy": 5958,
-   "hlasy_proc": 11.8,
+   "hlasy": 7512,
+   "hlasy_proc": 11.61,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SEN pro Litoměřice"
   }
  ],
- "stazeno": "2026-10-10T16:54:01+02:00"
+ "stazeno": "2026-10-10T17:11:23+02:00"
 }

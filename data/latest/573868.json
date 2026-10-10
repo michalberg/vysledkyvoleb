@@ -5,25 +5,25 @@
  "voleno": 27,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T17:06:02",
+ "generovano": "2026-10-10T17:11:03",
  "ucast": {
   "okrsky_celkem": 25,
-  "okrsky_zprac": 14,
-  "okrsky_zprac_proc": 56.0,
-  "zapsani_volici": 7781,
-  "vydane_obalky": 3519,
-  "ucast_proc": 45.23,
+  "okrsky_zprac": 15,
+  "okrsky_zprac_proc": 60.0,
+  "zapsani_volici": 8522,
+  "vydane_obalky": 3793,
+  "ucast_proc": 44.51,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 3518,
-  "platne_listky": 3488,
-  "platne_hlasy": 80572
+  "odevzdane_obalky": 3792,
+  "platne_listky": 3755,
+  "platne_hlasy": 86656
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1454,
-   "hlasy": 11433,
-   "hlasy_proc": 14.19,
+   "hlasy": 12257,
+   "hlasy_proc": 14.14,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 768,
-   "hlasy": 7689,
-   "hlasy_proc": 9.54,
+   "hlasy": 8398,
+   "hlasy_proc": 9.69,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1264,
-   "hlasy": 10120,
-   "hlasy_proc": 12.56,
+   "hlasy": 10901,
+   "hlasy_proc": 12.58,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1804,
-   "hlasy": 3350,
-   "hlasy_proc": 4.16,
+   "hlasy": 3457,
+   "hlasy_proc": 3.99,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1523,
-   "hlasy": 20281,
-   "hlasy_proc": 25.17,
+   "hlasy": 21449,
+   "hlasy_proc": 24.75,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,13 +72,13 @@
   {
    "por": 6,
    "vstrana": 371,
-   "hlasy": 27699,
-   "hlasy_proc": 34.38,
+   "hlasy": 30194,
+   "hlasy_proc": 34.84,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "JAN BIRKE PRO NÁCHOD"
   }
  ],
- "stazeno": "2026-10-10T17:02:23+02:00"
+ "stazeno": "2026-10-10T17:11:23+02:00"
 }
