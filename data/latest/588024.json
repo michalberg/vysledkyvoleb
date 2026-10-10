@@ -5,25 +5,25 @@
  "voleno": 21,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T16:46:02",
+ "generovano": "2026-10-10T17:27:02",
  "ucast": {
   "okrsky_celkem": 7,
-  "okrsky_zprac": 4,
-  "okrsky_zprac_proc": 57.14,
-  "zapsani_volici": 1705,
-  "vydane_obalky": 764,
-  "ucast_proc": 44.81,
+  "okrsky_zprac": 6,
+  "okrsky_zprac_proc": 85.71,
+  "zapsani_volici": 3271,
+  "vydane_obalky": 1533,
+  "ucast_proc": 46.87,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 764,
-  "platne_listky": 758,
-  "platne_hlasy": 14376
+  "odevzdane_obalky": 1533,
+  "platne_listky": 1523,
+  "platne_hlasy": 28615
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 47,
-   "hlasy": 774,
-   "hlasy_proc": 5.38,
+   "hlasy": 1472,
+   "hlasy_proc": 5.14,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 411,
-   "hlasy": 2473,
-   "hlasy_proc": 17.2,
+   "hlasy": 4930,
+   "hlasy_proc": 17.23,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 470,
-   "hlasy": 2016,
-   "hlasy_proc": 14.02,
+   "hlasy": 4009,
+   "hlasy_proc": 14.01,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 529,
-   "hlasy": 1974,
-   "hlasy_proc": 13.73,
+   "hlasy": 4025,
+   "hlasy_proc": 14.07,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 53,
-   "hlasy": 3416,
-   "hlasy_proc": 23.76,
+   "hlasy": 6901,
+   "hlasy_proc": 24.12,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 457,
-   "hlasy": 933,
-   "hlasy_proc": 6.49,
+   "hlasy": 2311,
+   "hlasy_proc": 8.08,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,13 +82,13 @@
   {
    "por": 7,
    "vstrana": 355,
-   "hlasy": 2790,
-   "hlasy_proc": 19.41,
+   "hlasy": 4967,
+   "hlasy_proc": 17.36,
    "kandidatu": 21,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "Noví Lidovci pro Telč"
   }
  ],
- "stazeno": "2026-10-10T16:48:25+02:00"
+ "stazeno": "2026-10-10T17:24:47+02:00"
 }

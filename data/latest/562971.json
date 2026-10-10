@@ -5,25 +5,25 @@
  "voleno": 35,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-10T17:13:03",
+ "generovano": "2026-10-10T17:26:03",
  "ucast": {
   "okrsky_celkem": 40,
-  "okrsky_zprac": 17,
-  "okrsky_zprac_proc": 42.5,
-  "zapsani_volici": 15830,
-  "vydane_obalky": 3641,
-  "ucast_proc": 23.0,
+  "okrsky_zprac": 21,
+  "okrsky_zprac_proc": 52.5,
+  "zapsani_volici": 19305,
+  "vydane_obalky": 4575,
+  "ucast_proc": 23.7,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 3639,
-  "platne_listky": 3596,
-  "platne_hlasy": 114364
+  "odevzdane_obalky": 4573,
+  "platne_listky": 4517,
+  "platne_hlasy": 143322
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1721,
-   "hlasy": 7879,
-   "hlasy_proc": 6.89,
+   "hlasy": 9657,
+   "hlasy_proc": 6.74,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -32,8 +32,8 @@
   {
    "por": 2,
    "vstrana": 1861,
-   "hlasy": 4949,
-   "hlasy_proc": 4.33,
+   "hlasy": 6785,
+   "hlasy_proc": 4.73,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,8 +42,8 @@
   {
    "por": 3,
    "vstrana": 1323,
-   "hlasy": 8718,
-   "hlasy_proc": 7.62,
+   "hlasy": 10773,
+   "hlasy_proc": 7.52,
    "kandidatu": 34,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -52,8 +52,8 @@
   {
    "por": 4,
    "vstrana": 1935,
-   "hlasy": 1648,
-   "hlasy_proc": 1.44,
+   "hlasy": 2264,
+   "hlasy_proc": 1.58,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -62,8 +62,8 @@
   {
    "por": 5,
    "vstrana": 1825,
-   "hlasy": 17825,
-   "hlasy_proc": 15.59,
+   "hlasy": 22734,
+   "hlasy_proc": 15.86,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -72,8 +72,8 @@
   {
    "por": 6,
    "vstrana": 1497,
-   "hlasy": 12908,
-   "hlasy_proc": 11.29,
+   "hlasy": 15644,
+   "hlasy_proc": 10.92,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,8 +82,8 @@
   {
    "por": 7,
    "vstrana": 1960,
-   "hlasy": 846,
-   "hlasy_proc": 0.74,
+   "hlasy": 1011,
+   "hlasy_proc": 0.71,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -92,8 +92,8 @@
   {
    "por": 8,
    "vstrana": 1687,
-   "hlasy": 10388,
-   "hlasy_proc": 9.08,
+   "hlasy": 13463,
+   "hlasy_proc": 9.39,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -102,8 +102,8 @@
   {
    "por": 9,
    "vstrana": 768,
-   "hlasy": 24670,
-   "hlasy_proc": 21.57,
+   "hlasy": 30499,
+   "hlasy_proc": 21.28,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -112,8 +112,8 @@
   {
    "por": 10,
    "vstrana": 1298,
-   "hlasy": 5755,
-   "hlasy_proc": 5.03,
+   "hlasy": 7093,
+   "hlasy_proc": 4.95,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -122,13 +122,13 @@
   {
    "por": 11,
    "vstrana": 1017,
-   "hlasy": 18778,
-   "hlasy_proc": 16.42,
+   "hlasy": 23399,
+   "hlasy_proc": 16.33,
    "kandidatu": 35,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "NOVÝ SEVER"
   }
  ],
- "stazeno": "2026-10-10T17:11:23+02:00"
+ "stazeno": "2026-10-10T17:24:47+02:00"
 }
