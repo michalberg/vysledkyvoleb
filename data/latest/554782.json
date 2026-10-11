@@ -5,24 +5,24 @@
  "voleno": 65,
  "pocet_obvodu": 1,
  "je_spocteno": false,
- "generovano": "2026-10-11T02:48:01",
+ "generovano": "2026-10-11T02:51:00",
  "ucast": {
   "okrsky_celkem": 1120,
-  "okrsky_zprac": 1103,
-  "okrsky_zprac_proc": 98.48,
-  "zapsani_volici": 898297,
-  "vydane_obalky": 412970,
-  "ucast_proc": 45.97,
+  "okrsky_zprac": 1104,
+  "okrsky_zprac_proc": 98.57,
+  "zapsani_volici": 898936,
+  "vydane_obalky": 413295,
+  "ucast_proc": 45.98,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 412283,
-  "platne_listky": 391178,
-  "platne_hlasy": 24018109
+  "odevzdane_obalky": 412608,
+  "platne_listky": 391494,
+  "platne_hlasy": 24037786
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 121,
-   "hlasy": 15831,
+   "hlasy": 15851,
    "hlasy_proc": 0.07,
    "kandidatu": 10,
    "zastupitele": 0,
@@ -42,7 +42,7 @@
   {
    "por": 3,
    "vstrana": 1705,
-   "hlasy": 10695,
+   "hlasy": 10710,
    "hlasy_proc": 0.04,
    "kandidatu": 15,
    "zastupitele": 0,
@@ -52,7 +52,7 @@
   {
    "por": 4,
    "vstrana": 1250,
-   "hlasy": 1090,
+   "hlasy": 1091,
    "hlasy_proc": 0.0,
    "kandidatu": 1,
    "zastupitele": 0,
@@ -62,7 +62,7 @@
   {
    "por": 5,
    "vstrana": 1373,
-   "hlasy": 4278996,
+   "hlasy": 4282377,
    "hlasy_proc": 17.82,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -82,7 +82,7 @@
   {
    "por": 7,
    "vstrana": 720,
-   "hlasy": 2250532,
+   "hlasy": 2253329,
    "hlasy_proc": 9.37,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -92,7 +92,7 @@
   {
    "por": 8,
    "vstrana": 1713,
-   "hlasy": 3373,
+   "hlasy": 3374,
    "hlasy_proc": 0.01,
    "kandidatu": 3,
    "zastupitele": 0,
@@ -102,7 +102,7 @@
   {
    "por": 9,
    "vstrana": 166,
-   "hlasy": 5564561,
+   "hlasy": 5569047,
    "hlasy_proc": 23.17,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -112,7 +112,7 @@
   {
    "por": 10,
    "vstrana": 1305,
-   "hlasy": 839398,
+   "hlasy": 840060,
    "hlasy_proc": 3.49,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -122,7 +122,7 @@
   {
    "por": 11,
    "vstrana": 1806,
-   "hlasy": 99574,
+   "hlasy": 99707,
    "hlasy_proc": 0.41,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -132,7 +132,7 @@
   {
    "por": 12,
    "vstrana": 687,
-   "hlasy": 5296771,
+   "hlasy": 5301108,
    "hlasy_proc": 22.05,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -142,7 +142,7 @@
   {
    "por": 13,
    "vstrana": 74,
-   "hlasy": 60308,
+   "hlasy": 60309,
    "hlasy_proc": 0.25,
    "kandidatu": 50,
    "zastupitele": 0,
@@ -152,7 +152,7 @@
   {
    "por": 14,
    "vstrana": 1178,
-   "hlasy": 702493,
+   "hlasy": 702965,
    "hlasy_proc": 2.92,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -172,7 +172,7 @@
   {
    "por": 16,
    "vstrana": 1846,
-   "hlasy": 158924,
+   "hlasy": 158932,
    "hlasy_proc": 0.66,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -182,8 +182,8 @@
   {
    "por": 17,
    "vstrana": 482,
-   "hlasy": 15597,
-   "hlasy_proc": 0.06,
+   "hlasy": 15629,
+   "hlasy_proc": 0.07,
    "kandidatu": 8,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -192,7 +192,7 @@
   {
    "por": 18,
    "vstrana": 524,
-   "hlasy": 138855,
+   "hlasy": 139085,
    "hlasy_proc": 0.58,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -202,7 +202,7 @@
   {
    "por": 19,
    "vstrana": 1926,
-   "hlasy": 60294,
+   "hlasy": 60298,
    "hlasy_proc": 0.25,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -212,7 +212,7 @@
   {
    "por": 20,
    "vstrana": 1689,
-   "hlasy": 217996,
+   "hlasy": 218126,
    "hlasy_proc": 0.91,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -222,7 +222,7 @@
   {
    "por": 21,
    "vstrana": 98,
-   "hlasy": 9542,
+   "hlasy": 9543,
    "hlasy_proc": 0.04,
    "kandidatu": 14,
    "zastupitele": 0,
@@ -232,7 +232,7 @@
   {
    "por": 22,
    "vstrana": 768,
-   "hlasy": 3470141,
+   "hlasy": 3472681,
    "hlasy_proc": 14.45,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -252,7 +252,7 @@
   {
    "por": 24,
    "vstrana": 1827,
-   "hlasy": 685563,
+   "hlasy": 685989,
    "hlasy_proc": 2.85,
    "kandidatu": 65,
    "zastupitele": 0,
@@ -260,5 +260,5 @@
    "nazev": "SEN PRO PRAHU s Václavem Láskou, s podporou HPP 11 a strany Mourek"
   }
  ],
- "stazeno": "2026-10-11T02:48:19+02:00"
+ "stazeno": "2026-10-11T02:51:27+02:00"
 }
