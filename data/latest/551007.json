@@ -4,36 +4,56 @@
  "typ": "MCMO",
  "voleno": 27,
  "pocet_obvodu": 1,
- "je_spocteno": false,
- "generovano": "2026-10-11T01:29:00",
+ "je_spocteno": true,
+ "generovano": "2026-10-11T02:06:01",
  "ucast": {
   "okrsky_celkem": 19,
-  "okrsky_zprac": 18,
-  "okrsky_zprac_proc": 94.74,
-  "zapsani_volici": 18666,
-  "vydane_obalky": 9037,
-  "ucast_proc": 48.41,
+  "okrsky_zprac": 19,
+  "okrsky_zprac_proc": 100.0,
+  "zapsani_volici": 19705,
+  "vydane_obalky": 9479,
+  "ucast_proc": 48.1,
   "volicske_prukazy": 0,
-  "odevzdane_obalky": 8995,
-  "platne_listky": 8603,
-  "platne_hlasy": 219885
+  "odevzdane_obalky": 9435,
+  "platne_listky": 9042,
+  "platne_hlasy": 230380
  },
  "strany": [
   {
    "por": 1,
    "vstrana": 1710,
-   "hlasy": 14862,
-   "hlasy_proc": 6.76,
+   "hlasy": 16395,
+   "hlasy_proc": 7.12,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Za Lužánky"
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "Za Lužánky",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 714,
+     "hlasy_proc": 4.35,
+     "titul_pred": "Ing.",
+     "jmeno": "Pavel",
+     "prijmeni": "Knecht",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 732,
+     "hlasy_proc": 4.46,
+     "titul_pred": "Ing. arch.",
+     "jmeno": "Helena",
+     "prijmeni": "Vařejková",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 2,
    "vstrana": 1832,
-   "hlasy": 2613,
-   "hlasy_proc": 1.19,
+   "hlasy": 2702,
+   "hlasy_proc": 1.17,
    "kandidatu": 24,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -42,38 +62,179 @@
   {
    "por": 3,
    "vstrana": 1883,
-   "hlasy": 14687,
-   "hlasy_proc": 6.68,
+   "hlasy": 15479,
+   "hlasy_proc": 6.72,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Královopolští patrioti s Brnoklidem"
+   "zastupitele": 2,
+   "zastupitele_proc": 7.41,
+   "nazev": "Královopolští patrioti s Brnoklidem",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 775,
+     "hlasy_proc": 5.0,
+     "titul_pred": "Ing.",
+     "jmeno": "Karin",
+     "prijmeni": "Podivinská Karasová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 680,
+     "hlasy_proc": 4.39,
+     "titul_pred": "",
+     "jmeno": "René",
+     "prijmeni": "Pelán",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 4,
    "vstrana": 687,
-   "hlasy": 50492,
-   "hlasy_proc": 22.96,
+   "hlasy": 52261,
+   "hlasy_proc": 22.68,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ODS a TOP 09"
+   "zastupitele": 7,
+   "zastupitele_proc": 25.93,
+   "nazev": "ODS a TOP 09",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 2171,
+     "hlasy_proc": 4.15,
+     "titul_pred": "Ing.",
+     "jmeno": "Andrea",
+     "prijmeni": "Pazderová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2103,
+     "hlasy_proc": 4.02,
+     "titul_pred": "Mgr.",
+     "jmeno": "Matyáš",
+     "prijmeni": "Svoboda",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1986,
+     "hlasy_proc": 3.8,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zdeňka",
+     "prijmeni": "Dubová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 2001,
+     "hlasy_proc": 3.82,
+     "titul_pred": "Ing.",
+     "jmeno": "Jaroslav",
+     "prijmeni": "Folprecht",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1975,
+     "hlasy_proc": 3.77,
+     "titul_pred": "Ing.",
+     "jmeno": "Edita",
+     "prijmeni": "Smělíková",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1972,
+     "hlasy_proc": 3.77,
+     "titul_pred": "",
+     "jmeno": "Patrik",
+     "prijmeni": "Socha",
+     "titul_za": ""
+    },
+    {
+     "poradi": 7,
+     "hlasy": 2004,
+     "hlasy_proc": 3.83,
+     "titul_pred": "Mgr.",
+     "jmeno": "Zbyněk",
+     "prijmeni": "Šolc",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 5,
    "vstrana": 1845,
-   "hlasy": 44770,
-   "hlasy_proc": 20.36,
+   "hlasy": 47428,
+   "hlasy_proc": 20.59,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "Piráti a Zelení TU! pro Královo Pole"
+   "zastupitele": 6,
+   "zastupitele_proc": 22.22,
+   "nazev": "Piráti a Zelení TU! pro Královo Pole",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1975,
+     "hlasy_proc": 4.16,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Michal",
+     "prijmeni": "Škerle",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1924,
+     "hlasy_proc": 4.05,
+     "titul_pred": "Mgr.",
+     "jmeno": "Anna",
+     "prijmeni": "Hrubá",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1854,
+     "hlasy_proc": 3.9,
+     "titul_pred": "Bc.",
+     "jmeno": "Jitka",
+     "prijmeni": "Buksová Palátová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1891,
+     "hlasy_proc": 3.98,
+     "titul_pred": "Ing.",
+     "jmeno": "Petr",
+     "prijmeni": "Viewegh",
+     "titul_za": "Ph.D."
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1817,
+     "hlasy_proc": 3.83,
+     "titul_pred": "",
+     "jmeno": "Anna",
+     "prijmeni": "Jarošová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1831,
+     "hlasy_proc": 3.86,
+     "titul_pred": "Mgr.",
+     "jmeno": "Žaneta",
+     "prijmeni": "Rochová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 6,
    "vstrana": 1178,
-   "hlasy": 5476,
-   "hlasy_proc": 2.49,
+   "hlasy": 5625,
+   "hlasy_proc": 2.44,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
@@ -82,33 +243,127 @@
   {
    "por": 7,
    "vstrana": 768,
-   "hlasy": 29189,
-   "hlasy_proc": 13.27,
+   "hlasy": 30005,
+   "hlasy_proc": 13.02,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "ANO 2011"
+   "zastupitele": 4,
+   "zastupitele_proc": 14.81,
+   "nazev": "ANO 2011",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1190,
+     "hlasy_proc": 3.96,
+     "titul_pred": "Ing.",
+     "jmeno": "Aleš",
+     "prijmeni": "Kvíčala",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 1176,
+     "hlasy_proc": 3.91,
+     "titul_pred": "PaedDr. Ing.",
+     "jmeno": "Zuzana Olga",
+     "prijmeni": "Artimová",
+     "titul_za": "MBA, LL.M."
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1145,
+     "hlasy_proc": 3.81,
+     "titul_pred": "Mgr.",
+     "jmeno": "Radim",
+     "prijmeni": "Tomečka",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1138,
+     "hlasy_proc": 3.79,
+     "titul_pred": "Ing. et Ing.",
+     "jmeno": "Zdeněk",
+     "prijmeni": "Sklenář",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 8,
    "vstrana": 340,
-   "hlasy": 47599,
-   "hlasy_proc": 21.65,
+   "hlasy": 49853,
+   "hlasy_proc": 21.64,
    "kandidatu": 27,
-   "zastupitele": 0,
-   "zastupitele_proc": 0.0,
-   "nazev": "LIDOVCI A STAROSTOVÉ"
+   "zastupitele": 6,
+   "zastupitele_proc": 22.22,
+   "nazev": "LIDOVCI A STAROSTOVÉ",
+   "zvoleni": [
+    {
+     "poradi": 1,
+     "hlasy": 1982,
+     "hlasy_proc": 3.97,
+     "titul_pred": "Ing. Bc.",
+     "jmeno": "Marian",
+     "prijmeni": "Charvát",
+     "titul_za": ""
+    },
+    {
+     "poradi": 2,
+     "hlasy": 2056,
+     "hlasy_proc": 4.12,
+     "titul_pred": "Mgr. et Mgr.",
+     "jmeno": "Tereza",
+     "prijmeni": "Chladilová",
+     "titul_za": ""
+    },
+    {
+     "poradi": 3,
+     "hlasy": 1935,
+     "hlasy_proc": 3.88,
+     "titul_pred": "Mgr.",
+     "jmeno": "Samuel Iren",
+     "prijmeni": "Křen",
+     "titul_za": ""
+    },
+    {
+     "poradi": 4,
+     "hlasy": 1941,
+     "hlasy_proc": 3.89,
+     "titul_pred": "",
+     "jmeno": "Jan",
+     "prijmeni": "Tříska",
+     "titul_za": ""
+    },
+    {
+     "poradi": 5,
+     "hlasy": 1930,
+     "hlasy_proc": 3.87,
+     "titul_pred": "Mgr.",
+     "jmeno": "Karel",
+     "prijmeni": "Kosina",
+     "titul_za": ""
+    },
+    {
+     "poradi": 6,
+     "hlasy": 1945,
+     "hlasy_proc": 3.9,
+     "titul_pred": "Mgr.",
+     "jmeno": "Markéta",
+     "prijmeni": "Uhlířová",
+     "titul_za": ""
+    }
+   ]
   },
   {
    "por": 9,
    "vstrana": 1305,
-   "hlasy": 10197,
-   "hlasy_proc": 4.64,
+   "hlasy": 10632,
+   "hlasy_proc": 4.61,
    "kandidatu": 27,
    "zastupitele": 0,
    "zastupitele_proc": 0.0,
    "nazev": "SPD a nezávislí"
   }
  ],
- "stazeno": "2026-10-11T01:29:16+02:00"
+ "stazeno": "2026-10-11T02:06:21+02:00"
 }
