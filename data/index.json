@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-11T05:49:15+02:00",
+ "aktualizovano": "2026-10-11T06:38:20+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -376,10 +376,10 @@
    "kod": "547361",
    "nazev": "Praha 14",
    "voleno": 31,
-   "je_spocteno": false,
-   "okrsky_zprac": 31,
+   "je_spocteno": true,
+   "okrsky_zprac": 32,
    "okrsky_celkem": 32,
-   "generovano": "2026-10-11T02:17:00"
+   "generovano": "2026-10-11T06:38:00"
   },
   {
    "kod": "547387",
