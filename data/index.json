@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-11T02:59:18+02:00",
+ "aktualizovano": "2026-10-11T03:01:08+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -52,10 +52,10 @@
    "kod": "551287",
    "nazev": "Brno-Líšeň",
    "voleno": 29,
-   "je_spocteno": false,
-   "okrsky_zprac": 18,
+   "je_spocteno": true,
+   "okrsky_zprac": 19,
    "okrsky_celkem": 19,
-   "generovano": "2026-10-10T23:14:01"
+   "generovano": "2026-10-11T03:00:00"
   },
   {
    "kod": "551252",
