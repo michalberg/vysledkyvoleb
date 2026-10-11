@@ -1,7 +1,7 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-11T02:37:17+02:00",
+ "aktualizovano": "2026-10-11T02:45:35+02:00",
  "obce": [
   {
    "kod": "582786",
@@ -206,9 +206,9 @@
    "nazev": "Praha",
    "voleno": 65,
    "je_spocteno": false,
-   "okrsky_zprac": 1099,
+   "okrsky_zprac": 1100,
    "okrsky_celkem": 1120,
-   "generovano": "2026-10-11T02:37:00"
+   "generovano": "2026-10-11T02:45:00"
   },
   {
    "kod": "500054",
