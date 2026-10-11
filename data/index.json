@@ -1,16 +1,16 @@
 {
  "volby": "kv2026",
  "datum": "20261009",
- "aktualizovano": "2026-10-11T04:35:26+02:00",
+ "aktualizovano": "2026-10-11T04:47:16+02:00",
  "obce": [
   {
    "kod": "582786",
    "nazev": "Brno",
    "voleno": 55,
-   "je_spocteno": false,
+   "je_spocteno": true,
    "okrsky_zprac": 353,
    "okrsky_celkem": 353,
-   "generovano": "2026-10-11T04:35:01"
+   "generovano": "2026-10-11T04:47:00"
   },
   {
    "kod": "551198",
